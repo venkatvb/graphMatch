@@ -1,0 +1,15 @@
+package parser;
+
+public class GxlToGiraphParser {
+	
+	public String pathToGxlFile = "";
+	void setPathToGxl(String path) {
+		pathToGxlFile = path;
+	}
+	
+	void setPathToGiraph(String path) {
+		pathToGiraph = path;
+	}
+	
+	
+}

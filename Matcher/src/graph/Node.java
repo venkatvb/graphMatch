@@ -15,6 +15,10 @@ public class Node {
 		this.nodeId = id;
 	}
 	
+	public Integer getNodeId() {
+		return this.nodeId;
+	}
+	
 	boolean addEdge(Integer destinationId, Double distance) {
 		// returns false if the added edge is a duplicate else returns true
 		// TODO adding each edge costs linear. Optimize it.

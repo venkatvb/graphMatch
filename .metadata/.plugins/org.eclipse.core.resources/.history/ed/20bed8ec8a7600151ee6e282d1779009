@@ -1,0 +1,12 @@
+package logger;
+
+public class Log {
+	public static final String PATH_TO_LOG_FILE = "F:\\Graph Databases\\log";
+	public static boolean isConnected = false;
+	
+	public static void debug(String message) {
+		if(isConnected == false) {
+			connectToLogFile();
+		}
+	}
+}

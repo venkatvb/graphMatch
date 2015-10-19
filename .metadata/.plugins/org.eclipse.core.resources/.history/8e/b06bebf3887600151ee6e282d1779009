@@ -1,0 +1,36 @@
+package graph;
+
+import java.util.ArrayList;
+
+public class Graph {
+	
+	ArrayList<Node> graph = new ArrayList<Node>();
+	
+	boolean isNodePresent (int nodeId) {
+		// Returns true if the node with the given id is present in the graph
+		// else return false.
+		for ( Node node : graph ) {
+			if ( node.getNodeId() == nodeId ) {
+				return true;
+			}
+		}
+		return false;
+	}
+	
+	public boolean addNode(int nodeId) {
+		// Returns false if the node with the given nodeId is already present.
+		// else adds the node to the given graph then creates.
+		for ( Node node : graph ) {
+			if(node.getNodeId() == nodeId) {
+				// the node is already present in the graph.
+				return false;
+			}
+		}
+		graph.add(new Node(nodeId));
+		return true;
+	}
+	
+	public boolean addEdge(int nodeIdA, int nodeIdB, double distance) {
+		return true;
+	}
+}

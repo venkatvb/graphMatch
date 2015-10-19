@@ -1,0 +1,10 @@
+package graph;
+
+import logger.Log;
+
+@SuppressWarnings("serial")
+public class NodeNotFoundException extends Exception {
+	public NodeNotFoundException(String message) {
+		Log.error(message);
+	}
+}

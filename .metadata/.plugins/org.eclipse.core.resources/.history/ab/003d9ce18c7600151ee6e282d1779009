@@ -1,0 +1,8 @@
+package graph;
+
+@SuppressWarnings("serial")
+public class NodeNotFoundException extends Exception {
+	public NodeNotFoundException() {
+		
+	}
+}
