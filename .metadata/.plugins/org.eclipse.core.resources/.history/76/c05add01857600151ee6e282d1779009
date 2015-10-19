@@ -1,0 +1,17 @@
+package graph;
+
+import java.util.ArrayList;
+
+public class Node {
+	int nodeId;
+	ArrayList<Integer> edges = new ArrayList<Integer>();
+	
+	public Node(int id) {
+		this.nodeId = id;
+	}
+	
+	void setNodeId(int id) {
+		this.nodeId = id;
+	}
+	
+}	

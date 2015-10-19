@@ -1,0 +1,8 @@
+package graph;
+
+import java.util.ArrayList;
+
+public class Node {
+	int nodeId;
+	ArrayList<Integer> edges = new ArrayList<Integer>();
+}	
