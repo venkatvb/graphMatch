@@ -1,0 +1,36 @@
+package parser;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+
+import javax.swing.text.Utilities;
+
+import graph.Graph;
+
+public class GxlToGiraphParser {
+	
+	public String pathToGxlFile = "";
+	Graph graph;
+	
+	public GxlToGiraphParser(String path) {
+		this.pathToGxlFile = path;
+	}
+	
+	public void setPathToGxl(String path) {
+		this.pathToGxlFile = path;
+	}
+	
+	public boolean parse() throws IOException {
+		if(pathToGxlFile.equals("")) {
+			throw new FileNotFoundException();
+		}
+		FileReader file = new FileReader(pathToGxlFile);
+		String result = new String(Files.readAllBytes(Paths.get(pathToGxlFile)));
+		System.out.println(result);
+		graph = new Graph();
+		return true;
+	}
+}

@@ -1,0 +1,18 @@
+package parser;
+
+import graph.Graph;
+
+public class GxlToGiraphParser {
+	
+	public String pathToGxlFile = "";
+	Graph graph;
+	
+	void setPathToGxl(String path) {
+		pathToGxlFile = path;
+	}
+	
+	boolean parse() {
+		graph = new Graph();
+		return true;
+	}
+}

@@ -1,0 +1,12 @@
+package runner;
+
+import java.io.IOException;
+
+import parser.GxlToGiraphParser;
+
+public class Runner {
+	public static void main(String args[]) throws IOException {
+		GxlToGiraphParser parser = new GxlToGiraphParser("F:\\Graph Databases\\gxl\\enzyme_1.gxl");
+		parser.parse();
+	}
+}

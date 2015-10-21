@@ -1,0 +1,31 @@
+package logger;
+
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class Log {
+	public static final String PATH_TO_LOG_FILE = "F:\\Graph Databases\\log\\log.txt";
+	public static boolean isConnected = false;
+	static FileWriter file;
+	
+	public static void debug(String message) throws IOException {
+		if(isConnected == false) {
+			connectToLogFile();
+		}
+		file.append("DEBUG : " + message);
+	}
+	
+	public static void error(String message) throws IOException {
+		if(isConnected == false) {
+			connectToLogFile();
+		}
+		file.append(message);
+	}
+	
+	public static boolean connectToLogFile() throws IOException {
+		// returns true if the connection establishment is successful.
+		file = new FileWriter(PATH_TO_LOG_FILE);
+		isConnected = true;
+		return true;
+	}
+}

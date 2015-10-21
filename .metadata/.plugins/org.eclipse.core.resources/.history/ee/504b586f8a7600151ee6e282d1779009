@@ -1,0 +1,5 @@
+package logger;
+
+public class Log {
+	public static final String PATH_TO_LOG_FILE = ""
+}

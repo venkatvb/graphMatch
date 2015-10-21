@@ -1,0 +1,25 @@
+package graph;
+
+public class Edge {
+	public Integer sourceNodeId;
+	public Integer destinationNodeId;
+	public Double distance;
+	
+	public Edge(int source, int destination, double distance) {
+		this.sourceNodeId = source;
+		this.destinationNodeId = destination;
+		this.distance = distance;
+	}
+	
+	public void setSourceNodeId(Integer source) {
+		this.sourceNodeId = source;
+	}
+	
+	public void setDestinationNodeId (Integer destination ) {
+		this.destinationNodeId = destination;
+	}
+	
+	public void setDistance (Double distance) {
+		this.distance = distance;
+	}
+}
