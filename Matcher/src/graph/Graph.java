@@ -54,4 +54,17 @@ public class Graph {
 		destination.addEdge(nodeIdA, distance);
 		return true;
 	}
+	
+	public String toString() {
+		String result = "";
+		for( Node node : graph ) { 
+			result += node.getNodeId().toString() 
+					+ "\n";
+			for( Edge edge : node.edges ) {
+				result += edge.getDestinationNodeId().toString() + ", ";
+			}
+			result += "\n";
+		}
+		return result;
+	}
 }

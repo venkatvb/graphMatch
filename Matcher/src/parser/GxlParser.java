@@ -36,7 +36,7 @@ public class GxlParser {
 		this.pathToGxlFile = path;
 	}
 	
-	public boolean parse() throws Exception {
+	public Graph parse() throws Exception {
 		// Returns a graph object after parsing the gxl file.
 		if(pathToGxlFile.equals("")) {
 			throw new FileNotFoundException();
@@ -91,6 +91,6 @@ public class GxlParser {
 				graph.addEdge(fromNodeId, toNodeId, distance);
 			}
 		}
-		return true;
+		return graph;
 	}
 }
