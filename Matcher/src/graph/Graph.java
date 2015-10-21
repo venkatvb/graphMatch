@@ -19,18 +19,23 @@ public class Graph {
 	}
 	
 	public boolean addNode(int nodeId) {
+		// Adding the node value as empty string.
+		return addNode(nodeId, "");
+	}
+	
+	public boolean addNode(int nodeId, String nodeValue) { 
 		// Returns false if the node with the given nodeId is already present.
 		// else adds the node to the given graph then creates.
-		if ( isNodePresent(nodeId) ) {
+		if( isNodePresent(nodeId) ) {
 			// the node to be added is already present.
 			return false;
 		}
-		graph.add(new Node(nodeId));
+		graph.add(new Node(nodeId, nodeValue));
 		return true;
 	}
 	
 	Node getNode(Integer nodeId) throws NodeNotFoundException, IOException {
-		// throws nodeNotFound expception if the node with the given nodeId is not present
+		// throws nodeNotFound exception if the node with the given nodeId is not present
 		for(Node node : graph ) {
 			if(node.getNodeId() == nodeId) {
 				return node;
@@ -59,6 +64,8 @@ public class Graph {
 		String result = "";
 		for( Node node : graph ) { 
 			result += node.getNodeId().toString() 
+					+ " -> "
+					+ node.getNodeValue().toString()
 					+ "\n";
 			for(int i=0; i<node.edges.size(); i++ ) {
 				result += node.edges.get(i).getDestinationNodeId().toString() + ", ";

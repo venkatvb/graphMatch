@@ -24,6 +24,7 @@ public class GxlParser {
 	public static final String ID_ATTRIBUTE_NAME = "id";
 	public static final String DISTANCE_ATTRIBUTE_VALUE = "distance0";
 	public static final String NAME_ATTRIBUTE_NAME = "name";
+	public static final String SEQUENCE_ATTRIBUTE_VALUE = "sequence";
 	
 	public String pathToGxlFile = "";
 	Graph graph;
@@ -53,7 +54,26 @@ public class GxlParser {
 				Element element = (Element) node;
 				Integer currentNodeId = Integer.parseInt(element.getAttribute(ID_ATTRIBUTE_NAME));
 				Log.info("Adding the edge " + currentNodeId.toString());
-				graph.addNode(currentNodeId);
+				NodeList childNodes = element.getChildNodes();
+				String sequence = "";
+				for(int j=0; j<childNodes.getLength(); j++ ) {
+					Node child = childNodes.item(j);
+					if(child.getNodeType() == Node.ELEMENT_NODE) {
+						Element childElement = (Element) child;
+						String name = childElement.getAttribute(NAME_ATTRIBUTE_NAME);
+						if(name.equals(SEQUENCE_ATTRIBUTE_VALUE)) {
+							NodeList sequenceNodes = childElement.getChildNodes();
+							for(int k=0; k<sequenceNodes.getLength(); k++ ) {
+								Node sequenceNode = sequenceNodes.item(k);
+								if(sequenceNode.getNodeType() == Node.ELEMENT_NODE) {
+									Element sequenceElement = (Element) sequenceNode;
+									sequence = sequenceElement.getTextContent();
+								}
+							}
+						}
+					}
+				}
+				graph.addNode(currentNodeId, sequence);
 			}
 		}
 		nodes = doc.getElementsByTagName(EDGE_TAG_NAME);

@@ -5,14 +5,29 @@ import java.util.ArrayList;
 public class Node {
 	public static final Double DEFAULT_DISTANCE = 0.0;
 	public int nodeId;
+	public String nodeValue;
 	ArrayList<Edge> edges = new ArrayList<Edge>();
 	
 	public Node(int id) {
 		this.nodeId = id;
+		this.nodeValue = "";
+	}
+	
+	public Node(Integer nodeId, String nodeValue) {
+		this.nodeId = nodeId;
+		this.nodeValue = nodeValue;
 	}
 	
 	void setNodeId(int id) {
 		this.nodeId = id;
+	}
+	
+	void setNodeValue(String value) {
+		this.nodeValue = value;
+	}
+	
+	public String getNodeValue() {
+		return this.nodeValue;
 	}
 	
 	public Integer getNodeId() {
