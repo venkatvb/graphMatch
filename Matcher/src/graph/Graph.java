@@ -60,9 +60,10 @@ public class Graph {
 		for( Node node : graph ) { 
 			result += node.getNodeId().toString() 
 					+ "\n";
-			for( Edge edge : node.edges ) {
-				result += edge.getDestinationNodeId().toString() + ", ";
+			for(int i=0; i<node.edges.size(); i++ ) {
+				result += node.edges.get(i).getDestinationNodeId().toString() + ", ";
 			}
+			result += node.edges.get(node.edges.size()-1).getDestinationNodeId().toString();
 			result += "\n";
 		}
 		return result;
