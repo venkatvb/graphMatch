@@ -18,6 +18,10 @@ public class Graph {
 		return false;
 	}
 	
+	public ArrayList<Node> getNodeList() {
+		return this.graph;
+	}
+	
 	public boolean addNode(int nodeId) {
 		// Adding the node value as empty string.
 		return addNode(nodeId, "");
