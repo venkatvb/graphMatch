@@ -15,7 +15,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-public class GxlToGiraphParser {
+public class GxlParser {
 	
 	public static final String NODE_TAG_NAME = "node";
 	public static final String EDGE_TAG_NAME = "edge";
@@ -28,7 +28,7 @@ public class GxlToGiraphParser {
 	public String pathToGxlFile = "";
 	Graph graph;
 	
-	public GxlToGiraphParser(String path) {
+	public GxlParser(String path) {
 		this.pathToGxlFile = path;
 	}
 	
@@ -37,6 +37,7 @@ public class GxlToGiraphParser {
 	}
 	
 	public boolean parse() throws Exception {
+		// Returns a graph object after parsing the gxl file.
 		if(pathToGxlFile.equals("")) {
 			throw new FileNotFoundException();
 		}
