@@ -1,11 +1,15 @@
 package graph;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
-public class Node {
+import core.Hasher;
+
+public class Node implements Hashable {
 	public static final Double DEFAULT_DISTANCE = 0.0;
 	public int nodeId;
 	public String nodeValue;
+	
 	ArrayList<Edge> edges = new ArrayList<Edge>();
 	
 	public Node(int id) {
@@ -54,5 +58,20 @@ public class Node {
 	boolean addEdge (Integer destinationId) {
 		// Adding the edge with the default distance.
 		return addEdge (destinationId, DEFAULT_DISTANCE);
+	}
+	
+	public String getHash() {
+		return Hasher.rollingHash(nodeValue).toString();
+	}
+	
+	public String getEdgeHash() {
+		String input = "";
+		Collections.sort(edges);
+		for(Edge edge : edges) {
+			input += edge.getDistance().toString();
+		}
+		Integer length = new Integer(edges.size());
+		input += length.toString();
+		return Hasher.rollingHash(input).toString();
 	}
 }	

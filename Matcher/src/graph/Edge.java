@@ -1,6 +1,6 @@
 package graph;
 
-public class Edge {
+public class Edge implements Comparable<Edge>{
 	public Integer sourceNodeId;
 	public Integer destinationNodeId;
 	public Double distance;
@@ -33,5 +33,16 @@ public class Edge {
 	
 	public Double getDistance() {
 		return this.distance;
+	}
+
+	@Override
+	public int compareTo(Edge edge) {
+		if(this.getDistance() < edge.getDistance()) {
+			return -1;
+		}
+		if(this.getDistance() == edge.getDistance()) {
+			return 0;
+		}
+		return 1;
 	}
 }
