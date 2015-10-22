@@ -6,8 +6,11 @@ import graph.Node;
 import java.util.ArrayList;
 import java.util.Collections;
 
+import logger.LogHelper;
+
 public class Comparator {
-	public boolean compareGraphs(Graph graph1, Graph graph2) {
+	
+	public boolean compareGraphs(Graph graph1, Graph graph2) throws Exception {
 		ArrayList<NodeHash> nodeHashes1 = new ArrayList<NodeHash>();
 		ArrayList<NodeHash> nodeHashes2 = new ArrayList<NodeHash>();
 		ArrayList<Node> nodes1 = graph1.getNodeList();
@@ -38,6 +41,8 @@ public class Comparator {
 			System.out.println("Mismatched at " + i );
 			matches = false;
 		}
+		LogHelper.logNodeHashArray(nodeHashes1);
+		LogHelper.logNodeHashArray(nodeHashes2);
 		return matches;
 	}
 }

@@ -1,6 +1,8 @@
 package core;
 
-public class NodeHash implements Comparable<NodeHash> {
+import logger.Loggable;
+
+public class NodeHash implements Comparable<NodeHash>, Loggable {
 	private String nodeHash;
 	private String edgeHash;
 	
@@ -38,5 +40,10 @@ public class NodeHash implements Comparable<NodeHash> {
 	
 	public boolean equals(NodeHash obj) {
 		return (this.getNodeHash().equals(obj.getNodeHash()) && this.getEdgeHash().equals(obj.getEdgeHash()));
+	}
+	
+	@Override
+	public String getLogContent() {
+		return this.getNodeHash().toString() + " " + this.getEdgeHash().toString();
 	}
 }
