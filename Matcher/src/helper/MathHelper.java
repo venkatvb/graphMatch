@@ -10,6 +10,11 @@ public class MathHelper {
 	static int[] primes = new int[MAXS];
 	public static boolean primeSieved = false;
 	
+	public static int getHypoteneousDistance(int adjacent, int opposite) {
+		int hypoteneous = ( adjacent * adjacent ) + ( opposite * opposite );
+		return (int) Math.sqrt(hypoteneous);
+	}
+	
 	public static Long modularExponentiation(Long power) {
 		if(power == 0) {
 			return (long) 1;
@@ -49,7 +54,7 @@ public class MathHelper {
 		primeSieved = true;
 	}
 	
-	public Integer getLargePrime() throws Exception {
+	public static Integer getLargePrime() throws Exception {
 		if(primeSieved == false) {
 			sieve();
 		}

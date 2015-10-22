@@ -1,6 +1,7 @@
 package runner;
 
 import graph.Graph;
+import image.DrawGraph;
 import logger.Log;
 import parser.GxlParser;
 import serialize.ToGiraph;
@@ -11,7 +12,9 @@ public class Runner {
 		GxlParser parser = new GxlParser("F:\\Graph Databases\\gxl\\enzyme_1.gxl");
 		Graph graph = parser.parse();
 		Comparator compare = new Comparator();
-//		new DrawGraph().draw(graph);
+		DrawGraph drawer = new DrawGraph();
+		drawer.serializeImage(drawer.draw(graph), "F:\\Graph Databases\\Images\\graphimage.png");
+		// System.out.println(MathHelper.getLargePrime());
 		boolean result = compare.compareGraphs(graph, graph);
 		System.out.println("Comparision result : " + result);
 		new ToGiraph().serializeGraphToGiraphFormat(graph);

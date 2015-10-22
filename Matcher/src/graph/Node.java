@@ -61,7 +61,16 @@ public class Node implements Hashable {
 	}
 	
 	public String getHash() {
-		return Hasher.rollingHash(nodeValue).toString();
+		return getHashX() + getHashY();
+	}
+	
+	public String getHashX() {
+		return Hasher.rollingHash(this.getNodeValue()).toString();
+	}
+	
+	public String getHashY() {
+		String reversedNodeValue = new StringBuilder(this.getNodeValue()).reverse().toString();
+		return Hasher.rollingHash(reversedNodeValue).toString();
 	}
 	
 	public String getEdgeHash() {
