@@ -12,4 +12,8 @@ public class FileHelper {
 		}
 		return false;
 	}
+	public static File createFile(String address) {
+		File file = new File(address);
+		return file;
+	}
 }
