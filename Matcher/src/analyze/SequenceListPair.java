@@ -1,21 +1,23 @@
 package analyze;
 
-public class SequenceCountPair implements Comparable<SequenceCountPair>{
+import java.util.ArrayList;
+
+public class SequenceListPair implements Comparable<SequenceListPair>{
 	
 	private String sequence;
-	private int count;
+	private ArrayList<Integer> list;
 	
-	public SequenceCountPair(String sequence, int count) {
+	public SequenceListPair(String sequence, ArrayList<Integer> list) {
 		this.sequence = sequence;
-		this.count = count;
+		this.list = list;
 	}
 	
 	public void setSequence(String sequence) {
 		this.sequence = sequence;
 	}
 	
-	public void setCount(int count) {
-		this.count = count;
+	public void setCount(ArrayList<Integer> list) {
+		this.list = list;
 	}
 	
 	public String getSequence() {
@@ -23,11 +25,15 @@ public class SequenceCountPair implements Comparable<SequenceCountPair>{
 	}
 	
 	public int getCount() {
-		return count;
+		return this.list.size();
+	}
+	
+	public ArrayList<Integer> getList() {
+		return list;
 	}
 
 	@Override
-	public int compareTo(SequenceCountPair o) {
+	public int compareTo(SequenceListPair o) {
 		if(this.getCount() == o.getCount()) {
 			if ( this.getSequence().compareTo(o.getSequence()) > 0 ) {
 				return 1;
@@ -40,4 +46,5 @@ public class SequenceCountPair implements Comparable<SequenceCountPair>{
 		}
 		return -1;
 	}
+
 }

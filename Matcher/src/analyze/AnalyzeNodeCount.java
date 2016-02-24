@@ -18,10 +18,11 @@ public class AnalyzeNodeCount implements Serializable{
 	
 	public static final String nodeValuesFileBaseAddress = "F:\\Graph Databases\\nodevalues";
 	AnalyzeNodePoints analyzeNodePoints;
-	Map<String, Integer> mp;
+	ArrayList<Integer> ar;
+	Map<String, ArrayList<Integer>> mp;
 	
 	public AnalyzeNodeCount(boolean store) throws Exception{
-		mp = new HashMap<String, Integer>();
+		mp = new HashMap<String, ArrayList<Integer>>();
 		for(Integer i = 1; i <= 600; i++ ) {
 			System.out.println("Processing " + i.toString() + "th file");
 			GxlParser parser = new GxlParser("F:\\Graph Databases\\gxl\\enzyme_" + i.toString() + ".gxl");
@@ -32,7 +33,12 @@ public class AnalyzeNodeCount implements Serializable{
 			}
 			ArrayList<String> nodes = analyzeNodePoints.getNodeValues();
 			for(String nodeName : nodes) {
-				mp.put(nodeName, i);
+				ArrayList<Integer> ar = mp.get(nodeName);
+				if(ar == null) {
+					ar = new ArrayList<Integer>();
+				}
+				ar.add(i);
+				mp.put(nodeName, ar);
 			}
 		}
 	}
@@ -49,28 +55,44 @@ public class AnalyzeNodeCount implements Serializable{
 	}
 	
 	public void printMappedContents() {
-		for(Map.Entry<String, Integer> entry : mp.entrySet()) {
-			System.out.println("Sequence : " + entry.getKey() + ", Times : " + entry.getValue());
+		for(Map.Entry<String, ArrayList<Integer>> entry : mp.entrySet()) {
+			String sequence = entry.getKey();
+			ArrayList<Integer> fileIds = entry.getValue();
+			System.out.println(sequence);
+			System.out.print("[");
+			for(int i=0; i<fileIds.size(); i++ ) {
+				System.out.print(fileIds.get(i));
+				if(i < fileIds.size()-1 ) {
+					System.out.print(",");
+				}
+			}
+			System.out.print("]");
 		}
 	}
 
 	@Override
 	public boolean serailizeContent(File file) {
 		PrintWriter pw;
-		List<SequenceCountPair> items = new ArrayList<SequenceCountPair>();
-		Integer size = 0; 
-		for(Map.Entry<String, Integer> entry : mp.entrySet()) {
-			SequenceCountPair tempPair = new SequenceCountPair(entry.getKey(), entry.getValue());
+		List<SequenceListPair> items = new ArrayList<SequenceListPair>();
+		for(Map.Entry<String, ArrayList<Integer>> entry : mp.entrySet()) {
+			SequenceListPair tempPair = new SequenceListPair(entry.getKey(), entry.getValue());
 			items.add(tempPair);
 		}
 		Collections.sort(items);
 		try {
 			pw = new PrintWriter(file);
-			pw.write(size.toString());
-			pw.write("\n");
-			for(SequenceCountPair item : items ) {
+			for(SequenceListPair item : items ) {
 				pw.write(item.getSequence() + " " + item.getCount());
 				pw.write("\n");
+				ArrayList<Integer> fileIds = item.getList();
+				pw.write("[");
+				for(int i=0; i<fileIds.size(); i++ ) {
+					pw.write(fileIds.get(i).toString());
+					if(i < fileIds.size()-1) {
+						pw.write(",");
+					}
+				}
+				pw.write("]\n");
 			}
 			pw.close();
 		} catch(Exception e) {

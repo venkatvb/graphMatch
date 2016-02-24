@@ -3,48 +3,21 @@ package quadtree;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Datastructure: A point Quad Tree for representing 2D data. Each
- * region has the same ratio as the bounds for the tree.
- * <p/>
- * The implementation currently requires pre-determined bounds for data as it
- * can not rebalance itself to that degree.
- */
 public class QuadTree {
 
 
     private Node root_;
     private int count_ = 0;
 
-    /**
-     * Constructs a new quad tree.
-     *
-     * @param {double} minX Minimum x-value that can be held in tree.
-     * @param {double} minY Minimum y-value that can be held in tree.
-     * @param {double} maxX Maximum x-value that can be held in tree.
-     * @param {double} maxY Maximum y-value that can be held in tree.
-     */
     public QuadTree(double minX, double minY, double maxX, double maxY) {
         this.root_ = new Node(minX, minY, maxX - minX, maxY - minY, null);
     }
 
-    /**
-     * Returns a reference to the tree's root node.  Callers shouldn't modify nodes,
-     * directly.  This is a convenience for visualization and debugging purposes.
-     *
-     * @return {Node} The root node.
-     */
+    
     public Node getRootNode() {
         return this.root_;
     }
 
-    /**
-     * Sets the value of an (x, y) point within the quad-tree.
-     *
-     * @param {double} x The x-coordinate.
-     * @param {double} y The y-coordinate.
-     * @param {Object} value The value associated with the point.
-     */
     public void set(double x, double y, Object value) {
 
         Node root = this.root_;
@@ -56,30 +29,11 @@ public class QuadTree {
         }
     }
 
-    /**
-     * Gets the value of the point at (x, y) or null if the point is empty.
-     *
-     * @param {double} x The x-coordinate.
-     * @param {double} y The y-coordinate.
-     * @param {Object} opt_default The default value to return if the node doesn't
-     *                 exist.
-     * @return {*} The value of the node, the default value if the node
-     *         doesn't exist, or undefined if the node doesn't exist and no default
-     *         has been provided.
-     */
     public Object get(double x, double y, Object opt_default) {
         Node node = this.find(this.root_, x, y);
         return node != null ? node.getPoint().getValue() : opt_default;
     }
 
-    /**
-     * Removes a point from (x, y) if it exists.
-     *
-     * @param {double} x The x-coordinate.
-     * @param {double} y The y-coordinate.
-     * @return {Object} The value of the node that was removed, or null if the
-     *         node doesn't exist.
-     */
     public Object remove(double x, double y) {
         Node node = this.find(this.root_, x, y);
         if (node != null) {
@@ -94,34 +48,18 @@ public class QuadTree {
         }
     }
 
-    /**
-     * Returns true if the point at (x, y) exists in the tree.
-     *
-     * @param {double} x The x-coordinate.
-     * @param {double} y The y-coordinate.
-     * @return {boolean} Whether the tree contains a point at (x, y).
-     */
     public boolean contains(double x, double y) {
         return this.get(x, y, null) != null;
     }
 
-    /**
-     * @return {boolean} Whether the tree is empty.
-     */
     public boolean isEmpty() {
         return this.root_.getNodeType() == NodeType.EMPTY;
     }
 
-    /**
-     * @return {number} The number of items in the tree.
-     */
     public int getCount() {
         return this.count_;
     }
 
-    /**
-     * Removes all items from the tree.
-     */
     public void clear() {
         this.root_.setNw(null);
         this.root_.setNe(null);
@@ -132,10 +70,6 @@ public class QuadTree {
         this.count_ = 0;
     }
 
-    /**
-     * Returns an array containing the coordinates of each point stored in the tree.
-     * @return {Array.<Point>} Array of coordinates.
-     */
     public Point[] getKeys() {
         final List<Point> arr = new ArrayList<Point>();
         this.traverse(this.root_, new Func() {
@@ -147,10 +81,6 @@ public class QuadTree {
         return arr.toArray(new Point[arr.size()]);
     }
 
-    /**
-     * Returns an array containing all values stored within the tree.
-     * @return {Array.<Object>} The values stored within the tree.
-     */
     public Object[] getValues() {
         final List<Object> arr = new ArrayList<Object>();
         this.traverse(this.root_, new Func() {
@@ -159,7 +89,6 @@ public class QuadTree {
                 arr.add(node.getPoint().getValue());
             }
         });
-
         return arr.toArray(new Object[arr.size()]);
     }
 
@@ -220,19 +149,13 @@ public class QuadTree {
                 node.getY() > bottom ||
                 (node.getY() + node.getH()) < top);
     }
-    /**
-     * Clones the quad-tree and returns the new instance.
-     * @return {QuadTree} A clone of the tree.
-     */
+    
     public QuadTree clone() {
         double x1 = this.root_.getX();
         double y1 = this.root_.getY();
         double x2 = x1 + this.root_.getW();
         double y2 = y1 + this.root_.getH();
         final QuadTree clone = new QuadTree(x1, y1, x2, y2);
-        // This is inefficient as the clone needs to recalculate the structure of the
-        // tree, even though we know it already.  But this is easier and can be
-        // optimized when/if needed.
         this.traverse(this.root_, new Func() {
             @Override
             public void call(QuadTree quadTree, Node node) {
@@ -244,16 +167,6 @@ public class QuadTree {
         return clone;
     }
 
-    /**
-     * Traverses the tree depth-first, with quadrants being traversed in clockwise
-     * order (NE, SE, SW, NW).  The provided function will be called for each
-     * leaf node that is encountered.
-     * @param {QuadTree.Node} node The current node.
-     * @param {function(QuadTree.Node)} fn The function to call
-     *     for each leaf node. This function takes the node as an argument, and its
-     *     return value is irrelevant.
-     * @private
-     */
     @SuppressWarnings("incomplete-switch")
 	public void traverse(Node node, Func func) {
         switch (node.getNodeType()) {
@@ -270,16 +183,6 @@ public class QuadTree {
         }
     }
 
-    /**
-     * Finds a leaf node with the same (x, y) coordinates as the target point, or
-     * null if no point exists.
-     * @param {QuadTree.Node} node The node to search in.
-     * @param {number} x The x-coordinate of the point to search for.
-     * @param {number} y The y-coordinate of the point to search for.
-     * @return {QuadTree.Node} The leaf node that matches the target,
-     *     or null if it doesn't exist.
-     * @private
-     */
     public Node find(Node node, double x, double y) {
         Node resposne = null;
         switch (node.getNodeType()) {
@@ -300,16 +203,6 @@ public class QuadTree {
         return resposne;
     }
 
-    /**
-     * Inserts a point into the tree, updating the tree's structure if necessary.
-     * @param {.QuadTree.Node} parent The parent to insert the point
-     *     into.
-     * @param {QuadTree.Point} point The point to insert.
-     * @return {boolean} True if a new node was added to the tree; False if a node
-     *     already existed with the correpsonding coordinates and had its value
-     *     reset.
-     * @private
-     */
     private boolean insert(Node parent, Point point) {
         Boolean result = false;
         switch (parent.getNodeType()) {
@@ -337,12 +230,6 @@ public class QuadTree {
         return result;
     }
 
-    /**
-     * Converts a leaf node to a pointer node and reinserts the node's point into
-     * the correct child.
-     * @param {QuadTree.Node} node The node to split.
-     * @private
-     */
     private void split(Node node) {
         Point oldPoint = node.getPoint();
         node.setPoint(null);
@@ -362,12 +249,6 @@ public class QuadTree {
         this.insert(node, oldPoint);
     }
 
-    /**
-     * Attempts to balance a node. A node will need balancing if all its children
-     * are empty or it contains just one leaf.
-     * @param {QuadTree.Node} node The node to balance.
-     * @private
-     */
     private void balance(Node node) {
         switch (node.getNodeType()) {
             case EMPTY:
@@ -384,8 +265,6 @@ public class QuadTree {
                 Node se = node.getSe();
                 Node firstLeaf = null;
 
-                // Look for the first non-empty child, if there is more than one then we
-                // break as this node can't be balanced.
                 if (nw.getNodeType() != NodeType.EMPTY) {
                     firstLeaf = nw;
                 }
@@ -439,16 +318,6 @@ public class QuadTree {
         }
     }
 
-    /**
-     * Returns the child quadrant within a node that contains the given (x, y)
-     * coordinate.
-     * @param {QuadTree.Node} parent The node.
-     * @param {number} x The x-coordinate to look for.
-     * @param {number} y The y-coordinate to look for.
-     * @return {QuadTree.Node} The child quadrant that contains the
-     *     point.
-     * @private
-     */
     private Node getQuadrantForPoint(Node parent, double x, double y) {
         double mx = parent.getX() + parent.getW() / 2;
         double my = parent.getY() + parent.getH() / 2;
@@ -459,12 +328,6 @@ public class QuadTree {
         }
     }
 
-    /**
-     * Sets the point for a node, as long as the node is a leaf or empty.
-     * @param {QuadTree.Node} node The node to set the point for.
-     * @param {QuadTree.Point} point The point to set.
-     * @private
-     */
     private void setPointForNode(Node node, Point point) {
         if (node.getNodeType() == NodeType.POINTER) {
             throw new QuadTreeException("Can not set point for node of type POINTER");

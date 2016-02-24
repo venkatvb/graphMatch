@@ -14,16 +14,6 @@ public class Node {
     private Node sw;
     private Node se;
 
-    /**
-     * Constructs a new quad tree node.
-     *
-     * @param {double} x X-coordiate of node.
-     * @param {double} y Y-coordinate of node.
-     * @param {double} w Width of node.
-     * @param {double} h Height of node.
-     * @param {Node}   opt_parent Optional parent node.
-     * @constructor
-     */
     public Node(double x, double y, double w, double h, Node opt_parent) {
         this.x = x;
         this.y = y;

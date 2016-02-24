@@ -7,13 +7,6 @@ public class Point implements Comparable {
     private double y;
     private Object opt_value;
 
-    /**
-     * Creates a new point object.
-     *
-     * @param {double} x The x-coordinate of the point.
-     * @param {double} y The y-coordinate of the point.
-     * @param {Object} opt_value Optional value associated with the point.     
-     */
     public Point(double x, double y, Object opt_value) {
         this.x = x;
         this.y = y;
@@ -64,7 +57,5 @@ public class Point implements Comparable {
             }
             return 0;
         }
-
     }
-
 }
