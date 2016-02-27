@@ -1,0 +1,80 @@
+Sequence : DLPSRLKLIYAGVTEIITQFQ
+{424}
+Sequence : SALKLGQARGVAIVAAVN
+{424}
+Sequence : ARQVKQTVV
+{424}
+Sequence : EKSQVQHMVRTLL
+{424}
+Sequence : AADALAIAITHCHV
+{424}
+Sequence : DLPSRLKLIYAGVTEIITQFQ
+{424}
+Sequence : SALKLGQARGVAIVAAVN
+{424}
+Sequence : ARQVKQTVV
+{424}
+Sequence : EKSQVQHMVRTLL
+{424}
+Sequence : AADALAIAITHCHV
+{424}
+Sequence : DLPSRLKLIYAGVTEIITQFQ
+{424}
+Sequence : SALKLGQARGVAIVAAVN
+{424}
+Sequence : ARQVKQTVV
+{424}
+Sequence : EKSQVQHMVRTLL
+{424}
+Sequence : AADALAIAITHCHV
+{424}
+Sequence : DLPSRLKLIYAGVTEIITQFQ
+{424}
+Sequence : SALKLGQARGVAIVAAVN
+{424}
+Sequence : ARQVKQTVV
+{424}
+Sequence : EKSQVQHMVRTLL
+{424}
+Sequence : AADALAIAITHCHV
+{424}
+Sequence : QLSYLGSGCIRT
+{424}
+Sequence : RVTGYGVIRQV
+{424}
+Sequence : AIILGIDPG
+{424}
+Sequence : YFAIEQ
+{424}
+Sequence : PVFEY
+{424}
+Sequence : QLSYLGSGCIRT
+{424}
+Sequence : RVTGYGVIRQV
+{424}
+Sequence : AIILGIDPG
+{424}
+Sequence : YFAIEQ
+{424}
+Sequence : PVFEY
+{424}
+Sequence : QLSYLGSGCIRT
+{424}
+Sequence : RVTGYGVIRQV
+{424}
+Sequence : AIILGIDPG
+{424}
+Sequence : YFAIEQ
+{424}
+Sequence : PVFEY
+{424}
+Sequence : QLSYLGSGCIRT
+{424}
+Sequence : RVTGYGVIRQV
+{424}
+Sequence : AIILGIDPG
+{424}
+Sequence : YFAIEQ
+{424}
+Sequence : PVFEY
+{424}

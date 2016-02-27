@@ -1,0 +1,108 @@
+Sequence : DLAKSRNFYV
+{293, 294}
+Sequence : PEDVDKAEAYYQEL
+{293, 294}
+Sequence : DVPRGRKYLEDL
+{293, 294}
+Sequence : EKHNIIQICDKMGAL
+{291, 292, 293, 294}
+Sequence : ISD
+{291, 292, 293, 294}
+Sequence : VPSWYTE
+{291, 292, 293, 294}
+Sequence : SELEVTIG
+{294}
+Sequence : ASKGF
+{294}
+Sequence : DLAKSRNFYV
+{293, 294}
+Sequence : TPEDVDKAEAYYQEL
+{293, 294}
+Sequence : DVPRGRKYLEDL
+{293, 294}
+Sequence : EKHNIIQICDKMGAL
+{291, 292, 293, 294}
+Sequence : ISD
+{291, 292, 293, 294}
+Sequence : VPSWYTE
+{291, 292, 293, 294}
+Sequence : SELEVTIG
+{294}
+Sequence : ASKGF
+{294}
+Sequence : HVSYE
+{293, 294}
+Sequence : QIYLR
+{293, 294}
+Sequence : LVLTK
+{293, 294}
+Sequence : ILRCAYAELVV
+{293, 294}
+Sequence : ALKAMAFRV
+{293, 294}
+Sequence : PYEFF
+{291, 292, 293, 294}
+Sequence : ALRVE
+{293, 294}
+Sequence : TERR
+{291, 292, 293, 294}
+Sequence : IERGPGR
+{291, 292, 293, 294}
+Sequence : FYLYIL
+{291, 292, 293, 294}
+Sequence : RIEIYT
+{291, 292, 293, 294}
+Sequence : RLHHVAFS
+{293, 294}
+Sequence : RLDHFNQVT
+{291, 292, 293, 294}
+Sequence : TALTG
+{291, 292, 293, 294}
+Sequence : TYAAWMH
+{291, 292, 293, 294}
+Sequence : RVTEDIQ
+{293, 294}
+Sequence : ITWN
+{293, 294}
+Sequence : FS
+{419, 420, 294}
+Sequence : YH
+{294, 270}
+Sequence : HVSYE
+{293, 294}
+Sequence : QIYLR
+{293, 294}
+Sequence : LVLTK
+{293, 294}
+Sequence : ILRCAYAELVV
+{293, 294}
+Sequence : ALKAMAFRV
+{293, 294}
+Sequence : PYEFF
+{291, 292, 293, 294}
+Sequence : ALRVE
+{293, 294}
+Sequence : RTERR
+{294}
+Sequence : IERGPGR
+{291, 292, 293, 294}
+Sequence : FYLYIL
+{291, 292, 293, 294}
+Sequence : RIEIYT
+{291, 292, 293, 294}
+Sequence : RLHHVAFS
+{293, 294}
+Sequence : RLDHFNQVT
+{291, 292, 293, 294}
+Sequence : TALTG
+{291, 292, 293, 294}
+Sequence : TYAAWMH
+{291, 292, 293, 294}
+Sequence : RVTEDIQ
+{293, 294}
+Sequence : ITWN
+{293, 294}
+Sequence : FS
+{419, 420, 294}
+Sequence : YH
+{294, 270}

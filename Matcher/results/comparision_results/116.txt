@@ -1,0 +1,84 @@
+Sequence : YIGSHTCVQL
+{116}
+Sequence : RSVLPVIE
+{116}
+Sequence : EALMTEIL
+{116}
+Sequence : VGESVQ
+{116, 117}
+Sequence : PLEYYDNNVNGTLRLISAM
+{116}
+Sequence : PYGKSKLMVEQILTDLQKA
+{116, 117}
+Sequence : LMPYIAQ
+{116}
+Sequence : VMDLADGHVVAMEK
+{116}
+Sequence : VLDVVNAFS
+{116}
+Sequence : SKADRE
+{116}
+Sequence : LDEMAQDTWHWQSR
+{116, 117}
+Sequence : GVHIYNL
+{114, 116, 117}
+Sequence : SIALLRY
+{114, 116, 117}
+Sequence : NFIFSSS
+{116, 117}
+Sequence : TVIH
+{114, 115, 116, 117}
+Sequence : RVLVT
+{114, 115, 116, 117}
+Sequence : DVIILD
+{114, 115, 116, 117}
+Sequence : TFVE
+{114, 115, 116, 117}
+Sequence : NPV
+{114, 115, 116, 117}
+Sequence : YIH
+{112, 113, 114, 115, 116, 117, 111}
+Sequence : LAIF
+{114, 115, 116, 117}
+Sequence : YHFA
+{114, 115, 116, 117}
+Sequence : VTGG
+{116}
+Sequence : GGSG
+{116}
+Sequence : LQNG
+{116}
+Sequence : LCNS
+{116}
+Sequence : RLGG
+{116}
+Sequence : DIRN
+{116}
+Sequence : HDHA
+{116}
+Sequence : RAAN
+{116}
+Sequence : SATV
+{116}
+Sequence : ATVY
+{116, 117}
+Sequence : TVYG
+{112, 113, 116}
+Sequence : VESF
+{116}
+Sequence : QPDW
+{116}
+Sequence : HPSG
+{116}
+Sequence : VAVG
+{116, 574}
+Sequence : TEDG
+{116}
+Sequence : LANK
+{116}
+Sequence : KACG
+{116}
+Sequence : REGD
+{116}
+Sequence : HPQG
+{116}

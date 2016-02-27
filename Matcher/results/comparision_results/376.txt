@@ -1,0 +1,24 @@
+Sequence : DAERQLLA
+{376}
+Sequence : ELVRHYTN
+{376}
+Sequence : DAERQLLA
+{376}
+Sequence : ELVRHYTNA
+{376}
+Sequence : KNL
+{376}
+Sequence : IRESE
+{376}
+Sequence : LSVRDFDQN
+{376}
+Sequence : VVKHYKIR
+{376}
+Sequence : KNL
+{376}
+Sequence : IRESE
+{376}
+Sequence : LSVRDFDQN
+{376}
+Sequence : VVKHYKIR
+{376}

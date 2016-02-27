@@ -1,0 +1,48 @@
+Sequence : DVPAWDHFLTKS
+{298}
+Sequence : DAAALERMADKLRQAG
+{298}
+Sequence : DEALMQQRK
+{298}
+Sequence : TGDQG
+{298}
+Sequence : DTAKAMAFYTEV
+{298}
+Sequence : TIDDVGYAFDRLDAA
+{298}
+Sequence : MAAGSA
+{298}
+Sequence : AALYR
+{298}
+Sequence : IAVQP
+{298}
+Sequence : RLGYLGFAV
+{298}
+Sequence : DLAYAGLE
+{298}
+Sequence : PLEIYY
+{298}
+Sequence : GLLCLQ
+{298}
+Sequence : TR
+{298}
+Sequence : ARH
+{298}
+Sequence : VLSDIIDIQ
+{298}
+Sequence : SVPAHFLH
+{298}
+Sequence : IALA
+{298}
+Sequence : HFVRC
+{298}
+Sequence : IHHFMLQ
+{298}
+Sequence : EVEFGW
+{298}
+Sequence : LSFYAD
+{298}
+Sequence : GRH
+{298}
+Sequence : AMWG
+{298}

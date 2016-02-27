@@ -1,0 +1,70 @@
+Sequence : DHGFRAFAG
+{109}
+Sequence : SDRDAA
+{109}
+Sequence : SFEDVRAS
+{109}
+Sequence : RWEQTQRFIGE
+{109}
+Sequence : DHGFRAFAG
+{109}
+Sequence : NPQ
+{109}
+Sequence : SDRDAA
+{109}
+Sequence : SFEDVRAS
+{109}
+Sequence : RWEQTQRFIGE
+{109}
+Sequence : KARE
+{109}
+Sequence : AWEIT
+{109}
+Sequence : TIYV
+{109}
+Sequence : KYVTCVS
+{109}
+Sequence : STVMYLC
+{109}
+Sequence : QVNCSVS
+{109}
+Sequence : GLFFEWLT
+{109}
+Sequence : HVD
+{109}
+Sequence : HVD
+{109}
+Sequence : GLFFEWLT
+{109}
+Sequence : QVNCSVS
+{109}
+Sequence : STVMYLC
+{109}
+Sequence : KYVTCVS
+{109}
+Sequence : TIYV
+{109}
+Sequence : AWEIT
+{109}
+Sequence : KARE
+{109}
+Sequence : WDSVLLD
+{109}
+Sequence : SVFDVVV
+{109}
+Sequence : AHGFLA
+{109}
+Sequence : LRGLHFA
+{109}
+Sequence : EHT
+{109}
+Sequence : WDSVLLD
+{109}
+Sequence : SVFDVVV
+{109}
+Sequence : AHGFLA
+{109}
+Sequence : LRGLHFA
+{109}
+Sequence : EHT
+{109}

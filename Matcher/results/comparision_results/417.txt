@@ -1,0 +1,50 @@
+Sequence : DLNKLLELWPHIQEYQDLALK
+{417}
+Sequence : NGGKLLQVLLITG
+{416, 417}
+Sequence : NPVIIAKYRQ
+{416, 417}
+Sequence : EPKDLEFYYDKWERKWYSD
+{416, 417}
+Sequence : VKYVMEHG
+{416, 417}
+Sequence : PDLNKLLELWPHIQEYQDLALKH
+{417, 421}
+Sequence : NGGKLLQVLLITG
+{416, 417}
+Sequence : NPVIIAKYR
+{417}
+Sequence : EPKDLEFYYDKWERKWYSD
+{416, 417}
+Sequence : VKYVMEHG
+{416, 417}
+Sequence : TV
+{417, 548, 69, 421, 549, 70, 550, 551, 552, 394, 236, 561, 315, 316, 543}
+Sequence : AV
+{416, 417, 500}
+Sequence : EYELKSIN
+{416, 417, 421}
+Sequence : WIFAIYR
+{416, 417, 421}
+Sequence : AIEAIYRL
+{416, 417, 421}
+Sequence : TK
+{416, 417, 578, 421}
+Sequence : GF
+{416, 17, 417, 18, 421, 271}
+Sequence : IP
+{416, 417, 529, 421}
+Sequence : TV
+{417, 548, 69, 421, 549, 70, 550, 551, 552, 394, 236, 561, 315, 316, 543}
+Sequence : AV
+{416, 417, 500}
+Sequence : EYELKSIN
+{416, 417, 421}
+Sequence : WIFAIYR
+{416, 417, 421}
+Sequence : AIEAIYRL
+{416, 417, 421}
+Sequence : GF
+{416, 17, 417, 18, 421, 271}
+Sequence : IP
+{416, 417, 529, 421}

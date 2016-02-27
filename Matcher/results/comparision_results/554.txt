@@ -1,0 +1,62 @@
+Sequence : DIDTLISNNALWSKXLVEED
+{554}
+Sequence : GFFEKLAQ
+{554}
+Sequence : PAERLTG
+{554}
+Sequence : DLNCLSVVQYAVDV
+{554}
+Sequence : CGGVQAAVEN
+{554}
+Sequence : LINNWLLHIRDIWFKH
+{554}
+Sequence : HSSLLGE
+{554}
+Sequence : RRLDTLCELNVXEQVYNLGHS
+{554}
+Sequence : STIXQSAWKR
+{554}
+Sequence : NRETLEQRYRHGISNLK
+{554}
+Sequence : DIDTLISNNALWSKXLV
+{554}
+Sequence : PGFFEKLA
+{554}
+Sequence : PAERLTG
+{554}
+Sequence : DLNCLSVVQYAVDV
+{554}
+Sequence : CGGVQAAVEN
+{554}
+Sequence : LINNWLLHIRDIWFKH
+{554}
+Sequence : HSSLLGE
+{554}
+Sequence : PQE
+{554}
+Sequence : RRLDTLCELNVXEQVYNLGHS
+{554}
+Sequence : STIXQSAWKR
+{554}
+Sequence : NRETLEQRYRHGISNLKLK
+{554}
+Sequence : LFVHRN
+{554}
+Sequence : FLWIGC
+{554}
+Sequence : HIIICGH
+{554}
+Sequence : TIHGWAY
+{554}
+Sequence : LRD
+{23, 554}
+Sequence : LFVHRN
+{554}
+Sequence : FLWIGC
+{554}
+Sequence : HIIICGH
+{554}
+Sequence : TIHGWAY
+{554}
+Sequence : RD
+{554}

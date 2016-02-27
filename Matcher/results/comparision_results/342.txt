@@ -1,0 +1,52 @@
+Sequence : KEFLAKAKEDFLKKWET
+{342}
+Sequence : QLD
+{342, 327, 328}
+Sequence : KQKVVKL
+{339, 342, 327, 328}
+Sequence : QIEHTLNEKRILQAV
+{339, 342, 327, 328}
+Sequence : EMFSHLRRIG
+{339, 342, 327, 328}
+Sequence : SEPHARFYAAQIVLTFEYLHSL
+{342, 327, 328}
+Sequence : KPE
+{339, 342, 327, 328}
+Sequence : TPEYL
+{339, 342, 327, 328}
+Sequence : APEIIL
+{339, 342, 327, 328}
+Sequence : KAVDWWALGVLIYEMAAG
+{339, 342, 327, 328}
+Sequence : QPIQIYEKIVSG
+{339, 342, 327}
+Sequence : SSDLKDLLRNLL
+{339, 342, 327, 328}
+Sequence : DLTKR
+{339, 342, 327}
+Sequence : VNDIKN
+{342, 328}
+Sequence : HKWFA
+{339, 342}
+Sequence : DWIAIYQ
+{339, 342, 328}
+Sequence : GKEFT
+{342}
+Sequence : FDRIKTLGT
+{342, 327, 328, 319}
+Sequence : GRVMLVKH
+{321, 339, 342, 343, 328, 319}
+Sequence : HYAMKILD
+{339, 342, 327, 343, 328, 319}
+Sequence : NLYMVME
+{321, 339, 342, 327, 343, 328, 344, 319}
+Sequence : LEFSFK
+{339, 342, 327, 343, 328, 344, 319}
+Sequence : LI
+{321, 434, 339, 342, 327, 328, 319, 431}
+Sequence : KR
+{321, 339, 342, 327, 328, 89, 319}
+Sequence : LLI
+{321, 323, 339, 324, 342, 327, 343, 328, 344, 319}
+Sequence : IQV
+{321, 339, 342, 327, 343, 328, 344, 319}

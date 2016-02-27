@@ -1,0 +1,68 @@
+Sequence : SNA
+{200}
+Sequence : ENELDYLSEFVKAAHHMLH
+{200}
+Sequence : SDF
+{101, 102, 200}
+Sequence : GWV
+{200}
+Sequence : WPIR
+{200}
+Sequence : KNEFSRIKQAAERIRNH
+{200}
+Sequence : GGS
+{200}
+Sequence : LGARAAIEAL
+{200}
+Sequence : HNQ
+{200}
+Sequence : STYISHLLDVL
+{200}
+Sequence : TEPAIAFRIFRDYMEKKY
+{200}
+Sequence : KEEARKR
+{200}
+Sequence : ALKKLADQE
+{200}
+Sequence : LLPIAVA
+{200}
+Sequence : IDRMMEGAASAYHKY
+{200}
+Sequence : LLT
+{200}
+Sequence : ESYQYAAVRNILYR
+{200}
+Sequence : PSLHYVSEWWKQLFGESE
+{200}
+Sequence : TDLH
+{200}
+Sequence : GQYVQE
+{200}
+Sequence : LDEVNKKAFQGTLLAHVD
+{200}
+Sequence : EYTFGEMVYFFEKACGISGHLL
+{200}
+Sequence : VEAYKKNMFAL
+{200}
+Sequence : EDEKAALMK
+{200}
+Sequence : ISFD
+{200}
+Sequence : PNLIVEL
+{200}
+Sequence : LIETVLHV
+{200}
+Sequence : IELLVN
+{200}
+Sequence : FPASVD
+{200}
+Sequence : QIYFA
+{200}
+Sequence : ALVVI
+{200}
+Sequence : LSINVI
+{200}
+Sequence : IYVTT
+{200}
+Sequence : ETFV
+{200}

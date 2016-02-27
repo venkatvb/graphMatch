@@ -1,0 +1,98 @@
+Sequence : NEKGLRQIIRHNIDK
+{540}
+Sequence : GSTGE
+{540}
+Sequence : ENFML
+{540}
+Sequence : STEEKKEIFRIAKDEAK
+{540}
+Sequence : NLKEAVELGKYATELG
+{540}
+Sequence : SFPEIKHYYDTIIAETG
+{540}
+Sequence : IPFLTG
+{540}
+Sequence : GIEQFGELYK
+{540}
+Sequence : DFYLLERLKKAY
+{540}
+Sequence : FDE
+{540}
+Sequence : MMLPAASL
+{540}
+Sequence : TFNVNG
+{540}
+Sequence : NGVRARQIFELTKA
+{540}
+Sequence : KLKEALEIQHVTNDLIEGILANG
+{540}
+Sequence : GLYLTIKELLKLE
+{540}
+Sequence : TAEQVAKAKDLKAKFL
+{540}
+Sequence : NEKGLRQIIRHNIDK
+{540}
+Sequence : GSTGE
+{540}
+Sequence : ENFML
+{540}
+Sequence : STEEKKEIFRIAKDEAK
+{540}
+Sequence : NLKEAVELGKYATELG
+{540}
+Sequence : SFPEIKHYYDTIIAETG
+{540}
+Sequence : GIEQFGELYK
+{540}
+Sequence : DFYLLERLKKAY
+{540}
+Sequence : FDE
+{540}
+Sequence : MMLPAASL
+{540}
+Sequence : TFNVNG
+{540}
+Sequence : NGVRARQIFELTKA
+{540}
+Sequence : KLKEALEIQHVTNDLIEGILANG
+{540}
+Sequence : GLYLTIKELLKLE
+{540}
+Sequence : TAEQVAKAKDLKAKFL
+{540}
+Sequence : GIFSA
+{540}
+Sequence : GLYV
+{540, 541}
+Sequence : ALIAQ
+{540}
+Sequence : CLSAV
+{540}
+Sequence : MIVYS
+{540}
+Sequence : VLGVKF
+{540}
+Sequence : LIWA
+{540}
+Sequence : GAIG
+{540}
+Sequence : GIFSA
+{540}
+Sequence : GIFSA
+{540}
+Sequence : GLYV
+{540, 541}
+Sequence : ALIAQ
+{540}
+Sequence : CLS
+{50, 540}
+Sequence : MIVYS
+{540}
+Sequence : VLGVKF
+{540}
+Sequence : LIWA
+{540}
+Sequence : GAIG
+{540}
+Sequence : GIFSA
+{540}

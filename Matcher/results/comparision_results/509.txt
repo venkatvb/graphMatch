@@ -1,0 +1,82 @@
+Sequence : NRDDALAFVDK
+{509}
+Sequence : GKEMFTLFGPQFVRELQQR
+{509}
+Sequence : IPNTAAHAVAAAADL
+{509}
+Sequence : GARMMTAAREALV
+{509}
+Sequence : PFGKDA
+{509}
+Sequence : EASDLVDLG
+{509}
+Sequence : SPADYAERLAALTQKCG
+{509}
+Sequence : SAQEAVRFKQVFG
+{509}
+Sequence : TPEQALSAG
+{509}
+Sequence : GRPVTQ
+{509}
+Sequence : DPAQTLKAINASL
+{509}
+Sequence : NRDDALAFVDK
+{509}
+Sequence : GKEMFTLFG
+{509}
+Sequence : GPQFVRELQQR
+{509}
+Sequence : IPNTAAHAVAAAADL
+{509}
+Sequence : GARMMTAAREALV
+{509}
+Sequence : PFGKDA
+{509}
+Sequence : EASDLVDL
+{509}
+Sequence : SPADYAERLAALTQKCG
+{509}
+Sequence : SAQEAVRFKQVFG
+{509}
+Sequence : TPEQALSAG
+{509}
+Sequence : GRPVTQ
+{509}
+Sequence : DPAQTLKAINASLQR
+{509}
+Sequence : VVVAL
+{509}
+Sequence : RLKV
+{509}
+Sequence : IFLDLKF
+{509}
+Sequence : MVNVH
+{509}
+Sequence : LLIAV
+{509}
+Sequence : GVV
+{509}
+Sequence : KLVTP
+{509}
+Sequence : YMVI
+{509}
+Sequence : VVVAL
+{509}
+Sequence : VVVAL
+{509}
+Sequence : RLKV
+{509}
+Sequence : IFLDLKF
+{509}
+Sequence : MVNVH
+{509}
+Sequence : LLIAV
+{509}
+Sequence : GVV
+{509}
+Sequence : KLVT
+{509}
+Sequence : YMVI
+{509}
+Sequence : VVVAL
+{509}

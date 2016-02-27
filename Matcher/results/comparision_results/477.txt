@@ -1,0 +1,28 @@
+Sequence : ETAAAKFERQH
+{477}
+Sequence : SNYCNQMMKS
+{477}
+Sequence : ESLADVQ
+{477}
+Sequence : AVCS
+{477}
+Sequence : EGN
+{477}
+Sequence : PVNTF
+{477}
+Sequence : TMSITDCR
+{477}
+Sequence : AYKTTQANKHIIVA
+{477}
+Sequence : NCY
+{437, 457, 477}
+Sequence : QKN
+{477}
+Sequence : PVNTF
+{477}
+Sequence : TMSITDCR
+{477}
+Sequence : AYKTTQANKHIIVA
+{477}
+Sequence : VPVHFDAS
+{477}

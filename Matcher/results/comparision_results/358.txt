@@ -1,0 +1,56 @@
+Sequence : GMTTVGRELARALG
+{358}
+Sequence : TDIFMQHTSG
+{358}
+Sequence : TVADVVAAEG
+{358}
+Sequence : EGWPGFRRRESEALQAVA
+{358}
+Sequence : GMVL
+{358}
+Sequence : LEQNRQFMRAHG
+{358}
+Sequence : PAEELALRLQASLQ
+{358}
+Sequence : TGRPIAEEMEAVLREREALYQDVA
+{358}
+Sequence : PPAAIVCELMQTM
+{358}
+Sequence : GMTTVGRELARALG
+{358}
+Sequence : TDIFMQHTSG
+{358}
+Sequence : TVADVVAAEG
+{358}
+Sequence : EGWPGFRRRESEALQAVA
+{358}
+Sequence : GMVL
+{358}
+Sequence : LEQNRQFMRAHG
+{358}
+Sequence : PAEELALRLQASLQ
+{358}
+Sequence : TGRPIAEEMEAVLREREALYQDVA
+{358}
+Sequence : PPAAIVCELMQTM
+{358}
+Sequence : EFVD
+{358, 360}
+Sequence : RVVA
+{358, 360}
+Sequence : PIFMV
+{358, 360}
+Sequence : GTVVYLF
+{358, 360}
+Sequence : YVVD
+{358, 360}
+Sequence : EFVD
+{358, 360}
+Sequence : RVVA
+{358, 360}
+Sequence : PIFMV
+{358, 360}
+Sequence : GTVVYLF
+{358, 360}
+Sequence : YVVD
+{358, 360}

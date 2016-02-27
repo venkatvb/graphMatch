@@ -1,0 +1,72 @@
+Sequence : SDEEIQKEITARVKALESMLIEQ
+{592}
+Sequence : TTSMIDRMAEIYENE
+{592}
+Sequence : GPHLGAKVVVKAWTD
+{592}
+Sequence : DPEFKKRLLAD
+{592}
+Sequence : DGTEACKE
+{592}
+Sequence : PWPVLG
+{592}
+Sequence : PNWFKE
+{592}
+Sequence : EPQYRSRVV
+{592}
+Sequence : EPRQLLKEEFG
+{592}
+Sequence : SEEELAT
+{592}
+Sequence : TRESMIG
+{592}
+Sequence : AEWEKVAFAMFPATFRA
+{592}
+Sequence : GLDEFRFGIEQ
+{592}
+Sequence : NPAEYLES
+{592}
+Sequence : PYYWHWIRTYIHHGVRT
+{592}
+Sequence : DLEELERRTQYYREN
+{592}
+Sequence : KPELIEFVNQAVYGG
+{592}
+Sequence : ARYVR
+{592}
+Sequence : YPDTAG
+{592}
+Sequence : AQELWG
+{592}
+Sequence : PEG
+{592}
+Sequence : DMMWVE
+{592}
+Sequence : MRFVVL
+{592}
+Sequence : VHHVVV
+{592}
+Sequence : EIKVWD
+{592}
+Sequence : SSVYYDCW
+{592}
+Sequence : EHLYTVRFT
+{592}
+Sequence : TGTVVKHHGAY
+{592}
+Sequence : SR
+{592}
+Sequence : VHHVVV
+{592}
+Sequence : EIKVWD
+{592}
+Sequence : SSVYYDCW
+{592}
+Sequence : EHLYTVRFT
+{592}
+Sequence : TGTVVKHHGAY
+{592}
+Sequence : VVRF
+{592}
+Sequence : IELVD
+{592}

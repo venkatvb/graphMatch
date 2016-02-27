@@ -33,7 +33,7 @@ public class AnalyzeNodePoints implements Serializable{
 	}
 
 	@Override
-	public boolean serailizeContent(File file) {
+	public boolean serailizeContent(File file, String content) {
 		PrintWriter pw;
 		try {
 			pw = new PrintWriter(file);

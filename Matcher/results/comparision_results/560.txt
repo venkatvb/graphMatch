@@ -1,0 +1,74 @@
+Sequence : SPE
+{560, 559}
+Sequence : WGNLSEE
+{560, 559}
+Sequence : RLCSTGKN
+{560, 559}
+Sequence : VLYEAG
+{560}
+Sequence : KTNG
+{560}
+Sequence : RFAGSLTTPPC
+{560}
+Sequence : WGNLSE
+{560, 559}
+Sequence : RLCSTGKN
+{560, 559}
+Sequence : VLYEAG
+{560}
+Sequence : KTNG
+{560}
+Sequence : RFAGSLTTPPC
+{560}
+Sequence : NYKP
+{560, 559}
+Sequence : VNGR
+{560, 559}
+Sequence : TLKQFHFLTVN
+{560}
+Sequence : PSENQIKG
+{560}
+Sequence : EAHFVHLD
+{560}
+Sequence : PFDASTLL
+{560}
+Sequence : NVMPMTA
+{560}
+Sequence : LSLA
+{560}
+Sequence : ENNGH
+{560, 559}
+Sequence : NYPEG
+{560, 559}
+Sequence : FLT
+{560}
+Sequence : DEN
+{560}
+Sequence : LKY
+{560}
+Sequence : YKP
+{560}
+Sequence : VNGR
+{560, 559}
+Sequence : TLKQFHFLTVN
+{560}
+Sequence : PSENQIKG
+{560}
+Sequence : EAHFVHLD
+{560}
+Sequence : PFDASTLL
+{560}
+Sequence : NVMPMTA
+{560}
+Sequence : LSLA
+{560}
+Sequence : NNGH
+{560, 559}
+Sequence : NYPE
+{560, 559}
+Sequence : FLT
+{560}
+Sequence : DEN
+{560}
+Sequence : LKY
+{560}

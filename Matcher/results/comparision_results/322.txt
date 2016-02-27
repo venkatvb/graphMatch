@@ -1,0 +1,58 @@
+Sequence : DYEALT
+{322}
+Sequence : VQWG
+{322}
+Sequence : EVVRK
+{322}
+Sequence : KREIKILQNLCGGPNI
+{322}
+Sequence : TDYDI
+{322}
+Sequence : RYYIYELLKALDYCHSQGIMHR
+{322}
+Sequence : MID
+{322}
+Sequence : GPELL
+{322}
+Sequence : VDLQDYD
+{322}
+Sequence : WSLGCMFAGMIFRKEPF
+{322}
+Sequence : LVKIAKVLGTDGLN
+{322}
+Sequence : NVYLNKYRIELD
+{322}
+Sequence : VGRHSRK
+{322}
+Sequence : MNADNQ
+{322}
+Sequence : HLVSP
+{322}
+Sequence : DFLDKLLRYD
+{322}
+Sequence : LTALE
+{322}
+Sequence : MTHPYF
+{322}
+Sequence : QQVR
+{322}
+Sequence : AAENSR
+{322}
+Sequence : GRGKYSE
+{322}
+Sequence : GINVNN
+{322}
+Sequence : LKPVKK
+{322}
+Sequence : YVNNT
+{322}
+Sequence : QHS
+{322, 231, 232}
+Sequence : VK
+{322, 137, 138, 189}
+Sequence : GK
+{322, 589}
+Sequence : ELRK
+{322}
+Sequence : DWGL
+{322}

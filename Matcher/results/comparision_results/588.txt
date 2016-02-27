@@ -1,0 +1,42 @@
+Sequence : EDIIIINKPR
+{588}
+Sequence : DLVVHPGAGNP
+{588}
+Sequence : DVPRAGIVHRLDKD
+{588}
+Sequence : HYRIXEHFRV
+{588}
+Sequence : AHITHPLVGDP
+{588}
+Sequence : LHATXLRLYHPISGIEXEW
+{588}
+Sequence : EQVA
+{588}
+Sequence : EIEEEA
+{588}
+Sequence : LHYYPPI
+{588}
+Sequence : RPRPPKGAS
+{588}
+Sequence : LXVVAKTVP
+{588}
+Sequence : HXAVHPMG
+{588}
+Sequence : DEPISRHPT
+{588}
+Sequence : ESLQ
+{587, 588}
+Sequence : EQVA
+{588}
+Sequence : EIEEEA
+{588}
+Sequence : LHYYPPI
+{588}
+Sequence : RPRPPKGAS
+{588}
+Sequence : LRKFD
+{588}
+Sequence : EIT
+{588}
+Sequence : IGH
+{233, 588}

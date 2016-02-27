@@ -1,0 +1,58 @@
+Sequence : IEGRHMEA
+{510}
+Sequence : AAWGEETDY
+{510}
+Sequence : TP
+{265, 510}
+Sequence : VWCMR
+{510}
+Sequence : GRYLPEFRETRAAQDF
+{510}
+Sequence : ELTLQPL
+{510}
+Sequence : ALGMEVTM
+{510}
+Sequence : PGK
+{510}
+Sequence : GPSFPE
+{510}
+Sequence : EPLREEQDLERLRDPE
+{510}
+Sequence : QAITLTRQRLAG
+{510}
+Sequence : GFAGAPWTLMT
+{510}
+Sequence : TYMVEGGGSSTMAQAKRWLYQRPQAS
+{510}
+Sequence : LVPYL
+{510}
+Sequence : VGQVVAGAQ
+{510}
+Sequence : QALQLFESHAGHLGPQLFN
+{510}
+Sequence : VKA
+{510}
+Sequence : RLREAG
+{510}
+Sequence : HFALEELAQA
+{510}
+Sequence : TVAPKKA
+{510}
+Sequence : RECVGKTVTLQGNLDPC
+{510}
+Sequence : LDDFGPHRYIANLGHGLYP
+{510}
+Sequence : RS
+{510}
+Sequence : ELGYVF
+{510}
+Sequence : LRILTD
+{510}
+Sequence : IRDVA
+{510}
+Sequence : MITF
+{510}
+Sequence : VVGL
+{510}
+Sequence : AS
+{289, 561, 562, 548, 549, 550, 551, 552, 510, 543}

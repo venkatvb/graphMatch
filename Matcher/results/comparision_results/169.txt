@@ -1,0 +1,88 @@
+Sequence : SKQSIKEIVERLNTA
+{169}
+Sequence : PAT
+{544, 545, 546, 169, 553}
+Sequence : YLDYSVSLV
+{169}
+Sequence : SVDQIKDV
+{169}
+Sequence : HSERRSYF
+{169}
+Sequence : DDKFIADKTKFALGQ
+{169}
+Sequence : TLEEKKA
+{169}
+Sequence : KTLDVVERQLNAVLEEV
+{169}
+Sequence : TPEDAQDIHASIRKFLASKLG
+{169}
+Sequence : GDKAASEL
+{169}
+Sequence : NAVTFK
+{169}
+Sequence : GGASLK
+{176, 169}
+Sequence : PEFVDIIN
+{176, 169}
+Sequence : SKQSIKEIVERLNTA
+{169}
+Sequence : PAT
+{544, 545, 546, 169, 553}
+Sequence : YLDYSVSLV
+{169}
+Sequence : SVDQIKDV
+{169}
+Sequence : HSERRSY
+{169}
+Sequence : DDKFIADKTKFALGQ
+{169}
+Sequence : TLEEKKA
+{169}
+Sequence : KTLDVVERQLNAVLEEV
+{169}
+Sequence : TPEDAQDIHASIRKFLASKLG
+{169}
+Sequence : GDKAASEL
+{169}
+Sequence : NAVTFK
+{169}
+Sequence : GGASLKP
+{169}
+Sequence : EFVDIIN
+{169, 186, 187}
+Sequence : FFVGGN
+{176, 169}
+Sequence : VEVVIC
+{169}
+Sequence : VTVGA
+{169}
+Sequence : YVIL
+{168, 169}
+Sequence : GVILCI
+{169}
+Sequence : VVVAY
+{169}
+Sequence : RILY
+{184, 169, 185, 174, 175}
+Sequence : GFLV
+{176, 182, 184, 169, 185, 170, 218, 171, 174}
+Sequence : FFVGGN
+{176, 169}
+Sequence : FFVGGN
+{176, 169}
+Sequence : VEVVIC
+{169}
+Sequence : VTVGA
+{169}
+Sequence : YVIL
+{168, 169}
+Sequence : GVILCI
+{169}
+Sequence : VVVAY
+{169}
+Sequence : RILY
+{184, 169, 185, 174, 175}
+Sequence : GFLV
+{176, 182, 184, 169, 185, 170, 218, 171, 174}
+Sequence : FFVGGN
+{176, 169}

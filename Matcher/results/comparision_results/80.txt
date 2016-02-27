@@ -1,0 +1,36 @@
+Sequence : KTVASCALLQAAKAA
+{80, 78}
+Sequence : SDALALQRN
+{80, 76, 77, 78}
+Sequence : PHIISAQE
+{80, 75, 76, 77, 78, 79}
+Sequence : SLVMSAGLRALE
+{80}
+Sequence : FADWVTQE
+{80, 75, 76, 77, 78, 79}
+Sequence : CINHAMLTAQVIQHA
+{80, 78}
+Sequence : HAEYMTTLTRM
+{80, 75, 76, 77, 78, 79}
+Sequence : KRYFVT
+{80}
+Sequence : TAGY
+{80, 75, 76, 77, 78, 79}
+Sequence : PVAS
+{80}
+Sequence : YTF
+{80, 75, 76, 77, 78, 79}
+Sequence : WVLVEG
+{80}
+Sequence : VILVV
+{80}
+Sequence : WVAN
+{80}
+Sequence : LGEI
+{80}
+Sequence : GY
+{80, 266, 267, 268}
+Sequence : QA
+{80, 219}
+Sequence : FT
+{80, 15}

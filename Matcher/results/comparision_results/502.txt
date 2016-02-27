@@ -1,0 +1,72 @@
+Sequence : TAENLLRLPAEFG
+{502}
+Sequence : AQIIRRQIAA
+{502}
+Sequence : KAC
+{502}
+Sequence : NIHILRLMREQ
+{502}
+Sequence : SLGEIERALAA
+{502}
+Sequence : DQATLERVSELQ
+{502}
+Sequence : SVDMLDQLGQVS
+{502}
+Sequence : DLPAALDVIQRH
+{502}
+Sequence : DYAHLEQVCGAMVRQVIEFG
+{502}
+Sequence : DTEHYYGLWNAAREQIARHLG
+{502}
+Sequence : GRFLVA
+{502}
+Sequence : MRPAMYG
+{502}
+Sequence : GASMS
+{502}
+Sequence : TIEELLA
+{502}
+Sequence : QARLIR
+{502}
+Sequence : EVLFD
+{502}
+Sequence : VWVYD
+{502}
+Sequence : GVLITQVRSVKQM
+{502}
+Sequence : YLVL
+{502}
+Sequence : ISAL
+{502}
+Sequence : YLVL
+{502}
+Sequence : GVLITQVRSVKQM
+{502}
+Sequence : RHFVLV
+{502}
+Sequence : TVETVVA
+{502}
+Sequence : RALP
+{502}
+Sequence : VVRFA
+{502}
+Sequence : KVDS
+{502}
+Sequence : IVFTA
+{502}
+Sequence : VNA
+{502, 493}
+Sequence : RVWLRVN
+{502}
+Sequence : IW
+{1, 2, 502}
+Sequence : RVWLRVN
+{502}
+Sequence : QLVGIH
+{502}
+Sequence : AIS
+{502, 503, 504, 526, 527}
+Sequence : KLEI
+{502}
+Sequence : VVRFA
+{502}

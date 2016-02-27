@@ -1,0 +1,46 @@
+Sequence : TIGNYIGA
+{28, 29}
+Sequence : ALRQFVELQ
+{28, 29}
+Sequence : VDQHAI
+{28, 29}
+Sequence : DPHELRQNIRRLAALYLAV
+{28, 29}
+Sequence : SEV
+{28, 29}
+Sequence : PAHAQAAWXLQCIV
+{28}
+Sequence : YIGELER
+{28, 29}
+Sequence : XTQFKEKSA
+{28}
+Sequence : SAGLLT
+{28}
+Sequence : TYPPLXAADILL
+{28}
+Sequence : GED
+{28, 29}
+Sequence : QKQHIELTRDLAERFNKRYG
+{28, 29}
+Sequence : NPKAY
+{28, 29}
+Sequence : DAKTIEKKIKSA
+{28}
+Sequence : KPGISNLLNIYSTLSG
+{28, 29}
+Sequence : SIEELERQY
+{28, 29}
+Sequence : GYGVFKADLAQVVIETLRPIQERYHHWXE
+{28}
+Sequence : EELDRVLDEGAEKANRVASEXVRKXEQAXG
+{28}
+Sequence : TIFSGI
+{28, 29}
+Sequence : NCYFCI
+{28, 29}
+Sequence : ATLFI
+{28, 29}
+Sequence : IVP
+{28, 29}
+Sequence : EAR
+{28, 29}

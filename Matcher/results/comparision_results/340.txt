@@ -1,0 +1,56 @@
+Sequence : WISWFCG
+{340}
+Sequence : EDYIQ
+{340}
+Sequence : KFNL
+{340}
+Sequence : LNE
+{340}
+Sequence : YRQALDXI
+{340}
+Sequence : NQSDLIEQAAEXLYGLIHARYIL
+{340}
+Sequence : NRGIAQXLEKYQ
+{340}
+Sequence : VYC
+{340}
+Sequence : SRH
+{340}
+Sequence : GAY
+{340}
+Sequence : PHXL
+{340}
+Sequence : PEY
+{340, 343, 344, 319}
+Sequence : WISWFC
+{340}
+Sequence : EDYIQ
+{340}
+Sequence : KFNL
+{340}
+Sequence : LNE
+{340}
+Sequence : YRQALDXI
+{340}
+Sequence : QSDLIEQAAEXLYGLIHARYIL
+{340}
+Sequence : NRGIAQXLEKYQ
+{340}
+Sequence : VYC
+{340}
+Sequence : SRH
+{340}
+Sequence : GAY
+{340}
+Sequence : PHXL
+{340}
+Sequence : PEY
+{340, 343, 344, 319}
+Sequence : KLYC
+{340}
+Sequence : DVYT
+{340}
+Sequence : KLYC
+{340}
+Sequence : DVYT
+{340}

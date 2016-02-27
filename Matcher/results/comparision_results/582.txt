@@ -1,0 +1,36 @@
+Sequence : KLKPLLEA
+{582}
+Sequence : SFDEYSEPLLTFLEAL
+{581, 582}
+Sequence : CGGLNIAIAADKYC
+{581, 582}
+Sequence : SYVVDKLMEVF
+{581, 582}
+Sequence : GFTLLRENL
+{581, 582}
+Sequence : GPEEYELAKMLT
+{581, 582}
+Sequence : FQNILAK
+{582}
+Sequence : LPEFQLWQIENY
+{581, 582}
+Sequence : KLQLTKTKEIAEILQEVADTY
+{582}
+Sequence : AHFVLI
+{581, 582}
+Sequence : KVTAL
+{581, 582}
+Sequence : SFDEYSEPLLTFLEAL
+{581, 582}
+Sequence : KIAAAVFHN
+{581, 582}
+Sequence : KKIYVW
+{581, 582}
+Sequence : KVYKV
+{581, 582}
+Sequence : TYFTYTK
+{581, 582}
+Sequence : KEITGLK
+{581, 582}
+Sequence : GSL
+{581, 390, 582}

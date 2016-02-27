@@ -1,0 +1,80 @@
+Sequence : DLNEV
+{194, 197}
+Sequence : LTREKIIASV
+{197}
+Sequence : ARSAVARQLVKL
+{194, 197}
+Sequence : PIAXENAINA
+{197}
+Sequence : TQDELKKAVGWAALQY
+{197}
+Sequence : GSTAAHFIDALGT
+{194, 197}
+Sequence : DASTEKLKSL
+{197}
+Sequence : DLNEV
+{194, 197}
+Sequence : LTREKIIASV
+{197}
+Sequence : ARSAVARQLVKL
+{194, 197}
+Sequence : PIAXENAINA
+{197}
+Sequence : GAVSS
+{197}
+Sequence : VGV
+{197}
+Sequence : GIYVD
+{197}
+Sequence : KFICI
+{197}
+Sequence : VALIGT
+{194, 197}
+Sequence : DGVKTIV
+{197}
+Sequence : KQV
+{197}
+Sequence : EI
+{194, 195, 197, 501, 87}
+Sequence : XQXIK
+{197}
+Sequence : GLF
+{197}
+Sequence : RPEY
+{194, 197}
+Sequence : VILDVH
+{194, 195, 197}
+Sequence : LPVEV
+{194, 195, 197}
+Sequence : VVTV
+{194, 197}
+Sequence : HVF
+{197}
+Sequence : GAVSS
+{197}
+Sequence : IVGV
+{194, 195, 197}
+Sequence : LGIYVD
+{194, 197}
+Sequence : KFICI
+{197}
+Sequence : VALIGT
+{194, 197}
+Sequence : DGVKTI
+{197}
+Sequence : KQV
+{197}
+Sequence : EI
+{194, 195, 197, 501, 87}
+Sequence : XQXI
+{197}
+Sequence : GLF
+{197}
+Sequence : RPEY
+{194, 197}
+Sequence : VILDVH
+{194, 195, 197}
+Sequence : LPVEV
+{194, 195, 197}
+Sequence : VVTV
+{194, 197}

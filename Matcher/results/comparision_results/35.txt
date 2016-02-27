@@ -1,0 +1,46 @@
+Sequence : GREGQFHTKQMLTYG
+{35}
+Sequence : TVKEAVAHH
+{35}
+Sequence : PAPAAADAALEAAHA
+{35}
+Sequence : PTLDMVRAVEEIKALG
+{35}
+Sequence : PGHVF
+{35}
+Sequence : SGTLTYEAAAALSQA
+{35}
+Sequence : TFKDLLPLFNE
+{35}
+Sequence : SDEEEAAAWVKDHM
+{35}
+Sequence : TPESKLRAFAEAG
+{35}
+Sequence : TIDEIVELVKKALG
+{35}
+Sequence : EV
+{1, 2, 35}
+Sequence : VPVY
+{35}
+Sequence : KIVAGV
+{35}
+Sequence : RVLVQ
+{35}
+Sequence : ASII
+{35}
+Sequence : LIVL
+{35}
+Sequence : RLIG
+{35, 516}
+Sequence : TKIG
+{35}
+Sequence : GIIS
+{35, 414}
+Sequence : TTTTVG
+{35}
+Sequence : VGIIS
+{35}
+Sequence : AVVLIG
+{35}
+Sequence : VVGFI
+{35}

@@ -1,0 +1,60 @@
+Sequence : EKGILLTKLSEFWFKFLSNDV
+{67}
+Sequence : TIFDY
+{67}
+Sequence : PAKLSE
+{67}
+Sequence : EPKYKTQLE
+{67, 69, 70}
+Sequence : SAWKEYVKTG
+{67}
+Sequence : SPAQAAELVG
+{67, 69, 70}
+Sequence : GEDLSRRVAELAVKLYSKCKDYAKEKG
+{67, 70}
+Sequence : KQFLRDWLTANK
+{67}
+Sequence : PQDIVDRTRAKYIEAYETLTG
+{67, 69, 70}
+Sequence : PLVARG
+{67}
+Sequence : VRDIYEVD
+{67}
+Sequence : TLLFVAT
+{67}
+Sequence : RSLLVHK
+{67}
+Sequence : HLV
+{67}
+Sequence : ISA
+{67}
+Sequence : VIM
+{67, 213}
+Sequence : ENI
+{67}
+Sequence : SQEFPEPIFTPST
+{67}
+Sequence : KLIPLEVIVRGYI
+{67}
+Sequence : GIIIADTKFEFGID
+{67}
+Sequence : NEIILV
+{67}
+Sequence : RFWNG
+{67}
+Sequence : GTV
+{67}
+Sequence : LKQ
+{67}
+Sequence : LDGI
+{67}
+Sequence : IPEK
+{67}
+Sequence : APGK
+{67, 451, 443, 444, 524}
+Sequence : KESQ
+{67}
+Sequence : TPDS
+{67}
+Sequence : LNGV
+{67}

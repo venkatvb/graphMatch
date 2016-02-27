@@ -1,0 +1,76 @@
+Sequence : DLNNELKTRREKLANLREQ
+{32, 31}
+Sequence : SDQLHAEF
+{32, 31}
+Sequence : NEELEAL
+{32, 31}
+Sequence : VYNE
+{32, 31}
+Sequence : FKK
+{32, 258, 259, 31}
+Sequence : QEARYR
+{31}
+Sequence : RYLDLIS
+{32, 31}
+Sequence : DESRNTFKVRSQILSGIRQFMVNR
+{32, 31}
+Sequence : ELYLKRLVV
+{32, 31}
+Sequence : YKDLIELTESLFRTLAQDIL
+{31}
+Sequence : MREAIKKY
+{32, 31}
+Sequence : MADLD
+{32, 31}
+Sequence : FDSAKAIAES
+{31}
+Sequence : LGRIVTEIFEEVAEAH
+{31}
+Sequence : AEV
+{31}
+Sequence : AEDQAQRFLDQVAAKD
+{31}
+Sequence : EDYVTALE
+{31}
+Sequence : IDRMVMLFT
+{32, 31}
+Sequence : IRD
+{31}
+Sequence : EVAVAGR
+{32, 31}
+Sequence : ILGAKGKLFK
+{32, 31}
+Sequence : LSIHC
+{32, 33, 31}
+Sequence : GRIQLYVA
+{33, 31}
+Sequence : ASFVTLQD
+{33, 31}
+Sequence : RMMTRRIM
+{32, 33, 31}
+Sequence : ITHH
+{33, 31}
+Sequence : LDMY
+{33, 31}
+Sequence : RVFEINRNF
+{32, 33, 31}
+Sequence : EFTMMELYMA
+{32, 33, 31}
+Sequence : TAGLGIG
+{32, 33, 31}
+Sequence : REIGNGFS
+{32, 33, 31}
+Sequence : RFEFFI
+{32, 33, 31}
+Sequence : TFIT
+{32, 33, 31}
+Sequence : EKLT
+{32, 33, 31}
+Sequence : EVTY
+{32, 31}
+Sequence : VTLD
+{32, 31}
+Sequence : ILGAK
+{32, 31}
+Sequence : ELRLLT
+{32, 33, 31}

@@ -1,0 +1,78 @@
+Sequence : TFDGVADYLQTYH
+{451, 443, 444, 445}
+Sequence : TKSEAQALG
+{451, 443, 444, 445}
+Sequence : NLADVA
+{451, 443, 444}
+Sequence : TFDGVADYLQTYH
+{451, 443, 444, 445}
+Sequence : TKSEAQALG
+{451, 443, 444, 445}
+Sequence : NLADVA
+{451, 443, 444}
+Sequence : TFDGVADYLQTYH
+{451, 443, 444, 445}
+Sequence : TKSEAQALG
+{451, 443, 444, 445}
+Sequence : NLADVA
+{451, 443, 444}
+Sequence : SIGGDI
+{443, 444, 445}
+Sequence : TWREADI
+{451, 443, 444, 445}
+Sequence : SDRILYS
+{444, 445}
+Sequence : WLIYKT
+{443, 444, 445}
+Sequence : FTK
+{513, 443, 444}
+Sequence : SIGGDI
+{443, 444, 445}
+Sequence : TWREADI
+{451, 443, 444, 445}
+Sequence : SDRILYS
+{444, 445}
+Sequence : WLIYKT
+{443, 444, 445}
+Sequence : FTK
+{513, 443, 444}
+Sequence : SIGGDI
+{443, 444, 445}
+Sequence : TWREADI
+{451, 443, 444, 445}
+Sequence : SDRILYS
+{444, 445}
+Sequence : WLIYKT
+{443, 444, 445}
+Sequence : FTK
+{513, 443, 444}
+Sequence : PDNY
+{451, 443, 444}
+Sequence : APGK
+{67, 451, 443, 444, 524}
+Sequence : NREG
+{451, 443, 444}
+Sequence : KSGR
+{451, 443, 444}
+Sequence : SSDW
+{451, 444}
+Sequence : PDNY
+{451, 443, 444}
+Sequence : APGK
+{67, 451, 443, 444, 524}
+Sequence : NREG
+{451, 443, 444}
+Sequence : KSGR
+{451, 443, 444}
+Sequence : SSDW
+{451, 444}
+Sequence : PDNY
+{451, 443, 444}
+Sequence : APGK
+{67, 451, 443, 444, 524}
+Sequence : NREG
+{451, 443, 444}
+Sequence : KSGR
+{451, 443, 444}
+Sequence : SSDW
+{451, 444}

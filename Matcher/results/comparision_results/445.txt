@@ -1,0 +1,54 @@
+Sequence : TFDGVADYLQTYH
+{451, 443, 444, 445}
+Sequence : TKSEAQALG
+{451, 443, 444, 445}
+Sequence : ASK
+{449, 450, 435, 438, 439, 440, 441, 442, 445, 446, 447}
+Sequence : NLCDVA
+{445}
+Sequence : TFDGVADYLQTYH
+{451, 443, 444, 445}
+Sequence : TKSEAQALG
+{451, 443, 444, 445}
+Sequence : ASK
+{449, 450, 435, 438, 439, 440, 441, 442, 445, 446, 447}
+Sequence : NLCDVA
+{445}
+Sequence : TFDGVADYLQTYH
+{451, 443, 444, 445}
+Sequence : TKSEAQALG
+{451, 443, 444, 445}
+Sequence : ASK
+{449, 450, 435, 438, 439, 440, 441, 442, 445, 446, 447}
+Sequence : NLCDVA
+{445}
+Sequence : SIGGDI
+{443, 444, 445}
+Sequence : TWREADI
+{451, 443, 444, 445}
+Sequence : SDRILYS
+{444, 445}
+Sequence : WLIYKT
+{443, 444, 445}
+Sequence : FTKIR
+{445, 447}
+Sequence : SIGGDI
+{443, 444, 445}
+Sequence : TWREADI
+{451, 443, 444, 445}
+Sequence : SDRILYS
+{444, 445}
+Sequence : WLIYKT
+{443, 444, 445}
+Sequence : FTKIR
+{445, 447}
+Sequence : SIGGDI
+{443, 444, 445}
+Sequence : TWREADI
+{451, 443, 444, 445}
+Sequence : SDRILYS
+{444, 445}
+Sequence : WLIYKT
+{443, 444, 445}
+Sequence : FTKIR
+{445, 447}

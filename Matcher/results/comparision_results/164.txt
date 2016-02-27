@@ -1,0 +1,34 @@
+Sequence : ADKVP
+{164}
+Sequence : KTAENFRALSTG
+{164}
+Sequence : EWLDG
+{164}
+Sequence : MNIVEAME
+{164, 122, 124, 125}
+Sequence : RFGS
+{164}
+Sequence : TIADCGQL
+{164}
+Sequence : VFFDIAVD
+{164}
+Sequence : PLGRVSFELF
+{164}
+Sequence : FGKVKEG
+{164}
+Sequence : LSMA
+{160, 164}
+Sequence : FICT
+{164}
+Sequence : CQGG
+{160, 164}
+Sequence : HRIIP
+{160, 164}
+Sequence : DGEP
+{164}
+Sequence : EKGF
+{164}
+Sequence : PGFM
+{164}
+Sequence : RNGK
+{164}

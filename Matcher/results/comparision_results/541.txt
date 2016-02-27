@@ -1,0 +1,168 @@
+Sequence : KASLRRLVQFNI
+{541}
+Sequence : LSEREQVLEIVAE
+{541}
+Sequence : AESQQLAASAKR
+{541}
+Sequence : FEEHCDHYRAIIDS
+{541}
+Sequence : LDQINTL
+{541}
+Sequence : LYQMEQIRRE
+{541}
+Sequence : DEIFASGLLA
+{541}
+Sequence : YNIMGWRYQGIVKALKE
+{541}
+Sequence : IQTAQKLQTECNKVIDLLIKT
+{541}
+Sequence : VFRGLKTVLHY
+{541}
+Sequence : QPELKALAQQ
+{541}
+Sequence : KASLRRLVQFNI
+{541}
+Sequence : LSEREQVLEIVAE
+{541}
+Sequence : AESQQLAASAKR
+{541}
+Sequence : FEEHCDHYRAIIDS
+{541}
+Sequence : LDQINTL
+{541}
+Sequence : LYQMEQIRRE
+{541}
+Sequence : DEIFASGLLA
+{541}
+Sequence : YNIMGWRYQGIVKALKE
+{541}
+Sequence : IQTAQKLQTECNKVIDLLIKT
+{541}
+Sequence : VFRGLKTVLHY
+{541}
+Sequence : QPELKALAQQ
+{541}
+Sequence : KASLRRLVQFNI
+{541}
+Sequence : LSEREQVLEIVAE
+{541}
+Sequence : AESQQLAASAKR
+{541}
+Sequence : FEEHCDHYRAIIDS
+{541}
+Sequence : LDQINTL
+{541}
+Sequence : LYQMEQIRRE
+{541}
+Sequence : DEIFASGLLA
+{541}
+Sequence : YNIMGWRYQGIVKALKE
+{541}
+Sequence : IQTAQKLQTECNKVIDLLIKT
+{541}
+Sequence : VFRGLKTVLHY
+{541}
+Sequence : QPELKALAQQ
+{541}
+Sequence : KASLRRLVQFNI
+{541}
+Sequence : LSEREQVLEIVAE
+{541}
+Sequence : AESQQLAASAKR
+{541}
+Sequence : FEEHCDHYRAIIDS
+{541}
+Sequence : LDQINTL
+{541}
+Sequence : LYQMEQIRRE
+{541}
+Sequence : DEIFASGLLA
+{541}
+Sequence : YNIMGWRYQGIVKALKE
+{541}
+Sequence : IQTAQKLQTECNKVIDLLIKT
+{541}
+Sequence : VFRGLKTVLHY
+{541}
+Sequence : QPELKALAQQ
+{541}
+Sequence : MAA
+{541}
+Sequence : GLYV
+{540, 541}
+Sequence : KLIAH
+{541}
+Sequence : AVSAV
+{541}
+Sequence : MVVYN
+{541}
+Sequence : VGALKQ
+{541}
+Sequence : VLYN
+{541}
+Sequence : GGIG
+{541}
+Sequence : MAA
+{541}
+Sequence : MAA
+{541}
+Sequence : GLYV
+{540, 541}
+Sequence : KLIAH
+{541}
+Sequence : AVSAV
+{541}
+Sequence : MVVYN
+{541}
+Sequence : VGALKQ
+{541}
+Sequence : VLYN
+{541}
+Sequence : GGIG
+{541}
+Sequence : MAA
+{541}
+Sequence : MAA
+{541}
+Sequence : GLYV
+{540, 541}
+Sequence : KLIAH
+{541}
+Sequence : AVSAV
+{541}
+Sequence : MVVYN
+{541}
+Sequence : VGALKQ
+{541}
+Sequence : VLYN
+{541}
+Sequence : GGIG
+{541}
+Sequence : MAA
+{541}
+Sequence : MAA
+{541}
+Sequence : GLYV
+{540, 541}
+Sequence : KLIAH
+{541}
+Sequence : AVSAV
+{541}
+Sequence : MVVYN
+{541}
+Sequence : VGALKQ
+{541}
+Sequence : VLYN
+{541}
+Sequence : GGIG
+{541}
+Sequence : MAA
+{541}
+Sequence : KGKI
+{541}
+Sequence : KGKI
+{541}
+Sequence : KGKI
+{541}
+Sequence : KGKI
+{541}

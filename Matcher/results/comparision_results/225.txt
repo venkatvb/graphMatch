@@ -1,0 +1,36 @@
+Sequence : NLDNAIDMIREA
+{225}
+Sequence : GYGLCAA
+{225}
+Sequence : AQYPIADLVKMLSEQ
+{225}
+Sequence : GQLNVLLAEAG
+{225}
+Sequence : PYD
+{144, 225, 497, 498}
+Sequence : MDEIN
+{225}
+Sequence : HDFPDT
+{225}
+Sequence : NDTVN
+{225}
+Sequence : SAAQED
+{225}
+Sequence : EVWKS
+{225}
+Sequence : NPIFYK
+{225}
+Sequence : DAKKTCDALQAKVRE
+{225}
+Sequence : VLE
+{225}
+Sequence : KVRFGI
+{225}
+Sequence : SIIITP
+{225}
+Sequence : LVLVI
+{225}
+Sequence : VIVMK
+{225}
+Sequence : TAMLL
+{225}

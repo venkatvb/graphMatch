@@ -1,0 +1,80 @@
+Sequence : NDDQKSAYALGASLGRYXENSLKEQEKL
+{158}
+Sequence : DKDQLIAGVQDAFA
+{158, 159}
+Sequence : SDQEIEQTLQAFEARVKSSAQAKXEKDAADNEAKGKEYREKFAK
+{158}
+Sequence : YTRG
+{158}
+Sequence : DGV
+{158}
+Sequence : IPGWTEGL
+{158}
+Sequence : KNI
+{158}
+Sequence : PPELA
+{158, 159}
+Sequence : NDDQKSAYALGASLGRYXENSLKEQEK
+{158}
+Sequence : DKDQLIAGVQDAFA
+{158, 159}
+Sequence : SDQEIEQTLQAFEARVKSSAQAKXEKDAADNEAKGKEYREKFAK
+{158}
+Sequence : SYTRG
+{158}
+Sequence : DGV
+{158}
+Sequence : IPGWTEGL
+{158}
+Sequence : KNI
+{158}
+Sequence : PPELA
+{158, 159}
+Sequence : VKT
+{536, 158, 159}
+Sequence : VYQVVE
+{158, 159}
+Sequence : KIKLVI
+{158, 159}
+Sequence : LVFDVELLDVK
+{158, 159}
+Sequence : TVVVNYKGTL
+{158, 159}
+Sequence : EFDN
+{158}
+Sequence : VKT
+{536, 158, 159}
+Sequence : VYQVVE
+{158, 159}
+Sequence : KIKLVI
+{158, 159}
+Sequence : LVFDVELLDVK
+{158, 159}
+Sequence : TVVVNYKGTL
+{158, 159}
+Sequence : LSFR
+{158, 159}
+Sequence : KT
+{534, 263, 265, 158}
+Sequence : VYQVVE
+{158, 159}
+Sequence : KIKLVI
+{158, 159}
+Sequence : LVFDVELLDVK
+{158, 159}
+Sequence : TVVVNYKGTL
+{158, 159}
+Sequence : EFDN
+{158}
+Sequence : KT
+{534, 263, 265, 158}
+Sequence : VYQVVE
+{158, 159}
+Sequence : KIKLVI
+{158, 159}
+Sequence : LVFDVELLDVK
+{158, 159}
+Sequence : TVVVNYKGTL
+{158, 159}
+Sequence : LSFR
+{158, 159}

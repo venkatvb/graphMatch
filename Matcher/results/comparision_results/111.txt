@@ -1,0 +1,52 @@
+Sequence : GYIGSHTVLELLEA
+{112, 113, 111}
+Sequence : PESLRRVQELTG
+{112, 113, 111}
+Sequence : DQGALQRLFKKY
+{112, 113, 111}
+Sequence : AVGESVQK
+{114, 115, 111}
+Sequence : KPLDYYRVNLTGTIQLLEIMKAHG
+{111}
+Sequence : SATVYG
+{114, 115, 111}
+Sequence : NPYGKSKFFIEEMIRDLCQAD
+{112, 113, 111}
+Sequence : LMPYVSQVAI
+{111}
+Sequence : VVDLAKGHIAALRKLKE
+{113, 111}
+Sequence : VLQMVQAMEKASG
+{112, 113, 111}
+Sequence : PSLAQEELG
+{111}
+Sequence : GLDRMCEDLWRWQKQN
+{112, 113, 111}
+Sequence : EFEE
+{112, 113, 111}
+Sequence : LPVVID
+{111}
+Sequence : KVLVT
+{112, 113, 111}
+Sequence : FMAVIH
+{112, 113, 111}
+Sequence : NLVFS
+{111}
+Sequence : NAVLLR
+{111}
+Sequence : CRIYN
+{111}
+Sequence : NPT
+{112, 113, 111}
+Sequence : YIH
+{112, 113, 114, 115, 116, 117, 111}
+Sequence : LNVF
+{112, 113, 111}
+Sequence : YKVV
+{112, 113, 111}
+Sequence : YS
+{112, 113, 111}
+Sequence : VR
+{112, 113, 114, 115, 86, 87, 88, 89, 111}
+Sequence : AC
+{112, 113, 111}

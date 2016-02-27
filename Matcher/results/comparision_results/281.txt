@@ -1,0 +1,32 @@
+Sequence : HHGSGKSYPTVSADYQKAVEKAK
+{281}
+Sequence : KKLRGFIAEKRCAP
+{281}
+Sequence : FDKG
+{281}
+Sequence : TKTGGP
+{281}
+Sequence : FGTIK
+{281}
+Sequence : HPAELAHSANNGLDI
+{281}
+Sequence : LEPLKAEFPILSYADFY
+{281}
+Sequence : PPEGRLPDAT
+{281}
+Sequence : LRDVFGKAMG
+{281}
+Sequence : LTDQ
+{281}
+Sequence : GPWTSNPLIF
+{281}
+Sequence : LLSGEKEGLL
+{281}
+Sequence : LPSDKALLSDPV
+{281}
+Sequence : VFRPLVDKYAADEDAFFA
+{281}
+Sequence : IV
+{485, 295, 519, 296, 520, 281, 297, 521, 522, 479}
+Sequence : GA
+{192, 193, 281, 282, 287}

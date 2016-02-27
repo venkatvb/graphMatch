@@ -1,0 +1,58 @@
+Sequence : IAN
+{64, 302, 63}
+Sequence : SSFAMLLEAQR
+{64, 62}
+Sequence : MGD
+{64, 63}
+Sequence : LAD
+{64, 63}
+Sequence : TEFIYATYILERAEEK
+{64, 63}
+Sequence : PQSLRD
+{64, 62, 63}
+Sequence : LFTAWFSDL
+{64}
+Sequence : KAQLKAFWEKH
+{64, 62, 63}
+Sequence : LGVIAETL
+{64, 62, 63}
+Sequence : PAIKD
+{64, 62, 63}
+Sequence : ESDWKIARQIGPTLKE
+{64, 63}
+Sequence : IREIEAE
+{64, 63}
+Sequence : ITGMLMDAIEARLQ
+{64}
+Sequence : ELHYM
+{64, 62, 63}
+Sequence : KLGIV
+{64, 63}
+Sequence : VILM
+{64, 63}
+Sequence : LIV
+{64, 62, 63}
+Sequence : LYLI
+{64, 484, 62, 63}
+Sequence : EARAHTRTLNV
+{64, 62}
+Sequence : FSFVGEQDLP
+{64, 62}
+Sequence : TLVT
+{64, 62, 63}
+Sequence : CMAQN
+{64, 62, 63}
+Sequence : IILKP
+{64, 62}
+Sequence : FRV
+{64, 62, 63}
+Sequence : RLTEIN
+{64, 63}
+Sequence : FVGLDII
+{64, 63}
+Sequence : DKRVLVV
+{64, 62, 63}
+Sequence : YCLAR
+{64, 62}
+Sequence : EPRP
+{64}

@@ -1,0 +1,88 @@
+Sequence : MTDLKASSLRALK
+{533, 534}
+Sequence : DTDEKVIALCHQ
+{533}
+Sequence : IYP
+{21, 533, 22, 406, 24, 25, 409, 26, 411, 412, 413, 414}
+Sequence : RFIPIARKTLKE
+{533}
+Sequence : DDIDIALAETRAAIAY
+{533}
+Sequence : FPYRALM
+{533}
+Sequence : NEQVGFDLVKACKEACAA
+{533}
+Sequence : IETGEL
+{533}
+Sequence : KDEALIRKASEISIK
+{533}
+Sequence : ATPESARIMMEVIRDM
+{533}
+Sequence : RTAEDAQKYLAIADELF
+{533}
+Sequence : SLLASLLKAL
+{533, 534}
+Sequence : MTDLKASSLRALK
+{533, 534}
+Sequence : DTDEKVIALCHQ
+{533}
+Sequence : IYP
+{21, 533, 22, 406, 24, 25, 409, 26, 411, 412, 413, 414}
+Sequence : RFIPIARKTLKE
+{533}
+Sequence : DDIDIALAETRAAIAY
+{533}
+Sequence : FPYRALM
+{533}
+Sequence : NEQVGFDLVKACKEACAA
+{533}
+Sequence : IETGEL
+{533}
+Sequence : KDEALIRKASEISIK
+{533}
+Sequence : ATPESARIMMEVIRDM
+{533}
+Sequence : RTAEDAQKYLAIADELF
+{533}
+Sequence : SLLASLLKA
+{533}
+Sequence : VGF
+{533}
+Sequence : DFI
+{533}
+Sequence : VLLKV
+{533}
+Sequence : DEVDV
+{533}
+Sequence : IRIATV
+{533}
+Sequence : AAI
+{533}
+Sequence : LMDL
+{533}
+Sequence : RFG
+{148, 533}
+Sequence : AK
+{533, 172, 13, 175}
+Sequence : VG
+{533}
+Sequence : VGF
+{533}
+Sequence : DFI
+{533}
+Sequence : VLLKV
+{533}
+Sequence : DEVDV
+{533}
+Sequence : IRIATV
+{533}
+Sequence : AAI
+{533}
+Sequence : LMDL
+{533}
+Sequence : RFG
+{148, 533}
+Sequence : AK
+{533, 172, 13, 175}
+Sequence : VG
+{533}

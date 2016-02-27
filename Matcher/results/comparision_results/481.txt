@@ -1,0 +1,24 @@
+Sequence : AAAKFERQH
+{481, 466, 467, 468, 478}
+Sequence : SSSNYCNLMMCCRK
+{481}
+Sequence : SLADVKAVCS
+{481}
+Sequence : VNTFV
+{480, 481, 466, 482, 467, 468, 470, 471, 472, 478}
+Sequence : MRITDCR
+{481}
+Sequence : KTTQVEKHIIVACG
+{481}
+Sequence : NCYQ
+{481}
+Sequence : KKVT
+{481, 452}
+Sequence : VNTFV
+{480, 481, 466, 482, 467, 468, 470, 471, 472, 478}
+Sequence : MRITDCR
+{481}
+Sequence : KTTQVEKHIIVACG
+{481}
+Sequence : VPVHFDASV
+{480, 481, 482, 470, 471, 475}

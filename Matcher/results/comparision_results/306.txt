@@ -1,0 +1,110 @@
+Sequence : TLYFPEPMAYW
+{306}
+Sequence : RTLF
+{306}
+Sequence : DTQNRKQ
+{306}
+Sequence : AVDDAALITAHYQSRF
+{306}
+Sequence : PYLILHDHTCTLFGGNSLQRGTQPDLTLV
+{306}
+Sequence : SMCALM
+{306}
+Sequence : MAMVATLPRE
+{306}
+Sequence : GNIVVTTLNV
+{306}
+Sequence : IDITLIATLRNVY
+{306}
+Sequence : CHFLRSGRVWRDGWGELPTSCGAY
+{306}
+Sequence : SPELGDTLF
+{306}
+Sequence : RGVILEVHAWA
+{306}
+Sequence : LDALM
+{306}
+Sequence : NVFSADLSGTPRQCAA
+{306}
+Sequence : TLSDFDSASAL
+{306}
+Sequence : ERAAR
+{306}
+Sequence : GV
+{306}
+Sequence : TLYFPEPMAYW
+{306}
+Sequence : RTLF
+{306}
+Sequence : DTQNRKQ
+{306}
+Sequence : AVDDAALITAHYQS
+{306}
+Sequence : PYLILHDHTCTLFGGNSLQRGTQPDLTL
+{306}
+Sequence : SMCALM
+{306}
+Sequence : MAMVATLPRE
+{306}
+Sequence : GNIVVTTLNV
+{306}
+Sequence : IDITLIATLR
+{306}
+Sequence : CHFLRSGRVWRDGWGELPTSCGAY
+{306}
+Sequence : SPELGDTL
+{306}
+Sequence : RGVIL
+{306}
+Sequence : VHAWA
+{306}
+Sequence : LDALM
+{306}
+Sequence : NVFSADLSGTPRQCAA
+{306}
+Sequence : TLSDFDSASAL
+{306}
+Sequence : ERAAR
+{306}
+Sequence : GV
+{306}
+Sequence : VESLLPL
+{306}
+Sequence : TRARIGE
+{306}
+Sequence : TTGRVMASAA
+{306}
+Sequence : ARYLLG
+{306}
+Sequence : VISG
+{306}
+Sequence : VESLLPL
+{306}
+Sequence : TRARIGE
+{306}
+Sequence : TTGRVMASAA
+{306}
+Sequence : FNAEM
+{306}
+Sequence : HPVA
+{306}
+Sequence : VESLLPL
+{306}
+Sequence : TRARIGE
+{306}
+Sequence : TTGRVMASAA
+{306}
+Sequence : ARYLLG
+{306}
+Sequence : VISG
+{306}
+Sequence : VESLLPL
+{306}
+Sequence : TRARIGE
+{306}
+Sequence : TTGRVMASAA
+{306}
+Sequence : FNAEM
+{306}
+Sequence : HPVA
+{306}

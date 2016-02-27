@@ -1,0 +1,68 @@
+Sequence : TDEAKELLSKD
+{415}
+Sequence : DKLIQQAYNEVKTSICS
+{415}
+Sequence : VVPIKELCYTLLEDTYN
+{415}
+Sequence : KPLDILKL
+{415}
+Sequence : NISSAHRSMNKLLLGLKH
+{415}
+Sequence : IKQLAY
+{415}
+Sequence : NFEELE
+{415}
+Sequence : PYFELTE
+{415}
+Sequence : SKRSIKKW
+{415}
+Sequence : TDEAKELLSKD
+{415}
+Sequence : DKLIQQAYNEVKTSICS
+{415}
+Sequence : VVPIKELCYTLLEDTYN
+{415}
+Sequence : KPLDILKLE
+{415}
+Sequence : NISSAHRSMNKLLLGLKH
+{415}
+Sequence : IKQLAY
+{415}
+Sequence : NFEELE
+{415}
+Sequence : PYFELTE
+{415}
+Sequence : RSIKKWKDKVEN
+{415}
+Sequence : EVEKEFI
+{422, 407, 415}
+Sequence : FIFIGFN
+{422, 407, 415}
+Sequence : LAIILMP
+{422, 415}
+Sequence : LKRVGMEF
+{415}
+Sequence : VYKEFI
+{415}
+Sequence : YR
+{407, 265, 415}
+Sequence : TIN
+{422, 407, 489, 415, 495}
+Sequence : AYN
+{422, 407, 415}
+Sequence : EVEKEFI
+{422, 407, 415}
+Sequence : FIFIGFN
+{422, 407, 415}
+Sequence : LAIILMP
+{422, 415}
+Sequence : LKRVGMEF
+{415}
+Sequence : VYKEFI
+{415}
+Sequence : YR
+{407, 265, 415}
+Sequence : TIN
+{422, 407, 489, 415, 495}
+Sequence : AYN
+{422, 407, 415}

@@ -1,0 +1,30 @@
+Sequence : SAL
+{458, 299, 462}
+Sequence : PPEATDTLNLIAS
+{458, 462}
+Sequence : SAL
+{458, 299, 462}
+Sequence : PPEATDTLNLIASD
+{458, 460, 462}
+Sequence : TVC
+{436, 458, 462}
+Sequence : SLID
+{458, 462}
+Sequence : DFYT
+{458}
+Sequence : RIIT
+{436, 458, 462}
+Sequence : HEYT
+{436, 458, 462}
+Sequence : TVC
+{436, 458, 462}
+Sequence : SLID
+{458, 462}
+Sequence : DFYT
+{458}
+Sequence : RIIT
+{436, 458, 462}
+Sequence : HEYT
+{436, 458, 462}
+Sequence : VV
+{135, 458, 283, 284, 285, 589, 462}

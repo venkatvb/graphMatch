@@ -1,0 +1,72 @@
+Sequence : TPTIELICG
+{235}
+Sequence : SEAQREAIINSARA
+{235}
+Sequence : SSSFL
+{235}
+Sequence : DKALREELVTLT
+{235}
+Sequence : KHVAQA
+{235}
+Sequence : FNRHLQIC
+{235}
+Sequence : LAEQLLLGVVDTAMMAQNALIAAESL
+{235}
+Sequence : GGLRN
+{235, 221}
+Sequence : NIEAVTKLL
+{235}
+Sequence : PASIL
+{235}
+Sequence : DKGALAQYDEQLAEYYLT
+{235}
+Sequence : TWSDHIRRTII
+{235}
+Sequence : FILDYLHKQ
+{235}
+Sequence : TPTIELICG
+{235}
+Sequence : SEAQREAIINSARA
+{235}
+Sequence : SSSFL
+{235}
+Sequence : DKALREELVTLT
+{235}
+Sequence : KHVAQA
+{235}
+Sequence : FNRHLQIC
+{235}
+Sequence : LAEQLLLGVVDTAMMAQNALIAAESL
+{235}
+Sequence : GGLRN
+{235, 221}
+Sequence : NIEAVTKLL
+{235}
+Sequence : PASIL
+{235}
+Sequence : DKGALAQYDEQLAEYYLT
+{235}
+Sequence : TWSDHIRRTII
+{235}
+Sequence : FILDYLHKQ
+{235}
+Sequence : GGVYI
+{235, 221}
+Sequence : VLPLFGLCLG
+{235}
+Sequence : EFWVFCAD
+{235}
+Sequence : SSIIR
+{235}
+Sequence : VHE
+{235, 221}
+Sequence : VHE
+{235, 221}
+Sequence : SSIIR
+{235}
+Sequence : EFWVFCAD
+{235}
+Sequence : VLPLFGLCLG
+{235}
+Sequence : GGVYI
+{235, 221}

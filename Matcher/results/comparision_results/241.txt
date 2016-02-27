@@ -1,0 +1,68 @@
+Sequence : AEFAKLRATN
+{241}
+Sequence : KHKDVCFVATS
+{241}
+Sequence : SASGKQAA
+{241}
+Sequence : TFVDM
+{241}
+Sequence : PEHMHQRS
+{241}
+Sequence : MVEPTF
+{241}
+Sequence : TPEAVKNL
+{241}
+Sequence : LQPYIQRTVDDLLEQMKQKG
+{241}
+Sequence : LVKEF
+{241}
+Sequence : LPVPSYIIYTLLG
+{241}
+Sequence : PFN
+{241}
+Sequence : DLEYLTQQNAIRTN
+{241}
+Sequence : TAREASAANQELLDYLAILVEQRLVE
+{241}
+Sequence : DIISKLCTEQ
+{241}
+Sequence : DKSDAVQIAFLLLVA
+{241}
+Sequence : GNATMVNMIALGVATLAQH
+{241}
+Sequence : HPDQLAQLKAN
+{241}
+Sequence : LAPQFVEELCRYH
+{241}
+Sequence : SNQSAN
+{241}
+Sequence : AEHLAKAELTTVFS
+{241}
+Sequence : TLYQKF
+{241}
+Sequence : PLGKI
+{241}
+Sequence : VSQVK
+{241}
+Sequence : LAWLV
+{241}
+Sequence : GIIA
+{241}
+Sequence : KRTA
+{241}
+Sequence : LS
+{241, 519, 520, 521, 282, 522}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : PVI
+{241}
+Sequence : KV
+{241, 12}
+Sequence : VMI
+{241}
+Sequence : KLV
+{241}
+Sequence : NY
+{241}
+Sequence : IVD
+{241, 253}

@@ -1,0 +1,124 @@
+Sequence : WGGTALRD
+{199}
+Sequence : KGKTLIELW
+{199}
+Sequence : EEHRE
+{199}
+Sequence : VHPDDYYAG
+{199}
+Sequence : TARSKTELVTX
+{199}
+Sequence : NSGDW
+{199}
+Sequence : RELHFAKAV
+{199}
+Sequence : WGGTALRD
+{199}
+Sequence : KGKTLIELW
+{199}
+Sequence : EEHRE
+{199}
+Sequence : VHPDDYY
+{199}
+Sequence : TARSKTELVTX
+{199}
+Sequence : NSGDW
+{199}
+Sequence : RELHFAKAV
+{199}
+Sequence : GP
+{229, 199, 263, 265}
+Sequence : QSPI
+{199}
+Sequence : KGDH
+{199}
+Sequence : ESFLICSVIEGSGL
+{199}
+Sequence : XPDFTIKGTCTLI
+{199}
+Sequence : EYFSVYKWDINGE
+{199}
+Sequence : RKGITIKT
+{199}
+Sequence : IDEST
+{199}
+Sequence : GP
+{229, 199, 263, 265}
+Sequence : QSPI
+{199}
+Sequence : KGDH
+{199}
+Sequence : ESFLICSVIEGSGL
+{199}
+Sequence : YEDKTC
+{199}
+Sequence : LTPV
+{199}
+Sequence : SESTGEC
+{199}
+Sequence : RFPLLTKL
+{199}
+Sequence : CKGALVLE
+{199}
+Sequence : GKTECWYI
+{199}
+Sequence : PGDF
+{199}
+Sequence : DTS
+{199}
+Sequence : DATY
+{199}
+Sequence : EGLLR
+{199}
+Sequence : ENAEII
+{199}
+Sequence : GTL
+{199}
+Sequence : GP
+{229, 199, 263, 265}
+Sequence : QSPI
+{199}
+Sequence : KGDH
+{199}
+Sequence : ESFLICSVIEGSGL
+{199}
+Sequence : XPDFTIKGTCTLI
+{199}
+Sequence : EYFSVYKWDINGE
+{199}
+Sequence : RKGITIKT
+{199}
+Sequence : IDEST
+{199}
+Sequence : GP
+{229, 199, 263, 265}
+Sequence : QSPI
+{199}
+Sequence : KGDH
+{199}
+Sequence : ESFLICSVIEGSGL
+{199}
+Sequence : YEDKTC
+{199}
+Sequence : LTPV
+{199}
+Sequence : SESTGEC
+{199}
+Sequence : RFPLLTKL
+{199}
+Sequence : CKGALVLE
+{199}
+Sequence : GKTECWYI
+{199}
+Sequence : PGDF
+{199}
+Sequence : DTS
+{199}
+Sequence : DATY
+{199}
+Sequence : EGLLR
+{199}
+Sequence : ENAEII
+{199}
+Sequence : GTL
+{199}

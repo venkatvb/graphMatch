@@ -1,0 +1,48 @@
+Sequence : SYEDFQKVYNAIALKLRED
+{260, 263, 264, 265}
+Sequence : EYDNYI
+{263, 264, 265}
+Sequence : YGPVLVRLAWHTSG
+{263, 264}
+Sequence : GTYR
+{263, 264}
+Sequence : FKKEFN
+{260, 263, 264, 265}
+Sequence : DPSNA
+{263, 264}
+Sequence : G
+{49, 263, 264}
+Sequence : LQNGFKFLEPIHKEF
+{263, 264, 265}
+Sequence : SSGDLFSLGGVTAVQEM
+{260, 263, 264, 265}
+Sequence : PEDTT
+{263, 264}
+Sequence : DADYVRTFFQR
+{263, 264, 265}
+Sequence : NDREVVALMG
+{263, 264, 265}
+Sequence : AHTL
+{263, 264}
+Sequence : HLKNSG
+{260, 263, 264, 265}
+Sequence : NSFYLNLLNE
+{263, 264}
+Sequence : LPTDYSLIQD
+{264, 265}
+Sequence : DPKYLSIVKEYAN
+{260, 263, 264, 265}
+Sequence : DQDKFFKDFSKAFEKLLEN
+{263, 264, 265}
+Sequence : TLEEQG
+{260, 263, 264, 265}
+Sequence : HV
+{263, 264, 265}
+Sequence : IT
+{263, 264, 265}
+Sequence : WKLEK
+{260, 263, 264, 265}
+Sequence : EQWDS
+{260, 263, 264, 265}
+Sequence : MM
+{263, 264, 265}

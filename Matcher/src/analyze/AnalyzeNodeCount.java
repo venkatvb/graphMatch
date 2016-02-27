@@ -2,6 +2,7 @@ package analyze;
 
 import graph.Graph;
 import helper.FileHelper;
+import helper.FileNotFoundException;
 
 import java.io.File;
 import java.io.PrintWriter;
@@ -43,7 +44,7 @@ public class AnalyzeNodeCount implements Serializable{
 		}
 	}
 	
-	private void storeContents(Integer fileNumber) {
+	private void storeContents(Integer fileNumber) throws FileNotFoundException {
 		String nodeValuesFileAddress = nodeValuesFileBaseAddress + "\\" + fileNumber.toString();
 		if(analyzeNodePoints.isUnique()) {
 			nodeValuesFileAddress += "_true.txt";
@@ -51,7 +52,7 @@ public class AnalyzeNodeCount implements Serializable{
 			nodeValuesFileAddress += "_false.txt";
 		}
 		File file = FileHelper.createFile(nodeValuesFileAddress);
-		analyzeNodePoints.serailizeContent(file);
+		analyzeNodePoints.serailizeContent(file, new String(""));
 	}
 	
 	public void printMappedContents() {
@@ -71,7 +72,7 @@ public class AnalyzeNodeCount implements Serializable{
 	}
 
 	@Override
-	public boolean serailizeContent(File file) {
+	public boolean serailizeContent(File file, String content) {
 		PrintWriter pw;
 		List<SequenceListPair> items = new ArrayList<SequenceListPair>();
 		for(Map.Entry<String, ArrayList<Integer>> entry : mp.entrySet()) {

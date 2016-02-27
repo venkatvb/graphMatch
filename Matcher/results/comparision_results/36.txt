@@ -1,0 +1,84 @@
+Sequence : YIAKQRQISFVKSHFSRQLEERL
+{36, 37}
+Sequence : AKWKRQTLGQ
+{36, 37}
+Sequence : FSTLKSTVEAIWAGIKATEAAVSEE
+{36, 37}
+Sequence : SQELLSR
+{36, 37}
+Sequence : AKGRERAIAKDL
+{36, 37}
+Sequence : ADTLKHQLALT
+{36, 37}
+Sequence : EDRLE
+{36, 37}
+Sequence : EWHQALL
+{36, 37}
+Sequence : QSRLTMLLL
+{36, 37}
+Sequence : IGQ
+{36, 37}
+Sequence : AAVRES
+{36, 37}
+Sequence : YIAKQRQISFVKSHFSRQLEER
+{36, 37}
+Sequence : WKRQTLGQ
+{36, 37}
+Sequence : FSTLKSTVEAIWAGIKATEAAVSEEF
+{36, 37}
+Sequence : SQELLSR
+{36, 37}
+Sequence : AKGRERAIAKDL
+{36, 37}
+Sequence : ADTLKHQLALT
+{36, 37}
+Sequence : EDRLE
+{36, 37}
+Sequence : EWHQALL
+{36, 37}
+Sequence : QSRLTMLL
+{36, 37}
+Sequence : IGQ
+{36, 37}
+Sequence : AAVRES
+{36, 37}
+Sequence : LIE
+{36, 37}
+Sequence : GLYTHMKAL
+{36, 37}
+Sequence : YVDQWDWERV
+{36, 37}
+Sequence : TIGGGIG
+{36, 37}
+Sequence : DAFELSSMGI
+{36, 37}
+Sequence : NGDILVWN
+{36, 37}
+Sequence : AVFLV
+{36, 37}
+Sequence : HFVH
+{36, 37}
+Sequence : LSR
+{36, 37}
+Sequence : FEV
+{36, 37}
+Sequence : LIE
+{36, 37}
+Sequence : GLYTHMKAL
+{36, 37}
+Sequence : YVDQWDWERV
+{36, 37}
+Sequence : TIGGGIG
+{36, 37}
+Sequence : DAFELSSMGI
+{36, 37}
+Sequence : NGDILVWN
+{36, 37}
+Sequence : AVFLV
+{36, 37}
+Sequence : HFVH
+{36, 37}
+Sequence : LSR
+{36, 37}
+Sequence : FEV
+{36, 37}

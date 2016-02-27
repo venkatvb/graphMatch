@@ -1,0 +1,66 @@
+Sequence : SSSDVSTAQAAGYKLHED
+{457}
+Sequence : SSSDVSTAQAAGYKLHEDG
+{457}
+Sequence : SSSDVSTAQAAGYKLHEDG
+{457}
+Sequence : ASGNN
+{457}
+Sequence : SSSDVSTAQAAGYKLHED
+{457}
+Sequence : YTC
+{437, 457, 459, 461}
+Sequence : NCY
+{437, 457, 477}
+Sequence : HKY
+{437, 457}
+Sequence : YYEWP
+{437, 457}
+Sequence : DRVVFN
+{437, 457, 459, 461}
+Sequence : LAGVIT
+{437, 457}
+Sequence : VE
+{135, 457}
+Sequence : YTC
+{437, 457, 459, 461}
+Sequence : NCY
+{437, 457, 477}
+Sequence : HKY
+{437, 457}
+Sequence : YYEWP
+{437, 457}
+Sequence : DRVVFN
+{437, 457, 459, 461}
+Sequence : LAGVIT
+{437, 457}
+Sequence : VE
+{135, 457}
+Sequence : YTC
+{437, 457, 459, 461}
+Sequence : NCY
+{437, 457, 477}
+Sequence : HKY
+{437, 457}
+Sequence : YYEWP
+{437, 457}
+Sequence : DRVVFN
+{437, 457, 459, 461}
+Sequence : LAGVIT
+{437, 457}
+Sequence : VE
+{135, 457}
+Sequence : YTC
+{437, 457, 459, 461}
+Sequence : NCY
+{437, 457, 477}
+Sequence : HKY
+{437, 457}
+Sequence : YYEWP
+{437, 457}
+Sequence : DRVVFN
+{437, 457, 459, 461}
+Sequence : LAGVIT
+{437, 457}
+Sequence : VE
+{135, 457}

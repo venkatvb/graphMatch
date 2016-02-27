@@ -1,0 +1,102 @@
+Sequence : RRNR
+{575}
+Sequence : DFSRRLV
+{575}
+Sequence : VDD
+{575}
+Sequence : IDQLLIEAEEWVAL
+{575}
+Sequence : VEK
+{575}
+Sequence : AEAY
+{575}
+Sequence : IAQRATRALRER
+{575}
+Sequence : DVSIDVLVRQALSHAEA
+{575}
+Sequence : RIGAIREALES
+{575}
+Sequence : AYYGPFRDAV
+{575}
+Sequence : ASNL
+{575}
+Sequence : DEALHEVAADLA
+{575}
+Sequence : MPYLDIVRRVKDEF
+{575}
+Sequence : SGEYAMHMGAIQN
+{575}
+Sequence : ESVILESLTAFKRA
+{575}
+Sequence : AKQAAEQL
+{575}
+Sequence : DFSRRLV
+{575}
+Sequence : VDD
+{575}
+Sequence : IDQLLIEAEEWVA
+{575}
+Sequence : VEK
+{575}
+Sequence : AEAY
+{575}
+Sequence : IAQRATRALRER
+{575}
+Sequence : DPF
+{575}
+Sequence : NDVSIDVLVRQALSHAEA
+{575}
+Sequence : RIGAIREALES
+{575}
+Sequence : AYYGPFRDAV
+{575}
+Sequence : DEALHEVAADLA
+{575}
+Sequence : MPYLDIVRRVKDEF
+{575}
+Sequence : SGEYAMHMGAIQ
+{575}
+Sequence : ESVILESLTAFKRA
+{575}
+Sequence : AKQAAEQ
+{575}
+Sequence : RES
+{575}
+Sequence : ERLS
+{575}
+Sequence : ILPVFVL
+{575}
+Sequence : ALALFP
+{575}
+Sequence : GIITDV
+{575}
+Sequence : VVAP
+{575}
+Sequence : GILT
+{575}
+Sequence : TFVYQ
+{575}
+Sequence : MVMVK
+{575}
+Sequence : MAYSAK
+{575}
+Sequence : ILPVFV
+{575}
+Sequence : ALALFP
+{575}
+Sequence : GIITDV
+{575}
+Sequence : VVAP
+{575}
+Sequence : RES
+{575}
+Sequence : ERL
+{575}
+Sequence : GILT
+{575}
+Sequence : TFVYQ
+{575}
+Sequence : MVMVK
+{575}
+Sequence : MAYSAK
+{575}

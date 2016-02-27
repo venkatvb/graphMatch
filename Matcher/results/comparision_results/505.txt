@@ -1,0 +1,42 @@
+Sequence : MNR
+{505}
+Sequence : RDDALRVTGEVR
+{505}
+Sequence : PLVLSEGM
+{505}
+Sequence : DIIAEFRKRFGC
+{505}
+Sequence : PETNEKICRATFKAG
+{505}
+Sequence : ADSVRACLNVAEEMGR
+{505}
+Sequence : PGAEMF
+{505}
+Sequence : IQGAADEIARMGVDLG
+{505}
+Sequence : PERLSRLREIIGQ
+{505}
+Sequence : TLRFA
+{505}
+Sequence : RSIYLA
+{505}
+Sequence : PAAAAAGIIESIK
+{505}
+Sequence : ILAM
+{505}
+Sequence : VKIGY
+{505}
+Sequence : IIADFKVA
+{505}
+Sequence : IIVHG
+{505}
+Sequence : VFLLT
+{505}
+Sequence : YVG
+{505}
+Sequence : LISPG
+{505}
+Sequence : IIVG
+{505}
+Sequence : ILAM
+{505}

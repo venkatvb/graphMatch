@@ -1,0 +1,104 @@
+Sequence : TQDVQDFLRVAS
+{283, 284, 285}
+Sequence : NPRVKQIIHRVLSDLYKAIEDL
+{283, 284, 285}
+Sequence : TSDEYWAGVAYLNQLGAN
+{283, 284, 285}
+Sequence : EAGLLSPGL
+{283, 284, 285}
+Sequence : GFDHYLDMRMDAEDAAL
+{283, 284, 285}
+Sequence : GPTQQLLNQL
+{283, 284, 285}
+Sequence : DPEAIKAN
+{283, 284, 285}
+Sequence : TQDVQDFLRVAS
+{283, 284, 285}
+Sequence : NPRVKQIIHRVLSDLYKAIEDL
+{283, 284, 285}
+Sequence : TSDEYWAGVAYLNQLGAN
+{283, 284, 285}
+Sequence : EAGLLSPGL
+{283, 284, 285}
+Sequence : GFDHYLDMRMDAEDAALG
+{283}
+Sequence : GPTQQLLNQL
+{283, 284, 285}
+Sequence : DPEAIKAN
+{283, 284, 285}
+Sequence : VA
+{242, 243, 283, 284, 285}
+Sequence : LA
+{283, 284, 285, 589}
+Sequence : ESV
+{283, 284, 285}
+Sequence : RRSII
+{283, 284, 285}
+Sequence : KVEIW
+{283, 284, 285}
+Sequence : HIHYFVS
+{283, 284, 285}
+Sequence : LTTQINV
+{283, 284, 285}
+Sequence : VV
+{135, 458, 283, 284, 285, 589, 462}
+Sequence : YAR
+{283, 284, 285}
+Sequence : QYRVRTI
+{283, 284, 285}
+Sequence : TLILHGTIF
+{283, 284, 285}
+Sequence : FAEMV
+{283, 284, 285}
+Sequence : VEH
+{283, 284, 285}
+Sequence : YAR
+{283, 284, 285}
+Sequence : QYRVRTI
+{283, 284, 285}
+Sequence : TLILHGTIF
+{283, 284, 285}
+Sequence : LK
+{69, 70, 283, 539, 284, 285}
+Sequence : YG
+{17, 283, 285}
+Sequence : NR
+{283, 285}
+Sequence : VA
+{242, 243, 283, 284, 285}
+Sequence : LA
+{283, 284, 285, 589}
+Sequence : ESV
+{283, 284, 285}
+Sequence : RRSII
+{283, 284, 285}
+Sequence : KVEIW
+{283, 284, 285}
+Sequence : HIHYFVS
+{283, 284, 285}
+Sequence : LTTQINV
+{283, 284, 285}
+Sequence : VV
+{135, 458, 283, 284, 285, 589, 462}
+Sequence : YAR
+{283, 284, 285}
+Sequence : QYRVRTI
+{283, 284, 285}
+Sequence : TLILHGTIF
+{283, 284, 285}
+Sequence : FAEMV
+{283, 284, 285}
+Sequence : VEH
+{283, 284, 285}
+Sequence : YAR
+{283, 284, 285}
+Sequence : QYRVRTI
+{283, 284, 285}
+Sequence : TLILHGTIF
+{283, 284, 285}
+Sequence : LK
+{69, 70, 283, 539, 284, 285}
+Sequence : YG
+{17, 283, 285}
+Sequence : NR
+{283, 285}

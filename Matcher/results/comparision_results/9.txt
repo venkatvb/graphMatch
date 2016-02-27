@@ -1,0 +1,46 @@
+Sequence : DLLAELQWR
+{9}
+Sequence : EDGLRKLLNE
+{9}
+Sequence : LAPILTMRRFQQ
+{9}
+Sequence : TGL
+{9}
+Sequence : KETVEAWSARIKEQL
+{9}
+Sequence : YDWI
+{9}
+Sequence : VITFLRD
+{9}
+Sequence : GKH
+{9}
+Sequence : VNYMM
+{9}
+Sequence : ESVQ
+{113, 9}
+Sequence : FTEFSYMMLQAYDFLRLYETE
+{9}
+Sequence : WGNITAGLELIRKTK
+{9}
+Sequence : PYEFYQFWI
+{9}
+Sequence : VIRYLKYF
+{9}
+Sequence : KEEIEALEQELRE
+{9}
+Sequence : AAQKTLAEEVTKLV
+{9}
+Sequence : EEALRQAIRI
+{9}
+Sequence : QT
+{9}
+Sequence : FGLTI
+{9}
+Sequence : RLQIGG
+{9}
+Sequence : TLYCGF
+{9}
+Sequence : RPIALV
+{9}
+Sequence : KIKN
+{9}

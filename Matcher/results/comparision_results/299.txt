@@ -1,0 +1,82 @@
+Sequence : AGEQLHKAMKRYA
+{299}
+Sequence : YAEYFEMSVRLAEAMKRY
+{299}
+Sequence : FFMPVLGALFI
+{299}
+Sequence : ERELLNSMNIS
+{299}
+Sequence : KKGLQKILNVQKK
+{299}
+Sequence : MYTFVTSH
+{299}
+Sequence : HRTACVRFSHA
+{299}
+Sequence : GFGMFTTLGYLIC
+{299}
+Sequence : EELFLRSLQD
+{299}
+Sequence : PTLFSFFAK
+{299}
+Sequence : IDK
+{299}
+Sequence : KEVGEAVAKR
+{299}
+Sequence : TET
+{299}
+Sequence : PEATNAL
+{299}
+Sequence : RLK
+{299}
+Sequence : PAELESILL
+{299}
+Sequence : EKEIVDYVASQ
+{299}
+Sequence : ARKIREILIKA
+{299}
+Sequence : EIA
+{299}
+Sequence : SAL
+{458, 299, 462}
+Sequence : AILS
+{299}
+Sequence : RVVL
+{299}
+Sequence : IAFTD
+{299}
+Sequence : NIT
+{299}
+Sequence : AVAP
+{299}
+Sequence : RIVVC
+{299}
+Sequence : VVFV
+{299}
+Sequence : KIII
+{299}
+Sequence : FEAKVV
+{299}
+Sequence : ELCVRG
+{299}
+Sequence : AYW
+{299}
+Sequence : FFI
+{299}
+Sequence : IKY
+{299}
+Sequence : YQV
+{299}
+Sequence : GVVF
+{299, 523}
+Sequence : GELPAAVVVL
+{299}
+Sequence : IFDAGVAGLPD
+{299}
+Sequence : IALIMN
+{299}
+Sequence : GVALP
+{299}
+Sequence : GYG
+{299}
+Sequence : AILI
+{299}

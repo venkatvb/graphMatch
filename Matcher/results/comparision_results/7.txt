@@ -1,0 +1,52 @@
+Sequence : SPEEKLHLITR
+{7}
+Sequence : GEEKLKEILK
+{7}
+Sequence : HVA
+{7}
+Sequence : YFVPMSKIADFLKA
+{7}
+Sequence : ADLHAYLD
+{7}
+Sequence : PWELLELRVSYYENVIKAMLESIG
+{7}
+Sequence : TDY
+{499, 7, 493}
+Sequence : SKEYTLDVYRLSS
+{7}
+Sequence : TQHDSKKAG
+{7}
+Sequence : LLSGLLYPGLQALDEEYL
+{7}
+Sequence : QRKIFTFAEKYL
+{7}
+Sequence : PALG
+{7}
+Sequence : RKEDVKKKLKK
+{7}
+Sequence : NGVLSFIKHV
+{7}
+Sequence : DEKWG
+{7}
+Sequence : AYVDLEKDFAA
+{7}
+Sequence : HPGDLKNSVEVALNKLLDPIREKF
+{7}
+Sequence : TPALKKLASAAY
+{7}
+Sequence : EVL
+{245, 7, 381}
+Sequence : VHLMN
+{7}
+Sequence : AQFGG
+{7}
+Sequence : KIYWGT
+{7}
+Sequence : EVTILF
+{7}
+Sequence : LKFIK
+{7}
+Sequence : FVI
+{7}
+Sequence : KTY
+{7}

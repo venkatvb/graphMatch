@@ -1,0 +1,60 @@
+Sequence : KGVYSTQVGFA
+{250}
+Sequence : AEVVRVV
+{250}
+Sequence : HDPTQGMRQGND
+{250}
+Sequence : EHV
+{250}
+Sequence : EDYQKVLSEHGFGLITTDIREG
+{250}
+Sequence : DGYCG
+{250}
+Sequence : LVVAA
+{250}
+Sequence : KGVYSTQVGFA
+{250}
+Sequence : AEVVRVV
+{250}
+Sequence : HDPTQGMRQGND
+{250}
+Sequence : EHV
+{250}
+Sequence : EDYQKVLSEHGFGLITTDIREG
+{250}
+Sequence : DGYCG
+{250}
+Sequence : LGGTGV
+{250}
+Sequence : DY
+{250}
+Sequence : AAL
+{250}
+Sequence : AERKFWT
+{250}
+Sequence : ISFEELLK
+{250}
+Sequence : TPNPTYKEV
+{250}
+Sequence : KD
+{400, 250}
+Sequence : AI
+{512, 578, 250, 511}
+Sequence : TS
+{434, 250, 431}
+Sequence : DY
+{250}
+Sequence : AAL
+{250}
+Sequence : AERKFWT
+{250}
+Sequence : ISFEELLK
+{250}
+Sequence : TPNPTYKEV
+{250}
+Sequence : KD
+{400, 250}
+Sequence : AI
+{512, 578, 250, 511}
+Sequence : TS
+{434, 250, 431}

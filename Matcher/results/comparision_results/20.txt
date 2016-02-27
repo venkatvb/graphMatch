@@ -1,0 +1,70 @@
+Sequence : HVGTAYIALFNYAWARRN
+{20}
+Sequence : GAEERILAALKWL
+{20}
+Sequence : RQSE
+{20}
+Sequence : RLPLYQKYAEELLKR
+{20}
+Sequence : TPEELEQIRKEKG
+{20}
+Sequence : GRARNI
+{20}
+Sequence : PPEEAEERARR
+{20}
+Sequence : QEI
+{20}
+Sequence : TYHLANVVDDHLM
+{20}
+Sequence : EWLV
+{20}
+Sequence : STPIHVLLYRAFG
+{20}
+Sequence : SLDWYKAE
+{20}
+Sequence : LPEALRNYLCLMG
+{20}
+Sequence : TLEEFIQAF
+{20}
+Sequence : TWERV
+{20}
+Sequence : DLEKLRWMNGKYIREV
+{20}
+Sequence : SLEEVAERVKPFLREA
+{20}
+Sequence : SEAYLRRAVELMR
+{20}
+Sequence : PRF
+{20}
+Sequence : KEFPEKA
+{20}
+Sequence : RYLF
+{20}
+Sequence : SEKAQRKLEEGLPLLKELYPRLRAQ
+{20}
+Sequence : TEAALEALLRGFAAEKG
+{20}
+Sequence : KLGQVAQPLRAALTG
+{20}
+Sequence : GLFEILAL
+{20}
+Sequence : GKERALRRLERALA
+{20}
+Sequence : VTRI
+{20}
+Sequence : RFIV
+{20}
+Sequence : AYRA
+{20}
+Sequence : VIRL
+{20}
+Sequence : VLL
+{20}
+Sequence : TTEVKD
+{20}
+Sequence : GVVVYD
+{20}
+Sequence : DVIRA
+{20}
+Sequence : RFYHM
+{20}

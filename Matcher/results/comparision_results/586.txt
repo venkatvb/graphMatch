@@ -1,0 +1,48 @@
+Sequence : HXRLDKFIAQ
+{586}
+Sequence : LGVSRAIAGRE
+{586}
+Sequence : DHPTVL
+{586}
+Sequence : DEPVA
+{586}
+Sequence : XTDDGQWSHR
+{586}
+Sequence : VADDTAEQF
+{586}
+Sequence : GRYHQVKRXF
+{586}
+Sequence : RPLTEE
+{586}
+Sequence : GS
+{432, 8, 282, 586, 12}
+Sequence : AA
+{282, 586, 558}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : EHD
+{586}
+Sequence : YDG
+{586}
+Sequence : PGE
+{586}
+Sequence : GPRYFX
+{586}
+Sequence : IDTTGLV
+{586}
+Sequence : WK
+{586}
+Sequence : IDTTGLV
+{586}
+Sequence : GNHVVELHR
+{586}
+Sequence : IG
+{586, 317}
+Sequence : GNHVVELHR
+{586}
+Sequence : HCEKTYL
+{586}
+Sequence : TPTQVR
+{586}
+Sequence : KPAVLE
+{586}

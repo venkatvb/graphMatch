@@ -1,0 +1,84 @@
+Sequence : NKFKAALAA
+{530, 531}
+Sequence : NPISTEVLG
+{530, 531}
+Sequence : DISTFIPQLMAL
+{530}
+Sequence : EPVIIKRLLDI
+{530, 531}
+Sequence : TKEEAELAVAS
+{530}
+Sequence : HRANM
+{530}
+Sequence : DYFAQSN
+{530, 531}
+Sequence : SQQGVDN
+{530, 531}
+Sequence : NVDAIAA
+{530, 531}
+Sequence : GPSDLAAAL
+{530, 531}
+Sequence : HPDVQKAIQHIFNRASAH
+{530, 531}
+Sequence : VEADARRYLEW
+{530, 531}
+Sequence : DLGVFRSATQKLADTFK
+{530}
+Sequence : NKFKAALAA
+{530, 531}
+Sequence : NPISTEVLG
+{530, 531}
+Sequence : DISTFIPQLMAL
+{530}
+Sequence : EPVIIKRLLDIG
+{530}
+Sequence : TKEEAELAVAS
+{530}
+Sequence : HRANM
+{530}
+Sequence : DYFAQSN
+{530, 531}
+Sequence : SQQGVDN
+{530, 531}
+Sequence : NVDAIAA
+{530, 531}
+Sequence : GPSDLAAAL
+{530, 531}
+Sequence : HPDVQKAIQHIFNRASAH
+{530, 531}
+Sequence : VEADARRYLEWG
+{530}
+Sequence : DLGVFRSATQKLADTFKK
+{530, 531}
+Sequence : APVVR
+{530, 531}
+Sequence : WLVLD
+{530, 531}
+Sequence : QIGCWS
+{530, 531}
+Sequence : FVA
+{530, 531}
+Sequence : PSGIL
+{530, 531}
+Sequence : GIFV
+{530}
+Sequence : TILVQI
+{530, 531}
+Sequence : NFLI
+{530, 531}
+Sequence : APVVR
+{530, 531}
+Sequence : WLVLD
+{530, 531}
+Sequence : QIGCWS
+{530, 531}
+Sequence : FVA
+{530, 531}
+Sequence : PSGIL
+{530, 531}
+Sequence : GIFV
+{530}
+Sequence : TILVQI
+{530, 531}
+Sequence : NFLI
+{530, 531}

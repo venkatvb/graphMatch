@@ -1,0 +1,26 @@
+Sequence : NLGRL
+{566, 567}
+Sequence : THDELVALIEREAAELG
+{567}
+Sequence : SEAQLLDWIHQAADAA
+{566, 567}
+Sequence : AGGLTHT
+{566, 567}
+Sequence : SVALRDACAE
+{566, 567}
+Sequence : NVHAR
+{566, 567}
+Sequence : EEFRRH
+{566, 567}
+Sequence : IQGYLLALRYLAEH
+{566, 567}
+Sequence : KAVVRQ
+{566, 567}
+Sequence : IVNVIN
+{566, 567}
+Sequence : VILN
+{566, 567}
+Sequence : LIEVH
+{566, 567}
+Sequence : GVIV
+{566, 567}

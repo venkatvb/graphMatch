@@ -1,0 +1,88 @@
+Sequence : PGKAFRAALTKEN
+{542}
+Sequence : ANHALLAQRAG
+{542}
+Sequence : GGGVAAGS
+{542}
+Sequence : LDDVLTDIRRITDVCS
+{542}
+Sequence : AFNVARTVKSMIKAG
+{542}
+Sequence : KEEMVDRIRAAVDAK
+{542}
+Sequence : LAVEGL
+{542}
+Sequence : LDAAIERAQAYVEAG
+{542}
+Sequence : LAMYRQFADAVQV
+{542}
+Sequence : TDELRSAH
+{542}
+Sequence : SAFRAMNRAAEHVYNVLRQEGT
+{542}
+Sequence : KSVIDTMQ
+{542}
+Sequence : RNELYESIN
+{542}
+Sequence : YQYEEKLDNLFA
+{542}
+Sequence : PGKAFRAALTKEN
+{542}
+Sequence : ANHALLAQRAG
+{542}
+Sequence : GGGVAAGS
+{542}
+Sequence : LDDVLTDIRRITDVCS
+{542}
+Sequence : AFNVARTVKSMIKAGA
+{542}
+Sequence : KEEMVDRIRAAVDAKT
+{542}
+Sequence : ALAVEGL
+{542}
+Sequence : LDAAIERAQAYVEAG
+{542}
+Sequence : LAMYRQFADAVQV
+{542}
+Sequence : TDELRSAH
+{542}
+Sequence : SAFRAMNRAAEHVYNVLRQEGT
+{542}
+Sequence : KSVIDTMQ
+{542}
+Sequence : RNELYESIN
+{542}
+Sequence : YQYEEKLDNLFA
+{542}
+Sequence : LFPE
+{542}
+Sequence : IMARTD
+{542}
+Sequence : LHIED
+{542}
+Sequence : LVDA
+{542}
+Sequence : YLS
+{201, 542}
+Sequence : QIVGT
+{542}
+Sequence : ALYP
+{542}
+Sequence : ANI
+{314, 542}
+Sequence : LFPE
+{542}
+Sequence : IMARTD
+{542}
+Sequence : LHIED
+{542}
+Sequence : LVDA
+{542}
+Sequence : YLS
+{201, 542}
+Sequence : QIVGT
+{542}
+Sequence : ALYP
+{542}
+Sequence : ANI
+{314, 542}

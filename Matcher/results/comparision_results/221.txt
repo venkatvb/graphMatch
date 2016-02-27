@@ -1,0 +1,68 @@
+Sequence : NTIETILA
+{221}
+Sequence : DEQRQTIIQAGLA
+{221}
+Sequence : SEKRNELAQFA
+{221}
+Sequence : AYVES
+{221}
+Sequence : YQRHATI
+{221}
+Sequence : TELTLIGAVDSGIMAQNCLLAAESM
+{221}
+Sequence : GGLRN
+{235, 221}
+Sequence : AAQVDELL
+{221}
+Sequence : AHVV
+{221}
+Sequence : LDDIQSYDQTMQAY
+{221}
+Sequence : WSQEVTGKLA
+{221}
+Sequence : HILPYLNSK
+{221}
+Sequence : NTIETILA
+{221}
+Sequence : DEQRQTIIQAGLA
+{221}
+Sequence : SEKRNELAQFA
+{221}
+Sequence : AYVES
+{221}
+Sequence : YQRHATI
+{221}
+Sequence : TELTLIGAVDSGIMAQNCLLAAESM
+{221}
+Sequence : GGLRN
+{235, 221}
+Sequence : AAQVDELL
+{221}
+Sequence : AHVV
+{221}
+Sequence : LDDIQSYDQTMQAY
+{221}
+Sequence : WSQEVTGKLA
+{221}
+Sequence : HILPYLNSK
+{221}
+Sequence : VHE
+{235, 221}
+Sequence : VSIVRV
+{221}
+Sequence : EFLVFCID
+{221}
+Sequence : SAVLFGMCLG
+{221}
+Sequence : GGVYI
+{235, 221}
+Sequence : VHE
+{235, 221}
+Sequence : VSIVRV
+{221}
+Sequence : EFLVFCID
+{221}
+Sequence : SAVLFGMCLG
+{221}
+Sequence : GGVYI
+{235, 221}

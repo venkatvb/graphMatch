@@ -1,0 +1,28 @@
+Sequence : FDGVADYLIRY
+{463}
+Sequence : KSQASAL
+{463}
+Sequence : LAEV
+{463}
+Sequence : FDGVADYLIRY
+{463}
+Sequence : KSQASAL
+{463}
+Sequence : LAEV
+{463}
+Sequence : WREAD
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447, 463}
+Sequence : RLVYS
+{463}
+Sequence : IYKT
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447, 463}
+Sequence : FTRIR
+{463}
+Sequence : IYKT
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447, 463}
+Sequence : RLVYS
+{463}
+Sequence : WREAD
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447, 463}
+Sequence : GGDVF
+{463}

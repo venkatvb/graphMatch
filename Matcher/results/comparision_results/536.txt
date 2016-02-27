@@ -1,0 +1,88 @@
+Sequence : ARDILQQGLDRLG
+{536}
+Sequence : PEDLASR
+{536}
+Sequence : EEDVRNLVREASDYGF
+{536}
+Sequence : PVYTVKISGLAEKLGV
+{536}
+Sequence : LEVKLVEAQTVLEAGA
+{536}
+Sequence : LSLG
+{536}
+Sequence : PEAVYREVSGIVKLAKSYG
+{536}
+Sequence : APLWD
+{536}
+Sequence : DKTLSLLVDSSRRAG
+{536}
+Sequence : PVTVFRLASLAKP
+{536}
+Sequence : LGM
+{536}
+Sequence : GIDAVLAVGAG
+{536}
+Sequence : AVKVLESFKSL
+{536}
+Sequence : ARDILQQGLDRLG
+{536}
+Sequence : PEDLASRI
+{536}
+Sequence : EEDVRNLVREASDYGF
+{536}
+Sequence : PVYTVKISGLAEKLGV
+{536}
+Sequence : LEVKLVEAQTVLEAG
+{536}
+Sequence : LSLG
+{536}
+Sequence : PEAVYREVSGIVKLAKSY
+{536}
+Sequence : APLWD
+{536}
+Sequence : DKTLSLLVDSSRRAGA
+{536}
+Sequence : PVTVFRLASLAKP
+{536}
+Sequence : LGM
+{536}
+Sequence : GIDAVLAVGAG
+{536}
+Sequence : AVKVLESFKSL
+{536}
+Sequence : DSTL
+{536}
+Sequence : VLT
+{536}
+Sequence : CSVIG
+{536}
+Sequence : LDVV
+{536}
+Sequence : VKVIL
+{536}
+Sequence : VKT
+{536, 158, 159}
+Sequence : VKASG
+{536}
+Sequence : IGTS
+{536}
+Sequence : DSTL
+{536}
+Sequence : DSTL
+{536}
+Sequence : VLT
+{536}
+Sequence : CSVIG
+{536}
+Sequence : LDVV
+{536}
+Sequence : VKVIL
+{536}
+Sequence : VKT
+{536, 158, 159}
+Sequence : VKASG
+{536}
+Sequence : IGTS
+{536}
+Sequence : DSTL
+{536}

@@ -1,0 +1,120 @@
+Sequence : ADDWDNQMLFFLSH
+{279}
+Sequence : MDTYAADVAALTEAL
+{279}
+Sequence : STGGGEVARYVAR
+{279}
+Sequence : LEVFDEFRAALAA
+{279}
+Sequence : RAQFYIDVPS
+{279}
+Sequence : QGLIDHWWLQGMM
+{279}
+Sequence : ANAHYECIAAFSE
+{279}
+Sequence : TDDLKR
+{279}
+Sequence : APKSAEL
+{279}
+Sequence : MLST
+{279}
+Sequence : PEVLNPDLLAFV
+{279}
+Sequence : ADDWDNQMLFFLSH
+{279}
+Sequence : MDTYAADVAALTEAL
+{279}
+Sequence : STGGGEVARYVAR
+{279}
+Sequence : LEVFDEFRAALAA
+{279}
+Sequence : RAQFYIDVPS
+{279}
+Sequence : QGLIDHWWLQGMM
+{279}
+Sequence : ANAHYECIAAFSE
+{279}
+Sequence : TDDLKR
+{279}
+Sequence : APKSAEL
+{279}
+Sequence : MLST
+{279}
+Sequence : PEVLNPDLLAFV
+{279}
+Sequence : ADDWDNQMLFFLSH
+{279}
+Sequence : MDTYAADVAALTEAL
+{279}
+Sequence : STGGGEVARYVAR
+{279}
+Sequence : LEVFDEFRAALAA
+{279}
+Sequence : RAQFYIDVPS
+{279}
+Sequence : QGLIDHWWLQGMM
+{279}
+Sequence : ANAHYECIAAFSE
+{279}
+Sequence : TDDLKR
+{279}
+Sequence : APKSAEL
+{279}
+Sequence : MLST
+{279}
+Sequence : PEVLNPDLLAFV
+{279}
+Sequence : TVT
+{279, 349}
+Sequence : NIF
+{279}
+Sequence : YKDW
+{279}
+Sequence : RVIAH
+{279}
+Sequence : PVVFH
+{279}
+Sequence : AVHIGH
+{279}
+Sequence : VAKAVLV
+{279}
+Sequence : PVLVAHG
+{279}
+Sequence : ATLKSY
+{279}
+Sequence : TVT
+{279, 349}
+Sequence : NIF
+{279}
+Sequence : YKDW
+{279}
+Sequence : RVIAH
+{279}
+Sequence : PVVFH
+{279}
+Sequence : AVHIGH
+{279}
+Sequence : VAKAVLV
+{279}
+Sequence : PVLVAHG
+{279}
+Sequence : ATLKSY
+{279}
+Sequence : TVT
+{279, 349}
+Sequence : NIF
+{279}
+Sequence : YKDW
+{279}
+Sequence : RVIAH
+{279}
+Sequence : PVVFH
+{279}
+Sequence : AVHIGH
+{279}
+Sequence : VAKAVLV
+{279}
+Sequence : PVLVAHG
+{279}
+Sequence : ATLKSY
+{279}

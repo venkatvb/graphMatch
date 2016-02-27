@@ -1,0 +1,68 @@
+Sequence : FGKELRMHQRIVATARKVLEAA
+{30}
+Sequence : QVFE
+{30}
+Sequence : GTAAMVRAYLEH
+{30}
+Sequence : GMKVW
+{30}
+Sequence : NPILDAEAVVLLYECLKEL
+{30}
+Sequence : DPEDRARYNAYLREVLS
+{30}
+Sequence : PHREAL
+{30}
+Sequence : SEDSKERLEEN
+{30}
+Sequence : PMRILDS
+{30}
+Sequence : SERDQALLKELG
+{30}
+Sequence : PMLDFL
+{30}
+Sequence : GEEARAHLKEVERHLERL
+{30}
+Sequence : GLSELL
+{30}
+Sequence : VERVALALEAE
+{30}
+Sequence : TEEAVAEAFYLAEALR
+{30}
+Sequence : KPAKGLEEALKR
+{30}
+Sequence : GEDELRAG
+{30}
+Sequence : EVPGYLLQAL
+{30}
+Sequence : LE
+{288, 30, 286, 287}
+Sequence : VRLWMAGPMF
+{30}
+Sequence : QFHQVNYEAL
+{30}
+Sequence : GVGFAFG
+{30}
+Sequence : ALGGGGR
+{30}
+Sequence : VRTAFEVH
+{30}
+Sequence : KVKLSS
+{30}
+Sequence : YEL
+{30}
+Sequence : FEE
+{30}
+Sequence : SLTL
+{30}
+Sequence : TFQ
+{30}
+Sequence : AEY
+{30}
+Sequence : LYLIP
+{30}
+Sequence : FAGFL
+{30}
+Sequence : EVTLKR
+{30}
+Sequence : QVRLS
+{30}

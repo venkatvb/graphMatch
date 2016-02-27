@@ -1,0 +1,96 @@
+Sequence : TLESIKSLTNSFNN
+{171, 174}
+Sequence : VSV
+{170, 171, 174}
+Sequence : HYDHTRKLL
+{170, 171, 174}
+Sequence : SAEIAKDL
+{170, 171, 174}
+Sequence : HFERRKYF
+{171, 174}
+Sequence : TDEDVREKLQASLKN
+{170, 171, 174}
+Sequence : SLEQREQ
+{170, 171, 174}
+Sequence : KTIEVITKQVKA
+{170, 171, 174}
+Sequence : FVDLI
+{170, 171, 174}
+Sequence : PLWAI
+{170, 171, 174}
+Sequence : TPEQAQLVHKEIRKIVKDTC
+{174}
+Sequence : GEKQANQI
+{170, 171, 174}
+Sequence : NCSSLIQ
+{170, 171, 174}
+Sequence : GNASLKE
+{170, 171, 174}
+Sequence : SFVDIIKSA
+{174}
+Sequence : TLESIKSLTNSFNN
+{171, 174}
+Sequence : VSV
+{170, 171, 174}
+Sequence : HYDHTRKLL
+{170, 171, 174}
+Sequence : SAEIAKDL
+{170, 171, 174}
+Sequence : HFERRKYF
+{171, 174}
+Sequence : TDEDVREKLQASLKN
+{170, 171, 174}
+Sequence : SLEQREQ
+{170, 171, 174}
+Sequence : KTIEVITKQVKA
+{170, 171, 174}
+Sequence : FVDLI
+{170, 171, 174}
+Sequence : PLWAI
+{170, 171, 174}
+Sequence : TPEQAQLVHKEIRKIVKDTCG
+{170, 171, 174}
+Sequence : GEKQANQI
+{170, 171, 174}
+Sequence : NCSSLIQ
+{170, 171, 174}
+Sequence : GNASLKE
+{170, 171, 174}
+Sequence : SFVDIIKSA
+{174}
+Sequence : YFVAAN
+{182, 170, 171, 174}
+Sequence : LDVVVF
+{170, 171, 174}
+Sequence : STGI
+{182, 170, 171, 174}
+Sequence : YVII
+{182, 170, 171, 174}
+Sequence : KAVVCF
+{182, 170, 171, 174}
+Sequence : VILVY
+{182, 170, 171, 174}
+Sequence : RILY
+{184, 169, 185, 174, 175}
+Sequence : GFLV
+{176, 182, 184, 169, 185, 170, 218, 171, 174}
+Sequence : YFVAAN
+{182, 170, 171, 174}
+Sequence : YFVAAN
+{182, 170, 171, 174}
+Sequence : LDVVVF
+{170, 171, 174}
+Sequence : STGI
+{182, 170, 171, 174}
+Sequence : YVII
+{182, 170, 171, 174}
+Sequence : KAVVCF
+{182, 170, 171, 174}
+Sequence : VILVY
+{182, 170, 171, 174}
+Sequence : RILY
+{184, 169, 185, 174, 175}
+Sequence : GFLV
+{176, 182, 184, 169, 185, 170, 218, 171, 174}
+Sequence : YFVAAN
+{182, 170, 171, 174}

@@ -1,0 +1,88 @@
+Sequence : GNRAATFPLQVL
+{315, 316}
+Sequence : NSDELQELYDGLKLN
+{315, 316}
+Sequence : DKSFLAMVVDIVQELKQQN
+{315, 316}
+Sequence : PDD
+{315, 316, 205}
+Sequence : LLPVYREK
+{315, 316}
+Sequence : VVPVA
+{315, 316}
+Sequence : NQFEAELLTG
+{315, 316}
+Sequence : SQEEALEVMDMLHSMG
+{315, 316}
+Sequence : GTGDLFAAMLLAWTHKH
+{315, 316}
+Sequence : NLKVACEKTVSAMHHVLQRTIKCAKAKS
+{315, 316}
+Sequence : MVQ
+{315, 316}
+Sequence : SKKDIES
+{315, 316}
+Sequence : GNRAATFPLQVL
+{315, 316}
+Sequence : NSDELQELYDGLKLN
+{315, 316}
+Sequence : DKSFLAMVVDIVQELKQQN
+{315, 316}
+Sequence : PDD
+{315, 316, 205}
+Sequence : LLPVYREK
+{315, 316}
+Sequence : VVPVA
+{315, 316}
+Sequence : NQFEAELLTG
+{315, 316}
+Sequence : SQEEALEVMDMLHSMG
+{315, 316}
+Sequence : GTGDLFAAMLLAWTHKH
+{315, 316}
+Sequence : NLKVACEKTVSAMHHVLQRTIKCAKAKSG
+{315, 316}
+Sequence : MVQ
+{315, 316}
+Sequence : SKKDIES
+{315, 316}
+Sequence : GQV
+{315, 316}
+Sequence : EVDAVNSVQF
+{315, 316}
+Sequence : RVLSIQSHV
+{315, 316}
+Sequence : YVLT
+{315, 316}
+Sequence : VYVC
+{315, 316}
+Sequence : II
+{315, 316, 479}
+Sequence : TVVI
+{315, 316}
+Sequence : YLMALGSQRT
+{315, 316}
+Sequence : VTQRIRMEMH
+{315, 316}
+Sequence : TV
+{417, 548, 69, 421, 549, 70, 550, 551, 552, 394, 236, 561, 315, 316, 543}
+Sequence : GQV
+{315, 316}
+Sequence : EVDAVNSVQF
+{315, 316}
+Sequence : RVLSIQSHV
+{315, 316}
+Sequence : YVLT
+{315, 316}
+Sequence : VYVC
+{315, 316}
+Sequence : II
+{315, 316, 479}
+Sequence : TVVI
+{315, 316}
+Sequence : YLMALGSQRTR
+{315, 316}
+Sequence : VVTQRIRMEMH
+{315, 316}
+Sequence : TV
+{417, 548, 69, 421, 549, 70, 550, 551, 552, 394, 236, 561, 315, 316, 543}

@@ -1,0 +1,62 @@
+Sequence : TPED
+{192, 193}
+Sequence : LWTVG
+{192, 193}
+Sequence : DPVESVQRLAELG
+{192}
+Sequence : DDDLI
+{192, 193}
+Sequence : SDSEREEHVKRFRQALDDTG
+{192}
+Sequence : HPVFK
+{192, 193}
+Sequence : DRDVRRYALRKTIRNIDLAVEL
+{192}
+Sequence : SGGAK
+{192}
+Sequence : DVRDALDRMKEAFDLLGEYVTSQ
+{192}
+Sequence : TVGHALAFIE
+{192, 193}
+Sequence : RPE
+{192, 193, 382}
+Sequence : EVGHEQM
+{192, 193}
+Sequence : NFPHGIAQALWA
+{192, 193}
+Sequence : DLRAAFWLVDLLESA
+{192}
+Sequence : DFDGVWASAAGCMRNYLILKERAAAFRAD
+{192}
+Sequence : DPEVQEALRAS
+{192, 193}
+Sequence : RLDELA
+{192, 193}
+Sequence : GLQALLDD
+{192}
+Sequence : RSAF
+{192}
+Sequence : DVDAAAAR
+{192, 193}
+Sequence : AFERLDQLAMDHLLG
+{192}
+Sequence : YGV
+{192, 193}
+Sequence : RFAI
+{192, 193}
+Sequence : TYVA
+{192, 193, 190}
+Sequence : MAT
+{192, 193, 190}
+Sequence : GVTFH
+{192, 193, 190, 191}
+Sequence : FTFG
+{192, 193, 190}
+Sequence : RHF
+{192, 193, 190}
+Sequence : DL
+{192, 193, 242, 243, 564}
+Sequence : GA
+{192, 193, 281, 282, 287}
+Sequence : DI
+{192, 193, 561, 548, 549, 550, 551, 552, 543}

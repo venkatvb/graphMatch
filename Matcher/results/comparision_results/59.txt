@@ -1,0 +1,36 @@
+Sequence : PKRIIKETEKLVSD
+{59}
+Sequence : LDVLK
+{59}
+Sequence : QIRTVLLSIQALLAS
+{59}
+Sequence : VAEDWIKN
+{59}
+Sequence : NEQGAKAKAREWTKLYA
+{59}
+Sequence : PKRIIKETEKLVSD
+{59}
+Sequence : LDVLK
+{59}
+Sequence : QIRTVLLSIQALLAS
+{59}
+Sequence : VAEDWIKN
+{59}
+Sequence : NEQGAKAKAREWTKLYA
+{59}
+Sequence : ITAEP
+{59}
+Sequence : YFQVTIE
+{59}
+Sequence : IFELELY
+{59}
+Sequence : KVRF
+{56, 59}
+Sequence : ITAEPH
+{59}
+Sequence : NLRYFQVTIE
+{59}
+Sequence : IFELELY
+{59}
+Sequence : KVRF
+{56, 59}

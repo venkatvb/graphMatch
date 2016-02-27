@@ -1,0 +1,70 @@
+Sequence : WQDVAQECEQ
+{489}
+Sequence : LGPK
+{489}
+Sequence : WWTRY
+{489}
+Sequence : RAQFIDMVNRCSA
+{489}
+Sequence : PQD
+{489}
+Sequence : NSDYGN
+{489}
+Sequence : RYRVQN
+{489}
+Sequence : NYVQNTIAAYINDLQAI
+{489}
+Sequence : SKH
+{489, 491}
+Sequence : ASDIQSLMAK
+{489}
+Sequence : ASEY
+{489}
+Sequence : FKYSTELGNTFRN
+{489}
+Sequence : LAWLSN
+{489}
+Sequence : EGW
+{489, 491}
+Sequence : SSS
+{489}
+Sequence : NQR
+{489, 491}
+Sequence : FEDGRLYDLANVFMLA
+{489}
+Sequence : EHR
+{499, 489, 491, 493}
+Sequence : SYIAGGVDFRNN
+{489}
+Sequence : GSS
+{489}
+Sequence : KVMS
+{489}
+Sequence : FVHL
+{489, 495}
+Sequence : AVQV
+{489, 495}
+Sequence : DIYVDTL
+{489, 495}
+Sequence : GFRFD
+{489, 495}
+Sequence : VVFQ
+{489, 495}
+Sequence : SGT
+{489}
+Sequence : SFG
+{489}
+Sequence : QISFG
+{489, 495}
+Sequence : GHMAIN
+{489, 495}
+Sequence : DAMAIH
+{489, 495}
+Sequence : TVQ
+{489, 42, 43, 44, 45, 46, 495}
+Sequence : TIN
+{422, 407, 489, 415, 495}
+Sequence : GQYC
+{489, 495}
+Sequence : VITV
+{489, 495}

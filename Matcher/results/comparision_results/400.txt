@@ -1,0 +1,74 @@
+Sequence : SYCHPIET
+{400}
+Sequence : EIEY
+{400}
+Sequence : FKP
+{400, 331, 332}
+Sequence : SYCHPIET
+{400}
+Sequence : EIEY
+{400}
+Sequence : FKPSC
+{400}
+Sequence : SYCHPIET
+{400}
+Sequence : EIEY
+{400}
+Sequence : SYCHPIET
+{400}
+Sequence : EIEY
+{400}
+Sequence : DIFQEYPD
+{400}
+Sequence : GGCCNDEG
+{400}
+Sequence : IMRIKPHQGQH
+{400}
+Sequence : FLQHNKCECRP
+{400}
+Sequence : DIFQEYPD
+{400}
+Sequence : GGCCNDEG
+{400}
+Sequence : PLM
+{400}
+Sequence : IMRIKPHQGQH
+{400}
+Sequence : FLQHNKCECRP
+{400}
+Sequence : DIFQEYPD
+{400}
+Sequence : GGCCNDEG
+{400}
+Sequence : PLM
+{400}
+Sequence : IMRIKPHQGQH
+{400}
+Sequence : LQHNKCECRP
+{400}
+Sequence : DIFQEYPD
+{400}
+Sequence : GGCCNDEG
+{400}
+Sequence : PLM
+{400}
+Sequence : IMRIKPHQGQH
+{400}
+Sequence : FLQHNKCECRP
+{400}
+Sequence : ESNITMQ
+{400}
+Sequence : KD
+{400, 250}
+Sequence : ESNITMQ
+{400}
+Sequence : KD
+{400, 250}
+Sequence : ESNITMQ
+{400}
+Sequence : KD
+{400, 250}
+Sequence : ESNITMQ
+{400}
+Sequence : KD
+{400, 250}

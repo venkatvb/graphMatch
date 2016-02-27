@@ -1,0 +1,108 @@
+Sequence : LGTSXXX
+{224}
+Sequence : DXLLD
+{224}
+Sequence : DPECVEAAVEXALDIAEDFE
+{224}
+Sequence : APGPSKAREXLAD
+{224}
+Sequence : PGLK
+{224}
+Sequence : VKDEXEEQ
+{224}
+Sequence : DPVEXAIYNADLXKVLAAT
+{224}
+Sequence : GVFRVVQEAFDELIEKAKE
+{224}
+Sequence : SENDL
+{224}
+Sequence : DRNTLLER
+{224}
+Sequence : NPYAXVKAXAALEIAENVADVSVEGCFV
+{224}
+Sequence : DKERYVPIVASAHEXXRKAAELADEARELEKSN
+{224}
+Sequence : LGTSXXX
+{224}
+Sequence : DXLLD
+{224}
+Sequence : DPECVEAAVEXALDIAEDFE
+{224}
+Sequence : APGPSKAREXLAD
+{224}
+Sequence : PGLK
+{224}
+Sequence : VKDEXEEQ
+{224}
+Sequence : DPVEXAIYNADLXKVLAAT
+{224}
+Sequence : GVFRVVQEAFDELIEKAKE
+{224}
+Sequence : SENDL
+{224}
+Sequence : DRNTLLER
+{224}
+Sequence : NPYAXVKAXAALEIAENVADVSVEGCFV
+{224}
+Sequence : DKERYVPIVASAHEXXRKAAELADEARELEKSN
+{224}
+Sequence : LGTSXXX
+{224}
+Sequence : DXLLD
+{224}
+Sequence : DPECVEAAVEXALDIAEDFE
+{224}
+Sequence : APGPSKAREXLADS
+{224}
+Sequence : DAPGLK
+{224}
+Sequence : VKDEXEEQ
+{224}
+Sequence : DPVEXAIYNADLXKVLAAT
+{224}
+Sequence : GVFRVVQEAFDELIEKAK
+{224}
+Sequence : SENDL
+{224}
+Sequence : DRNTLLER
+{224}
+Sequence : NPYAXVKAXAALEIAENVADVSVEGCFV
+{224}
+Sequence : DKERYVPIVASAHEXXRKAAELADEARELEKSN
+{224}
+Sequence : VEFRVVG
+{224}
+Sequence : AKAIFIK
+{224}
+Sequence : FIVYG
+{224}
+Sequence : AVIIGD
+{224}
+Sequence : GYILV
+{224}
+Sequence : KLVI
+{224}
+Sequence : VEFRVVGTS
+{224}
+Sequence : AKAIFIKC
+{224}
+Sequence : FIVYG
+{224}
+Sequence : AVIIGD
+{224}
+Sequence : GYILV
+{224}
+Sequence : KLVI
+{224}
+Sequence : VEFRVVGTS
+{224}
+Sequence : AKAIFIKC
+{224}
+Sequence : FIVYG
+{224}
+Sequence : AVIIG
+{224}
+Sequence : GYILV
+{224}
+Sequence : KLVI
+{224}

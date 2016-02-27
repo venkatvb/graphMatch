@@ -1,0 +1,64 @@
+Sequence : QHWKRLQNDAEHLSDIG
+{494}
+Sequence : TKSELQDAIGSLHSR
+{494}
+Sequence : HWY
+{494}
+Sequence : HPDVVAETKKWGIWYANELS
+{494}
+Sequence : AAKHI
+{494}
+Sequence : KFSFLRDWVQAVRQATG
+{494}
+Sequence : NAGKLENYLNKT
+{494}
+Sequence : DVPLHFNLQAASSQ
+{494}
+Sequence : DMRKL
+{494}
+Sequence : HPL
+{494}
+Sequence : QTW
+{494}
+Sequence : FKPLAYAFILTR
+{494}
+Sequence : YGDMYG
+{494}
+Sequence : LKHKIEPILKARKQY
+{494}
+Sequence : GRQNA
+{500, 494}
+Sequence : FTVA
+{494}
+Sequence : GFRI
+{492, 494}
+Sequence : QVYGDV
+{494}
+Sequence : AVWI
+{494}
+Sequence : TLMQ
+{494}
+Sequence : YPQVF
+{494}
+Sequence : VTF
+{494}
+Sequence : FKF
+{133, 494}
+Sequence : ATEDVTAVE
+{494}
+Sequence : YQIKAWTD
+{494}
+Sequence : QHDY
+{500, 494}
+Sequence : IVGWTR
+{494}
+Sequence : LAALIT
+{494}
+Sequence : VSIYVQ
+{494}
+Sequence : WHD
+{494}
+Sequence : GAKRMY
+{494}
+Sequence : WGEFHV
+{494}

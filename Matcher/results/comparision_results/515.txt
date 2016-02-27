@@ -1,0 +1,52 @@
+Sequence : PEEAGAAVAA
+{515}
+Sequence : VTNMFTSIV
+{513, 515}
+Sequence : PAYV
+{515}
+Sequence : IQVERDKL
+{513, 515}
+Sequence : AKNYGRAVYECLR
+{515}
+Sequence : WRDRFLFCAEALYKAQAET
+{513, 515}
+Sequence : CEEMIKRAVFAREL
+{515}
+Sequence : YLTG
+{513, 515}
+Sequence : FTANTSLAHYCRDN
+{515}
+Sequence : HAVID
+{513, 514, 515}
+Sequence : FRVLAKALRMS
+{515}
+Sequence : EGERDITLGFVDLLR
+{515}
+Sequence : MPALTEIF
+{515}
+Sequence : NAPGAVANRVALEACVKARN
+{515}
+Sequence : LAQEGNEIIREACKW
+{515}
+Sequence : PELAAACEVWKEIV
+{515}
+Sequence : QEQLLSEVEYLLK
+{515}
+Sequence : ATQVLAEVEEAKKA
+{515}
+Sequence : ILAAFRVTP
+{515}
+Sequence : RCYRIER
+{515}
+Sequence : YIAYVAY
+{515}
+Sequence : LRALRLEDLR
+{515}
+Sequence : VPCLEFE
+{513, 515}
+Sequence : TMW
+{513, 515}
+Sequence : WIRIIGFD
+{515}
+Sequence : VQCISFIAY
+{515}

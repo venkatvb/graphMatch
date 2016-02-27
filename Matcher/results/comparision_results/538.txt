@@ -1,0 +1,86 @@
+Sequence : TKYLLQDAQANG
+{538}
+Sequence : NAETIQAILEVCSEMR
+{538}
+Sequence : GTFKHI
+{538}
+Sequence : ALEEIYALCSAYSTTY
+{538}
+Sequence : SLDDIRRKVHA
+{538}
+Sequence : PFAENVKLVKSVVDFCHSQ
+{538}
+Sequence : DPQEAKRFVELTG
+{538}
+Sequence : DFQRLAEIREVV
+{538}
+Sequence : PDEFVRRTIEL
+{538}
+Sequence : ATELKIAFAGAVKAWFAEN
+{538}
+Sequence : DPRYYMRVGMDAMKEVVRNKINVCG
+{538}
+Sequence : TKYLLQDAQANG
+{538}
+Sequence : NAETIQAILEVCSEMR
+{538}
+Sequence : TPGTFKHI
+{538}
+Sequence : ALEEIYALCSAYSTTYN
+{538}
+Sequence : SLDDIRRKVHA
+{538}
+Sequence : PFAENVKLVKSVVDFCHSQ
+{538}
+Sequence : ESAFL
+{538}
+Sequence : DPQEAKRFVELTG
+{538}
+Sequence : DFQRLAEIREVV
+{538}
+Sequence : PDEFVRRTIEL
+{538}
+Sequence : ATELKIAFAGAVKAWFAEN
+{538}
+Sequence : DPRYYMRVGMDAMKEVVRNKINVCG
+{538}
+Sequence : VPAFN
+{538}
+Sequence : VTKVNV
+{538}
+Sequence : LVL
+{538, 236}
+Sequence : SLAV
+{538}
+Sequence : SVEAEL
+{538}
+Sequence : SAMI
+{538}
+Sequence : ALHLDHH
+{538}
+Sequence : ILAG
+{538}
+Sequence : VPAFN
+{538}
+Sequence : VPAFN
+{538}
+Sequence : VPAFN
+{538}
+Sequence : VTKVNV
+{538}
+Sequence : LVL
+{538, 236}
+Sequence : SLA
+{538}
+Sequence : SVEAE
+{538}
+Sequence : SAMI
+{538}
+Sequence : ALHLDHH
+{538}
+Sequence : ILAG
+{538}
+Sequence : VPAFN
+{538}
+Sequence : VPAFN
+{538}

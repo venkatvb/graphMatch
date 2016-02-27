@@ -1,0 +1,82 @@
+Sequence : HLGHMLEHIQADVWVRYQRMR
+{13, 14}
+Sequence : GTPIMLKAQQLG
+{13, 14}
+Sequence : TPEQMIGEMSQEHQTDFAGF
+{13, 14}
+Sequence : SEENRQLSELIYSRLKEN
+{13, 14}
+Sequence : PDR
+{13, 14}
+Sequence : SPTEL
+{13, 14}
+Sequence : LPS
+{13, 14}
+Sequence : FSEMLQAWTRS
+{13, 14}
+Sequence : QEQVANKMQEWFESG
+{13, 14}
+Sequence : YVWLDAPIGYMGSFKNLCDKRG
+{13, 14}
+Sequence : VSFDEYWK
+{13, 14}
+Sequence : IVYFHSL
+{13, 14}
+Sequence : LFWPAMLEGS
+{13, 14}
+Sequence : KASTWLNHF
+{13, 14}
+Sequence : DADSLRYYYTAKL
+{13, 14}
+Sequence : NLEDFVQRVNADI
+{13, 14}
+Sequence : VVNLASRNAGFINKRF
+{14}
+Sequence : DPQLYKTFTDA
+{13, 14}
+Sequence : AAEVIGEAWES
+{13, 14}
+Sequence : EFGKAVREIMALADLANRYVDEQA
+{13, 14}
+Sequence : APWVVA
+{13, 14}
+Sequence : RDADLQAICSMGINLFRVLMTYLK
+{13, 14}
+Sequence : LPKLTERAEAFLN
+{13, 14}
+Sequence : WDGIQQ
+{13, 14}
+Sequence : DMRQVEALVEASKEE
+{14}
+Sequence : NYHS
+{13, 14}
+Sequence : EVNFICAD
+{13, 14}
+Sequence : KILVTC
+{13, 14}
+Sequence : ELYHFIG
+{13, 14}
+Sequence : NLFVH
+{13, 14}
+Sequence : MF
+{13, 14}
+Sequence : IKNRTISQLYD
+{13, 14}
+Sequence : VMRDSEHFFF
+{13, 14}
+Sequence : WD
+{13, 14}
+Sequence : QY
+{13, 14}
+Sequence : VKGT
+{13, 14}
+Sequence : IEPKS
+{13, 14}
+Sequence : SRD
+{13, 14}
+Sequence : KYF
+{13, 14}
+Sequence : VTV
+{295, 296, 297, 569, 13, 14}
+Sequence : IDL
+{13, 14}

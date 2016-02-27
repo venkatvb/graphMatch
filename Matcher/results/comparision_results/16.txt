@@ -1,0 +1,110 @@
+Sequence : GSDKIHHHHHHXYLQD
+{16}
+Sequence : CLLE
+{16}
+Sequence : QPYDXE
+{16}
+Sequence : VGAG
+{16, 257}
+Sequence : FQYQVIIKPSPEN
+{16}
+Sequence : HDIR
+{16}
+Sequence : SLKDIPLEIT
+{16}
+Sequence : LERI
+{16}
+Sequence : NVYEVQWNENVKYGDVFL
+{16}
+Sequence : EREFSVFNFEEANVGLLFRHFD
+{16}
+Sequence : YEKEFYRLVEKNLYLPAYDYIL
+{16}
+Sequence : HTFNLLDARGAISVSQRQTYVKRIQAXA
+{16}
+Sequence : GSDKIHHHHHHXYLQ
+{16}
+Sequence : CLLE
+{16}
+Sequence : QPYDXE
+{16}
+Sequence : VGAG
+{16, 257}
+Sequence : PWKV
+{16}
+Sequence : FQYQVIIKPSPENS
+{16}
+Sequence : HDIR
+{16}
+Sequence : SLKDIPLEIT
+{16}
+Sequence : LERIA
+{16}
+Sequence : DNVYEVQWNENVKYGDVFLE
+{16}
+Sequence : EREFSVFNFEEANVGLLFRHF
+{16}
+Sequence : YEKEFYRLVEKNLYLPAYDYIL
+{16}
+Sequence : HTFNLLDARGAISVSQRQTYVKRIQAXA
+{16}
+Sequence : XK
+{16}
+Sequence : PATFFGSLRK
+{16}
+Sequence : DGRYGENPNR
+{16}
+Sequence : QQIGGI
+{16}
+Sequence : AWGVGWEVWLD
+{16}
+Sequence : FVEDNWESPT
+{16}
+Sequence : LEYLGI
+{16}
+Sequence : XK
+{16}
+Sequence : PATFFGSLRK
+{16}
+Sequence : DGRYGENPNR
+{16}
+Sequence : QQIGGI
+{16}
+Sequence : AWGVGWEVWLD
+{16}
+Sequence : FVEDNWESPT
+{16}
+Sequence : KE
+{16}
+Sequence : XYL
+{16}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : XK
+{16}
+Sequence : PATFFGSLRK
+{16}
+Sequence : DGRYGENPNR
+{16}
+Sequence : QQIGGI
+{16}
+Sequence : WGVGWEVWLD
+{16}
+Sequence : FVEDNWESPT
+{16}
+Sequence : LEYLG
+{16}
+Sequence : XK
+{16}
+Sequence : PATFFGSLRK
+{16}
+Sequence : DGRYGENPNR
+{16}
+Sequence : QQIGGI
+{16}
+Sequence : WGVGWEVWLD
+{16}
+Sequence : FVEDNWESPT
+{16}
+Sequence : LKE
+{16, 334}

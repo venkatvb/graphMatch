@@ -1,0 +1,26 @@
+Sequence : GSKFHRVIADFMIQ
+{135}
+Sequence : RKIEQ
+{135}
+Sequence : DVIIAASGHI
+{135}
+Sequence : RSI
+{135}
+Sequence : KFAD
+{135}
+Sequence : LEGM
+{135}
+Sequence : KTPW
+{135}
+Sequence : PGDRPKQ
+{135}
+Sequence : FIELAKKPKG
+{135}
+Sequence : IGLFGKTVPKTA
+{135}
+Sequence : VV
+{135, 458, 283, 284, 285, 589, 462}
+Sequence : DT
+{210, 211, 135}
+Sequence : VE
+{135, 457}

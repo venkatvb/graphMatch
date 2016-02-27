@@ -1,0 +1,80 @@
+Sequence : ELEEG
+{497, 498}
+Sequence : IWWDHIRSKIPEWYEAG
+{497, 498}
+Sequence : SGGYS
+{497, 498}
+Sequence : SKEELVRLIQTAHAY
+{497, 498}
+Sequence : NYLDF
+{497, 498}
+Sequence : KEWDQYWLW
+{497, 498}
+Sequence : SYAAYLRSI
+{497, 498}
+Sequence : YVKGY
+{497, 498}
+Sequence : GAWVVRDWLNWWG
+{497, 498}
+Sequence : NVDALLSWAYESG
+{497, 498}
+Sequence : DFPLYYKMDEAFD
+{497, 498}
+Sequence : NIPALVYALQN
+{497, 498}
+Sequence : NKYPAYAFILTY
+{497, 498}
+Sequence : YRDFEE
+{497, 498}
+Sequence : NKDKLINLIWIHDHL
+{497, 498}
+Sequence : PKFA
+{497, 498}
+Sequence : PANG
+{497, 498}
+Sequence : IMQ
+{497, 498}
+Sequence : AIW
+{498}
+Sequence : KVIADV
+{497, 498}
+Sequence : GWRF
+{497, 498}
+Sequence : AVG
+{497, 498, 570, 571, 572, 573}
+Sequence : KVF
+{497, 498}
+Sequence : AVTF
+{497, 498}
+Sequence : QPVIF
+{497, 498}
+Sequence : IMQ
+{497, 498}
+Sequence : KG
+{401, 497, 498, 500}
+Sequence : PYD
+{144, 225, 497, 498}
+Sequence : DLEWN
+{497, 498}
+Sequence : DYTWTD
+{497, 498}
+Sequence : TTIVYY
+{497, 498}
+Sequence : ELIFVR
+{497, 498}
+Sequence : LITYIN
+{497, 498}
+Sequence : YSVWSY
+{497, 498}
+Sequence : CIHE
+{498}
+Sequence : DKR
+{498}
+Sequence : VGRWVY
+{497, 498}
+Sequence : WVYLEA
+{497, 498}
+Sequence : HD
+{497, 498}
+Sequence : YY
+{497, 498}

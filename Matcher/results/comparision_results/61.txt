@@ -1,0 +1,18 @@
+Sequence : MSSSKRIAKELSDLER
+{61}
+Sequence : LDILK
+{54, 56, 61}
+Sequence : TLSKVLLSICSLLTD
+{61}
+Sequence : VPEIAHIYKTD
+{61}
+Sequence : DRPKYEATAREWTKKYA
+{61}
+Sequence : CSAGPV
+{61}
+Sequence : DLYHWQASIM
+{61}
+Sequence : VFFLSIH
+{61}
+Sequence : KISF
+{61}

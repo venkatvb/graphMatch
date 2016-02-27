@@ -1,0 +1,68 @@
+Sequence : SMQEKIMRELH
+{97, 98}
+Sequence : DPKQEIEDRVNFLKQYVKKTG
+{97, 98}
+Sequence : GQDSTLAGRLAQLAVESIREE
+{97, 98}
+Sequence : DEDDAQLALKFIK
+{97, 98}
+Sequence : IKSTVSAFSDQYQQETG
+{97, 98}
+Sequence : TDFNKGNVKARTRMIAQYAIGGQEG
+{97, 98}
+Sequence : HAAEAV
+{97, 98}
+Sequence : TKRQGRTLLKEL
+{98}
+Sequence : ERLYLK
+{97, 98}
+Sequence : SDETELG
+{97, 98}
+Sequence : SYDEIDDYLE
+{97, 98}
+Sequence : SAKVSEALEKRYSMT
+{98}
+Sequence : EHKRQ
+{98}
+Sequence : SMQEKIMREL
+{98}
+Sequence : DPKQEIEDRVNFLKQYVKKTG
+{97, 98}
+Sequence : GQDSTLAGRLAQLAVESIREE
+{97, 98}
+Sequence : DEDDAQLALKFIK
+{97, 98}
+Sequence : IKSTVSAFSDQYQQETG
+{97, 98}
+Sequence : TDFNKGNVKARTRMIAQYAIGGQEG
+{97, 98}
+Sequence : HAAEAV
+{97, 98}
+Sequence : TKRQGRTLLKEL
+{98}
+Sequence : PERLYL
+{98}
+Sequence : SDETELG
+{97, 98}
+Sequence : SYDEIDDYLE
+{97, 98}
+Sequence : SAKVSEALEKRYSMT
+{98}
+Sequence : EHKRQ
+{98}
+Sequence : KSWK
+{97, 98, 99}
+Sequence : QFIAVR
+{97, 98, 99}
+Sequence : GFVLG
+{97, 98, 99}
+Sequence : LV
+{97, 98, 23}
+Sequence : KSWK
+{97, 98, 99}
+Sequence : QFIAVR
+{97, 98, 99}
+Sequence : GFVLG
+{97, 98, 99}
+Sequence : LV
+{97, 98, 23}

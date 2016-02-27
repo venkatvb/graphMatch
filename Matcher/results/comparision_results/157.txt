@@ -1,0 +1,16 @@
+Sequence : KEEALELINGYIQKIKS
+{157}
+Sequence : FESLASQF
+{157}
+Sequence : SSAKA
+{157}
+Sequence : KPFEDASFA
+{157}
+Sequence : WEKRM
+{129, 136, 152, 157}
+Sequence : VYYFN
+{129, 136, 152, 157}
+Sequence : RCSHLLV
+{157}
+Sequence : IHIILRTE
+{157}

@@ -1,0 +1,42 @@
+Sequence : GRTRIAASYIAALYH
+{236}
+Sequence : EAEQSE
+{236}
+Sequence : LLKVQELKQRVTKA
+{236}
+Sequence : SGALKNALDFL
+{236}
+Sequence : SSEQFK
+{236}
+Sequence : GINALNNXRTVXRGV
+{236}
+Sequence : DPV
+{236}
+Sequence : VENA
+{236}
+Sequence : AENIKESIKELVEELSXFAKAG
+{236}
+Sequence : DLID
+{236}
+Sequence : XLVIN
+{236}
+Sequence : AIVLLSP
+{236}
+Sequence : PVALLAV
+{236}
+Sequence : NV
+{236}
+Sequence : DLID
+{236}
+Sequence : XLVIN
+{236}
+Sequence : AIVLLSP
+{236}
+Sequence : PVALLAV
+{236}
+Sequence : LVL
+{538, 236}
+Sequence : ID
+{562, 555, 236, 556}
+Sequence : TV
+{417, 548, 69, 421, 549, 70, 550, 551, 552, 394, 236, 561, 315, 316, 543}

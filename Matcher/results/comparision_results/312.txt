@@ -1,0 +1,102 @@
+Sequence : TFHASA
+{312}
+Sequence : TRSERTELRN
+{311, 312, 313}
+Sequence : GKSTLAVELEHQLVRDRR
+{312}
+Sequence : DGDNIR
+{312, 313}
+Sequence : SEADRNENIRRIAEVAKLFADS
+{311, 312, 313}
+Sequence : YRKDRDTARQLHEV
+{311, 312, 313}
+Sequence : PVEVAEQ
+{312}
+Sequence : GLYKKARE
+{312, 313}
+Sequence : PVQDAVKQIIDYLDTK
+{311, 312, 313}
+Sequence : GKSTLAVELEHQLVRDRR
+{312}
+Sequence : GDNIR
+{312, 313}
+Sequence : SEADRNENIRRIAEVAKLFADS
+{311, 312, 313}
+Sequence : YRKDRDTARQLHEV
+{311, 312, 313}
+Sequence : PVEVAEQRD
+{312, 313}
+Sequence : GLYKKARE
+{312, 313}
+Sequence : PVQDAVKQIIDYLDTK
+{311, 312, 313}
+Sequence : TRSERTELRN
+{311, 312, 313}
+Sequence : GKSTLAVELEHQLVRDRR
+{312}
+Sequence : DGDNIR
+{312, 313}
+Sequence : SEADRNENIRRIAEVAKLFADS
+{311, 312, 313}
+Sequence : YRKDRDTARQLHEV
+{311, 312, 313}
+Sequence : PVEVAEQ
+{312}
+Sequence : GLYKKARE
+{312, 313}
+Sequence : PVQDAVKQIIDYLDTK
+{311, 312, 313}
+Sequence : GKSTLAVELEHQLVRD
+{312, 313}
+Sequence : GDNIR
+{312, 313}
+Sequence : SEADRNENIRRIAEVAKLFADS
+{311, 312, 313}
+Sequence : YRKDRDTARQLHEV
+{311, 312, 313}
+Sequence : PVEVAEQRD
+{312, 313}
+Sequence : GLYKKARE
+{312, 313}
+Sequence : PVQDAVKQIIDYLDTK
+{311, 312, 313}
+Sequence : AYRL
+{312, 313}
+Sequence : IAITS
+{312, 313}
+Sequence : LTIWLT
+{311, 312, 313}
+Sequence : FVEVYVD
+{311, 312, 313}
+Sequence : VHVK
+{311, 312, 313}
+Sequence : AYRLD
+{312, 313}
+Sequence : IAITS
+{312, 313}
+Sequence : LTIWLT
+{311, 312, 313}
+Sequence : FVEVYVD
+{311, 312, 313}
+Sequence : VHVK
+{311, 312, 313}
+Sequence : AYRL
+{312, 313}
+Sequence : IAITS
+{312, 313}
+Sequence : LTIWLT
+{311, 312, 313}
+Sequence : FVEVYVD
+{311, 312, 313}
+Sequence : VHVK
+{311, 312, 313}
+Sequence : AYRLD
+{312, 313}
+Sequence : IAITS
+{312, 313}
+Sequence : LTIWLT
+{311, 312, 313}
+Sequence : FVEVYVD
+{311, 312, 313}
+Sequence : VHVK
+{311, 312, 313}

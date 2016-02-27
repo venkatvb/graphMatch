@@ -1,0 +1,80 @@
+Sequence : EVQA
+{564}
+Sequence : SSN
+{564}
+Sequence : PVKW
+{564}
+Sequence : PIN
+{564}
+Sequence : GTQVNEGFQPLVE
+{564}
+Sequence : MAE
+{564}
+Sequence : LDL
+{513, 564}
+Sequence : FREPIQLHR
+{564}
+Sequence : EVQA
+{564}
+Sequence : SSN
+{564}
+Sequence : PVKW
+{564}
+Sequence : PIN
+{564}
+Sequence : GTQVNEGFQPLVE
+{564}
+Sequence : MAE
+{564}
+Sequence : DL
+{192, 193, 242, 243, 564}
+Sequence : FREPIQLHR
+{564}
+Sequence : KKLG
+{564}
+Sequence : NKAS
+{564}
+Sequence : PKPE
+{564}
+Sequence : YDKKQ
+{564}
+Sequence : QNNG
+{564}
+Sequence : PAPYQAKQLH
+{564}
+Sequence : HFAMEMHIV
+{564}
+Sequence : PEDEIAVL
+{564}
+Sequence : TTPTCD
+{564}
+Sequence : PKEEKL
+{564}
+Sequence : LAFL
+{564}
+Sequence : VWTV
+{564}
+Sequence : KKLG
+{564}
+Sequence : NKAS
+{564}
+Sequence : PKPE
+{564}
+Sequence : YDKKQ
+{564}
+Sequence : QNNG
+{564}
+Sequence : APYQAKQLH
+{564}
+Sequence : HFAMEMHI
+{564}
+Sequence : PEDEIAVL
+{564}
+Sequence : TTPTCD
+{564}
+Sequence : PKEEKL
+{564}
+Sequence : LAFL
+{564}
+Sequence : VWTV
+{564}

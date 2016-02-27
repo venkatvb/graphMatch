@@ -1,0 +1,78 @@
+Sequence : NPADT
+{485}
+Sequence : APADYT
+{485}
+Sequence : GANAALK
+{485}
+Sequence : PLASLA
+{485}
+Sequence : DWESLN
+{485}
+Sequence : SDLNQ
+{485}
+Sequence : GAWARLEDQERKLI
+{485}
+Sequence : DFCQF
+{485}
+Sequence : TVDEIEKRTG
+{485}
+Sequence : PDDVQASLKS
+{485}
+Sequence : VLPELMG
+{485}
+Sequence : NPADT
+{485}
+Sequence : APADYT
+{485}
+Sequence : GANAALK
+{485}
+Sequence : PLASLA
+{485}
+Sequence : DWESLN
+{485}
+Sequence : SDLNQ
+{485}
+Sequence : GAWARLEDQERKL
+{485}
+Sequence : IDR
+{485}
+Sequence : DFCQF
+{485}
+Sequence : TVDEIEKRTG
+{485}
+Sequence : PDDVQASLKS
+{485}
+Sequence : VLPELMG
+{485}
+Sequence : IV
+{485, 295, 519, 296, 520, 281, 297, 521, 522, 479}
+Sequence : TLNN
+{485}
+Sequence : ANWVAYHI
+{485}
+Sequence : VYTVTGPL
+{485}
+Sequence : AYWKVIFI
+{485}
+Sequence : YAAFLFD
+{485}
+Sequence : VDRGH
+{485}
+Sequence : ITPQK
+{485}
+Sequence : IV
+{485, 295, 519, 296, 520, 281, 297, 521, 522, 479}
+Sequence : TLNN
+{485}
+Sequence : ANWVAYHI
+{485}
+Sequence : VYTVTGPL
+{485}
+Sequence : AYWKVIFI
+{485}
+Sequence : YAAFLFD
+{485}
+Sequence : VDRGH
+{485}
+Sequence : ITPQK
+{485}

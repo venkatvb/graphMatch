@@ -1,0 +1,42 @@
+Sequence : SLPKRIIKETEKLV
+{58}
+Sequence : ICLDV
+{58}
+Sequence : ALQIRTVLLSIQALL
+{58}
+Sequence : NDVAEDWI
+{58}
+Sequence : IKNEQGAKAKAREWTKL
+{58}
+Sequence : VPRNFRLLEELEKGE
+{58}
+Sequence : DFHTLR
+{58}
+Sequence : YTMETLLLDLRKEM
+{58}
+Sequence : ATPANK
+{58}
+Sequence : PGITAE
+{58}
+Sequence : DDNLRYFQVT
+{58}
+Sequence : EDGIFELE
+{58}
+Sequence : APKV
+{58}
+Sequence : PGITAE
+{58}
+Sequence : DDNLRYFQVT
+{58}
+Sequence : EDGIFELE
+{58}
+Sequence : YA
+{295, 296, 297, 58}
+Sequence : SCSYG
+{58}
+Sequence : TKWNGTI
+{58}
+Sequence : RIYSLSI
+{58}
+Sequence : PKVT
+{58}

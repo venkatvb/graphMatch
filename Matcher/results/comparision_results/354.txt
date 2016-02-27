@@ -1,0 +1,38 @@
+Sequence : GMSTSLLVSKMRAQAEK
+{354}
+Sequence : ETLAGEKGQN
+{354}
+Sequence : PQIAYMLPEIQRL
+{354}
+Sequence : SLLYG
+{354}
+Sequence : GLGVLKAAVAAIKKAA
+{354}
+Sequence : GMSTSLLVSKMRAQAEK
+{354}
+Sequence : ETL
+{354}
+Sequence : GQN
+{354}
+Sequence : PQIAYMLPEIQRL
+{354}
+Sequence : SLLYG
+{354}
+Sequence : GLGVLKAAVAAIKKA
+{354}
+Sequence : VIIEAFP
+{354}
+Sequence : KHIYLFS
+{354}
+Sequence : VVLL
+{354}
+Sequence : PVEV
+{354}
+Sequence : VIIEAFP
+{354}
+Sequence : KHIYLFS
+{354}
+Sequence : VVLL
+{354}
+Sequence : PVEV
+{354}

@@ -1,0 +1,94 @@
+Sequence : TLPLLRQQIRRLRME
+{41}
+Sequence : HDGHMKLVDEAKARA
+{41}
+Sequence : NPMQF
+{41, 42, 43, 44, 45, 46}
+Sequence : RPEDLARY
+{41}
+Sequence : TLQEDCEKLNKR
+{41}
+Sequence : SVKEIY
+{41}
+Sequence : GLSTM
+{41}
+Sequence : LEGASR
+{41}
+Sequence : GHFRGVSTIVSKLFNLVQ
+{41}
+Sequence : DFQQLALIRKMVADMG
+{41}
+Sequence : SSRNGYL
+{41}
+Sequence : TAEQRKIA
+{41}
+Sequence : PGLYKVLSSIADKLQA
+{41}
+Sequence : DLDEIITIAGQELNEKG
+{41}
+Sequence : TLPLLRQQIRRLRMEG
+{41}
+Sequence : HDGHMKLVDEAKARA
+{41}
+Sequence : NPMQF
+{41, 42, 43, 44, 45, 46}
+Sequence : RPEDLAR
+{41}
+Sequence : TLQEDCEKLNKR
+{41}
+Sequence : SVKEIY
+{41}
+Sequence : LEGASR
+{41}
+Sequence : GHFRGVSTIVSKLFNLVQ
+{41}
+Sequence : DFQQLALIRKMVADMG
+{41}
+Sequence : SSRNGYL
+{41}
+Sequence : TAEQRKIA
+{41}
+Sequence : PGLYKVLSSIADKLQAG
+{41}
+Sequence : DLDEIITIAGQELNEKG
+{41}
+Sequence : LII
+{577, 580, 486, 41, 569}
+Sequence : LVF
+{41}
+Sequence : VVVVSI
+{41}
+Sequence : VALVPT
+{41}
+Sequence : IACFG
+{41}
+Sequence : EIVGV
+{41}
+Sequence : YVD
+{41}
+Sequence : YVD
+{41}
+Sequence : RADDIQIRD
+{41}
+Sequence : RAVILVAAWL
+{41}
+Sequence : ARLIDNKMVE
+{41}
+Sequence : LII
+{577, 580, 486, 41, 569}
+Sequence : LVF
+{41}
+Sequence : VVVVSI
+{41}
+Sequence : VALVPT
+{41}
+Sequence : IACFG
+{41}
+Sequence : EIVGV
+{41}
+Sequence : RADDIQIRD
+{41}
+Sequence : RAVILVAAWL
+{41}
+Sequence : ARLIDNKMVE
+{41}

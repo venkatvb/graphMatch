@@ -1,0 +1,82 @@
+Sequence : SYIEEEDQRYWDEVAAVKNWWK
+{539}
+Sequence : DSRWRYT
+{539}
+Sequence : TAEQIVAKR
+{539}
+Sequence : PSNVQAKKLWGILERNFKNK
+{539}
+Sequence : DPTMVTQMAKYL
+{539}
+Sequence : SGWQSSSTA
+{539}
+Sequence : NTVPNKVNHLWMAQLFHDRKQREERMT
+{539}
+Sequence : PKDQRH
+{539}
+Sequence : GLTAVMKLTKLFVER
+{539}
+Sequence : PISEHINRLVAIRAQADIM
+{539}
+Sequence : DSE
+{539}
+Sequence : DHRDHP
+{539}
+Sequence : PLNDLMVMAEQA
+{539}
+Sequence : GAELQAIEDEWLAKA
+{539}
+Sequence : FNDAVVDAINN
+{539}
+Sequence : NKKAAIEKYLTQSK
+{539}
+Sequence : SNLEARAIAKEIAG
+{539}
+Sequence : GTQCAINRAVAYA
+{539}
+Sequence : DYKQAKEFADGVHA
+{539}
+Sequence : NWKKA
+{539}
+Sequence : PRDEQET
+{539}
+Sequence : TYIKRLGAL
+{539}
+Sequence : LAGLHTTALISDTFAKAYAKQG
+{539}
+Sequence : GMRAYGELV
+{539}
+Sequence : VQEPEMANG
+{539}
+Sequence : VDVV
+{539}
+Sequence : THQKWSG
+{539}
+Sequence : GANYVDNMLKMITG
+{539}
+Sequence : SFTY
+{539}
+Sequence : YAWQFI
+{539}
+Sequence : KLAYN
+{539}
+Sequence : LIW
+{539}
+Sequence : LAIAR
+{539}
+Sequence : GIHI
+{539}
+Sequence : IIAD
+{539}
+Sequence : VYV
+{539}
+Sequence : KVL
+{539}
+Sequence : ATLI
+{539}
+Sequence : YRY
+{539}
+Sequence : IIGS
+{539}
+Sequence : LK
+{69, 70, 283, 539, 284, 285}

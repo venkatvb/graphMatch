@@ -1,0 +1,58 @@
+Sequence : IKAWDIAIA
+{150}
+Sequence : PEYA
+{150}
+Sequence : LPMEG
+{150}
+Sequence : IKAWDIAIA
+{150}
+Sequence : PEYA
+{150}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : VLKVIKR
+{150}
+Sequence : VCHITC
+{150}
+Sequence : LVFEVELFEFK
+{150}
+Sequence : RVFVHYTGWL
+{150}
+Sequence : KFDS
+{130, 132, 133, 165, 134, 150, 120, 154, 141, 126, 142, 143}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : VLKVIKR
+{150}
+Sequence : VCHITC
+{150}
+Sequence : LVFEVELFEFK
+{150}
+Sequence : RVFVHYTGWL
+{150}
+Sequence : FSFD
+{150}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : VLKVIKR
+{150}
+Sequence : VCHITC
+{150}
+Sequence : LVFEVELFEFK
+{150}
+Sequence : RVFVHYTGWL
+{150}
+Sequence : KFDS
+{130, 132, 133, 165, 134, 150, 120, 154, 141, 126, 142, 143}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : VLKVIKR
+{150}
+Sequence : VCHITC
+{150}
+Sequence : LVFEVELFEFK
+{150}
+Sequence : RVFVHYTGWL
+{150}
+Sequence : FSFD
+{150}

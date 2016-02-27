@@ -1,0 +1,50 @@
+Sequence : VDR
+{213, 205}
+Sequence : PADLAWFKRNT
+{213, 205}
+Sequence : RHTWESI
+{213, 205}
+Sequence : VDEAIAAC
+{213, 205}
+Sequence : GRVYEQFLPK
+{213, 205}
+Sequence : PADLAWFKRNT
+{213, 205}
+Sequence : RHTWESI
+{213, 205}
+Sequence : VDEAIAAC
+{213, 205}
+Sequence : GRVYEQFLPK
+{213, 205}
+Sequence : WESVFSEFH
+{213, 205}
+Sequence : YCFKILER
+{213}
+Sequence : KLYLTHI
+{213, 205}
+Sequence : ISLIAALA
+{213}
+Sequence : IMV
+{213, 205}
+Sequence : PVIM
+{213}
+Sequence : KNIIL
+{213, 205}
+Sequence : TWV
+{213, 215, 205}
+Sequence : WESVFSEFH
+{213, 205}
+Sequence : YCFKILER
+{213}
+Sequence : AQKLYLTHI
+{213}
+Sequence : ISLIAAL
+{213, 205}
+Sequence : IMVIG
+{213, 215, 205}
+Sequence : VIM
+{67, 213}
+Sequence : NIIL
+{213}
+Sequence : TWV
+{213, 215, 205}

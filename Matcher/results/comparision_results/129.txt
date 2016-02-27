@@ -1,0 +1,22 @@
+Sequence : TKEEALELINGYIQKIKS
+{129}
+Sequence : DFESLASQFS
+{129, 152}
+Sequence : CSSAKAR
+{129, 152}
+Sequence : QKPFEDASFAL
+{129, 152}
+Sequence : WEKRM
+{129, 136, 152, 157}
+Sequence : VYYFN
+{129, 136, 152, 157}
+Sequence : SQ
+{129, 273}
+Sequence : DLGAF
+{129}
+Sequence : VRCSHLLV
+{129}
+Sequence : GIHIILRTE
+{129, 152}
+Sequence : VFT
+{129}

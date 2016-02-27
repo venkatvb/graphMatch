@@ -1,0 +1,38 @@
+Sequence : VQQWPG
+{432}
+Sequence : SPYDQS
+{432}
+Sequence : QSQ
+{432}
+Sequence : ISDLISSMQ
+{432}
+Sequence : SGSGSTFWSHEW
+{432}
+Sequence : EKHGT
+{432}
+Sequence : VLTNQHAYFKKALD
+{432}
+Sequence : NQIDLLSIL
+{432}
+Sequence : SYDLVNIRNAIKS
+{432}
+Sequence : ADFGIHGL
+{432}
+Sequence : DFDFFYF
+{432}
+Sequence : SGNSQLYQVYI
+{432}
+Sequence : YTPWIQ
+{432}
+Sequence : ADFGIHGL
+{432}
+Sequence : DFDFFYF
+{432}
+Sequence : SGNSQLYQVYI
+{432}
+Sequence : GS
+{432, 8, 282, 586, 12}
+Sequence : DGE
+{432}
+Sequence : CGT
+{432}

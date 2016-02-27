@@ -1,0 +1,38 @@
+Sequence : FQKVYNAIALKLREDDE
+{258, 259}
+Sequence : YIGY
+{258, 259}
+Sequence : LVRLAWHISGTW
+{258, 259}
+Sequence : FKK
+{32, 258, 259, 31}
+Sequence : FNDP
+{258, 259}
+Sequence : AGL
+{258, 259}
+Sequence : GFKFLEPIHKEFPW
+{258, 259}
+Sequence : LFSLGGVTAVQEMQG
+{258, 259}
+Sequence : TPD
+{258, 259}
+Sequence : VRTFFQRLNMN
+{258, 259}
+Sequence : VVALMGAHALGK
+{258, 259}
+Sequence : SGYE
+{258, 259}
+Sequence : LNLLNEDW
+{258}
+Sequence : YSLIQDPK
+{258, 259}
+Sequence : LSIVKEYANDQD
+{258, 259}
+Sequence : FFKDFSKAFEKLLEDGI
+{258, 259}
+Sequence : GL
+{258}
+Sequence : EKNDA
+{258, 259}
+Sequence : DSKSG
+{258, 259}

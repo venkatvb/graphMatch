@@ -1,0 +1,48 @@
+Sequence : TRSERTELRN
+{311, 312, 313}
+Sequence : LSAS
+{311}
+Sequence : GKSTLAVELEHQLVR
+{311, 313}
+Sequence : DGDNIRFG
+{311}
+Sequence : SEADRNENIRRIAEVAKLFADS
+{311, 312, 313}
+Sequence : YRKDRDTARQLHEV
+{311, 312, 313}
+Sequence : PVQDAVKQIIDYLDTK
+{311, 312, 313}
+Sequence : TRSERTELRN
+{311, 312, 313}
+Sequence : GKSTLAVELEHQLVR
+{311, 313}
+Sequence : GDNIRF
+{311}
+Sequence : SEADRNENIRRIAEVAKLFADS
+{311, 312, 313}
+Sequence : YRKDRDTARQLHEV
+{311, 312, 313}
+Sequence : PVEVAE
+{311}
+Sequence : PVQDAVKQIIDYLDTK
+{311, 312, 313}
+Sequence : AYR
+{311, 90, 91, 92}
+Sequence : IAIT
+{311}
+Sequence : LTIWLT
+{311, 312, 313}
+Sequence : FVEVYVD
+{311, 312, 313}
+Sequence : VHVK
+{311, 312, 313}
+Sequence : AYR
+{311, 90, 91, 92}
+Sequence : IAIT
+{311}
+Sequence : LTIWLT
+{311, 312, 313}
+Sequence : FVEVYVD
+{311, 312, 313}
+Sequence : VHVK
+{311, 312, 313}

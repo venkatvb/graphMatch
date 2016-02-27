@@ -1,0 +1,36 @@
+Sequence : PRNFRLLEELEEGQKG
+{56}
+Sequence : DARS
+{56}
+Sequence : IPVLAK
+{56}
+Sequence : SIKVVLQELRRLMM
+{56}
+Sequence : SKENMK
+{56}
+Sequence : PRRIIKETQRLL
+{56}
+Sequence : LDILK
+{54, 56, 61}
+Sequence : QIRTVLLSIQALLSA
+{56}
+Sequence : DVAEQWKTN
+{56}
+Sequence : NEAQAIETARAWTRLYA
+{56}
+Sequence : VSWGL
+{56}
+Sequence : RWTGMII
+{56}
+Sequence : IYSLKVE
+{56}
+Sequence : SVRF
+{56}
+Sequence : IKAEP
+{56}
+Sequence : YFHVVIA
+{56}
+Sequence : TFKLELF
+{56}
+Sequence : KVRF
+{56, 59}

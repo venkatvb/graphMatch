@@ -1,0 +1,62 @@
+Sequence : HAVVHG
+{317}
+Sequence : VATLQL
+{317}
+Sequence : EKLKKVAG
+{317}
+Sequence : EGLSLLAFLYLYLAICR
+{317}
+Sequence : GSSAAYSVCVAAALLTAC
+{317}
+Sequence : NPLKDR
+{317}
+Sequence : PEEDLKSINKWAYEGERVIHG
+{317}
+Sequence : GVDNSVSTWG
+{317}
+Sequence : STKALVAGVRSRLIKF
+{317}
+Sequence : FPEIMAPLLTSIDAISLECERVLGEMA
+{317}
+Sequence : VPEQYLVLEELMDMNQHHLNALG
+{317}
+Sequence : HASLDQLCQVTAAH
+{317}
+Sequence : ERAKVEAAKQALTGC
+{317}
+Sequence : EDPVRQALG
+{317}
+Sequence : IG
+{586, 317}
+Sequence : SMH
+{317}
+Sequence : LLVSAPGKVILH
+{317}
+Sequence : ALAVALNLRTFLVLRP
+{317}
+Sequence : LDIMVWS
+{317}
+Sequence : KVSLNL
+{317}
+Sequence : IKQVWD
+{317}
+Sequence : IG
+{586, 317}
+Sequence : SMH
+{317}
+Sequence : LLVSAPGKVILH
+{317}
+Sequence : ALAVALNLRTFLVLRP
+{317}
+Sequence : ALRY
+{317}
+Sequence : MSS
+{317}
+Sequence : HSKL
+{317}
+Sequence : CGITLL
+{317}
+Sequence : LQILLTN
+{317}
+Sequence : DCWETSI
+{317}

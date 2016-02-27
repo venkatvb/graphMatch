@@ -1,0 +1,76 @@
+Sequence : TDR
+{320}
+Sequence : VSVLAERCKKN
+{320}
+Sequence : TDR
+{320}
+Sequence : VSVLAERCKKN
+{320}
+Sequence : TFDAH
+{320}
+Sequence : PFLRISFNSYE
+{320}
+Sequence : KVLMCVQYFL
+{320}
+Sequence : KAEFWLD
+{320}
+Sequence : LVQ
+{320}
+Sequence : FCAVKMKEA
+{320}
+Sequence : VIQIVLM
+{320}
+Sequence : PMSEVTVG
+{320}
+Sequence : TFDAH
+{320}
+Sequence : FLRISFNSYE
+{320}
+Sequence : KVLMCVQYF
+{320}
+Sequence : KAEFWLD
+{320}
+Sequence : FCAVKMK
+{320}
+Sequence : VIQIVLM
+{320}
+Sequence : PMSEVTVG
+{320}
+Sequence : EALTT
+{320}
+Sequence : GKTLV
+{320}
+Sequence : TFDAH
+{320}
+Sequence : PFLRISFNSYE
+{320}
+Sequence : KVLMCVQYFL
+{320}
+Sequence : KAEFWLD
+{320}
+Sequence : LVQ
+{320}
+Sequence : FCAVKMKEA
+{320}
+Sequence : VIQIVLM
+{320}
+Sequence : PMSEVTVG
+{320}
+Sequence : TFDAH
+{320}
+Sequence : FLRISFNSYE
+{320}
+Sequence : KVLMCVQYF
+{320}
+Sequence : KAEFWLD
+{320}
+Sequence : FCAVKMK
+{320}
+Sequence : VIQIVLM
+{320}
+Sequence : PMSEVTVG
+{320}
+Sequence : EALTT
+{320}
+Sequence : GKTLV
+{320}

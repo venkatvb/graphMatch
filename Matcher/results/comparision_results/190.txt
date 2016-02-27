@@ -1,0 +1,54 @@
+Sequence : PED
+{190}
+Sequence : LWTV
+{190}
+Sequence : PAESVRRLAEL
+{190}
+Sequence : DDDL
+{190, 191}
+Sequence : DSERAEHIKRFRQALDET
+{190}
+Sequence : PVF
+{190, 574, 191}
+Sequence : RDVRRYALRKTIRNIDLAVE
+{190}
+Sequence : VRVALDRMKEAFDLLGEYVTS
+{190}
+Sequence : IGHALAFIDG
+{190}
+Sequence : PEL
+{190}
+Sequence : VGHEQMA
+{190, 191}
+Sequence : FPHGIAQALW
+{190}
+Sequence : LRAAFWLVDLLESA
+{190}
+Sequence : FDGVWASAAGCMRNYLILKERAAAFRA
+{190}
+Sequence : PEVQEALRA
+{190}
+Sequence : LDELA
+{190}
+Sequence : LQALL
+{190}
+Sequence : RSA
+{190}
+Sequence : PDAAA
+{190}
+Sequence : FERLDQLAMDHL
+{190}
+Sequence : RHF
+{192, 193, 190}
+Sequence : FTFG
+{192, 193, 190}
+Sequence : GVTFH
+{192, 193, 190, 191}
+Sequence : MAT
+{192, 193, 190}
+Sequence : TYVA
+{192, 193, 190}
+Sequence : YGVNPE
+{190}
+Sequence : LFHID
+{190}

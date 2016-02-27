@@ -1,0 +1,76 @@
+Sequence : NVSNIVRDTIVNELR
+{277}
+Sequence : RIAASILRLHFHD
+{277}
+Sequence : ASI
+{277}
+Sequence : TEK
+{277}
+Sequence : GFPVIDRMKAAVES
+{277}
+Sequence : SCADLLTIAAQQSVT
+{277}
+Sequence : FLDLANA
+{277}
+Sequence : TLPQLKDSFRN
+{277}
+Sequence : RSSDLVALSGGH
+{277}
+Sequence : QCR
+{277}
+Sequence : IMDRL
+{277}
+Sequence : NFS
+{277}
+Sequence : NTTYLQTLRG
+{277}
+Sequence : DNKYYVNLE
+{274, 277}
+Sequence : IQSDQELF
+{277}
+Sequence : ATDTIPLVRSFA
+{277}
+Sequence : STQTFFNAFVEAMDRMG
+{277}
+Sequence : NVSNIVRDTIVNELR
+{277}
+Sequence : RIAASILRLHFHD
+{277}
+Sequence : ASI
+{277}
+Sequence : TEK
+{277}
+Sequence : GFPVIDRMKAAVES
+{277}
+Sequence : SCADLLTIAAQQSVT
+{277}
+Sequence : FLDLANA
+{277}
+Sequence : TLPQLKDSFRN
+{277}
+Sequence : RSSDLVALSGGH
+{277}
+Sequence : QCR
+{277}
+Sequence : IMDRL
+{277}
+Sequence : NFS
+{277}
+Sequence : NTTYLQTLRG
+{277}
+Sequence : DNKYYVNLE
+{274, 277}
+Sequence : IQSDQELF
+{277}
+Sequence : ATDTIPLVRSFA
+{277}
+Sequence : STQTFFNAFVEAMDRMG
+{277}
+Sequence : GKN
+{274, 277}
+Sequence : ALV
+{496, 274, 277, 103, 492}
+Sequence : GKN
+{274, 277}
+Sequence : ALV
+{496, 274, 277, 103, 492}

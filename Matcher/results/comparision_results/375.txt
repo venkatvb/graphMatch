@@ -1,0 +1,44 @@
+Sequence : EKI
+{375}
+Sequence : ERQ
+{375}
+Sequence : MEQISIIE
+{375}
+Sequence : ELRKRWIHQLKNVIR
+{374, 375}
+Sequence : EKI
+{375}
+Sequence : ERQ
+{375}
+Sequence : EQISIIE
+{375}
+Sequence : ELRKRWIHQLKNVIR
+{374, 375}
+Sequence : ESIFLKRS
+{374, 375}
+Sequence : KKRLFLLT
+{375}
+Sequence : LSYYK
+{375}
+Sequence : KGSIDV
+{374, 375}
+Sequence : LYVFSP
+{375}
+Sequence : PFQVVYD
+{374, 375}
+Sequence : TCVETV
+{374, 375}
+Sequence : ESIFLKRS
+{374, 375}
+Sequence : KKRLFLLT
+{375}
+Sequence : LSYYK
+{375}
+Sequence : KGSIDV
+{374, 375}
+Sequence : PLYVFSP
+{374, 375}
+Sequence : PFQVVYD
+{374, 375}
+Sequence : TCVETV
+{374, 375}

@@ -1,0 +1,74 @@
+Sequence : YTPK
+{514}
+Sequence : AAESSTGTWTT
+{514}
+Sequence : YHIE
+{514}
+Sequence : VGNVFGFKA
+{514}
+Sequence : GPPH
+{514}
+Sequence : NKYGRPML
+{514}
+Sequence : YECLRGGLDFTKD
+{514}
+Sequence : ADAIHKSQAETGEIKGHYL
+{514}
+Sequence : EFAKELGMPIIMH
+{514}
+Sequence : NTTLAKWCRDNGVLLHIHR
+{514}
+Sequence : NHGIH
+{514}
+Sequence : RLSGGDHLHSG
+{514}
+Sequence : DLMREDHIEADR
+{514}
+Sequence : GDDSVLQF
+{514}
+Sequence : GNAP
+{514}
+Sequence : RVALEACVQARNEGRDLYREG
+{514}
+Sequence : LREAGKWSPELAAAL
+{514}
+Sequence : LWKEIKFEFE
+{514}
+Sequence : PKDTDLLAAFRFSP
+{514}
+Sequence : EPVAGEENSYFAFI
+{514}
+Sequence : AGEENSY
+{514}
+Sequence : PLDLFEEG
+{514}
+Sequence : PQPGVPADE
+{514}
+Sequence : IRFPVALVKT
+{514}
+Sequence : KLG
+{514, 167}
+Sequence : SQP
+{514}
+Sequence : EE
+{273, 338, 514}
+Sequence : AGFTA
+{514}
+Sequence : HAVID
+{513, 514, 515}
+Sequence : GKL
+{514}
+Sequence : HVWHM
+{514}
+Sequence : LGH
+{514}
+Sequence : KLG
+{514, 167}
+Sequence : QQ
+{514, 3, 4}
+Sequence : PLIEFNE
+{514}
+Sequence : QTSSFIVH
+{514}
+Sequence : vanDerWaals
+{384, 130, 386, 514, 387, 388, 389, 517, 390, 518, 391, 392, 393, 395, 396, 397, 398, 15, 399, 144, 401, 275, 535, 153, 154, 286, 287, 288, 34, 547, 165, 38, 167, 552, 426, 427, 301, 302, 558, 303, 304, 307, 52, 325, 326, 328, 330, 331, 587, 332, 333, 461, 335, 338, 472, 345, 474, 97, 353, 226, 227, 100, 228, 356, 229, 490, 491, 493, 367, 368, 369, 370, 371, 499, 244, 372, 373, 246, 503, 504, 121, 249, 377, 378, 379, 380, 381, 382, 383}

@@ -1,0 +1,68 @@
+Sequence : IED
+{563, 357, 280}
+Sequence : VVFA
+{357}
+Sequence : TVEL
+{357}
+Sequence : LPLLEEK
+{357}
+Sequence : MDE
+{357}
+Sequence : IED
+{563, 357, 280}
+Sequence : VVFA
+{357}
+Sequence : TVEL
+{357}
+Sequence : LPLLEEK
+{357}
+Sequence : MDE
+{357}
+Sequence : GEIV
+{353, 356, 357}
+Sequence : DGIAIKP
+{353, 356, 357}
+Sequence : TPVVI
+{353, 356, 357}
+Sequence : ELFVH
+{353, 356, 357}
+Sequence : AFSIES
+{353, 356, 357}
+Sequence : GTI
+{580, 357}
+Sequence : FKR
+{353, 356, 357}
+Sequence : TVIEF
+{353, 356, 357}
+Sequence : KMV
+{353, 356, 357}
+Sequence : ELIK
+{353, 356, 357}
+Sequence : PVIRIK
+{353, 356, 357}
+Sequence : IEII
+{353, 356, 357}
+Sequence : GEIV
+{353, 356, 357}
+Sequence : DGIAIKP
+{353, 356, 357}
+Sequence : LTPVVI
+{357}
+Sequence : ELFVH
+{353, 356, 357}
+Sequence : AFSIES
+{353, 356, 357}
+Sequence : GTIGKI
+{353, 356, 357}
+Sequence : FKR
+{353, 356, 357}
+Sequence : TVIEF
+{353, 356, 357}
+Sequence : KMV
+{353, 356, 357}
+Sequence : ELIK
+{353, 356, 357}
+Sequence : PVIRIK
+{353, 356, 357}
+Sequence : IEII
+{353, 356, 357}

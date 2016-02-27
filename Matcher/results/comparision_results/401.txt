@@ -1,0 +1,96 @@
+Sequence : ESKGIKFEYEEWKV
+{401}
+Sequence : REQHPELDIRIVFSS
+{401}
+Sequence : KFADKLIPAE
+{401}
+Sequence : VPFDRL
+{401}
+Sequence : K
+{401}
+Sequence : ESKGIKFEYEEWKV
+{401}
+Sequence : REQHPELDIRIVFSS
+{401}
+Sequence : KFADKLIPAE
+{401}
+Sequence : VPFDRL
+{401}
+Sequence : K
+{401}
+Sequence : ESKGIKFEYEEWKV
+{401}
+Sequence : REQHPELDIRIVFSS
+{401}
+Sequence : KFADKLIPA
+{401}
+Sequence : VPFDRL
+{401}
+Sequence : SKGIKFEYEEWKV
+{401}
+Sequence : REQHPELDIRIVFSS
+{401}
+Sequence : KFADKLIPA
+{401}
+Sequence : VPFDRL
+{401}
+Sequence : K
+{401}
+Sequence : PA
+{401, 377}
+Sequence : KG
+{401, 497, 498, 500}
+Sequence : DDRKKH
+{401}
+Sequence : KLYKGS
+{401}
+Sequence : KEP
+{401}
+Sequence : PNGIF
+{401}
+Sequence : HTYTPDF
+{401}
+Sequence : vanDerWaals
+{384, 130, 386, 514, 387, 388, 389, 517, 390, 518, 391, 392, 393, 395, 396, 397, 398, 15, 399, 144, 401, 275, 535, 153, 154, 286, 287, 288, 34, 547, 165, 38, 167, 552, 426, 427, 301, 302, 558, 303, 304, 307, 52, 325, 326, 328, 330, 331, 587, 332, 333, 461, 335, 338, 472, 345, 474, 97, 353, 226, 227, 100, 228, 356, 229, 490, 491, 493, 367, 368, 369, 370, 371, 499, 244, 372, 373, 246, 503, 504, 121, 249, 377, 378, 379, 380, 381, 382, 383}
+Sequence : PNGIF
+{401}
+Sequence : YTPDF
+{401}
+Sequence : KEP
+{401}
+Sequence : LYKGS
+{401}
+Sequence : DRKKH
+{401}
+Sequence : KG
+{401, 497, 498, 500}
+Sequence : PA
+{401, 377}
+Sequence : PA
+{401, 377}
+Sequence : KG
+{401, 497, 498, 500}
+Sequence : DRKKH
+{401}
+Sequence : LYKGS
+{401}
+Sequence : KEP
+{401}
+Sequence : PNGIF
+{401}
+Sequence : HTYTPDF
+{401}
+Sequence : vanDerWaals
+{384, 130, 386, 514, 387, 388, 389, 517, 390, 518, 391, 392, 393, 395, 396, 397, 398, 15, 399, 144, 401, 275, 535, 153, 154, 286, 287, 288, 34, 547, 165, 38, 167, 552, 426, 427, 301, 302, 558, 303, 304, 307, 52, 325, 326, 328, 330, 331, 587, 332, 333, 461, 335, 338, 472, 345, 474, 97, 353, 226, 227, 100, 228, 356, 229, 490, 491, 493, 367, 368, 369, 370, 371, 499, 244, 372, 373, 246, 503, 504, 121, 249, 377, 378, 379, 380, 381, 382, 383}
+Sequence : PNGIF
+{401}
+Sequence : YTPDF
+{401}
+Sequence : KG
+{401, 497, 498, 500}
+Sequence : DRKKH
+{401}
+Sequence : LYKGS
+{401}
+Sequence : IKEP
+{401}

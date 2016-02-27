@@ -1,0 +1,104 @@
+Sequence : MTCVYEWADSYDSKDWDRLR
+{594}
+Sequence : IAPTL
+{594}
+Sequence : WEAM
+{594}
+Sequence : VSSKQVLG
+{594}
+Sequence : GRET
+{594}
+Sequence : GDK
+{594}
+Sequence : MTCVYEWADSYDSKDWDRLR
+{594}
+Sequence : IAPTL
+{594}
+Sequence : WEAM
+{594}
+Sequence : VSSKQVLG
+{594}
+Sequence : GRET
+{594}
+Sequence : GDK
+{594}
+Sequence : MTCVYEWADSYDSKDWDRLR
+{594}
+Sequence : IAPTLRI
+{594}
+Sequence : WEAM
+{594}
+Sequence : VSSKQVLG
+{594}
+Sequence : GRET
+{594}
+Sequence : GDK
+{594}
+Sequence : AEE
+{594}
+Sequence : LDKL
+{594}
+Sequence : KPDIRWGE
+{594}
+Sequence : HSANLHWYKKIDGVWKFA
+{594}
+Sequence : LRVPHQRYKDTTMKE
+{594}
+Sequence : GGTRWEK
+{594}
+Sequence : EDEVIGY
+{594}
+Sequence : LRVPHQ
+{594}
+Sequence : LHWYK
+{594}
+Sequence : FDRIFE
+{594}
+Sequence : DKL
+{594}
+Sequence : AEE
+{594}
+Sequence : GGTRWEK
+{594}
+Sequence : LRVPHQRYKDTTMK
+{594}
+Sequence : WYKKIDGVWKFA
+{594}
+Sequence : KPDI
+{594}
+Sequence : EDEVIGY
+{594}
+Sequence : LRVPHQ
+{594}
+Sequence : MKE
+{594}
+Sequence : HSAN
+{594}
+Sequence : LHWYKKIDGV
+{594}
+Sequence : WGEFDFDRIFE
+{594}
+Sequence : DKL
+{594}
+Sequence : AEE
+{594}
+Sequence : GGTRWEK
+{594}
+Sequence : LRVPHQRYKDTTMK
+{594}
+Sequence : LHWYKKIDGVWK
+{594}
+Sequence : FDRIFE
+{594}
+Sequence : EDEVIGY
+{594}
+Sequence : LRVPHQ
+{594}
+Sequence : MKE
+{594}
+Sequence : HSAN
+{594}
+Sequence : DGVWKFA
+{594}
+Sequence : KPDIRWGE
+{594}

@@ -1,0 +1,96 @@
+Sequence : GSGKSTVANAFA
+{309, 310}
+Sequence : IDADIIAR
+{309, 310}
+Sequence : GAPALHAIADH
+{309}
+Sequence : FGAN
+{309, 310}
+Sequence : TLQRRALRERI
+{309}
+Sequence : FANPEEKNWLNALLHPLIQQETQHQIQ
+{309, 310}
+Sequence : ENSLYK
+{309, 310}
+Sequence : DVSPETQLKRTMQR
+{309, 310}
+Sequence : DVTREHVEQILA
+{309, 310}
+Sequence : QATREARLA
+{309, 310}
+Sequence : PDAIASDVARLHAHYLQLAS
+{309}
+Sequence : GSGKSTVANAFA
+{309, 310}
+Sequence : IDADIIAR
+{309, 310}
+Sequence : PGAPALHAIADH
+{309, 310}
+Sequence : FGAN
+{309, 310}
+Sequence : TLQRRALRERI
+{309}
+Sequence : FANPEEKNWLNALLHPLIQQETQHQIQ
+{309, 310}
+Sequence : ENSLYK
+{309, 310}
+Sequence : DVSPETQLKRTMQR
+{309, 310}
+Sequence : DVTREHVEQILA
+{309, 310}
+Sequence : QATREARLA
+{309, 310}
+Sequence : NGAP
+{309, 310}
+Sequence : DAIASDVARLHAHYLQLAS
+{309, 310}
+Sequence : GSGKSTVANAF
+{309, 310}
+Sequence : IDADIIAR
+{309, 310}
+Sequence : PGAPALHAIA
+{309}
+Sequence : KNWLNALLHPLIQQETQHQIQ
+{309}
+Sequence : ENSLYK
+{309, 310}
+Sequence : DVSPETQLKRTMQR
+{309, 310}
+Sequence : DVTREHVEQILA
+{309, 310}
+Sequence : QATREARLA
+{309, 310}
+Sequence : NGAP
+{309, 310}
+Sequence : DAIASDVARLHAHYLQLAS
+{309, 310}
+Sequence : GINV
+{309, 310}
+Sequence : SPYVL
+{309, 310}
+Sequence : LRYIVA
+{309, 310}
+Sequence : ANRVLV
+{309, 310}
+Sequence : ADDV
+{309, 310}
+Sequence : GINV
+{309, 310}
+Sequence : SPYVL
+{309, 310}
+Sequence : LRYIVA
+{309, 310}
+Sequence : ANRVLV
+{309, 310}
+Sequence : ADDV
+{309, 310}
+Sequence : GINV
+{309, 310}
+Sequence : SPYVL
+{309, 310}
+Sequence : LRYIVA
+{309, 310}
+Sequence : ANRVLV
+{309, 310}
+Sequence : ADDV
+{309, 310}

@@ -1,0 +1,68 @@
+Sequence : GLDTSAALLWMRQK
+{94, 95}
+Sequence : DAIPRRAMEY
+{94, 95}
+Sequence : CRKQLVAEGIAAIQCG
+{94, 95}
+Sequence : NTTPLGRAVTGTMLVAAMKED
+{94}
+Sequence : NDIERFYRYGLLTN
+{94, 95}
+Sequence : KPWL
+{94, 95}
+Sequence : DTDFIDEL
+{94}
+Sequence : GRHEMSEFMIAC
+{94, 95}
+Sequence : KDLEY
+{94, 95}
+Sequence : SVKIV
+{94, 95}
+Sequence : DDVEMMLEANRIGGR
+{94, 95}
+Sequence : APGMALLHIAYERLLTGIH
+{94, 95}
+Sequence : NEDTIEQYHAHGRQLGRLLYQ
+{94, 95}
+Sequence : DSQALMLRDSLQRWV
+{94, 95}
+Sequence : ASQI
+{94, 95}
+Sequence : SPDDRIGQLTM
+{94, 95}
+Sequence : RNLDITDTREKLFGYAKT
+{94, 95}
+Sequence : NARLID
+{94}
+Sequence : VPYAYTAN
+{94, 95}
+Sequence : RIGIA
+{94, 95}
+Sequence : IWG
+{94, 95}
+Sequence : QI
+{585, 94, 95}
+Sequence : TT
+{140, 94, 95}
+Sequence : LT
+{273, 94, 95}
+Sequence : STDS
+{94}
+Sequence : ATHE
+{94}
+Sequence : KSRGIYE
+{94, 95}
+Sequence : SDQIEN
+{94, 95}
+Sequence : HPVAL
+{94, 95}
+Sequence : EEVTVRFE
+{94, 95}
+Sequence : GEVTLEL
+{94, 95}
+Sequence : YSILNTV
+{94, 95}
+Sequence : LSS
+{94, 351}
+Sequence : QV
+{1, 2, 94}

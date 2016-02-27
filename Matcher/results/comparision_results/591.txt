@@ -1,0 +1,102 @@
+Sequence : LRLDKFIAEN
+{591}
+Sequence : GLTRSQATKAI
+{591}
+Sequence : YPTIYQ
+{591}
+Sequence : DYPLAG
+{591}
+Sequence : TDDGQWSHRI
+{591}
+Sequence : EENYSAACA
+{591}
+Sequence : RYHQVKRMFA
+{591}
+Sequence : PLTQSEIE
+{591}
+Sequence : LRLDKFIAEN
+{591}
+Sequence : GLTRSQATKAI
+{591}
+Sequence : YPTIYQ
+{591}
+Sequence : YPLAG
+{591}
+Sequence : TDDGQWSHRI
+{591}
+Sequence : TSPK
+{591}
+Sequence : EENYSAACA
+{591}
+Sequence : RYHQVKRMFA
+{591}
+Sequence : PLTQSEIE
+{591}
+Sequence : MS
+{591}
+Sequence : SV
+{353, 356, 591}
+Sequence : NG
+{591}
+Sequence : SAV
+{591}
+Sequence : DEI
+{591}
+Sequence : ED
+{591}
+Sequence : KL
+{69, 70, 591}
+Sequence : DTTGLVL
+{591}
+Sequence : NKVVGLHRW
+{591}
+Sequence : GD
+{585, 590, 591}
+Sequence : PAKL
+{591}
+Sequence : DYNVNL
+{591}
+Sequence : CEKTYLV
+{591}
+Sequence : NKVVGLHRW
+{591}
+Sequence : DTTGLVL
+{591}
+Sequence : GQYFML
+{591}
+Sequence : GEY
+{591}
+Sequence : MS
+{591}
+Sequence : SV
+{353, 356, 591}
+Sequence : NG
+{591}
+Sequence : SAV
+{591}
+Sequence : DEI
+{591}
+Sequence : EDE
+{238, 591}
+Sequence : KL
+{69, 70, 591}
+Sequence : DTTGLVL
+{591}
+Sequence : NKVVGLHRW
+{591}
+Sequence : GD
+{585, 590, 591}
+Sequence : PAKL
+{591}
+Sequence : DYNVNL
+{591}
+Sequence : CEKTYLV
+{591}
+Sequence : NKVVGLHRW
+{591}
+Sequence : DTTGLVL
+{591}
+Sequence : GQYFML
+{591}
+Sequence : GEY
+{591}

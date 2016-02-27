@@ -1,0 +1,50 @@
+Sequence : GWYNFLMGKVDDIAAA
+{488}
+Sequence : NKAQLKSLIGALHGK
+{488}
+Sequence : NLRVQKELVEWLNWLKAD
+{488}
+Sequence : SADVAKIYIDRSE
+{488}
+Sequence : QDQHRQELVNWVDKVG
+{488}
+Sequence : FTTKGILNVAV
+{488}
+Sequence : MIGWW
+{488}
+Sequence : NHDTG
+{488}
+Sequence : VMQGYAYILTH
+{488}
+Sequence : YDHFFD
+{488}
+Sequence : LKEEIDRLVSVRTRH
+{488}
+Sequence : VLFQG
+{488}
+Sequence : THVWL
+{488}
+Sequence : KAIADI
+{488}
+Sequence : GWRFD
+{488}
+Sequence : FAVAE
+{488}
+Sequence : TFD
+{488}
+Sequence : KAVT
+{488}
+Sequence : TPCIFY
+{488}
+Sequence : VLFQG
+{488}
+Sequence : KLQIIEAD
+{488}
+Sequence : LYLAEID
+{488}
+Sequence : KVIVKLG
+{488}
+Sequence : DYAVWEKI
+{488}
+Sequence : GFKVAAHG
+{488}

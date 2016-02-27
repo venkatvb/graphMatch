@@ -1,0 +1,90 @@
+Sequence : RASLKKLIDYHVAS
+{583}
+Sequence : TTG
+{583}
+Sequence : HDEHADVVMMTLDLA
+{583}
+Sequence : TAEAISLTQRF
+{583}
+Sequence : QEGLYQHFKAIAEH
+{583}
+Sequence : PSRT
+{583}
+Sequence : PETVGRLAK
+{583}
+Sequence : LTRVNQIK
+{583}
+Sequence : DASALDFMQ
+{583}
+Sequence : TAN
+{583}
+Sequence : ARDMAQMCKLAA
+{583}
+Sequence : FAEARVINQRLMPLHNKLF
+{583}
+Sequence : IPVKWACKEL
+{583}
+Sequence : DSGRETVRAALKHA
+{583}
+Sequence : RASLKKLIDYHVAS
+{583}
+Sequence : TTG
+{583}
+Sequence : SAT
+{583}
+Sequence : HDEHADVVMMTLDLA
+{583}
+Sequence : TAEAISLTQ
+{583}
+Sequence : QEGLYQHFKAIAEH
+{583}
+Sequence : PSRT
+{583}
+Sequence : PETVGRLAK
+{583}
+Sequence : LTRVNQIKEL
+{583}
+Sequence : DASALDFMQ
+{583}
+Sequence : TAN
+{583}
+Sequence : ARDMAQMCKLAA
+{583}
+Sequence : FAEARVINQRLMPLHNKLF
+{583}
+Sequence : IPVKWACKE
+{583}
+Sequence : DSGRETVRAALKH
+{583}
+Sequence : GVIS
+{583}
+Sequence : GSIVA
+{583}
+Sequence : AIVS
+{583}
+Sequence : PVIAG
+{583}
+Sequence : GCLTV
+{583}
+Sequence : PQILYN
+{583}
+Sequence : IIGIKE
+{583}
+Sequence : VLLS
+{583}
+Sequence : GVIS
+{583}
+Sequence : GSIVA
+{583}
+Sequence : AIVS
+{583}
+Sequence : PVIAG
+{583}
+Sequence : GCLTV
+{583}
+Sequence : PQILYN
+{583}
+Sequence : IIGIKE
+{583}
+Sequence : VLLS
+{583}

@@ -1,0 +1,84 @@
+Sequence : NWQDVAQECEQY
+{495}
+Sequence : QWWTRYQ
+{495}
+Sequence : NRAQFIDMVNRCSAA
+{495}
+Sequence : SPQD
+{495}
+Sequence : SDYGND
+{495}
+Sequence : DRYRVQNC
+{495}
+Sequence : SNYVQNTIAAYINDLQAIG
+{495}
+Sequence : ASKHV
+{495}
+Sequence : AASDIQSLMA
+{495}
+Sequence : GASEYL
+{495}
+Sequence : EFKYSTELGNTFRNG
+{495}
+Sequence : SLAWLSNF
+{495}
+Sequence : GEGWG
+{496, 492, 495}
+Sequence : PSS
+{495}
+Sequence : DNQRG
+{496, 492, 495}
+Sequence : TFED
+{495}
+Sequence : GRLYDLANVFMLAY
+{495}
+Sequence : CEHR
+{496, 492, 495}
+Sequence : WSYIAGGVDFRNNT
+{495}
+Sequence : FVHL
+{489, 495}
+Sequence : AVQV
+{489, 495}
+Sequence : DIYVDTL
+{489, 495}
+Sequence : GFRFD
+{489, 495}
+Sequence : VVFQ
+{489, 495}
+Sequence : LVT
+{495}
+Sequence : AVV
+{495}
+Sequence : YPKVMS
+{495}
+Sequence : FVHL
+{489, 495}
+Sequence : HM
+{495}
+Sequence : AD
+{552, 495}
+Sequence : GT
+{433, 495}
+Sequence : SF
+{555, 556, 287, 495}
+Sequence : HN
+{17, 18, 495}
+Sequence : NL
+{495}
+Sequence : TNWWD
+{495}
+Sequence : QISFG
+{489, 495}
+Sequence : GHMAIN
+{489, 495}
+Sequence : DAMAIH
+{489, 495}
+Sequence : TVQ
+{489, 42, 43, 44, 45, 46, 495}
+Sequence : TIN
+{422, 407, 489, 415, 495}
+Sequence : GQYC
+{489, 495}
+Sequence : VITV
+{489, 495}

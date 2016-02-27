@@ -1,0 +1,60 @@
+Sequence : ALSTIKSAVNSAVAK
+{276}
+Sequence : RMGASLLRLHFHDCF
+{276}
+Sequence : FEVIDTIKSQVESL
+{276}
+Sequence : ADILAVAARDSVVAL
+{276}
+Sequence : LSSANSD
+{276}
+Sequence : SGLISAFSN
+{276}
+Sequence : TKELVTLS
+{276}
+Sequence : FRTRIYN
+{276}
+Sequence : TYAKSLQAN
+{276}
+Sequence : AYYINLR
+{276}
+Sequence : HSDQQ
+{276}
+Sequence : DSQVTAYSN
+{276}
+Sequence : AATFNTDFGNAMIKM
+{276}
+Sequence : ALSTIKSAVNSAVAK
+{276}
+Sequence : RMGASLLRLHFHDCF
+{276}
+Sequence : FEVIDTIKSQVESL
+{276}
+Sequence : ADILAVAARDSVVAL
+{276}
+Sequence : LSSANSD
+{276}
+Sequence : SGLISAFSN
+{276}
+Sequence : TKELVTLS
+{276}
+Sequence : FRTRIYN
+{276}
+Sequence : TYAKSLQAN
+{276}
+Sequence : AYYINLR
+{276}
+Sequence : HSDQQ
+{276}
+Sequence : DSQVTAYSN
+{276}
+Sequence : AATFNTDFGNAMIKM
+{276}
+Sequence : QAQ
+{276}
+Sequence : LSP
+{276}
+Sequence : QAQ
+{276}
+Sequence : LSP
+{276}

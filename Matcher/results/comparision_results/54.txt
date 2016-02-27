@@ -1,0 +1,36 @@
+Sequence : PVGKRLQQELMTLMMSG
+{54}
+Sequence : LDILK
+{54, 56, 61}
+Sequence : DVRTILLSIQSLLGE
+{54}
+Sequence : NTHAAELW
+{54}
+Sequence : NPTAFKKYLQETYSK
+{54}
+Sequence : PVGKRLQQELMTLMMSG
+{54}
+Sequence : LDILK
+{54, 56, 61}
+Sequence : DVRTILLSIQSLLGE
+{54}
+Sequence : NTHAAELW
+{54}
+Sequence : NPTAFKKYLQETYSKQ
+{54}
+Sequence : ISAFPE
+{54}
+Sequence : NLFKWVGTIH
+{54}
+Sequence : RYKLSLE
+{54}
+Sequence : TVKF
+{54}
+Sequence : ISAFPE
+{54}
+Sequence : NLFKWVGTIH
+{54}
+Sequence : RYKLSLE
+{54}
+Sequence : TVKF
+{54}

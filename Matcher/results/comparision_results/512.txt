@@ -1,0 +1,60 @@
+Sequence : DTFLRAAWG
+{512, 511}
+Sequence : LPEFRETRAA
+{512, 511}
+Sequence : DFFSTCR
+{512, 511}
+Sequence : SPEACCELTLQPLRRF
+{512, 511}
+Sequence : LVVPQAL
+{512, 511}
+Sequence : EEQDLERL
+{512, 511}
+Sequence : DPE
+{512, 511}
+Sequence : VVASEL
+{512, 511}
+Sequence : LGYVFQAITLTRQRLA
+{512, 511}
+Sequence : APWTLMTYMVEG
+{512, 511}
+Sequence : MAQAKRWLYQR
+{512, 511}
+Sequence : RPQASHQLLRILTDALVPYLVGQVVA
+{512, 511}
+Sequence : HAGHL
+{512, 511}
+Sequence : GPQLFNKFA
+{512, 511}
+Sequence : ALPYIRDVAKQVKARLREA
+{512, 511}
+Sequence : GHF
+{512, 511}
+Sequence : ALEELA
+{512, 511}
+Sequence : APKKARECVG
+{512, 511}
+Sequence : DPCALYA
+{512, 511}
+Sequence : SEEEIGQLVKQMLDDFG
+{512, 511}
+Sequence : DPEHVGAFVDAVHKHSRLLRQ
+{512}
+Sequence : AI
+{512, 578, 250, 511}
+Sequence : LIGFAG
+{512, 511}
+Sequence : ALQLFE
+{512, 511}
+Sequence : MIIFA
+{512, 511}
+Sequence : VVG
+{512, 511}
+Sequence : TLQGNL
+{512, 511}
+Sequence : YIANL
+{512, 511}
+Sequence : TMV
+{512, 511}
+Sequence : GPS
+{512, 511}

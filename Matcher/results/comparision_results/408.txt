@@ -1,0 +1,66 @@
+Sequence : RSDLINALYDENQK
+{408}
+Sequence : TKVLSTIFELFSRPIINKIAEKHG
+{408}
+Sequence : FDQ
+{408}
+Sequence : LNEIP
+{408}
+Sequence : WVIA
+{402, 403, 404, 405, 406, 408, 409}
+Sequence : YKDFVEGK
+{408}
+Sequence : EDEFLDYWRNY
+{408}
+Sequence : SQLRNDKYN
+{408}
+Sequence : ISEYRNWIYRG
+{408}
+Sequence : LRSDLINALY
+{408}
+Sequence : KVLSTIFELFSRPIINKIAEKHG
+{403, 404, 408, 409}
+Sequence : FDQ
+{408}
+Sequence : ELNEIP
+{408}
+Sequence : WVIA
+{402, 403, 404, 405, 406, 408, 409}
+Sequence : YKDFVEGK
+{408}
+Sequence : EDEFLDYWRNY
+{408}
+Sequence : SQLRND
+{408}
+Sequence : ISEYRNWIYRG
+{408}
+Sequence : IIS
+{403, 404, 406, 408, 409}
+Sequence : NALYDENQKYDVCGIISAEGKIYPL
+{408}
+Sequence : VEE
+{403, 404, 405, 406, 408, 409}
+Sequence : TLYK
+{402, 403, 404, 405, 406, 408, 409}
+Sequence : IAIDIKATYTN
+{403, 408}
+Sequence : IAHWIIGYVYTR
+{402, 403, 404, 405, 406, 408}
+Sequence : KVFLQDK
+{402, 403, 408}
+Sequence : IIS
+{403, 404, 406, 408, 409}
+Sequence : IYPL
+{406, 408, 409}
+Sequence : YNI
+{406, 408, 409}
+Sequence : VEE
+{403, 404, 405, 406, 408, 409}
+Sequence : TLYK
+{402, 403, 404, 405, 406, 408, 409}
+Sequence : IAIDIKATYTN
+{403, 408}
+Sequence : IAHWIIGYVYTRV
+{404, 405, 406, 408, 409}
+Sequence : KGVKVFLQDK
+{404, 405, 406, 408, 409}

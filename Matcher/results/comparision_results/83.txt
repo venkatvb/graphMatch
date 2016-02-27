@@ -1,0 +1,46 @@
+Sequence : NTVPLKLIALLA
+{82, 83}
+Sequence : GEQLGETL
+{82, 83}
+Sequence : RAAINKHIQTLRDW
+{82, 83}
+Sequence : NAKQILGQL
+{82, 83}
+Sequence : STNQYLLDR
+{82, 83}
+Sequence : IGLSLVIGIVMAEVLRKL
+{82, 83}
+Sequence : DRNTLAAMLIRELRAALELFEQE
+{82, 83}
+Sequence : APYLSRWEKLD
+{83}
+Sequence : DVFTVP
+{82, 83}
+Sequence : KGYSL
+{82, 83}
+Sequence : SVAVL
+{82, 83}
+Sequence : GDACIA
+{82, 83}
+Sequence : ANLYLSMFWRL
+{82, 83}
+Sequence : QIVIGAGINMA
+{82, 83}
+Sequence : RKLAGILVELT
+{82, 83}
+Sequence : NDLYLQ
+{82, 83}
+Sequence : RVKW
+{82, 83}
+Sequence : KEIFG
+{82, 83}
+Sequence : RPVKLII
+{82, 83}
+Sequence : EISLR
+{82, 83}
+Sequence : ISRGID
+{82, 83}
+Sequence : GALLLEQ
+{82, 83}
+Sequence : IIKPW
+{82, 83}

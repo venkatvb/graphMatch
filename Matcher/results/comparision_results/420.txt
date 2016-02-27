@@ -1,0 +1,52 @@
+Sequence : LNKLLELWPHIQEYQDLALKHG
+{420}
+Sequence : GGKLLQVLLITGL
+{419, 420}
+Sequence : PVIIAKYRQV
+{419, 420}
+Sequence : PKDLEFYYDKWERKWYSDG
+{419, 420}
+Sequence : KYVMEHGT
+{419, 420}
+Sequence : LNKLLELWPHIQEYQDLALKHG
+{420}
+Sequence : GGKLLQVLLITGL
+{419, 420}
+Sequence : PVIIAKYRQ
+{419, 420}
+Sequence : PKDLEFYYDKWERKWYSDG
+{419, 420}
+Sequence : KYVMEHGT
+{419, 420}
+Sequence : VL
+{419, 420, 365, 366}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : YELKSINI
+{419, 420}
+Sequence : IFAIYRG
+{419, 420}
+Sequence : IEAIYRLE
+{419, 420}
+Sequence : KIY
+{419, 420, 411}
+Sequence : FS
+{419, 420, 294}
+Sequence : PV
+{419, 420, 23}
+Sequence : VL
+{419, 420, 365, 366}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : YELKSINI
+{419, 420}
+Sequence : IFAIYRG
+{419, 420}
+Sequence : IEAIYRLE
+{419, 420}
+Sequence : KIY
+{419, 420, 411}
+Sequence : FS
+{419, 420, 294}
+Sequence : PV
+{419, 420, 23}

@@ -1,0 +1,18 @@
+Sequence : SGIALSRLAQERKAW
+{50}
+Sequence : CLS
+{50, 540}
+Sequence : ITIKQILLGIQEL
+{50}
+Sequence : AQAEAYTIY
+{50}
+Sequence : QNRVEYEKRVRAQA
+{50}
+Sequence : GFVA
+{50}
+Sequence : LMNWECA
+{50}
+Sequence : GGLFKLR
+{50}
+Sequence : PPKC
+{50}

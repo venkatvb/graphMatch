@@ -1,0 +1,88 @@
+Sequence : LLVPLIETLNAAT
+{177}
+Sequence : HIPMTKARLT
+{177}
+Sequence : ILKDYG
+{177}
+Sequence : RRLYYG
+{177}
+Sequence : IVAEKVAQACAAG
+{177}
+Sequence : EREAG
+{177}
+Sequence : AVVLTQLAAVAQKLS
+{177}
+Sequence : AWSRVV
+{177}
+Sequence : AIG
+{177}
+Sequence : QAQEVHELLRRWVRSKLGT
+{177}
+Sequence : IAAQLR
+{177}
+Sequence : TLYQM
+{177}
+Sequence : SLKP
+{177}
+Sequence : FVEIIEAT
+{177}
+Sequence : LLVPLIETLNAAT
+{177}
+Sequence : HIPMTKARLT
+{177}
+Sequence : ILKDYGI
+{177}
+Sequence : RRLYYG
+{177}
+Sequence : IVAEKVAQACAAG
+{177}
+Sequence : EREAG
+{177}
+Sequence : AVVLTQLAAVAQKLS
+{177}
+Sequence : AWSRVV
+{177}
+Sequence : AIGTGK
+{177}
+Sequence : QAQEVHELLRRWVRSKLG
+{177}
+Sequence : IAAQLR
+{177}
+Sequence : TLYQM
+{177}
+Sequence : SLKP
+{177}
+Sequence : FVEIIEAT
+{177}
+Sequence : LVGG
+{177}
+Sequence : AAANWK
+{177}
+Sequence : CVVAPT
+{177}
+Sequence : IAA
+{177, 246}
+Sequence : VLGH
+{177}
+Sequence : IVCVGE
+{177}
+Sequence : IAYEPV
+{177}
+Sequence : LYGGS
+{177}
+Sequence : LVGG
+{177}
+Sequence : AAANWK
+{177}
+Sequence : CVVAPT
+{177}
+Sequence : IAA
+{177, 246}
+Sequence : VLGH
+{177}
+Sequence : IVCVGE
+{177}
+Sequence : IAYEP
+{177}
+Sequence : LYGG
+{177, 173}

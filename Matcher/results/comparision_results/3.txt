@@ -1,0 +1,50 @@
+Sequence : NVLIEDLKWRG
+{3, 5}
+Sequence : DEQGIEDLLNKE
+{3, 5, 6}
+Sequence : HIGHLLPFLTLRRFQ
+{3}
+Sequence : TGMIG
+{3}
+Sequence : TEEQVDKNIEGISKQMHNIF
+{3, 4, 5, 6}
+Sequence : NRDWLG
+{3, 5, 6}
+Sequence : SLISFLRDY
+{3, 4, 5, 6}
+Sequence : GKHV
+{3, 4, 5, 6}
+Sequence : GVNYML
+{3, 4, 5}
+Sequence : SIQSRLEHG
+{3}
+Sequence : SYTEFTYTILQAIDFGHLNREL
+{3, 5}
+Sequence : QWGNITSGIELMRRMY
+{3, 4, 5}
+Sequence : SPYEFYQFWIN
+{3, 4, 5, 6}
+Sequence : SDED
+{3}
+Sequence : VIKFLKYFT
+{3, 4}
+Sequence : GKEEIDRLEQSKNEA
+{3, 4, 6}
+Sequence : PHLR
+{3}
+Sequence : EAQKTLAEEVTKFIHG
+{3}
+Sequence : EDALNDAIR
+{3, 4}
+Sequence : QQ
+{514, 3, 4}
+Sequence : YGLTI
+{3, 5, 6}
+Sequence : IQVGG
+{3, 5}
+Sequence : TLYCGA
+{3, 4, 5, 6}
+Sequence : RPIVLI
+{3, 4, 5, 6}
+Sequence : VLVN
+{3, 4, 5, 6}

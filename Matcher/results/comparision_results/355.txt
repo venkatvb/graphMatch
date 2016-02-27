@@ -1,0 +1,132 @@
+Sequence : GQVTTVWSKVANA
+{355}
+Sequence : DDVFND
+{355}
+Sequence : EVRRTLLRQAA
+{355}
+Sequence : LEKAVAVYHN
+{355}
+Sequence : PQYQD
+{355}
+Sequence : PHDVLTMVRQ
+{355}
+Sequence : PQDIQAFRELDKLG
+{355}
+Sequence : ILDKINET
+{355}
+Sequence : QVTTVWSKVANA
+{355}
+Sequence : DDVFND
+{355}
+Sequence : EVRRTLLRQAA
+{355}
+Sequence : LEKAVAVYHN
+{355}
+Sequence : PQYQD
+{355}
+Sequence : PHDVLTMVRQ
+{355}
+Sequence : PQDIQAFRELDKLG
+{355}
+Sequence : LDKINET
+{355}
+Sequence : QVTTVWSKVANA
+{355}
+Sequence : DDVFND
+{355}
+Sequence : EVRRTLLRQAA
+{355}
+Sequence : LEKAVAVYHN
+{355}
+Sequence : PQYQD
+{355}
+Sequence : PHDVLTMVRQ
+{355}
+Sequence : PQDIQAFRELDKLG
+{355}
+Sequence : ILDKINET
+{355}
+Sequence : QVTTVWSKVANA
+{355}
+Sequence : DDVFND
+{355}
+Sequence : EVRRTLLRQAA
+{355}
+Sequence : LEKAVAVYHN
+{355}
+Sequence : PQYQD
+{355}
+Sequence : PHDVLTMVRQ
+{355}
+Sequence : PQDIQAFRELDKLG
+{355}
+Sequence : LDKINET
+{355}
+Sequence : VNVVS
+{355}
+Sequence : IIICN
+{355}
+Sequence : VFYLFT
+{355}
+Sequence : ITLARIDD
+{355}
+Sequence : LNIGGM
+{355}
+Sequence : LDLR
+{355}
+Sequence : QLTK
+{355}
+Sequence : SLD
+{355}
+Sequence : VNVVS
+{355}
+Sequence : IIICN
+{355}
+Sequence : VFYLFT
+{355}
+Sequence : ITLARIDD
+{355}
+Sequence : LNIGGM
+{355}
+Sequence : LDLR
+{355}
+Sequence : NI
+{338, 355}
+Sequence : QLTK
+{355}
+Sequence : SLD
+{355}
+Sequence : VNVVS
+{355}
+Sequence : IIICN
+{355}
+Sequence : VFYLFT
+{355}
+Sequence : ITLARIDD
+{355}
+Sequence : LNIGGM
+{355}
+Sequence : LDLR
+{355}
+Sequence : QL
+{355, 390}
+Sequence : LD
+{355, 86, 87, 88, 89}
+Sequence : VNVVS
+{355}
+Sequence : IIICN
+{355}
+Sequence : VFYLFT
+{355}
+Sequence : ITLARIDD
+{355}
+Sequence : LNIGGM
+{355}
+Sequence : LDLR
+{355}
+Sequence : NI
+{338, 355}
+Sequence : QLTK
+{355}
+Sequence : SLD
+{355}

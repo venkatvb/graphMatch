@@ -1,0 +1,40 @@
+Sequence : GKLYKEEKQKFYDA
+{423}
+Sequence : VQA
+{423}
+Sequence : NLCNAAEGQMKHKFNRS
+{423}
+Sequence : KGQ
+{423}
+Sequence : YLEWLENLLTYLK
+{423}
+Sequence : PNFVGDKSKEFSR
+{423}
+Sequence : KEEMMAEML
+{423}
+Sequence : KTQLIASFKKQLRKS
+{423}
+Sequence : GKLYKEEKQKFYDA
+{423}
+Sequence : VQA
+{423}
+Sequence : NLCNAAEGQMKHKFNRS
+{423}
+Sequence : LKGQ
+{423}
+Sequence : YLEWLENLLTYL
+{423}
+Sequence : PNFVGDKSKEFSR
+{423}
+Sequence : KEEMMAEMLQ
+{423}
+Sequence : KTQLIASFKKQLRK
+{423}
+Sequence : HLDH
+{423}
+Sequence : VRGLL
+{423}
+Sequence : HLDH
+{423}
+Sequence : VRGLL
+{423}

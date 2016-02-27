@@ -1,0 +1,38 @@
+Sequence : EHWHKDF
+{565}
+Sequence : IAKG
+{565}
+Sequence : KYGD
+{565}
+Sequence : KAVQQP
+{565}
+Sequence : LQKVVDVLDSIKT
+{565}
+Sequence : GLLP
+{565}
+Sequence : QVLKFRKLN
+{565}
+Sequence : SVSY
+{565, 555, 556}
+Sequence : LKGG
+{565, 555, 556}
+Sequence : DFT
+{565, 555, 556}
+Sequence : LRILNN
+{562, 565, 555, 556}
+Sequence : NVEFD
+{562, 565, 555, 556}
+Sequence : RLIQFHFHWG
+{562, 565, 555, 556}
+Sequence : QLHLVHWNT
+{565}
+Sequence : VLGIFLKV
+{565}
+Sequence : WIVLKE
+{565, 555, 556}
+Sequence : TYPGSL
+{565, 555, 556}
+Sequence : VLGIF
+{565}
+Sequence : WIVLK
+{565}

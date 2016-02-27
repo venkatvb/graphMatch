@@ -1,0 +1,102 @@
+Sequence : GYIGSHTVLELLEA
+{112, 113, 111}
+Sequence : PESLRRVQELTG
+{112, 113, 111}
+Sequence : DQGALQRLFKKY
+{112, 113, 111}
+Sequence : KPLDYYRVN
+{112, 113}
+Sequence : NLTGTIQLLEIMKAH
+{112, 113}
+Sequence : TVYG
+{112, 113, 116}
+Sequence : NPYGKSKFFIEEMIRDLCQAD
+{112, 113, 111}
+Sequence : NLMPYVSQVAI
+{112, 113}
+Sequence : VVDLAKGHIAALRKLK
+{112, 113}
+Sequence : VLQMVQAMEKASG
+{112, 113, 111}
+Sequence : PSLAQEE
+{112, 113}
+Sequence : GLDRMCEDLWRWQKQN
+{112, 113, 111}
+Sequence : GYIGSHTVLELLEA
+{112, 113, 111}
+Sequence : PESLRRVQELTG
+{112, 113, 111}
+Sequence : DQGALQRLFKKY
+{112, 113, 111}
+Sequence : KPLDYYRVNLTGTIQLLEIMKAH
+{112, 113}
+Sequence : TVYG
+{112, 113, 116}
+Sequence : NPYGKSKFFIEEMIRDLCQAD
+{112, 113, 111}
+Sequence : NLMPYVSQVAI
+{112, 113}
+Sequence : VVDLAKGHIAALRKLK
+{112, 113}
+Sequence : VLQMVQAMEKASG
+{112, 113, 111}
+Sequence : PSLAQEEL
+{112, 113}
+Sequence : GLDRMCEDLWRWQKQN
+{112, 113, 111}
+Sequence : EFEE
+{112, 113, 111}
+Sequence : PVVID
+{112, 113}
+Sequence : KVLVT
+{112, 113, 111}
+Sequence : FMAVIH
+{112, 113, 111}
+Sequence : NLVFSSS
+{112, 113}
+Sequence : NVVLLRY
+{112, 113}
+Sequence : CRIYNL
+{112, 113}
+Sequence : NPT
+{112, 113, 111}
+Sequence : YIH
+{112, 113, 114, 115, 116, 117, 111}
+Sequence : LNVF
+{112, 113, 111}
+Sequence : YKVV
+{112, 113, 111}
+Sequence : YS
+{112, 113, 111}
+Sequence : VR
+{112, 113, 114, 115, 86, 87, 88, 89, 111}
+Sequence : AC
+{112, 113, 111}
+Sequence : EFEE
+{112, 113, 111}
+Sequence : PVVID
+{112, 113}
+Sequence : KVLVT
+{112, 113, 111}
+Sequence : FMAVIH
+{112, 113, 111}
+Sequence : NLVFSSS
+{112, 113}
+Sequence : NVVLLRY
+{112, 113}
+Sequence : CRIYNL
+{112, 113}
+Sequence : NPT
+{112, 113, 111}
+Sequence : YIH
+{112, 113, 114, 115, 116, 117, 111}
+Sequence : LNVF
+{112, 113, 111}
+Sequence : YKVV
+{112, 113, 111}
+Sequence : YS
+{112, 113, 111}
+Sequence : VR
+{112, 113, 114, 115, 86, 87, 88, 89, 111}
+Sequence : AC
+{112, 113, 111}

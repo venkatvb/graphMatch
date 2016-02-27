@@ -1,0 +1,82 @@
+Sequence : KLTY
+{513}
+Sequence : PEEAGAAVAAE
+{513}
+Sequence : WTDGL
+{513}
+Sequence : LDR
+{513}
+Sequence : LDL
+{513, 564}
+Sequence : VTNMFTSIV
+{513, 515}
+Sequence : VFG
+{513}
+Sequence : VAYVKT
+{513}
+Sequence : IQVERDKL
+{513, 515}
+Sequence : AKNYGRAVYECLRG
+{513}
+Sequence : WRDRFLFCAEALYKAQAET
+{513, 515}
+Sequence : CEDMMKRAVFAREL
+{513}
+Sequence : YLTG
+{513, 515}
+Sequence : FTANTTLSHYCRDN
+{513}
+Sequence : HAVID
+{513, 514, 515}
+Sequence : FRVLAKALRLS
+{513}
+Sequence : RDITLGFVDLLR
+{513}
+Sequence : RSR
+{513}
+Sequence : VWHMPALTEIF
+{513}
+Sequence : GGTL
+{513}
+Sequence : NAPGAVANRVALEACVQARN
+{513}
+Sequence : LAREGNTIIREATK
+{513}
+Sequence : PELAAACEV
+{513}
+Sequence : TDQLARQVDYLLNN
+{513}
+Sequence : PAQVLNELEECKKE
+{513}
+Sequence : ALRLEDLR
+{513}
+Sequence : ILAAFRVS
+{513}
+Sequence : YICYVAY
+{513}
+Sequence : RCYHIEP
+{513}
+Sequence : GHY
+{513}
+Sequence : FTK
+{513, 443, 444}
+Sequence : LLGCT
+{513}
+Sequence : SVLQ
+{513}
+Sequence : LPVA
+{513}
+Sequence : HIH
+{513}
+Sequence : IVMHD
+{513}
+Sequence : LLHIH
+{513}
+Sequence : TMW
+{513, 515}
+Sequence : VPCLEFE
+{513, 515}
+Sequence : FIRIIGF
+{513}
+Sequence : ISFIAY
+{513}

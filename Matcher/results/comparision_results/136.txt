@@ -1,0 +1,6 @@
+Sequence : WEKRM
+{129, 136, 152, 157}
+Sequence : VYYFN
+{129, 136, 152, 157}
+Sequence : ASQ
+{136, 152}

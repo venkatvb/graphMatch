@@ -1,0 +1,88 @@
+Sequence : GHSWERQSAALLD
+{278}
+Sequence : YDTFAADLNTVLETL
+{278}
+Sequence : SMGTGEVARYVSSY
+{278}
+Sequence : KEFFDGIVAAVKA
+{278}
+Sequence : RYAFYTGFFNDF
+{278}
+Sequence : LDEN
+{278}
+Sequence : EEAVRNSWNTAAS
+{278}
+Sequence : FFAAAAAPTTWY
+{278}
+Sequence : RADIPR
+{278}
+Sequence : IEN
+{245, 278}
+Sequence : ARVFHKA
+{278}
+Sequence : LLWT
+{278}
+Sequence : AEEVNTALLAFL
+{278}
+Sequence : GHSWERQSAALLD
+{278}
+Sequence : YDTFAADLNTVLETL
+{278}
+Sequence : SMGTGEVARYVSSY
+{278}
+Sequence : KEFFDGIVAAVKA
+{278}
+Sequence : RYAFYTGFFNDF
+{278}
+Sequence : LDEN
+{278}
+Sequence : EEAVRNSWNTAAS
+{278}
+Sequence : FFAAAAAPTT
+{278}
+Sequence : RADIPR
+{278}
+Sequence : IEN
+{245, 278}
+Sequence : ARVFHKA
+{278}
+Sequence : LLWT
+{278}
+Sequence : AEEVNTALLAFL
+{278}
+Sequence : YEDHG
+{278}
+Sequence : RVITY
+{278}
+Sequence : PVVLI
+{278}
+Sequence : AVLVGF
+{278}
+Sequence : IAKVAFL
+{278}
+Sequence : PALILHG
+{278}
+Sequence : EYVEV
+{278}
+Sequence : FITVGQE
+{278}
+Sequence : TSIDLY
+{278}
+Sequence : YEDHG
+{278}
+Sequence : RVITY
+{278}
+Sequence : PVVLI
+{278}
+Sequence : AVLVGF
+{278}
+Sequence : IAKVAFL
+{278}
+Sequence : PALILHG
+{278}
+Sequence : EYVEV
+{278}
+Sequence : FITVGQE
+{278}
+Sequence : TSIDLY
+{278}

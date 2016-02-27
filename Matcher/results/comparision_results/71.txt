@@ -1,0 +1,76 @@
+Sequence : HHHXKIHFVGIGGI
+{71}
+Sequence : NGNDVYGSNI
+{71}
+Sequence : DLVIKTPAVR
+{71}
+Sequence : VRARXERVPIENR
+{71}
+Sequence : EKKEEFAVTGTDGKTT
+{71}
+Sequence : GNGPVVY
+{71}
+Sequence : PNYLII
+{71}
+Sequence : NARGDHLENYGNSLT
+{71}
+Sequence : TDLVV
+{71}
+Sequence : GKRYLELKLKVPGFHNVL
+{71}
+Sequence : LAVIALFDSLGY
+{71}
+Sequence : ETNIYVIDDYAHTPDE
+{71}
+Sequence : QPHRYSRL
+{71}
+Sequence : VYDAFEEKKNGI
+{71}
+Sequence : LKS
+{71}
+Sequence : LGKEAY
+{71}
+Sequence : SENTVFLFVGAGDIIYS
+{71}
+Sequence : ER
+{71, 519, 522}
+Sequence : SAVAL
+{71}
+Sequence : GSDKI
+{71}
+Sequence : VPHS
+{71}
+Sequence : PEI
+{71, 280}
+Sequence : LG
+{71}
+Sequence : VAH
+{71}
+Sequence : LEHGN
+{71}
+Sequence : YFRDT
+{71}
+Sequence : ESEE
+{71}
+Sequence : RSAFE
+{71}
+Sequence : FAE
+{71}
+Sequence : LGDVTFGV
+{71}
+Sequence : YTLEXRS
+{71}
+Sequence : RAEQKAXV
+{71}
+Sequence : ALEEFR
+{71}
+Sequence : RFSIAF
+{71}
+Sequence : PELEKV
+{71}
+Sequence : LLQTAK
+{71}
+Sequence : DGNF
+{71}
+Sequence : XIW
+{71}

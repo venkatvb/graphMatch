@@ -1,0 +1,74 @@
+Sequence : SLRSDLINALYDENQKY
+{411, 412, 413}
+Sequence : DTKVLSTIFELFSRPIINKIAEKH
+{411, 412, 413, 414}
+Sequence : PFD
+{411, 412, 413, 414}
+Sequence : KSSLK
+{411, 412}
+Sequence : KWVIA
+{411, 412, 413, 414}
+Sequence : HYKDFVE
+{411, 412, 413, 414}
+Sequence : SEDEFLDYWRN
+{411, 412, 413, 414}
+Sequence : NISEYRNWIYR
+{411, 412, 413, 414}
+Sequence : SLRSDLINALYDENQKY
+{411, 412, 413}
+Sequence : DTKVLSTIFELFSRPIINKIAEKH
+{411, 412, 413, 414}
+Sequence : PFD
+{411, 412, 413, 414}
+Sequence : NINELNEI
+{411, 412, 413, 414}
+Sequence : KWVI
+{411, 413, 414}
+Sequence : HYKDFVEG
+{411, 412, 413}
+Sequence : SEDEFLDYWRN
+{411, 412, 413, 414}
+Sequence : TSQLRNDKY
+{411}
+Sequence : NISEYRNWIYR
+{411, 412, 413, 414}
+Sequence : YN
+{411}
+Sequence : KIY
+{419, 420, 411}
+Sequence : VCGIIS
+{411, 412, 413}
+Sequence : VCGIIS
+{411, 412, 413}
+Sequence : IYP
+{21, 533, 22, 406, 24, 25, 409, 26, 411, 412, 413, 414}
+Sequence : IVE
+{563, 411, 412, 413, 414}
+Sequence : FTLY
+{411, 412, 413, 414}
+Sequence : KIAIDIKTTYT
+{411, 412, 413, 414}
+Sequence : YIAHWIIGYVYTR
+{411, 413}
+Sequence : YKGVKVFLQD
+{411, 413}
+Sequence : TLGG
+{411, 412, 413, 414}
+Sequence : NIG
+{503, 504, 411, 412, 413, 414}
+Sequence : IVE
+{563, 411, 412, 413, 414}
+Sequence : FTLY
+{411, 412, 413, 414}
+Sequence : KIAIDIKTTYT
+{411, 412, 413, 414}
+Sequence : YIAHWIIGYVYTR
+{411, 413}
+Sequence : YKGVKVFLQD
+{411, 413}
+Sequence : TLGG
+{411, 412, 413, 414}
+Sequence : NIGS
+{411, 413, 414}
+Sequence : AGDLA
+{411, 413}

@@ -1,0 +1,84 @@
+Sequence : RLEDALLAEALG
+{189}
+Sequence : APEAARAIGEAL
+{189}
+Sequence : PPEEVLRLMEEA
+{189}
+Sequence : PPEWAEAVG
+{189}
+Sequence : RPEWADY
+{189}
+Sequence : PRAW
+{189}
+Sequence : AKPLLAT
+{189}
+Sequence : NLEEVLALR
+{189}
+Sequence : ASG
+{189}
+Sequence : SAEKLRALFARLASL
+{189}
+Sequence : RLEDALLAEALG
+{189}
+Sequence : APEAARAIGEAL
+{189}
+Sequence : PPEEVLRLMEEAR
+{189}
+Sequence : PPEWAEAVGR
+{189}
+Sequence : RPEWADY
+{189}
+Sequence : PRAW
+{189}
+Sequence : AKPLLAT
+{189}
+Sequence : NLEEVLAL
+{189}
+Sequence : ASG
+{189}
+Sequence : SAEKLRALFARLAS
+{189}
+Sequence : RVKI
+{188, 189}
+Sequence : ALGFV
+{189}
+Sequence : VRVGVF
+{189}
+Sequence : VAQL
+{189}
+Sequence : VIKAFP
+{189}
+Sequence : ALLLD
+{189}
+Sequence : VIL
+{189}
+Sequence : ALDL
+{189}
+Sequence : RVKI
+{188, 189}
+Sequence : EEA
+{189}
+Sequence : VK
+{322, 137, 138, 189}
+Sequence : RVKI
+{188, 189}
+Sequence : ALGFV
+{189}
+Sequence : VRVGVF
+{189}
+Sequence : VAQL
+{189}
+Sequence : VIKAFP
+{189}
+Sequence : ALLLD
+{189}
+Sequence : VIL
+{189}
+Sequence : ALDL
+{189}
+Sequence : RVKI
+{188, 189}
+Sequence : EEA
+{189}
+Sequence : VK
+{322, 137, 138, 189}

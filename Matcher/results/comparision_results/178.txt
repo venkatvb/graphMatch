@@ -1,0 +1,84 @@
+Sequence : RKSLGELIHTLDGAK
+{178}
+Sequence : SIYLDFARQKLD
+{178}
+Sequence : PAMIKDIGA
+{178}
+Sequence : SERRHVFG
+{178}
+Sequence : DELIGQKVAHALAEGL
+{178}
+Sequence : LDEREAGI
+{178}
+Sequence : TEKVVFQETKAIADNVK
+{178}
+Sequence : PQQAQEVHEKLRGWLKTHVS
+{178}
+Sequence : DAVAVQSR
+{178}
+Sequence : GGNCKELASQH
+{178}
+Sequence : GASLK
+{178, 186}
+Sequence : PEFVDIINAK
+{178}
+Sequence : RKSLGELIHTLDGAK
+{178}
+Sequence : SIYLDFARQKLD
+{178}
+Sequence : PAMIKDIGA
+{178}
+Sequence : SERRHVFG
+{178}
+Sequence : DELIGQKVAHALAEGL
+{178}
+Sequence : LDEREAGI
+{178}
+Sequence : TEKVVFQETKAIADNVK
+{178}
+Sequence : PQQAQEVHEKLRGWLKTHVS
+{178}
+Sequence : DAVAVQSR
+{178}
+Sequence : GGNCKELASQH
+{178}
+Sequence : GASLK
+{178, 186}
+Sequence : PEFVDIINAK
+{178}
+Sequence : FVGGNWK
+{178}
+Sequence : TEVVCGA
+{178}
+Sequence : VAAQ
+{178, 179, 180, 181, 187}
+Sequence : WVILG
+{178, 183}
+Sequence : VIACIGEK
+{178}
+Sequence : VVLAYEPVW
+{178}
+Sequence : IIYGG
+{178}
+Sequence : GFLVG
+{178, 183}
+Sequence : FVGGNWK
+{178}
+Sequence : FVGGNWK
+{178}
+Sequence : TEVVCGA
+{178}
+Sequence : VAAQ
+{178, 179, 180, 181, 187}
+Sequence : WVILG
+{178, 183}
+Sequence : VIACIGEK
+{178}
+Sequence : VVLAYEPVW
+{178}
+Sequence : IIYGG
+{178}
+Sequence : GFLVG
+{178, 183}
+Sequence : FVGGNWK
+{178}

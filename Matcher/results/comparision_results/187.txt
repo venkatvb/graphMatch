@@ -1,0 +1,88 @@
+Sequence : KSLGELIHTLNGA
+{179, 180, 181, 187}
+Sequence : IYLDFARQKL
+{187}
+Sequence : AMIKDIG
+{179, 180, 181, 187}
+Sequence : ERRHV
+{179, 180, 181, 187}
+Sequence : ELIGQKVAHALAE
+{179, 180, 181, 187}
+Sequence : DEREAG
+{187}
+Sequence : EKVVFEQTKAIADNV
+{187}
+Sequence : SKV
+{65, 187}
+Sequence : WAIG
+{187}
+Sequence : QQAQEVHEKLRGWLKTHV
+{187}
+Sequence : AVAQST
+{179, 180, 181, 187}
+Sequence : KELASQ
+{187}
+Sequence : ASLK
+{187}
+Sequence : EFVDIIN
+{169, 186, 187}
+Sequence : KSLGELIHTLNG
+{187}
+Sequence : IYLDFARQKL
+{187}
+Sequence : AMIKDIG
+{179, 180, 181, 187}
+Sequence : ERRHV
+{179, 180, 181, 187}
+Sequence : ELIGQKVAHALAEG
+{187}
+Sequence : DEREA
+{179, 180, 181, 187}
+Sequence : EKVVFEQTKAIADNV
+{187}
+Sequence : SKV
+{65, 187}
+Sequence : WAI
+{187}
+Sequence : QQAQEVHEKLRGWLKTHV
+{187}
+Sequence : AVAQST
+{179, 180, 181, 187}
+Sequence : KELASQ
+{187}
+Sequence : ASL
+{245, 187}
+Sequence : EFVDIIN
+{169, 186, 187}
+Sequence : FLVG
+{187, 173}
+Sequence : FVGGNW
+{179, 180, 181, 187}
+Sequence : EVVCGAP
+{187}
+Sequence : VAAQ
+{178, 179, 180, 181, 187}
+Sequence : VILG
+{179, 180, 181, 187, 173}
+Sequence : VIACIG
+{179, 180, 181, 187}
+Sequence : VLAYE
+{180, 181, 187}
+Sequence : IYG
+{187}
+Sequence : FLVG
+{187, 173}
+Sequence : FVGGNW
+{179, 180, 181, 187}
+Sequence : EVVCGAP
+{187}
+Sequence : VAAQ
+{178, 179, 180, 181, 187}
+Sequence : VILG
+{179, 180, 181, 187, 173}
+Sequence : VIACIG
+{179, 180, 181, 187}
+Sequence : VLAYE
+{180, 181, 187}
+Sequence : IYG
+{187}

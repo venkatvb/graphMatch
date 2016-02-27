@@ -1,0 +1,56 @@
+Sequence : EKGILLTKLSEFWFKFL
+{69, 70}
+Sequence : TIFDYL
+{69, 70}
+Sequence : PAKLS
+{69, 70}
+Sequence : EPKYKTQLE
+{67, 69, 70}
+Sequence : TGSAWKEYVKTG
+{69, 70}
+Sequence : SPAQAAELVG
+{67, 69, 70}
+Sequence : GEDLSRRVAELAVKLYSKCKDYAKEKG
+{67, 70}
+Sequence : KQFLRDWLTAN
+{69, 70}
+Sequence : PQDIVDRTRAKYIEAYETLTG
+{67, 69, 70}
+Sequence : LVAR
+{69, 70}
+Sequence : RDIYEVD
+{69, 70}
+Sequence : TLLFVA
+{69, 70}
+Sequence : SLLVH
+{69, 70}
+Sequence : SA
+{69, 70, 377}
+Sequence : VI
+{496, 273, 69, 70, 55, 87, 89}
+Sequence : RN
+{69, 70}
+Sequence : IIL
+{70}
+Sequence : FGI
+{70}
+Sequence : KL
+{69, 70, 591}
+Sequence : EFPEPIF
+{69, 70}
+Sequence : LEVIVRGY
+{70}
+Sequence : ST
+{273, 69, 70}
+Sequence : EFPEPIF
+{69, 70}
+Sequence : LEVIVRGY
+{70}
+Sequence : IIIADTKF
+{70}
+Sequence : SRFWN
+{70}
+Sequence : TV
+{417, 548, 69, 421, 549, 70, 550, 551, 552, 394, 236, 561, 315, 316, 543}
+Sequence : LK
+{69, 70, 283, 539, 284, 285}

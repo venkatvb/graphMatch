@@ -1,0 +1,134 @@
+Sequence : TPLNAFDGALLNAG
+{501}
+Sequence : SKKEAEKTVREMAKIGFEMRG
+{501}
+Sequence : HAYFK
+{501}
+Sequence : TPLNAFDGALLNAG
+{501}
+Sequence : SKKEAEKTVREMAKIGFEMRG
+{501}
+Sequence : TPLNAFDGALLNAG
+{501}
+Sequence : SKKEAEKTVREMAKIGFEMRG
+{501}
+Sequence : TPLNAFDGALLNAG
+{501}
+Sequence : SKKEAEKTVREMAKIGFEMRG
+{501}
+Sequence : TPLNAFDGALLNAG
+{501}
+Sequence : SKKEAEKTVREMAKIGFEMRG
+{501}
+Sequence : TPLNAFDGALLNAG
+{501}
+Sequence : SKKEAEKTVREMAKIGFEMRG
+{501}
+Sequence : NLIR
+{501}
+Sequence : LVPTAYGYIIS
+{501}
+Sequence : GCAFAAAALW
+{501}
+Sequence : TVSLVAGSSE
+{501}
+Sequence : EI
+{194, 195, 197, 501, 87}
+Sequence : IM
+{501}
+Sequence : GLIMEYEG
+{501}
+Sequence : TISAAISVAIP
+{501}
+Sequence : LDRIESIAVEHT
+{501}
+Sequence : NLIR
+{501}
+Sequence : LVPTAYGYIIS
+{501}
+Sequence : GCAFAAAALW
+{501}
+Sequence : TVSLVAGSSE
+{501}
+Sequence : EI
+{194, 195, 197, 501, 87}
+Sequence : IM
+{501}
+Sequence : GLIMEYEG
+{501}
+Sequence : TISAAISVAIP
+{501}
+Sequence : LDRIESIAVEHT
+{501}
+Sequence : NLIR
+{501}
+Sequence : LVPTAYGYIIS
+{501}
+Sequence : GCAFAAAALW
+{501}
+Sequence : TVSLVAGSSE
+{501}
+Sequence : EI
+{194, 195, 197, 501, 87}
+Sequence : IM
+{501}
+Sequence : GLIMEYEG
+{501}
+Sequence : TISAAISVAIP
+{501}
+Sequence : LDRIESIAVEHT
+{501}
+Sequence : NLIR
+{501}
+Sequence : LVPTAYGYIIS
+{501}
+Sequence : GCAFAAAALW
+{501}
+Sequence : TVSLVAGSSE
+{501}
+Sequence : EI
+{194, 195, 197, 501, 87}
+Sequence : IM
+{501}
+Sequence : GLIMEYEG
+{501}
+Sequence : TISAAISVAIP
+{501}
+Sequence : LDRIESIAVEHT
+{501}
+Sequence : NLIR
+{501}
+Sequence : LVPTAYGYIIS
+{501}
+Sequence : GCAFAAAALW
+{501}
+Sequence : TVSLVAGSSE
+{501}
+Sequence : EI
+{194, 195, 197, 501, 87}
+Sequence : IM
+{501}
+Sequence : GLIMEYEG
+{501}
+Sequence : TISAAISVAIP
+{501}
+Sequence : LDRIESIAVEHT
+{501}
+Sequence : NLIR
+{501}
+Sequence : LVPTAYGYIIS
+{501}
+Sequence : GCAFAAAALW
+{501}
+Sequence : TVSLVAGSSE
+{501}
+Sequence : EI
+{194, 195, 197, 501, 87}
+Sequence : IM
+{501}
+Sequence : GLIMEYEG
+{501}
+Sequence : TISAAISVAIP
+{501}
+Sequence : LDRIESIAVEHT
+{501}

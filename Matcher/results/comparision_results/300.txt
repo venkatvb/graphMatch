@@ -1,0 +1,98 @@
+Sequence : SDNQFEQLYHAVLRH
+{300}
+Sequence : TPQQQRALAQR
+{300}
+Sequence : GIAAYEA
+{300}
+Sequence : SVPFRQLLS
+{300}
+Sequence : DFRKSF
+{300}
+Sequence : EYKYR
+{300}
+Sequence : TEEEHQRWREAVAK
+{300}
+Sequence : SEKESEALLSFLFAHI
+{300}
+Sequence : TKPE
+{300}
+Sequence : SDNQFEQLYHAVLRH
+{300}
+Sequence : TPQQQRALAQR
+{300}
+Sequence : GIAAYEA
+{300}
+Sequence : SVPFRQLLS
+{300}
+Sequence : PEYKY
+{300}
+Sequence : EHQRWREAVAK
+{300}
+Sequence : SEKESEALLSFLFAHI
+{300}
+Sequence : TKPE
+{300}
+Sequence : SITP
+{300}
+Sequence : AQIS
+{300}
+Sequence : VVFL
+{300}
+Sequence : IAIW
+{300}
+Sequence : GAILAAKE
+{300}
+Sequence : RIMHRATI
+{300}
+Sequence : VDEIIVLDT
+{300}
+Sequence : HA
+{300}
+Sequence : QVRW
+{300}
+Sequence : TLWTS
+{300}
+Sequence : TQHYA
+{300}
+Sequence : LLHP
+{300}
+Sequence : RAEH
+{300}
+Sequence : TTRI
+{300}
+Sequence : VRT
+{300}
+Sequence : QAL
+{300}
+Sequence : SITP
+{300}
+Sequence : AQIS
+{300}
+Sequence : VVFL
+{300}
+Sequence : IAIW
+{300}
+Sequence : GAILAAKE
+{300}
+Sequence : RIMHRATI
+{300}
+Sequence : VDEIIVLDT
+{300}
+Sequence : HA
+{300}
+Sequence : QVRW
+{300}
+Sequence : TLWTS
+{300}
+Sequence : TQHYA
+{300}
+Sequence : LLHP
+{300}
+Sequence : RAEH
+{300}
+Sequence : TTRI
+{300}
+Sequence : VRT
+{300}
+Sequence : QAL
+{300}

@@ -1,0 +1,78 @@
+Sequence : DEDLASGKHT
+{23}
+Sequence : ICLNFGIAQDYKGQCNLR
+{23}
+Sequence : NDVEWLGFHWSGNV
+{23}
+Sequence : YAIELINKGLAYVDE
+{23}
+Sequence : YRGTLTQPG
+{23}
+Sequence : LFEKMRAGGFEEGKA
+{23}
+Sequence : VLYRI
+{21, 23, 26}
+Sequence : ISDALEGITHSLCT
+{23}
+Sequence : LYD
+{23}
+Sequence : WVLDNITIPVHPR
+{23}
+Sequence : LVTDKHVEGW
+{23}
+Sequence : RGYTAASIR
+{23}
+Sequence : FCKRIGVTKQ
+{23}
+Sequence : CIREDLNENAPRAMAVI
+{23}
+Sequence : NKQ
+{23}
+Sequence : AGKAF
+{23}
+Sequence : PNGY
+{23}
+Sequence : DTNPVK
+{23}
+Sequence : DQ
+{23}
+Sequence : PEQI
+{23}
+Sequence : MASP
+{23}
+Sequence : AEHHQ
+{23}
+Sequence : THC
+{23}
+Sequence : FQDNR
+{23}
+Sequence : LNLEY
+{23}
+Sequence : PV
+{419, 420, 23}
+Sequence : GYFC
+{23, 26}
+Sequence : RHSTA
+{23}
+Sequence : LRD
+{23, 554}
+Sequence : YDRLFSV
+{23}
+Sequence : EPSLKDA
+{23}
+Sequence : LV
+{97, 98, 23}
+Sequence : AEGNI
+{23}
+Sequence : ADTL
+{23}
+Sequence : NYQGEG
+{23}
+Sequence : DFREE
+{23}
+Sequence : PV
+{419, 420, 23}
+Sequence : NHPNK
+{23}
+Sequence : IWIDR
+{23}

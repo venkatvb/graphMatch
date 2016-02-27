@@ -1,0 +1,96 @@
+Sequence : ADVAEELATTAQKLV
+{523}
+Sequence : TIKKRFDNI
+{523}
+Sequence : IENRASYRDLLFG
+{523}
+Sequence : LGKF
+{523}
+Sequence : EETLF
+{523}
+Sequence : MVNLLHNE
+{523}
+Sequence : LAERCKEYYKA
+{523}
+Sequence : DLSIHETAWGLARYASICQQN
+{523}
+Sequence : IEVCAVVTQKVLSCVFKALQEN
+{523}
+Sequence : LEG
+{523}
+Sequence : TQDVGFLTVRTLR
+{523}
+Sequence : EEEASVNLNSIN
+{523}
+Sequence : RALQASVLNTW
+{523}
+Sequence : KENVAKAREVLLQRAEANSLATY
+{523}
+Sequence : ADVAEELATTAQKLV
+{523}
+Sequence : TQTIKKRFDNI
+{523}
+Sequence : IENRASYRDLLFG
+{523}
+Sequence : LGK
+{261, 262, 523}
+Sequence : EETLF
+{523}
+Sequence : MVNLLHN
+{523}
+Sequence : LAERCKEYYK
+{523}
+Sequence : DLSIHETAWGLARYASICQQN
+{523}
+Sequence : IEVCAVVTQKVLSCVFKALQEN
+{523}
+Sequence : LEG
+{523}
+Sequence : TQDVGFLTVRTLR
+{523}
+Sequence : EEEASVNLNSIN
+{523}
+Sequence : RALQASVLNTW
+{523}
+Sequence : KENVAKAREVLLQRAEANSLATY
+{523}
+Sequence : ALL
+{523}
+Sequence : VPIVEPEIL
+{523, 524}
+Sequence : FAKWRTVLV
+{523}
+Sequence : IPGIK
+{523}
+Sequence : ISGAIL
+{523}
+Sequence : GILAA
+{523, 524}
+Sequence : GLVN
+{523}
+Sequence : KSTQ
+{523}
+Sequence : GVVF
+{299, 523}
+Sequence : ALTF
+{523}
+Sequence : ALL
+{523}
+Sequence : VPIVEPEIL
+{523, 524}
+Sequence : FAKWRTVLV
+{523}
+Sequence : IPGIK
+{523}
+Sequence : ISGAIL
+{523}
+Sequence : GILAA
+{523, 524}
+Sequence : LVN
+{523}
+Sequence : KST
+{523}
+Sequence : GVVF
+{299, 523}
+Sequence : ALTF
+{523}

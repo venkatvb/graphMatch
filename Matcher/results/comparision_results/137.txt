@@ -1,0 +1,44 @@
+Sequence : VPKTAENFRALCTG
+{137, 138}
+Sequence : TPHLD
+{137, 138}
+Sequence : GMGVAKILEN
+{137, 138}
+Sequence : FPEDA
+{137, 138}
+Sequence : DVDKILLISEDLKNIGNTFFKS
+{137, 138}
+Sequence : NWEMAIKKYTKVLRYVEGSRAAA
+{137}
+Sequence : EDADGA
+{137}
+Sequence : LQPVALSCVLNIGACKLKM
+{137}
+Sequence : DWQGAVDSCLEALE
+{137}
+Sequence : NTKALYRRAQGWQGL
+{137}
+Sequence : EYDQALADLKKAQEIA
+{137}
+Sequence : DKAIQAELLKVKQKIKAQKDKEKA
+{137}
+Sequence : FHRII
+{146, 147, 148, 149, 151, 121, 137, 122, 124, 125}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FFIT
+{119, 137, 138, 123}
+Sequence : LLSM
+{137, 138}
+Sequence : VFGQVIK
+{137, 138}
+Sequence : ERVGRIVLEL
+{137, 138}
+Sequence : RVFFDVDI
+{137, 138}
+Sequence : CVIAECGEL
+{137, 138}
+Sequence : VK
+{322, 137, 138, 189}
+Sequence : KP
+{137, 138}

@@ -1,0 +1,74 @@
+Sequence : TNNRMELKAAIEGLKA
+{430}
+Sequence : SHYLKKAFTE
+{430}
+Sequence : GWLEGWRKR
+{430}
+Sequence : NRDLWEALLLAMA
+{430}
+Sequence : HPENERADELARAAAM
+{430}
+Sequence : TNNRMELKAAIEGLKA
+{430}
+Sequence : SHYLKKAFTE
+{430}
+Sequence : NRDLWEALLLAMA
+{430}
+Sequence : HPENERADELARAAAMN
+{430}
+Sequence : TNNRMELKAAIEGLKA
+{430}
+Sequence : SHYLKKAFT
+{430}
+Sequence : NRDLWEALLLAMA
+{430}
+Sequence : HPENERADELARAAAM
+{430}
+Sequence : TNNRMELKAAIEGLKA
+{430}
+Sequence : SHYLKKAFTE
+{430}
+Sequence : NRDLWEALLLAMA
+{430}
+Sequence : HPENERADELARAAAM
+{430}
+Sequence : EKTFSAGYTRT
+{430}
+Sequence : GPGGYGAILR
+{430}
+Sequence : QVEIFTDGSA
+{430}
+Sequence : EVDLYT
+{430}
+Sequence : RVRFHF
+{430}
+Sequence : REKTFSAGYTRT
+{430}
+Sequence : GPGGYGAILRY
+{430}
+Sequence : QVEIFTDGSA
+{430}
+Sequence : EVDLYT
+{430}
+Sequence : RVRFHF
+{430}
+Sequence : EKTFSAGYTRT
+{430}
+Sequence : GPGGYGAILR
+{430}
+Sequence : QVEIFTDGSA
+{430}
+Sequence : EVDLYT
+{430}
+Sequence : RVRFHF
+{430}
+Sequence : REKTFSAGYTRT
+{430}
+Sequence : GPGGYGAILRY
+{430}
+Sequence : QVEIFTDGSA
+{430}
+Sequence : EVDLYT
+{430}
+Sequence : RVRFHF
+{430}

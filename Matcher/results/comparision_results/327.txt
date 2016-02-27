@@ -1,0 +1,98 @@
+Sequence : EFLAKAKEDFLKKWET
+{327}
+Sequence : QLD
+{342, 327, 328}
+Sequence : KQKVVKL
+{339, 342, 327, 328}
+Sequence : QIEHTLNEKRILQAV
+{339, 342, 327, 328}
+Sequence : EMFSHLRRIG
+{339, 342, 327, 328}
+Sequence : SEPHARFYAAQIVLTFEYLHSL
+{342, 327, 328}
+Sequence : KPE
+{339, 342, 327, 328}
+Sequence : TPEYL
+{339, 342, 327, 328}
+Sequence : APEIIL
+{339, 342, 327, 328}
+Sequence : KAVDWWALGVLIYEMAAG
+{339, 342, 327, 328}
+Sequence : QPIQIYEKIVSG
+{339, 342, 327}
+Sequence : SSDLKDLLRNLL
+{339, 342, 327, 328}
+Sequence : VNDIKNH
+{327}
+Sequence : KWFA
+{327}
+Sequence : DWIAIYQR
+{327}
+Sequence : VKEFLAKAKEDFLKKWET
+{327}
+Sequence : QLD
+{342, 327, 328}
+Sequence : KQKVVKL
+{339, 342, 327, 328}
+Sequence : QIEHTLNEKRILQAV
+{339, 342, 327, 328}
+Sequence : EMFSHLRRIG
+{339, 342, 327, 328}
+Sequence : SEPHARFYAAQIVLTFEYLHSL
+{342, 327, 328}
+Sequence : KPE
+{339, 342, 327, 328}
+Sequence : TPEYL
+{339, 342, 327, 328}
+Sequence : APEIIL
+{339, 342, 327, 328}
+Sequence : KAVDWWALGVLIYEMAAG
+{339, 342, 327, 328}
+Sequence : QPIQIYEKIVSG
+{339, 342, 327}
+Sequence : SSDLKDLLRNLL
+{339, 342, 327, 328}
+Sequence : DLTKR
+{339, 342, 327}
+Sequence : VNDIKNH
+{327}
+Sequence : KWFA
+{327}
+Sequence : DWIAIYQR
+{327}
+Sequence : FDRIKTLGT
+{342, 327, 328, 319}
+Sequence : RVMLVKH
+{327}
+Sequence : NHYAMKILD
+{327, 344}
+Sequence : NLYMVME
+{321, 339, 342, 327, 343, 328, 344, 319}
+Sequence : LEFSFK
+{339, 342, 327, 343, 328, 344, 319}
+Sequence : LI
+{321, 434, 339, 342, 327, 328, 319, 431}
+Sequence : KR
+{321, 339, 342, 327, 328, 89, 319}
+Sequence : LLI
+{321, 323, 339, 324, 342, 327, 343, 328, 344, 319}
+Sequence : IQV
+{321, 339, 342, 327, 343, 328, 344, 319}
+Sequence : FD
+{327}
+Sequence : LVKH
+{327}
+Sequence : HYAMKILD
+{339, 342, 327, 343, 328, 319}
+Sequence : NLYMVME
+{321, 339, 342, 327, 343, 328, 344, 319}
+Sequence : LEFSFK
+{339, 342, 327, 343, 328, 344, 319}
+Sequence : LI
+{321, 434, 339, 342, 327, 328, 319, 431}
+Sequence : KR
+{321, 339, 342, 327, 328, 89, 319}
+Sequence : LLI
+{321, 323, 339, 324, 342, 327, 343, 328, 344, 319}
+Sequence : IQV
+{321, 339, 342, 327, 343, 328, 344, 319}

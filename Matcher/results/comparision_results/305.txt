@@ -1,0 +1,92 @@
+Sequence : LGSRDD
+{305}
+Sequence : ETIAN
+{305, 308}
+Sequence : RLDQGEISAGDAA
+{305, 308}
+Sequence : AQITMGMPYAVTDAVLAPHIGGEAGSSHA
+{305, 308}
+Sequence : ARYLM
+{305, 308}
+Sequence : SMTPQAVL
+{305, 308}
+Sequence : IPPTLPGTN
+{305, 308}
+Sequence : RQRPGERLDL
+{305}
+Sequence : YGLLANTVRYLQCGGSWREDWG
+{305, 308}
+Sequence : TAVPPQGA
+{305, 308}
+Sequence : APE
+{305, 308, 589}
+Sequence : LAPNG
+{305, 308}
+Sequence : YNV
+{305, 308}
+Sequence : AKRLRSMHVFILDYD
+{305, 308}
+Sequence : LTSGMVQTHVTTPG
+{305, 308}
+Sequence : ARTFAREMGEAN
+{305, 307, 308}
+Sequence : LGSRDDIVYV
+{305}
+Sequence : ETIAN
+{305, 308}
+Sequence : RLDQGEISAGDAAV
+{305}
+Sequence : AQITMGMPYAVTDAVLAPHIGGEAGSSHA
+{305, 308}
+Sequence : ARYLM
+{305, 308}
+Sequence : SMTPQAVL
+{305, 308}
+Sequence : IPPTLPGTNI
+{305, 308}
+Sequence : RQRPGERLDL
+{305}
+Sequence : YGLLANTVRYLQCGGSWREDWG
+{305, 308}
+Sequence : TAVPPQG
+{305, 308}
+Sequence : APE
+{305, 308, 589}
+Sequence : LAPNG
+{305, 308}
+Sequence : YNV
+{305, 308}
+Sequence : AKRLRSMHVFILDYDQ
+{305, 308}
+Sequence : LTSGMVQTHVTTPG
+{305, 308}
+Sequence : ARTFAREMGEAN
+{305, 307, 308}
+Sequence : PTI
+{305}
+Sequence : HGMGKTT
+{305}
+Sequence : AALLCY
+{305, 308}
+Sequence : WRVL
+{305, 308}
+Sequence : GKTT
+{305}
+Sequence : DRHIDRL
+{305}
+Sequence : PAGCRD
+{305, 308}
+Sequence : PTI
+{305}
+Sequence : HGMGKTT
+{305}
+Sequence : AALLCY
+{305, 308}
+Sequence : WRVL
+{305, 308}
+Sequence : KTTT
+{305}
+Sequence : RHIDRL
+{305, 308}
+Sequence : PAGCRD
+{305, 308}

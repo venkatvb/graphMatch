@@ -1,0 +1,114 @@
+Sequence : LRKEIRYFKDVTTR
+{209, 203, 204}
+Sequence : RKTWES
+{209, 217, 202, 203, 204}
+Sequence : I
+{209, 204}
+Sequence : PQKFR
+{209, 203, 204}
+Sequence : SIESSLN
+{209, 204}
+Sequence : GAEIYNELI
+{209, 203, 204}
+Sequence : SPESI
+{209, 203, 204}
+Sequence : PLE
+{209, 203, 204}
+Sequence : PKSELQKFVG
+{209, 203, 204}
+Sequence : LRKEIRYFKDVTTR
+{209, 203, 204}
+Sequence : RKTWES
+{209, 217, 202, 203, 204}
+Sequence : PQKFR
+{209, 203, 204}
+Sequence : SIESSL
+{209, 203, 204}
+Sequence : GAEIYNELI
+{209, 203, 204}
+Sequence : SPESI
+{209, 203, 204}
+Sequence : PLE
+{209, 203, 204}
+Sequence : PKSELQKFVG
+{209, 203, 204}
+Sequence : EIID
+{209, 203, 204}
+Sequence : IIHA
+{209, 203, 204}
+Sequence : LNIIL
+{209, 203, 204}
+Sequence : RNAVIMG
+{209, 203, 204}
+Sequence : VERVFIIG
+{209, 203, 204}
+Sequence : VAIIVAAL
+{209, 203, 204}
+Sequence : VSHLLITEIE
+{209, 203, 204}
+Sequence : FTYNYTLWTR
+{209, 203, 204}
+Sequence : WTK
+{209, 203, 204}
+Sequence : EIID
+{209, 203, 204}
+Sequence : IIHA
+{209, 203, 204}
+Sequence : LNIIL
+{209, 203, 204}
+Sequence : RNAVIMG
+{209, 203, 204}
+Sequence : VERVFIIG
+{209, 203, 204}
+Sequence : VAIIVAAL
+{209, 203, 204}
+Sequence : VSHLLITEIE
+{209, 203, 204}
+Sequence : FTYNYTLWTR
+{209, 203, 204}
+Sequence : IKE
+{209, 203, 204}
+Sequence : GIG
+{208, 209, 212, 202, 203, 204, 207}
+Sequence : TF
+{208, 209, 212, 203, 204}
+Sequence : EIID
+{209, 203, 204}
+Sequence : IIHA
+{209, 203, 204}
+Sequence : LNIIL
+{209, 203, 204}
+Sequence : AVIMG
+{209, 203}
+Sequence : VFIIG
+{209, 203, 204}
+Sequence : VAIIVAAL
+{209, 203, 204}
+Sequence : VSHLLITEIE
+{209, 203, 204}
+Sequence : FTYNYTLWTR
+{209, 203, 204}
+Sequence : WTK
+{209, 203, 204}
+Sequence : EIID
+{209, 203, 204}
+Sequence : IIHA
+{209, 203, 204}
+Sequence : LNIIL
+{209, 203, 204}
+Sequence : AVIMG
+{209, 203}
+Sequence : VFIIG
+{209, 203, 204}
+Sequence : VAIIVAAL
+{209, 203, 204}
+Sequence : VSHLLITEIE
+{209, 203, 204}
+Sequence : FTYNYTLWTR
+{209, 203, 204}
+Sequence : IKE
+{209, 203, 204}
+Sequence : GIG
+{208, 209, 212, 202, 203, 204, 207}
+Sequence : TF
+{208, 209, 212, 203, 204}

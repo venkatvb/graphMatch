@@ -1,0 +1,74 @@
+Sequence : MISQLKK
+{27}
+Sequence : IVDLMRNYISQELSKI
+{27}
+Sequence : SSLIFPA
+{27}
+Sequence : MER
+{27}
+Sequence : IPRL
+{27}
+Sequence : PKDLAVQWAEK
+{27}
+Sequence : PQFLAKLVIPDILTRKED
+{27}
+Sequence : AGHLRSTIIGGFLANLYEK
+{27}
+Sequence : KQFGLLAVGFERY
+{27}
+Sequence : EEALVK
+{27}
+Sequence : PIHHLFDVYVRINKDIEE
+{27}
+Sequence : TNGKAREYF
+{27}
+Sequence : WKRFREFSIEKYIDTYARL
+{27}
+Sequence : KESMLKAIDLFKEK
+{27}
+Sequence : LTK
+{343, 27}
+Sequence : YLTRDVGAAMDRYEKY
+{27}
+Sequence : SQQDLHAAQFFEILKQ
+{27}
+Sequence : EWAKD
+{27}
+Sequence : DNILEETKEKMHEVMKKN
+{27}
+Sequence : PEEVADLVGISAVMIQDM
+{27}
+Sequence : WERML
+{27}
+Sequence : GPYLQYAHSRLRSVE
+{27}
+Sequence : TQEKWI
+{27}
+Sequence : FSL
+{27}
+Sequence : PAAKLLIRLLGQYPDVLRNAIKT
+{27}
+Sequence : PTTVVTYLFKLTHQVSSCYDV
+{27}
+Sequence : EELATARLALYGAARQVLYNGMRLL
+{27}
+Sequence : LEW
+{27}
+Sequence : LLIP
+{27}
+Sequence : FIQFFF
+{27}
+Sequence : LEKVEAN
+{27}
+Sequence : EVIRM
+{27}
+Sequence : KVIIE
+{27}
+Sequence : KMIYV
+{27}
+Sequence : LQHV
+{27}
+Sequence : VLID
+{27}
+Sequence : KAIVQ
+{27}

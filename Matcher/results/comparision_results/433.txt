@@ -1,0 +1,44 @@
+Sequence : QWPPAVC
+{433}
+Sequence : SCPGSG
+{433}
+Sequence : FDITKIS
+{433}
+Sequence : HLQSQLNTL
+{433}
+Sequence : ANNQQFWSHEWTK
+{433}
+Sequence : HGTCS
+{433}
+Sequence : FNQAAYFKLAVDMRNN
+{433}
+Sequence : YDIIGAL
+{433}
+Sequence : RPH
+{433, 431}
+Sequence : SRQAIKGFLKAKF
+{433}
+Sequence : GT
+{433, 495}
+Sequence : FTIHGLWPQ
+{433}
+Sequence : DSFWFVQ
+{433}
+Sequence : VSYLVEVVACF
+{433}
+Sequence : PGLRCR
+{433}
+Sequence : GT
+{433, 495}
+Sequence : FTIHGLWPQ
+{433}
+Sequence : DSFWFVQ
+{433}
+Sequence : VSYLVEVVACF
+{433}
+Sequence : TL
+{433}
+Sequence : GRTK
+{433}
+Sequence : ANFI
+{433}

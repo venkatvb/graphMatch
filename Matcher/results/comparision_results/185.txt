@@ -1,0 +1,88 @@
+Sequence : QQSLSELIDLFNS
+{184, 185}
+Sequence : LAMTKER
+{184, 185}
+Sequence : LPILKD
+{184, 185}
+Sequence : SERRAY
+{184, 185}
+Sequence : NEIVADKVAAAVA
+{184, 185}
+Sequence : LQERE
+{184, 185}
+Sequence : TAVVVLTQIAAIAK
+{184, 185}
+Sequence : KADWAK
+{185}
+Sequence : PQQAQEAHALIRSWVSSK
+{184, 185}
+Sequence : ADVAGE
+{185}
+Sequence : GKNARTLY
+{184, 185}
+Sequence : GASL
+{185}
+Sequence : FVDIIK
+{184, 185}
+Sequence : QQSLSELIDLFN
+{184, 185}
+Sequence : LAMTKER
+{184, 185}
+Sequence : LPILKD
+{184, 185}
+Sequence : SERRAY
+{184, 185}
+Sequence : NEIVADKVAAAVA
+{184, 185}
+Sequence : LQERE
+{184, 185}
+Sequence : TAVVVLTQIAAIA
+{184, 185}
+Sequence : KADWAK
+{185}
+Sequence : PQQAQEAHALIRSWVSSK
+{184, 185}
+Sequence : ADVAGE
+{185}
+Sequence : ARTLYQ
+{184, 185}
+Sequence : GASL
+{185}
+Sequence : FVDIIK
+{184, 185}
+Sequence : IAAAN
+{184, 185}
+Sequence : QCVVAS
+{184, 185}
+Sequence : FVIAA
+{184, 185}
+Sequence : WIVL
+{184, 185}
+Sequence : MVIACI
+{184, 185}
+Sequence : VVIAY
+{184, 185}
+Sequence : RILY
+{184, 169, 185, 174, 175}
+Sequence : GFLV
+{176, 182, 184, 169, 185, 170, 218, 171, 174}
+Sequence : IAAAN
+{184, 185}
+Sequence : IAAAN
+{184, 185}
+Sequence : QCVVA
+{184, 185}
+Sequence : FVIAA
+{184, 185}
+Sequence : WIVL
+{184, 185}
+Sequence : MVIACI
+{184, 185}
+Sequence : VVIAY
+{184, 185}
+Sequence : ILY
+{182, 184, 185, 171}
+Sequence : GFLV
+{176, 182, 184, 169, 185, 170, 218, 171, 174}
+Sequence : IAAAN
+{184, 185}

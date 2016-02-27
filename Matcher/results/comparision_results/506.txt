@@ -1,0 +1,44 @@
+Sequence : VMN
+{506}
+Sequence : NRDDALRVTGEVR
+{506, 507, 508}
+Sequence : EYI
+{506, 507, 508}
+Sequence : YPLVLSEG
+{506, 508}
+Sequence : MDIIAEFRKRFG
+{506, 507, 508}
+Sequence : IPETNEKICRATFKA
+{506, 507, 508}
+Sequence : GADSVRACLNVAEEMG
+{506, 507, 508}
+Sequence : HPGAEM
+{506, 507, 508}
+Sequence : FIQGAADEIARMGVDLG
+{506, 507, 508}
+Sequence : RPERLSRLREIIG
+{506, 507, 508}
+Sequence : DPGETL
+{506, 507, 508}
+Sequence : GRSIYL
+{506, 507, 508}
+Sequence : NPAAAAAGIIESI
+{506, 507, 508}
+Sequence : LILAM
+{506, 507, 508}
+Sequence : TVKIG
+{506, 508}
+Sequence : RIIAGFKV
+{506}
+Sequence : AIIVH
+{506, 507, 508}
+Sequence : EVFLL
+{506, 507, 508}
+Sequence : NYV
+{506, 507, 508}
+Sequence : FLIS
+{506, 507, 508}
+Sequence : AIIV
+{506, 507, 508}
+Sequence : LILAM
+{506, 507, 508}

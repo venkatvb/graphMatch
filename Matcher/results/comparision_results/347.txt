@@ -1,0 +1,84 @@
+Sequence : DAQSAAKCLTAVRRHS
+{347, 348}
+Sequence : VTNFTANGLLALG
+{347, 348}
+Sequence : EVADMAKI
+{347, 348}
+Sequence : SKESVEAMIIAGKSANEHG
+{347}
+Sequence : TPFRTESARDIIREV
+{347, 348}
+Sequence : NAAEIAHTVG
+{347}
+Sequence : GGDIIRLAQQAAQKLN
+{347, 348}
+Sequence : HKLLTKV
+{347, 348}
+Sequence : LLTSVVGAFCA
+{347, 348}
+Sequence : NPLFAAIAAISSYGVAAQLAAQQTA
+{347, 348}
+Sequence : GPGSFQIELLNKLSTV
+{347, 348}
+Sequence : TEQDVQEWA
+{347, 348}
+Sequence : DAQSAAKCLTAVRRHS
+{347, 348}
+Sequence : VTNFTANGLLALG
+{347, 348}
+Sequence : EVADMAKI
+{347, 348}
+Sequence : SKESVEAMIIAGKSANEH
+{347, 348}
+Sequence : TPFRTESARDIIREV
+{347, 348}
+Sequence : NAAEIAHTV
+{347, 348}
+Sequence : GGGDIIRLAQQAAQKLN
+{347}
+Sequence : HKLLTKV
+{347, 348}
+Sequence : LLTSVVGAFCA
+{347, 348}
+Sequence : NPLFAAIAAISSYGVAAQLAAQQTA
+{347, 348}
+Sequence : GPGSFQIELLNKLSTV
+{347, 348}
+Sequence : TEQDVQEWA
+{347, 348}
+Sequence : SPVM
+{347, 348}
+Sequence : LVHSI
+{347, 348}
+Sequence : ALVLN
+{347, 348}
+Sequence : VILD
+{347, 348}
+Sequence : AIRG
+{347, 348}
+Sequence : VIAI
+{347, 348}
+Sequence : DVIAD
+{347}
+Sequence : HVYTLH
+{347}
+Sequence : TIER
+{347}
+Sequence : SPVM
+{347, 348}
+Sequence : LVHSI
+{347, 348}
+Sequence : ALVLN
+{347, 348}
+Sequence : VILD
+{347, 348}
+Sequence : AIRG
+{347, 348}
+Sequence : VIAI
+{347, 348}
+Sequence : DVIAD
+{347}
+Sequence : HVYTL
+{347}
+Sequence : IER
+{347, 348}

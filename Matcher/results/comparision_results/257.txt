@@ -1,0 +1,32 @@
+Sequence : GVDADAI
+{257}
+Sequence : DGSLAF
+{257}
+Sequence : AAIVKLG
+{257}
+Sequence : GESIEFIN
+{257}
+Sequence : QTVVRKLT
+{257}
+Sequence : PNNIT
+{257}
+Sequence : KMTITVQ
+{257}
+Sequence : TYGVYCD
+{257}
+Sequence : FPHNIVFDEDAV
+{257}
+Sequence : GGDD
+{257}
+Sequence : AFVP
+{257}
+Sequence : VGAG
+{16, 257}
+Sequence : FDED
+{257}
+Sequence : VPAG
+{257}
+Sequence : DPHS
+{257}
+Sequence : GAGM
+{257}

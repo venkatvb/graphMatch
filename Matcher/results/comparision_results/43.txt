@@ -1,0 +1,90 @@
+Sequence : APGDVADVSRALRLT
+{42, 43, 44, 45, 46}
+Sequence : HEGHLALVRAAKR
+{42, 43, 44, 45, 46}
+Sequence : NPMQF
+{41, 42, 43, 44, 45, 46}
+Sequence : AGGDLDAY
+{43, 45}
+Sequence : TPDDDLAQLRAE
+{42, 43, 44, 45}
+Sequence : TTAAMY
+{42, 43, 44, 45, 46}
+Sequence : GPLAAELEGG
+{42, 43, 44, 45, 46}
+Sequence : THFAGVLTVVLKLLQIVR
+{42, 43, 44, 45, 46}
+Sequence : DYQQLVLIRQLVADF
+{42, 43, 44, 45, 46}
+Sequence : SSRNRYL
+{42, 43, 44, 45, 46}
+Sequence : DPAQRAAA
+{42, 43, 44, 45, 46}
+Sequence : VALSAALTAAAHAA
+{42, 43, 44, 45, 46}
+Sequence : GAQAALDAARAVLDAA
+{43}
+Sequence : APGDVADVSRALRLT
+{42, 43, 44, 45, 46}
+Sequence : HEGHLALVRAAKR
+{42, 43, 44, 45, 46}
+Sequence : NPMQF
+{41, 42, 43, 44, 45, 46}
+Sequence : TPDDDLAQLRAEG
+{43, 44, 46}
+Sequence : TTAAMY
+{42, 43, 44, 45, 46}
+Sequence : GPLAAELEGG
+{42, 43, 44, 45, 46}
+Sequence : THFAGVLTVVLKLLQIVR
+{42, 43, 44, 45, 46}
+Sequence : DYQQLVLIRQLVADF
+{42, 43, 44, 45, 46}
+Sequence : SSRNRYL
+{42, 43, 44, 45, 46}
+Sequence : DPAQRAAA
+{42, 43, 44, 45, 46}
+Sequence : AVALSAALTAAAHAA
+{43}
+Sequence : GAQAALDAARAVLDA
+{42, 43, 44, 45, 46}
+Sequence : NVY
+{42, 43, 44, 45, 46}
+Sequence : IAF
+{42, 43, 44, 45, 46}
+Sequence : SVVVVSI
+{42, 43, 44, 45, 46}
+Sequence : RVMLVPT
+{42, 43, 44, 45, 46}
+Sequence : RVFFG
+{42, 43, 44, 45, 46}
+Sequence : AVVGV
+{42, 43, 44, 45, 46}
+Sequence : TVQ
+{489, 42, 43, 44, 45, 46, 495}
+Sequence : TVQ
+{489, 42, 43, 44, 45, 46, 495}
+Sequence : AVDYLELRD
+{42, 43, 44, 45, 46}
+Sequence : SGRLLVAARL
+{42, 43, 44, 45}
+Sequence : TRLLDNIAIE
+{42, 43, 44, 45}
+Sequence : NVY
+{42, 43, 44, 45, 46}
+Sequence : IAF
+{42, 43, 44, 45, 46}
+Sequence : SVVVVSI
+{42, 43, 44, 45, 46}
+Sequence : RVMLVPT
+{42, 43, 44, 45, 46}
+Sequence : RVFFG
+{42, 43, 44, 45, 46}
+Sequence : AVVGV
+{42, 43, 44, 45, 46}
+Sequence : AVDYLELR
+{43, 44, 45, 46}
+Sequence : GSGRLLVAARL
+{42, 43, 44, 45, 46}
+Sequence : TRLLDNIAIEI
+{42, 43, 44, 45, 46}

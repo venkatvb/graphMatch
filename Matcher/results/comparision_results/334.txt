@@ -1,0 +1,54 @@
+Sequence : STAIREISL
+{334}
+Sequence : LKE
+{16, 334}
+Sequence : DLKKFMDA
+{334}
+Sequence : IPLPLIKSYLFQLLQGLAFCHS
+{334}
+Sequence : LKP
+{334}
+Sequence : FGLARAF
+{334}
+Sequence : RAPEIL
+{334}
+Sequence : STAVDIWSLGCIFAEMVT
+{334}
+Sequence : DSEIDQLFRIFRTL
+{334}
+Sequence : PGVTS
+{334}
+Sequence : QDFSKV
+{334}
+Sequence : LDEDGRSLLSQM
+{334}
+Sequence : ISAKAAL
+{334}
+Sequence : AHPFF
+{334}
+Sequence : NFQKVEKIG
+{334}
+Sequence : GVVYKAR
+{334}
+Sequence : EVVA
+{334}
+Sequence : NKLYLVF
+{334}
+Sequence : KI
+{451, 334}
+Sequence : NFQKVEKIG
+{334}
+Sequence : GVVYKAR
+{334}
+Sequence : EVVA
+{334}
+Sequence : NKLYLVF
+{334}
+Sequence : KLLDVIH
+{334}
+Sequence : HQ
+{334}
+Sequence : NLL
+{334}
+Sequence : AIK
+{334}

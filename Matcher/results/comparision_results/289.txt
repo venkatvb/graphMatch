@@ -1,0 +1,78 @@
+Sequence : GFGNE
+{289}
+Sequence : PEGQN
+{289}
+Sequence : RSWLY
+{289}
+Sequence : KPFEI
+{289}
+Sequence : RFSID
+{289}
+Sequence : RGY
+{289, 381}
+Sequence : FAA
+{289}
+Sequence : WHGN
+{289}
+Sequence : GHYEAKQGGFL
+{289}
+Sequence : KVKLAPER
+{289}
+Sequence : HHH
+{289}
+Sequence : LEVY
+{289}
+Sequence : YQGK
+{289}
+Sequence : GDFLI
+{289}
+Sequence : KSNNGLAIH
+{289}
+Sequence : GKXLVQPNE
+{289}
+Sequence : ASQKKVDF
+{289}
+Sequence : PDPNQLR
+{289}
+Sequence : AS
+{289, 561, 562, 548, 549, 550, 551, 552, 510, 543}
+Sequence : SGHI
+{289}
+Sequence : VPGGYT
+{289}
+Sequence : PQVCPY
+{289}
+Sequence : CSSEDP
+{289}
+Sequence : AF
+{289, 107, 108}
+Sequence : DFLIPIAWY
+{289}
+Sequence : DLGPIGANGLAN
+{289}
+Sequence : LCGAG
+{289}
+Sequence : SHK
+{289}
+Sequence : RNCX
+{289}
+Sequence : DFVIFPPR
+{289}
+Sequence : PHGPDAD
+{289}
+Sequence : INSVAFDH
+{289}
+Sequence : TPYKYN
+{289}
+Sequence : IQ
+{288, 289, 286, 287}
+Sequence : NRCFY
+{289}
+Sequence : LCNTS
+{289}
+Sequence : NLLI
+{289}
+Sequence : PSI
+{289}
+Sequence : SLH
+{289}

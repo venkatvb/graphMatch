@@ -1,0 +1,78 @@
+Sequence : SSFAMLLEAQR
+{64, 62}
+Sequence : TEFIYATYILERAEE
+{62}
+Sequence : PQSLRD
+{64, 62, 63}
+Sequence : FTAW
+{62}
+Sequence : KAQLKAFWEKH
+{64, 62, 63}
+Sequence : LGVIAETL
+{64, 62, 63}
+Sequence : PAIKD
+{64, 62, 63}
+Sequence : LKEKGLIFVGLDIIGD
+{62}
+Sequence : GMLMDAI
+{62}
+Sequence : QQQ
+{62}
+Sequence : FSFVGEQDLP
+{64, 62}
+Sequence : EARAHTRTLNV
+{64, 62}
+Sequence : ELHYM
+{64, 62, 63}
+Sequence : KLGIVM
+{62}
+Sequence : VILMR
+{62}
+Sequence : LIV
+{64, 62, 63}
+Sequence : FSFVGEQDLP
+{64, 62}
+Sequence : EARAHTRTLNV
+{64, 62}
+Sequence : LYLI
+{64, 484, 62, 63}
+Sequence : TLVT
+{64, 62, 63}
+Sequence : CMAQN
+{64, 62, 63}
+Sequence : IILKP
+{64, 62}
+Sequence : FRV
+{64, 62, 63}
+Sequence : RQIG
+{62}
+Sequence : YCLAR
+{64, 62}
+Sequence : DKRVLVV
+{64, 62, 63}
+Sequence : INVTSPT
+{62}
+Sequence : REIEAE
+{62}
+Sequence : PIAN
+{544, 545, 546, 553, 62}
+Sequence : NIKK
+{62}
+Sequence : EMGD
+{62}
+Sequence : MGDL
+{62}
+Sequence : INGE
+{62}
+Sequence : PLAD
+{62}
+Sequence : LADL
+{62}
+Sequence : FSDL
+{62}
+Sequence : KEGD
+{62}
+Sequence : VDGE
+{162, 131, 122, 124, 125, 62}
+Sequence : TCIR
+{62}

@@ -1,0 +1,48 @@
+Sequence : LKKEISYFKRVTSF
+{202, 207}
+Sequence : GRKTWES
+{207}
+Sequence : SLDHALELLYRTY
+{202, 207}
+Sequence : GAQLYKAAMDH
+{202, 207}
+Sequence : DKEWS
+{202, 207}
+Sequence : KHSDLESWVG
+{202, 207}
+Sequence : HSA
+{217, 202, 207}
+Sequence : RINVVI
+{207}
+Sequence : SMNVVLM
+{207}
+Sequence : QINRIFV
+{207}
+Sequence : LTLIVALT
+{217, 202, 207}
+Sequence : LDRIMATII
+{217, 202, 207}
+Sequence : DYEFEMWTR
+{207}
+Sequence : WKK
+{207}
+Sequence : HSA
+{217, 202, 207}
+Sequence : RINVVI
+{207}
+Sequence : SMNVVLM
+{207}
+Sequence : QINRIFV
+{207}
+Sequence : LTLIVALT
+{217, 202, 207}
+Sequence : LDRIMATII
+{217, 202, 207}
+Sequence : DYEFEMWTR
+{207}
+Sequence : IN
+{202, 207}
+Sequence : GIG
+{208, 209, 212, 202, 203, 204, 207}
+Sequence : VF
+{194, 195, 152, 202, 219, 207}

@@ -1,0 +1,44 @@
+Sequence : DNC
+{238}
+Sequence : DCVEV
+{238}
+Sequence : LCEPE
+{238}
+Sequence : EDE
+{238, 591}
+Sequence : EDMQEFIQLNAELAEV
+{238}
+Sequence : AEDW
+{238}
+Sequence : KLQH
+{238}
+Sequence : DNC
+{238}
+Sequence : DCVEV
+{238}
+Sequence : LCEPE
+{238}
+Sequence : EDE
+{238, 591}
+Sequence : EDMQEFIQLNAELAEV
+{238}
+Sequence : AEDW
+{238}
+Sequence : KLQH
+{238}
+Sequence : FVV
+{238}
+Sequence : IFS
+{238}
+Sequence : FYE
+{238}
+Sequence : LVI
+{90, 238}
+Sequence : FVV
+{238}
+Sequence : IFS
+{238}
+Sequence : FYE
+{238}
+Sequence : LVI
+{90, 238}

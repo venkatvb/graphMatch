@@ -1,0 +1,22 @@
+Sequence : VPKTAGNFRALCTG
+{127}
+Sequence : TEWLD
+{146, 162, 131, 147, 148, 149, 151, 127}
+Sequence : GLDVVKAVES
+{127}
+Sequence : RII
+{161, 146, 147, 148, 180, 149, 138, 127}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FFLC
+{127}
+Sequence : VLSM
+{127}
+Sequence : VFGRVVE
+{127}
+Sequence : KASGRIVMEL
+{127}
+Sequence : KVFFDITI
+{127}
+Sequence : CMIADCGQLK
+{127}

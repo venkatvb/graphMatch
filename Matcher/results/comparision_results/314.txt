@@ -1,0 +1,44 @@
+Sequence : EDAI
+{314}
+Sequence : GLDKLIEDIHTDIRVALNSMD
+{314}
+Sequence : RPSYSS
+{314}
+Sequence : YKKDPFFK
+{314}
+Sequence : EDAI
+{314}
+Sequence : GLDKLIEDIHTDIRVALNSM
+{314}
+Sequence : RPSYSS
+{314}
+Sequence : YKKD
+{314}
+Sequence : IRFEGKVV
+{314}
+Sequence : ANI
+{314, 542}
+Sequence : RSAEVHL
+{314}
+Sequence : RVFPMVMSVGW
+{314}
+Sequence : GVYFGYAMV
+{314}
+Sequence : IMRVIVLGYIR
+{314}
+Sequence : IRFEGKVV
+{314}
+Sequence : IRFEGKVV
+{314}
+Sequence : ANI
+{314, 542}
+Sequence : RSAEVHL
+{314}
+Sequence : VFPMVMSVGW
+{314}
+Sequence : GVYFGYAM
+{314}
+Sequence : IMRVIVLGYIR
+{314}
+Sequence : IRFEGKVV
+{314}

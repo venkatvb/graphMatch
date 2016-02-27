@@ -1,0 +1,176 @@
+Sequence : IPSRL
+{8}
+Sequence : PKEEL
+{8}
+Sequence : KPKK
+{8}
+Sequence : KVFEKLQA
+{8}
+Sequence : IPSRL
+{8}
+Sequence : PKEEL
+{8}
+Sequence : KPKK
+{8}
+Sequence : KVFEKLQA
+{8}
+Sequence : IPSRL
+{8}
+Sequence : PKEEL
+{8}
+Sequence : KPKK
+{8}
+Sequence : KVFEKLQA
+{8}
+Sequence : IPSRL
+{8}
+Sequence : PKEEL
+{8}
+Sequence : KPKK
+{8}
+Sequence : KVFEKLQA
+{8}
+Sequence : FKI
+{8}
+Sequence : AQW
+{8}
+Sequence : TNFMT
+{8}
+Sequence : GS
+{432, 8, 282, 586, 12}
+Sequence : TNFMT
+{8}
+Sequence : HVFV
+{8}
+Sequence : IRVGKIITVEK
+{8}
+Sequence : YVEKID
+{8}
+Sequence : RTVVS
+{8}
+Sequence : YVEKID
+{8}
+Sequence : IRVGKIITVEK
+{8}
+Sequence : LVVVL
+{8}
+Sequence : ML
+{8, 335}
+Sequence : QKM
+{8}
+Sequence : VES
+{8}
+Sequence : NIS
+{8}
+Sequence : CASIE
+{8}
+Sequence : RQVEP
+{8}
+Sequence : FKI
+{8}
+Sequence : AQW
+{8}
+Sequence : TNFMT
+{8}
+Sequence : GS
+{432, 8, 282, 586, 12}
+Sequence : TNFMT
+{8}
+Sequence : HVFV
+{8}
+Sequence : IRVGKIITVEK
+{8}
+Sequence : YVEKID
+{8}
+Sequence : RTVVS
+{8}
+Sequence : YVEKID
+{8}
+Sequence : IRVGKIITVEK
+{8}
+Sequence : LVVVL
+{8}
+Sequence : ML
+{8, 335}
+Sequence : QKM
+{8}
+Sequence : VES
+{8}
+Sequence : NIS
+{8}
+Sequence : CASI
+{8}
+Sequence : QVEP
+{8}
+Sequence : FKI
+{8}
+Sequence : AQW
+{8}
+Sequence : TNFMT
+{8}
+Sequence : GS
+{432, 8, 282, 586, 12}
+Sequence : TNFMT
+{8}
+Sequence : HVFV
+{8}
+Sequence : IRVGKIITVEK
+{8}
+Sequence : YVEKID
+{8}
+Sequence : RTVVS
+{8}
+Sequence : YVEKID
+{8}
+Sequence : IRVGKIITVEK
+{8}
+Sequence : LVVVL
+{8}
+Sequence : ML
+{8, 335}
+Sequence : QKM
+{8}
+Sequence : VES
+{8}
+Sequence : NIS
+{8}
+Sequence : CASIE
+{8}
+Sequence : RQVEP
+{8}
+Sequence : FKI
+{8}
+Sequence : AQW
+{8}
+Sequence : TNFMT
+{8}
+Sequence : GS
+{432, 8, 282, 586, 12}
+Sequence : TNFMT
+{8}
+Sequence : HVFV
+{8}
+Sequence : IRVGKIITVEK
+{8}
+Sequence : YVEKID
+{8}
+Sequence : RTVVS
+{8}
+Sequence : YVEKID
+{8}
+Sequence : IRVGKIITVEK
+{8}
+Sequence : LVVVL
+{8}
+Sequence : ML
+{8, 335}
+Sequence : QKM
+{8}
+Sequence : VES
+{8}
+Sequence : NIS
+{8}
+Sequence : CASI
+{8}
+Sequence : QVEP
+{8}

@@ -1,0 +1,88 @@
+Sequence : GKEISAQIRARLKNQVTQLKEQ
+{218}
+Sequence : DDSNLYINVKLKAAEEI
+{218}
+Sequence : ESEVMKYITSLNE
+{218}
+Sequence : TEEVINA
+{218}
+Sequence : PEK
+{218}
+Sequence : SINAGRLAR
+{218}
+Sequence : CTPKGCLELIKET
+{218}
+Sequence : GAPMHDLLLWN
+{218}
+Sequence : LDEEVNK
+{218}
+Sequence : GEW
+{218}
+Sequence : YDEAKE
+{218}
+Sequence : VGPMTVAMLMQSTVESAKRF
+{218}
+Sequence : GKEISAQIRARLKNQVTQLKEQ
+{218}
+Sequence : DDSNLYINVKLKAAEEI
+{218}
+Sequence : ESEVMKYITSLNE
+{218}
+Sequence : TEEVINA
+{218}
+Sequence : PEK
+{218}
+Sequence : SINAGRLAR
+{218}
+Sequence : CTPKGCLELIKET
+{218}
+Sequence : GAPMHDLLLW
+{218}
+Sequence : LDEEVNK
+{218}
+Sequence : GEW
+{218}
+Sequence : YDEAKE
+{218}
+Sequence : GPMTVAMLMQSTVESAKRF
+{218}
+Sequence : EIL
+{218}
+Sequence : FIT
+{218}
+Sequence : KATHIKL
+{218}
+Sequence : RLAILQV
+{218}
+Sequence : GFLV
+{176, 182, 184, 169, 185, 170, 218, 171, 174}
+Sequence : TVTTC
+{218}
+Sequence : HAVVV
+{218}
+Sequence : ILVV
+{218}
+Sequence : IVID
+{49, 218}
+Sequence : EIL
+{218}
+Sequence : FIT
+{218}
+Sequence : KATHIKL
+{218}
+Sequence : RLAILQV
+{218}
+Sequence : GFLV
+{176, 182, 184, 169, 185, 170, 218, 171, 174}
+Sequence : TVTTC
+{218}
+Sequence : HAVVV
+{218}
+Sequence : ILVV
+{218}
+Sequence : IVID
+{49, 218}
+Sequence : NYVP
+{218}
+Sequence : RKVV
+{218}

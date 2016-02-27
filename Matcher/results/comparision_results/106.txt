@@ -1,0 +1,34 @@
+Sequence : NEAIFQEN
+{106}
+Sequence : HPE
+{106}
+Sequence : PLEMV
+{106}
+Sequence : EKDRN
+{106}
+Sequence : FRFIK
+{106}
+Sequence : IIIEP
+{106}
+Sequence : EFFI
+{106}
+Sequence : KLVRVIR
+{106}
+Sequence : ECIVNYKC
+{106}
+Sequence : QDNESMSV
+{106}
+Sequence : VYTD
+{106}
+Sequence : GYFM
+{106}
+Sequence : WTGVRLS
+{106}
+Sequence : EIFDVAVD
+{106}
+Sequence : FAHGFLA
+{106}
+Sequence : LRGLHFQ
+{104, 105, 106}
+Sequence : DSG
+{106}

@@ -1,0 +1,94 @@
+Sequence : NQLEMKKLAAQAAL
+{195}
+Sequence : QYV
+{195}
+Sequence : GSTVNCFIEALGT
+{195}
+Sequence : IKDKI
+{195}
+Sequence : SKESEELLRKQ
+{195}
+Sequence : NANDV
+{195}
+Sequence : ALTREKIVAAL
+{195}
+Sequence : SKQ
+{194, 195}
+Sequence : ARSQVGRKLAAL
+{195}
+Sequence : NPVEIEKELNN
+{195}
+Sequence : NQLEMKKLAAQAAL
+{195}
+Sequence : QYV
+{195}
+Sequence : GSTVNCFIEALGT
+{195}
+Sequence : IKDKI
+{195}
+Sequence : SKESEELLRKQ
+{195}
+Sequence : NANDV
+{195}
+Sequence : ALTREKIVAAL
+{195}
+Sequence : SKQ
+{194, 195}
+Sequence : ARSQVGRKLAAL
+{195}
+Sequence : NPVEIEKELNN
+{195}
+Sequence : GAVA
+{195}
+Sequence : IVGV
+{194, 195, 197}
+Sequence : LDIYVD
+{195}
+Sequence : AKKFICIVD
+{195}
+Sequence : VVIVGT
+{195}
+Sequence : GAKVI
+{195}
+Sequence : EI
+{194, 195, 197, 501, 87}
+Sequence : MI
+{195}
+Sequence : IF
+{195}
+Sequence : SPEY
+{195}
+Sequence : VILDVH
+{194, 195, 197}
+Sequence : LPVEV
+{194, 195, 197}
+Sequence : VVTN
+{195}
+Sequence : VF
+{194, 195, 152, 202, 219, 207}
+Sequence : GAVA
+{195}
+Sequence : IVGV
+{194, 195, 197}
+Sequence : LDIYVD
+{195}
+Sequence : AKKFICIVD
+{195}
+Sequence : VVIVGT
+{195}
+Sequence : GAKVI
+{195}
+Sequence : EI
+{194, 195, 197, 501, 87}
+Sequence : MI
+{195}
+Sequence : IF
+{195}
+Sequence : SPEY
+{195}
+Sequence : VILDVH
+{194, 195, 197}
+Sequence : LPVEV
+{194, 195, 197}
+Sequence : VVTN
+{195}

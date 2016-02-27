@@ -1,0 +1,74 @@
+Sequence : PQELEAYG
+{516}
+Sequence : YDLLYQEE
+{516}
+Sequence : PETWQHLKGLVTRQL
+{516}
+Sequence : AWQAHFVKNM
+{516}
+Sequence : GEMKKGMFSMMNYLLPL
+{516}
+Sequence : GKTTLS
+{516}
+Sequence : PEIYNA
+{516}
+Sequence : ADQTQYHFLS
+{516}
+Sequence : PTQYAEVLVKRMQAA
+{516}
+Sequence : SIKDTRAIIDAIL
+{516}
+Sequence : TKIL
+{516}
+Sequence : PEQWQEKAETLAKLFIDNFDKY
+{516}
+Sequence : PAGAAL
+{516}
+Sequence : VAA
+{516}
+Sequence : DIVY
+{516}
+Sequence : RLFVVDAFC
+{516}
+Sequence : LSVRFIT
+{516}
+Sequence : FIVMNG
+{516}
+Sequence : MQLIG
+{516}
+Sequence : FVAFN
+{516}
+Sequence : KYIV
+{516}
+Sequence : KPL
+{516}
+Sequence : GVL
+{516}
+Sequence : VAV
+{516}
+Sequence : LLE
+{516}
+Sequence : RVSY
+{516}
+Sequence : GCYAK
+{516}
+Sequence : SKAG
+{516}
+Sequence : GVFN
+{516}
+Sequence : EHGWD
+{516}
+Sequence : ASMH
+{516}
+Sequence : RLIG
+{35, 516}
+Sequence : SANV
+{516}
+Sequence : VAVFF
+{516}
+Sequence : TKVIFLT
+{516}
+Sequence : QAYLVN
+{516}
+Sequence : VSR
+{516}

@@ -1,0 +1,84 @@
+Sequence : AVVESHKLGGTC
+{246}
+Sequence : AVHSEF
+{246}
+Sequence : HDHADYGFPSCEGKFNWRV
+{246}
+Sequence : KEK
+{246}
+Sequence : IYQNNLTKSHIEIIRGHAAFTSDPKP
+{246}
+Sequence : GRS
+{246}
+Sequence : GAGYIA
+{246}
+Sequence : SLMIRHDKVLRS
+{246}
+Sequence : VLKFSQVKEVKKT
+{246}
+Sequence : IIV
+{246}
+Sequence : EFQ
+{246}
+Sequence : KLA
+{246}
+Sequence : YKEDSKLDYNNIPTVV
+{246}
+Sequence : TSFTPMYH
+{246}
+Sequence : VTK
+{246}
+Sequence : CAN
+{246}
+Sequence : KADFDNTVAIHPTS
+{246}
+Sequence : LVTLR
+{246}
+Sequence : vanDerWaals
+{384, 130, 386, 514, 387, 388, 389, 517, 390, 518, 391, 392, 393, 395, 396, 397, 398, 15, 399, 144, 401, 275, 535, 153, 154, 286, 287, 288, 34, 547, 165, 38, 167, 552, 426, 427, 301, 302, 558, 303, 304, 307, 52, 325, 326, 328, 330, 331, 587, 332, 333, 461, 335, 338, 472, 345, 474, 97, 353, 226, 227, 100, 228, 356, 229, 490, 491, 493, 367, 368, 369, 370, 371, 499, 244, 372, 373, 246, 503, 504, 121, 249, 377, 378, 379, 380, 381, 382, 383}
+Sequence : ARR
+{246}
+Sequence : TPHES
+{246}
+Sequence : TGGM
+{246}
+Sequence : YTA
+{246}
+Sequence : IAA
+{177, 246}
+Sequence : IPGA
+{246}
+Sequence : AELG
+{246}
+Sequence : CVPKK
+{246}
+Sequence : EVSG
+{246}
+Sequence : ITS
+{246}
+Sequence : DDK
+{246}
+Sequence : NKLG
+{246}
+Sequence : LSALG
+{246}
+Sequence : MISTN
+{246}
+Sequence : LEV
+{246, 47}
+Sequence : VPNTK
+{246}
+Sequence : TMIPDVDC
+{246}
+Sequence : VTAVPGRLP
+{246}
+Sequence : DEAI
+{246}
+Sequence : ENVKT
+{246}
+Sequence : GFAVAVKM
+{246}
+Sequence : HMQGLGCD
+{246}
+Sequence : RKTKCVMK
+{246}

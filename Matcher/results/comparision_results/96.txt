@@ -1,0 +1,36 @@
+Sequence : ARRTFLQSGQL
+{96}
+Sequence : LKAALPKE
+{96}
+Sequence : TEATP
+{96}
+Sequence : PVVTLYRDFEKISATLGNLYVATGKPV
+{96}
+Sequence : ATCLLNMLDKWAKADAL
+{96}
+Sequence : WYQVEWSAATAAFALSTMMA
+{96}
+Sequence : QRERVVKWLNRVARHQTSFPG
+{96}
+Sequence : SYWRGQEATIIGVISKDD
+{96}
+Sequence : LFRWGLGRYVQAMGLIN
+{96}
+Sequence : TRHEQ
+{96}
+Sequence : QSL
+{96}
+Sequence : HYQNYAMLPLTMIAETASRQGI
+{96}
+Sequence : SARKFVFAAVKNPDL
+{96}
+Sequence : IKKYASE
+{96}
+Sequence : LNW
+{96}
+Sequence : IEYQRARFGFAD
+{96}
+Sequence : GGSA
+{96}
+Sequence : LLAYKP
+{96}

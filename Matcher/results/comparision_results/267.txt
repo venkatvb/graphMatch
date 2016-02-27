@@ -1,0 +1,62 @@
+Sequence : DTHLLETHQHFN
+{266, 267}
+Sequence : ALVFQ
+{266, 267}
+Sequence : DPX
+{267}
+Sequence : KFTHFIRSQ
+{267}
+Sequence : DATXQWDFWTNN
+{267}
+Sequence : SAHQVTYLXG
+{267}
+Sequence : PRGL
+{266, 267}
+Sequence : TWREM
+{266, 267}
+Sequence : SNDEATKIAGEN
+{266, 267}
+Sequence : DFHRQDLFESIAK
+{266, 267}
+Sequence : EEGKTY
+{266, 267}
+Sequence : NHFAQI
+{266, 267}
+Sequence : DRMLLGRAFAYHDAQLYRV
+{266, 267}
+Sequence : HVNQL
+{266, 267}
+Sequence : LPVNR
+{266, 267}
+Sequence : FGQAGTLVREV
+{266, 267}
+Sequence : SDQERDDFVETVAGALK
+{266, 267}
+Sequence : RQDVQARAFEYWKNVD
+{266, 267}
+Sequence : DATIGQRIEDEVKR
+{266, 267}
+Sequence : GSGAFGEFEV
+{266, 267}
+Sequence : KTETLLRFS
+{266, 267}
+Sequence : GFALRFYT
+{266, 267}
+Sequence : GNYDLVGN
+{266, 267}
+Sequence : GY
+{80, 266, 267, 268}
+Sequence : KHWVKYHFIS
+{266, 267}
+Sequence : KWDLYIQAIP
+{266, 267}
+Sequence : IKVGTLTLNR
+{266, 267}
+Sequence : GSGAFGEFEV
+{266, 267}
+Sequence : KTETLLRFS
+{266, 267}
+Sequence : GFALRFYT
+{266, 267}
+Sequence : GSGAFGEFEV
+{266, 267}

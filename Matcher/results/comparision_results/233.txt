@@ -1,0 +1,78 @@
+Sequence : FNYAMKEAAVEALKK
+{233}
+Sequence : RND
+{233}
+Sequence : YPVESSLAYKE
+{233}
+Sequence : PDIVAEQKKLEA
+{233}
+Sequence : AILKGWFERV
+{233}
+Sequence : YDK
+{233}
+Sequence : SMY
+{233}
+Sequence : MNVILWPIQ
+{233}
+Sequence : IGH
+{233, 588}
+Sequence : PDARVQVLEGWKKRLE
+{233}
+Sequence : VWE
+{233}
+Sequence : SSL
+{233}
+Sequence : KEVQEEQKK
+{233}
+Sequence : FNYAMKEAAVEALKK
+{233}
+Sequence : LYAM
+{233, 234}
+Sequence : RND
+{233}
+Sequence : SEN
+{233}
+Sequence : YPVESSLAYK
+{233}
+Sequence : PDIVAEQKKLEA
+{233}
+Sequence : AILKGWFERV
+{233}
+Sequence : YDK
+{233}
+Sequence : SMY
+{233}
+Sequence : MNVILWPIQ
+{233}
+Sequence : LRFC
+{233}
+Sequence : IGH
+{233, 588}
+Sequence : PDARVQVLEGWKKRLE
+{233}
+Sequence : VWE
+{233}
+Sequence : SSL
+{233}
+Sequence : KEVQEEQKK
+{233}
+Sequence : EVVESD
+{233}
+Sequence : RALIVL
+{233}
+Sequence : LVIFQFP
+{233, 234}
+Sequence : KTLLSIT
+{233}
+Sequence : QLV
+{233}
+Sequence : EVVESD
+{233}
+Sequence : RALIVLA
+{233}
+Sequence : LVIFQFP
+{233, 234}
+Sequence : KTLLSIT
+{233}
+Sequence : QLV
+{233}

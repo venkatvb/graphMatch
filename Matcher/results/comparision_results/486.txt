@@ -1,0 +1,52 @@
+Sequence : DWESLNY
+{486}
+Sequence : SDLNQGAWARLEDQERKLIDR
+{486}
+Sequence : VDEIEKRTG
+{486}
+Sequence : DDVQASLK
+{486}
+Sequence : VLPELM
+{486}
+Sequence : DWESLNY
+{486}
+Sequence : SDLNQGAWARLEDQERKLIDR
+{486}
+Sequence : VDEIEKRTG
+{486}
+Sequence : DDVQASLK
+{486}
+Sequence : VLPELM
+{486}
+Sequence : SIVR
+{486}
+Sequence : YTLNNN
+{486}
+Sequence : FANWVAYHIT
+{486}
+Sequence : SSVYTVTGPL
+{486}
+Sequence : SAYWKVIFIN
+{486}
+Sequence : HYAAFLFDQ
+{486}
+Sequence : PTG
+{486}
+Sequence : LII
+{577, 580, 486, 41, 569}
+Sequence : SIVR
+{486}
+Sequence : YTLNNN
+{486}
+Sequence : FANWVAYHIT
+{486}
+Sequence : SSVYTVTGPL
+{486}
+Sequence : SAYWKVIFIN
+{486}
+Sequence : HYAAFLFDQ
+{486}
+Sequence : PTG
+{486}
+Sequence : LII
+{577, 580, 486, 41, 569}

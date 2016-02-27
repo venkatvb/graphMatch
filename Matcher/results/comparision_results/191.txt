@@ -1,0 +1,96 @@
+Sequence : PVETVQRLAEL
+{191}
+Sequence : DDDL
+{190, 191}
+Sequence : DTERESHIKRFRQALDA
+{191}
+Sequence : PVF
+{190, 574, 191}
+Sequence : RDVRRYALRKTIGNIDLAAEL
+{191}
+Sequence : VRDALDRMKEAFDLLGEYVTAQ
+{191}
+Sequence : VGHALAFIER
+{191}
+Sequence : VGHEQMA
+{190, 191}
+Sequence : FPHGIAQALWA
+{191}
+Sequence : LRAAFWLVDLLETA
+{191}
+Sequence : FDGVWASAAGCMRNYLILKDRAAAFRA
+{191}
+Sequence : PEVQEALRAA
+{191}
+Sequence : LDQLA
+{191}
+Sequence : VDAAAA
+{191}
+Sequence : FEHLDQLAMD
+{191}
+Sequence : PVETVQRLAEL
+{191}
+Sequence : DDDL
+{190, 191}
+Sequence : DTERESHIKRFRQALDA
+{191}
+Sequence : PVF
+{190, 574, 191}
+Sequence : RDVRRYALRKTIGNIDLAAEL
+{191}
+Sequence : VRDALDRMKEAFDLLGEYVTAQ
+{191}
+Sequence : VGHALAFIER
+{191}
+Sequence : VGHEQMA
+{190, 191}
+Sequence : FPHGIAQALWA
+{191}
+Sequence : LRAAFWLVDLLETA
+{191}
+Sequence : FDGVWASAAGCMRNYLILKDRAAAFRA
+{191}
+Sequence : PEVQEALRAA
+{191}
+Sequence : LDQLA
+{191}
+Sequence : VDAAAA
+{191}
+Sequence : FEHLDQLAMD
+{191}
+Sequence : RFTFG
+{191}
+Sequence : GVTFH
+{192, 193, 190, 191}
+Sequence : MTVPMATT
+{191}
+Sequence : TYVAWG
+{191}
+Sequence : LRFAIEPKP
+{191}
+Sequence : VNPE
+{191}
+Sequence : HIDLNGQ
+{191}
+Sequence : RHFD
+{191}
+Sequence : RFTFG
+{191}
+Sequence : RFTFG
+{191}
+Sequence : GVTFH
+{192, 193, 190, 191}
+Sequence : MTVPMATT
+{191}
+Sequence : TYVAWG
+{191}
+Sequence : LRFAIEPKP
+{191}
+Sequence : VNPE
+{191}
+Sequence : HIDLNGQ
+{191}
+Sequence : RHFD
+{191}
+Sequence : RFTFG
+{191}

@@ -1,0 +1,56 @@
+Sequence : EISSV
+{576, 577, 579, 580}
+Sequence : LAGGY
+{576, 577, 579, 580}
+Sequence : HPLLRQWQ
+{576, 577, 579}
+Sequence : TKN
+{576, 577, 579, 580}
+Sequence : GVNRLKDYLKPLVAK
+{576, 577, 579}
+Sequence : GTAADD
+{576, 577, 579}
+Sequence : GPVIQGIKFIREYF
+{576, 577, 579}
+Sequence : NRERSVSRLAAVAVNYAKAG
+{576, 577, 579, 580}
+Sequence : GRIRDIKRGLINA
+{576, 577, 579, 580}
+Sequence : PFRDAA
+{579}
+Sequence : GRGLARRALERDMSE
+{576, 577, 579}
+Sequence : STF
+{576, 577, 579, 580}
+Sequence : YLDIMRDASEIC
+{576, 577, 579, 580}
+Sequence : VSGEYAMLHAAAEK
+{576, 577, 579, 580}
+Sequence : DLKTIAFESHQGFLRA
+{577, 579}
+Sequence : LAPEFLDWL
+{576, 579, 580}
+Sequence : LIFPLFIS
+{576, 577, 579, 580}
+Sequence : LIIT
+{576, 579}
+Sequence : ICAYH
+{576, 579}
+Sequence : GIIV
+{579}
+Sequence : FVLS
+{579}
+Sequence : CVAP
+{576, 577, 579, 580}
+Sequence : YIICDV
+{576, 577, 579, 580}
+Sequence : SVILFGV
+{576, 577, 579, 580}
+Sequence : LIFPLFIS
+{576, 577, 579, 580}
+Sequence : LIIT
+{576, 579}
+Sequence : ICAYH
+{576, 579}
+Sequence : LIFPLFIS
+{576, 577, 579, 580}

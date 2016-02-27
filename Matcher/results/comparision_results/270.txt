@@ -1,0 +1,64 @@
+Sequence : ETHQHFNRMNIP
+{270}
+Sequence : PGTKT
+{270}
+Sequence : THF
+{270}
+Sequence : IRSQKRLPDS
+{270}
+Sequence : WDFWTNNPESA
+{270}
+Sequence : HQV
+{270}
+Sequence : TYLMGPRGLP
+{270}
+Sequence : RTWR
+{270}
+Sequence : NGYGS
+{270}
+Sequence : TKIAGENADFHR
+{270}
+Sequence : DLFESIAKGDHPK
+{270}
+Sequence : KTYRFNPF
+{270}
+Sequence : IESAAF
+{270}
+Sequence : GRAFAYHDAQLYRVGAHVN
+{270}
+Sequence : PVNRP
+{270}
+Sequence : PKNAV
+{270}
+Sequence : TLVREVFSDQE
+{270}
+Sequence : DDFVETVAGALKGVRQ
+{270}
+Sequence : ARAFEYWKNVDATIGQ
+{270}
+Sequence : QRIEDEVKRHEGDG
+{270}
+Sequence : GEFEVTEDVS
+{270}
+Sequence : LRFSTVAGE
+{270}
+Sequence : FYTEEGNY
+{270}
+Sequence : VGNNTPIF
+{270}
+Sequence : TY
+{270}
+Sequence : QQGVH
+{270}
+Sequence : IQAIPY
+{270}
+Sequence : LTLNRNPKNH
+{270}
+Sequence : GEFEVTEDVS
+{270}
+Sequence : YH
+{294, 270}
+Sequence : QGE
+{270}
+Sequence : DR
+{270}

@@ -1,0 +1,28 @@
+Sequence : SSGHIEGRHM
+{251}
+Sequence : TYRNHGTHAEAVE
+{251}
+Sequence : LEF
+{21, 22, 24, 25, 26, 251}
+Sequence : TTKDRQGNDRGTSYRSAIF
+{251}
+Sequence : SGLWP
+{251}
+Sequence : GKVVTE
+{251}
+Sequence : IALD
+{251}
+Sequence : FQIHD
+{251}
+Sequence : HHHHHHH
+{251}
+Sequence : TRVGYSGG
+{251}
+Sequence : KAILAGGCF
+{251}
+Sequence : DVE
+{251}
+Sequence : VT
+{336, 528, 273, 341, 251, 492}
+Sequence : RT
+{251}

@@ -1,0 +1,36 @@
+Sequence : PPAVCS
+{431}
+Sequence : PGSG
+{431}
+Sequence : ITKISHL
+{431}
+Sequence : QSQLNTL
+{431}
+Sequence : NQQFWSHEWTK
+{431}
+Sequence : GTCS
+{431}
+Sequence : QAAYFKLAVDMRNN
+{431}
+Sequence : IIGAL
+{431}
+Sequence : RPH
+{433, 431}
+Sequence : RQAIKGFLKAKF
+{431}
+Sequence : SFWFVQQ
+{434, 431}
+Sequence : TIHGLWPQQ
+{434, 431}
+Sequence : TS
+{434, 250, 431}
+Sequence : TKS
+{431}
+Sequence : GLRCRT
+{434, 431}
+Sequence : SYLVQVVACFA
+{434, 431}
+Sequence : LI
+{321, 434, 339, 342, 327, 328, 319, 431}
+Sequence : NFI
+{431}

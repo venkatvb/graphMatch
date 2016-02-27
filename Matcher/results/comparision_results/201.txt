@@ -1,0 +1,58 @@
+Sequence : LRNEYKYFQRMTST
+{201}
+Sequence : GKKTWFS
+{211, 201}
+Sequence : SLDDALALLDS
+{201}
+Sequence : SPELKSKV
+{201}
+Sequence : GTAVYKAAMEK
+{201}
+Sequence : YLS
+{201, 542}
+Sequence : INIVLS
+{201}
+Sequence : QNAVIMG
+{201}
+Sequence : KVDMVWIVG
+{201}
+Sequence : LNSIVAV
+{201}
+Sequence : NHRLFVTRIL
+{201}
+Sequence : IQYKFEVYQKS
+{201}
+Sequence : KLL
+{212, 201}
+Sequence : YLS
+{201, 542}
+Sequence : INIVLS
+{201}
+Sequence : QNAVIMG
+{201}
+Sequence : KVDMVWIVG
+{201}
+Sequence : LNSIVAV
+{201}
+Sequence : NHRLFVTRIL
+{201}
+Sequence : IQYKFEVYQKS
+{201}
+Sequence : DIQEE
+{201}
+Sequence : CQNM
+{201}
+Sequence : KDGN
+{201}
+Sequence : VEGK
+{201}
+Sequence : PEKN
+{201}
+Sequence : LKDR
+{201}
+Sequence : PKGA
+{201}
+Sequence : YPGV
+{201}
+Sequence : EDGI
+{201}

@@ -1,0 +1,100 @@
+Sequence : SQMKKIAFGCDHVGF
+{196}
+Sequence : EVIDKGTWSSERTDY
+{196}
+Sequence : GGEVDGGILI
+{196}
+Sequence : ANKFAGIRAVVCS
+{196}
+Sequence : NDTNVLAFGSRVVGL
+{196}
+Sequence : AWLGAQYEGG
+{196}
+Sequence : SQMKKIAFGCDHVGF
+{196}
+Sequence : EVIDKGTWSSERTDY
+{196}
+Sequence : GGEVDGGILI
+{196}
+Sequence : ANKFAGIRAVVCS
+{196}
+Sequence : NDTNVLAFGSRVVGL
+{196}
+Sequence : KMI
+{196, 589}
+Sequence : VDAWLGAQYEGG
+{196}
+Sequence : SQMKKIAFGCDHVGF
+{196}
+Sequence : EVIDKGTWSSERTDY
+{196}
+Sequence : GGEVDGGIL
+{196}
+Sequence : ANKFAGIRAVVCS
+{196}
+Sequence : NDTNVLAFGSRVVGL
+{196}
+Sequence : IVDAWL
+{196}
+Sequence : AQYEGG
+{196}
+Sequence : SQMKKIAFGCDHVGF
+{196}
+Sequence : EVIDKGTWSSERTDY
+{196}
+Sequence : GGEVDGGILI
+{196}
+Sequence : ANKFAGIRAVVCS
+{196}
+Sequence : NDTNVLAFGSRVVGL
+{196}
+Sequence : WLGAQYEGGRH
+{196}
+Sequence : AIE
+{290, 196}
+Sequence : AIE
+{290, 196}
+Sequence : KHEI
+{196}
+Sequence : HSSGLT
+{196}
+Sequence : SQVALA
+{196}
+Sequence : YSAQL
+{196}
+Sequence : GIS
+{196}
+Sequence : KHEI
+{196}
+Sequence : HSSGLT
+{196}
+Sequence : SQVALA
+{196}
+Sequence : YSAQL
+{196}
+Sequence : GIS
+{196}
+Sequence : AIE
+{290, 196}
+Sequence : AIE
+{290, 196}
+Sequence : KHEI
+{196}
+Sequence : HSSGLT
+{196}
+Sequence : SQVALA
+{196}
+Sequence : YSAQL
+{196}
+Sequence : GIS
+{196}
+Sequence : KHEI
+{196}
+Sequence : HSSGLT
+{196}
+Sequence : SQVALA
+{196}
+Sequence : YSAQL
+{196}
+Sequence : GIS
+{196}

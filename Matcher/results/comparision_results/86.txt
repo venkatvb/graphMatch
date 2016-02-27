@@ -1,0 +1,78 @@
+Sequence : KGKVVDLLAT
+{86}
+Sequence : PSGIIN
+{86, 87, 88, 89}
+Sequence : HLPGLFEEAEKNEK
+{86, 88, 89}
+Sequence : DWEK
+{86, 87, 88, 89}
+Sequence : FDFHQAVDGLQEVQRQ
+{86}
+Sequence : GIGPTYSSKAA
+{86, 87, 88, 89}
+Sequence : RICDLLS
+{86, 87, 88}
+Sequence : DFDEFSARFKNLAHQHQSMF
+{86, 88, 89}
+Sequence : DVEGQLKRLKGFAERIR
+{86, 87, 88, 89}
+Sequence : DGVYFMYEAL
+{86}
+Sequence : AALLD
+{86, 87, 88, 89}
+Sequence : VGGVCTGLG
+{86, 87, 88, 89}
+Sequence : PPQ
+{86, 87, 88, 89}
+Sequence : NEIGDLLQNRGH
+{86, 87}
+Sequence : LMILRYAHMVNG
+{86, 87, 88, 89}
+Sequence : KLDILDVL
+{86, 87, 88}
+Sequence : NQEILQKV
+{86, 88}
+Sequence : PPQAQSYVRFVENHMG
+{86, 87, 88, 89}
+Sequence : SRE
+{86}
+Sequence : VR
+{112, 113, 114, 115, 86, 87, 88, 89, 111}
+Sequence : LIIS
+{86, 87, 88, 89}
+Sequence : VSFI
+{86, 87, 88, 89}
+Sequence : IVSR
+{86, 87, 88, 89}
+Sequence : VLVE
+{86, 87, 88, 89}
+Sequence : VTVVLG
+{86, 87, 88, 89}
+Sequence : IGDVYGVVK
+{86, 87, 88, 89}
+Sequence : ALALT
+{86, 87, 88, 89}
+Sequence : VKWVG
+{86, 87, 88, 89}
+Sequence : MIQ
+{86, 87, 88, 89}
+Sequence : HTVVV
+{86, 87, 88, 89}
+Sequence : KEYDF
+{86, 87, 88, 89}
+Sequence : TTR
+{86, 87, 88, 89}
+Sequence : RCG
+{86, 87, 88, 89}
+Sequence : EVEYETLP
+{86, 88, 89}
+Sequence : EIKVGISYK
+{86}
+Sequence : LD
+{355, 86, 87, 88, 89}
+Sequence : EVEYETLP
+{86, 88, 89}
+Sequence : EIKVGISYK
+{86}
+Sequence : RI
+{86}

@@ -1,0 +1,54 @@
+Sequence : PARRRLMRDFKRMKE
+{51}
+Sequence : DIL
+{51}
+Sequence : VASILTSIQSLFN
+{51}
+Sequence : VEAATLFKD
+{51}
+Sequence : KSQYVKRVKETVEKSWEDD
+{51}
+Sequence : PARRRLMRDFKRMKE
+{51}
+Sequence : DIL
+{51}
+Sequence : VASILTSIQSLFN
+{51}
+Sequence : VEAATLFKD
+{51}
+Sequence : KSQYVKRVKETVEKSWEDD
+{51}
+Sequence : PARRRLMRDFKRMKE
+{51}
+Sequence : DIL
+{51}
+Sequence : VASILTSIQSLF
+{51}
+Sequence : VEAATLFKD
+{51}
+Sequence : KSQYVKRVKETVEKSWEDD
+{51}
+Sequence : HVKF
+{51}
+Sequence : TFRLLLE
+{51}
+Sequence : NVMVWNAMII
+{51}
+Sequence : VSASPL
+{51}
+Sequence : HVKF
+{51}
+Sequence : TFRLLLE
+{51}
+Sequence : NVMVWNAMII
+{51}
+Sequence : VSASPL
+{51}
+Sequence : HVKF
+{51}
+Sequence : TFRLLLE
+{51}
+Sequence : NVMVWNAMII
+{51}
+Sequence : VSASPL
+{51}

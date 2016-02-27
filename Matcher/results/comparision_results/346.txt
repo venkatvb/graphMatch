@@ -1,0 +1,78 @@
+Sequence : LHAAM
+{346}
+Sequence : FLEHMC
+{346}
+Sequence : VETLKEMIKS
+{346}
+Sequence : HEYHAETIKNVRTAT
+{346}
+Sequence : EKDIQDLKFGVDE
+{346}
+Sequence : ADVHEVRKIL
+{346}
+Sequence : HEGVR
+{346}
+Sequence : FDEILEA
+{346}
+Sequence : RGDLGIE
+{346}
+Sequence : AEKVFLAQKMIIGRCNRA
+{346}
+Sequence : RAEGSDVANAVLD
+{346}
+Sequence : PLEAVRMQHLIAREAEAA
+{346}
+Sequence : HRKLFEELARS
+{346}
+Sequence : LMEAMAMGSVEASYK
+{346}
+Sequence : RSAHQVAR
+{346}
+Sequence : HQTARQAHL
+{346}
+Sequence : WAEDVDLRVNLAMNVGKAA
+{346}
+Sequence : TGIICTI
+{346}
+Sequence : VARMN
+{346}
+Sequence : AVALDTK
+{346}
+Sequence : IRTGLI
+{346}
+Sequence : ELKK
+{346}
+Sequence : ATLKIT
+{346}
+Sequence : ILWL
+{346}
+Sequence : SKVYV
+{346}
+Sequence : ISLQVKQKG
+{346}
+Sequence : FLVTEV
+{346}
+Sequence : NGGF
+{346}
+Sequence : KGVNLP
+{346}
+Sequence : MVFAS
+{346}
+Sequence : KIISKI
+{346}
+Sequence : GIMVA
+{346}
+Sequence : KPVICA
+{346}
+Sequence : CIML
+{346}
+Sequence : ALIVLT
+{346}
+Sequence : IIAVT
+{346}
+Sequence : IFPVVC
+{346}
+Sequence : VVIVLTG
+{346}
+Sequence : TMRVVP
+{346}

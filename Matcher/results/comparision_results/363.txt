@@ -1,0 +1,40 @@
+Sequence : GKSTWAREFIA
+{363}
+Sequence : NRDDYRQSIX
+{363, 364}
+Sequence : TKKKEGIVTGXQFDTAKSILY
+{363, 364}
+Sequence : NPERRLAWETFAKE
+{363}
+Sequence : PWTELVKRNSKR
+{363, 364}
+Sequence : GTKA
+{363, 364}
+Sequence : PIDVLRSXYKSXREYLG
+{363, 364}
+Sequence : NPXVVELSKXYALXG
+{363}
+Sequence : TKYYRXTRKWVEDI
+{363, 364}
+Sequence : KDDVVKEEIFWKHIAPHF
+{363}
+Sequence : RTQVVEXWRRIG
+{363}
+Sequence : FYNI
+{363, 364}
+Sequence : GVII
+{363, 364}
+Sequence : KIILTIG
+{363}
+Sequence : KVEHKVF
+{363}
+Sequence : XQCQR
+{363}
+Sequence : QIVVVSGRE
+{363}
+Sequence : KAVIFD
+{363, 364}
+Sequence : DVKLAID
+{363, 364}
+Sequence : WQ
+{363}

@@ -1,0 +1,76 @@
+Sequence : SHMQKPIKKDPNR
+{17, 18}
+Sequence : ILEEAEIIDQRYPVKGMHVW
+{17, 18}
+Sequence : ILRRI
+{17, 18}
+Sequence : RDHEEVLF
+{17, 18}
+Sequence : PLL
+{17, 18, 590}
+Sequence : YWVTHGGLSKLQR
+{17, 18}
+Sequence : RPLIRVREITTFKEAHTIHATAS
+{17, 18}
+Sequence : FDTLMPDG
+{17, 18}
+Sequence : KFETPEGDHEY
+{17, 18}
+Sequence : CLPPDVAAHQVVIVPIIF
+{18}
+Sequence : ELRSRLEAAGFR
+{18}
+Sequence : RAGRKY
+{17, 18}
+Sequence : KGAAVISRRDTGEKVTADLQGIEETLR
+{17, 18}
+Sequence : LENLRTRAWERME
+{17, 18}
+Sequence : EEASRIVDEKRGI
+{17, 18}
+Sequence : GE
+{17, 18}
+Sequence : HN
+{17, 18, 495}
+Sequence : GF
+{416, 17, 417, 18, 421, 271}
+Sequence : SETVMYPMFA
+{17, 18}
+Sequence : QVVNTFRYETKH
+{17, 18}
+Sequence : TFARTFE
+{17, 18}
+Sequence : DKFPGSEYTVA
+{17, 18}
+Sequence : LGIPYLIT
+{17, 18}
+Sequence : QVER
+{17, 18}
+Sequence : TLK
+{17, 18}
+Sequence : EAIHVKGFE
+{17, 18}
+Sequence : PEDEL
+{17, 18}
+Sequence : TLQ
+{17, 18}
+Sequence : NLG
+{17, 18}
+Sequence : EEV
+{17, 18}
+Sequence : IAIHG
+{17, 18}
+Sequence : DDRDI
+{17, 18}
+Sequence : WEMRGV
+{17, 18}
+Sequence : IGPRD
+{17, 18}
+Sequence : LMK
+{17, 18}
+Sequence : EIREAE
+{17, 18}
+Sequence : ILGIQE
+{17, 18}
+Sequence : SFMWCGE
+{17, 18}

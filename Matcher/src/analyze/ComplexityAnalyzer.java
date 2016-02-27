@@ -39,7 +39,7 @@ public class ComplexityAnalyzer implements Serializable{
 	}
 	
 	@Override
-	public boolean serailizeContent(File file) {
+	public boolean serailizeContent(File file, String content) {
 		try {
 			PrintWriter pw = new PrintWriter(file);
 			for(int i=start; i<=end; i += diff ) {

@@ -1,0 +1,104 @@
+Sequence : SSDVSTAQAAGYKLHED
+{465, 459, 461}
+Sequence : SSDVSTAQAAGYKLHED
+{465, 459, 461}
+Sequence : SSDVSTAQAAGYKLHED
+{465, 459, 461}
+Sequence : SSDVSTAQAAGYKLHED
+{465, 459, 461}
+Sequence : NCYS
+{465, 459, 461}
+Sequence : NCYS
+{465, 459, 461}
+Sequence : NCYS
+{465, 459, 461}
+Sequence : NCYS
+{465, 459, 461}
+Sequence : FVEC
+{465, 459, 461}
+Sequence : FVEC
+{465, 459, 461}
+Sequence : FVEC
+{465, 459, 461}
+Sequence : FVEC
+{465, 459, 461}
+Sequence : CGSN
+{465, 459, 461}
+Sequence : CGSN
+{465, 459, 461}
+Sequence : CGSN
+{465, 459, 461}
+Sequence : CGSN
+{465, 459, 461}
+Sequence : SSSD
+{465, 459, 461}
+Sequence : SSSD
+{465, 459, 461}
+Sequence : SSSD
+{465, 459, 461}
+Sequence : SSSD
+{465, 459, 461}
+Sequence : HEDG
+{465, 459, 461}
+Sequence : HEDG
+{465, 459, 461}
+Sequence : HEDG
+{465, 459, 461}
+Sequence : HEDG
+{465, 459, 461}
+Sequence : GSNS
+{465, 459, 461}
+Sequence : GSNS
+{465, 459, 461}
+Sequence : GSNS
+{465, 459, 461}
+Sequence : GSNS
+{465, 459, 461}
+Sequence : NYEG
+{465, 459}
+Sequence : NYEG
+{465, 459}
+Sequence : NYEG
+{465, 459}
+Sequence : NYEG
+{465, 459}
+Sequence : FDF
+{465, 459, 461}
+Sequence : FDF
+{465, 459, 461}
+Sequence : FDF
+{465, 459, 461}
+Sequence : FDF
+{465, 459, 461}
+Sequence : LSSG
+{465, 459, 461}
+Sequence : LSSG
+{465, 459, 461}
+Sequence : LSSG
+{465, 459, 461}
+Sequence : LSSG
+{465, 459, 461}
+Sequence : NENN
+{465, 459, 461}
+Sequence : NENN
+{465, 459, 461}
+Sequence : NENN
+{465, 459, 461}
+Sequence : NENN
+{465, 459, 461}
+Sequence : HAGA
+{465}
+Sequence : HAGA
+{465}
+Sequence : HAGA
+{465}
+Sequence : HAGA
+{465}
+Sequence : SGNN
+{465}
+Sequence : SGNN
+{465}
+Sequence : SGNN
+{465}
+Sequence : SGNN
+{465}

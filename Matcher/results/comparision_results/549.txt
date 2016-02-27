@@ -1,0 +1,50 @@
+Sequence : HWHKD
+{561, 549, 550}
+Sequence : FPIAKG
+{561, 548, 549, 550}
+Sequence : YGD
+{561, 562, 548, 549, 550, 551, 552}
+Sequence : FGKAVQ
+{561, 562, 548, 549, 550, 551, 552}
+Sequence : PGLQKVVDV
+{549, 550, 551, 552}
+Sequence : PRGLLP
+{561, 562, 548, 549, 550, 551, 552}
+Sequence : SEQVLKFRK
+{561, 562, 548, 549, 550, 551}
+Sequence : DI
+{192, 193, 561, 548, 549, 550, 551, 552, 543}
+Sequence : TV
+{417, 548, 69, 421, 549, 70, 550, 551, 552, 394, 236, 561, 315, 316, 543}
+Sequence : ADF
+{561, 562, 548, 549, 550, 543}
+Sequence : SLRILN
+{561, 548, 549, 550, 551, 552, 543}
+Sequence : FNVEF
+{561, 548, 549, 550, 551, 552, 543}
+Sequence : YRLIQIHMHV
+{549, 550}
+Sequence : VLKG
+{544, 545, 561, 546, 548, 549, 550, 552, 553, 543}
+Sequence : LSVS
+{561, 548, 549, 550, 552, 543}
+Sequence : VLKG
+{544, 545, 561, 546, 548, 549, 550, 552, 553, 543}
+Sequence : YRLIQIHMHV
+{549, 550}
+Sequence : AELHLVHWN
+{561, 548, 549, 550, 551, 552, 543}
+Sequence : AVLGIFLKVG
+{561, 562, 548, 549, 550, 551}
+Sequence : SVS
+{561, 562, 548, 549, 550, 551}
+Sequence : AVLGIFLKVG
+{561, 562, 548, 549, 550, 551}
+Sequence : TWIVLK
+{561, 562, 548, 549, 550, 551, 543}
+Sequence : WTYPGS
+{561, 562, 548, 549, 550, 551, 543}
+Sequence : AS
+{289, 561, 562, 548, 549, 550, 551, 552, 510, 543}
+Sequence : KY
+{561, 548, 549, 550, 551, 552, 543}

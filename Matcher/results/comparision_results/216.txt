@@ -1,0 +1,54 @@
+Sequence : LPDDLHYFRAQT
+{216}
+Sequence : GRRTYESF
+{216}
+Sequence : DVAAVFAYAKQH
+{216}
+Sequence : GAQIFTAFK
+{216}
+Sequence : VVV
+{216, 589}
+Sequence : ERTNVVLT
+{216}
+Sequence : GKIMVVG
+{216}
+Sequence : ELVIAG
+{216}
+Sequence : TAFLWAQ
+{216}
+Sequence : DTLLVTRLA
+{216}
+Sequence : THTYEVWQKK
+{216}
+Sequence : DFTKVSSRTV
+{216}
+Sequence : NRNG
+{216}
+Sequence : KDGH
+{216}
+Sequence : TVGK
+{216}
+Sequence : KRPL
+{216}
+Sequence : LPER
+{216}
+Sequence : QEDY
+{216}
+Sequence : AQGA
+{216}
+Sequence : HLDQ
+{216}
+Sequence : FKDD
+{216}
+Sequence : KDDV
+{216}
+Sequence : NWDD
+{216}
+Sequence : WDDF
+{216}
+Sequence : DTNP
+{216}
+Sequence : NPAL
+{216}
+Sequence : PALT
+{216, 524}

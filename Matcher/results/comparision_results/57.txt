@@ -1,0 +1,20 @@
+Sequence : TPARRRLMRDFKRLQED
+{57}
+Sequence : LDILQ
+{57}
+Sequence : DVSSILTSIQSLLDE
+{57}
+Sequence : NSQAAQLYQE
+{57}
+Sequence : NKREYEKRVSAIVEQ
+{57}
+Sequence : SWND
+{57}
+Sequence : VSGAP
+{57}
+Sequence : QWNAVIF
+{57}
+Sequence : TFKLVIE
+{57}
+Sequence : TVRF
+{57}

@@ -1,0 +1,62 @@
+Sequence : RKKLKTRKVGHGG
+{589}
+Sequence : KDLKKVYWVK
+{589}
+Sequence : FSFVGEYDQVP
+{589}
+Sequence : IINLPPK
+{589}
+Sequence : GYKLGCGATAVEL
+{589}
+Sequence : APE
+{305, 308, 589}
+Sequence : IPLEKCLEW
+{589}
+Sequence : VVV
+{216, 589}
+Sequence : QIHLEM
+{589}
+Sequence : FAC
+{589}
+Sequence : QGTRILEF
+{589}
+Sequence : SVGPHTIEESL
+{589}
+Sequence : FE
+{589}
+Sequence : YSAKK
+{589}
+Sequence : DVNIEGRDVSFRVE
+{589}
+Sequence : PGTYIRSL
+{589}
+Sequence : GLITETFDI
+{589}
+Sequence : SVGPHTIEESL
+{589}
+Sequence : QGTRILEF
+{589}
+Sequence : GPTSHDV
+{589}
+Sequence : LP
+{528, 261, 230, 262, 87, 589}
+Sequence : GEV
+{589}
+Sequence : TEEE
+{589}
+Sequence : LA
+{283, 284, 285, 589}
+Sequence : GK
+{322, 589}
+Sequence : DG
+{288, 589, 286, 287}
+Sequence : NTR
+{589}
+Sequence : NSSFLET
+{589}
+Sequence : RLLAL
+{589}
+Sequence : KMI
+{196, 589}
+Sequence : VV
+{135, 458, 283, 284, 285, 589, 462}

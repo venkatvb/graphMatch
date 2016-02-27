@@ -1,0 +1,50 @@
+Sequence : EREVSLNSGAAVLAGLREGG
+{66}
+Sequence : TQLKS
+{66}
+Sequence : TLQGMLELM
+{65, 66}
+Sequence : GVMASALSMD
+{66}
+Sequence : LRSKLLWQGA
+{66}
+Sequence : RAEFEKG
+{66}
+Sequence : DKQLAEISAL
+{66}
+Sequence : LQDALRLAFQH
+{66}
+Sequence : YEAKYL
+{66}
+Sequence : ASQEANLQALVLKAWTT
+{66}
+Sequence : LVPMAARQ
+{65, 66}
+Sequence : FSQLVVRILE
+{65, 66}
+Sequence : DAYPVD
+{65, 66}
+Sequence : KIAVLLGG
+{66}
+Sequence : KVFIA
+{66}
+Sequence : YTG
+{66}
+Sequence : PWVAL
+{66}
+Sequence : EVLIEK
+{65, 66}
+Sequence : VIVKP
+{65, 66}
+Sequence : MSKVV
+{66}
+Sequence : QFYLLEAN
+{66}
+Sequence : WGRIDVML
+{65, 66}
+Sequence : PEFTVAI
+{66}
+Sequence : ILPSIRIQPS
+{66}
+Sequence : TQYFC
+{66}

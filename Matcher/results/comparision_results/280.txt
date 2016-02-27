@@ -1,0 +1,56 @@
+Sequence : EEYNT
+{280}
+Sequence : YILFWNHVGLELNRVTHTV
+{280}
+Sequence : PPLSARALGMLHLAIHDAYFSI
+{280}
+Sequence : AAY
+{280}
+Sequence : ARQAVAGAALKMLSSLY
+{280}
+Sequence : DNAYAQLGLVLDRSVLE
+{280}
+Sequence : ASFMFGEDVADVFFALL
+{280}
+Sequence : YGKT
+{280}
+Sequence : RSN
+{280}
+Sequence : TAEYDDAVRVAIAMG
+{280}
+Sequence : PWQTAQGLY
+{280}
+Sequence : PPRFYNQIVRRIAVT
+{280}
+Sequence : EVNNADFARLFALVDVACTDAGIFSWKEKWEF
+{280}
+Sequence : PLSGVR
+{280}
+Sequence : GHATFGGAVFQMVRRYY
+{280}
+Sequence : IED
+{563, 357, 280}
+Sequence : AWELMFENAISRIF
+{280}
+Sequence : RFDA
+{280}
+Sequence : ARDI
+{280}
+Sequence : VED
+{280}
+Sequence : GVPLGIEIADEIFN
+{280}
+Sequence : PEI
+{71, 280}
+Sequence : VLIP
+{280}
+Sequence : KMPF
+{280}
+Sequence : RDL
+{280}
+Sequence : GIV
+{280}
+Sequence : RGT
+{280}
+Sequence : LFP
+{280}

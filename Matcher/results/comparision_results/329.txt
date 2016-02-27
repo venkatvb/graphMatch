@@ -1,0 +1,24 @@
+Sequence : KACGLLG
+{329}
+Sequence : KLTQFF
+{329}
+Sequence : SDVVEAL
+{329}
+Sequence : ILVA
+{329}
+Sequence : AIFTVD
+{329}
+Sequence : CCVVVLEP
+{329}
+Sequence : IPVS
+{329}
+Sequence : VDI
+{329}
+Sequence : ILVA
+{329}
+Sequence : AIFTVD
+{329}
+Sequence : CCVVVLEP
+{329}
+Sequence : MK
+{329}

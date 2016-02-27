@@ -1,0 +1,96 @@
+Sequence : AEERDQLLPNLRAV
+{599, 600}
+Sequence : FNRAFGFMTRVALQAEKL
+{599, 600}
+Sequence : ERDINLASFIEQVAVS
+{599, 600}
+Sequence : AEERDQLLPNLRAV
+{599, 600}
+Sequence : FNRAFGFMTRVALQAEKL
+{599, 600}
+Sequence : ERDINLASFIEQVAVSM
+{599, 600}
+Sequence : AEERDQLLPNLRAV
+{599, 600}
+Sequence : FNRAFGFMTRVALQAEK
+{599, 600}
+Sequence : ERDINLASFIEQVAVS
+{599, 600}
+Sequence : AEERDQLLPNLRAV
+{599, 600}
+Sequence : FNRAFGFMTRVALQAEKL
+{599, 600}
+Sequence : ERDINLASFIEQVAVSM
+{599, 600}
+Sequence : AEERDQLLPNLR
+{600}
+Sequence : FNRAFGFMTRVALQAEKL
+{599, 600}
+Sequence : ERDINLASFIEQVAV
+{599, 600}
+Sequence : AEERDQLLPNLRAV
+{599, 600}
+Sequence : FNRAFGFMTRVALQAEKL
+{599, 600}
+Sequence : ERDINLASFIEQVAVS
+{599, 600}
+Sequence : AEERDQLLPNLRAV
+{599, 600}
+Sequence : FNRAFGFMTRVALQAEKL
+{599, 600}
+Sequence : ERDINLASFIEQVAVSM
+{599, 600}
+Sequence : AEERDQLLPNLRAV
+{599, 600}
+Sequence : FNRAFGFMTRVALQAEKL
+{599, 600}
+Sequence : ERDINLASFIEQVAVS
+{599, 600}
+Sequence : IFKQFH
+{599, 600}
+Sequence : KVHITL
+{599, 600}
+Sequence : EWFN
+{599, 600}
+Sequence : EWFN
+{599, 600}
+Sequence : KVHITL
+{599, 600}
+Sequence : IFKQFH
+{599, 600}
+Sequence : IFKQFH
+{599, 600}
+Sequence : KVHITL
+{599, 600}
+Sequence : EWFN
+{599, 600}
+Sequence : EWFN
+{599, 600}
+Sequence : KVHITL
+{599, 600}
+Sequence : IFKQFH
+{599, 600}
+Sequence : IFKQFH
+{599, 600}
+Sequence : KVHITL
+{599, 600}
+Sequence : EWFN
+{599, 600}
+Sequence : EWFN
+{599, 600}
+Sequence : KVHITL
+{599, 600}
+Sequence : IFKQFH
+{599, 600}
+Sequence : IFKQFH
+{599, 600}
+Sequence : KVHITL
+{599, 600}
+Sequence : EWFN
+{599, 600}
+Sequence : EWFN
+{599, 600}
+Sequence : KVHITL
+{599, 600}
+Sequence : IFKQFH
+{599, 600}

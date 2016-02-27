@@ -1,0 +1,92 @@
+Sequence : TFSDYLGLMTCVYEWADSYDSK
+{593}
+Sequence : DWDRLRK
+{593}
+Sequence : YRSFLD
+{593}
+Sequence : AEEFVGMVSS
+{593}
+Sequence : TFSDYLGLMTCVYEWADSYDSK
+{593}
+Sequence : DWDRLRK
+{593}
+Sequence : YRSFLD
+{593}
+Sequence : AEEFVGMVSS
+{593}
+Sequence : TFSDYLGLMTCVYEWADSYDSK
+{593}
+Sequence : DWDRLRK
+{593}
+Sequence : YRSFLD
+{593}
+Sequence : AEEFVGMVSS
+{593}
+Sequence : LWEAMP
+{593}
+Sequence : IAPTLRID
+{593}
+Sequence : VWKFAGLKPDIRWGE
+{593}
+Sequence : VTMKGHAHSANLHWYKKI
+{593}
+Sequence : EVIGYHQLRVPHQRY
+{593}
+Sequence : LRT
+{593, 517}
+Sequence : LWEAMP
+{593}
+Sequence : IAPTLRID
+{593}
+Sequence : VWKFAGLKPDIRWGE
+{593}
+Sequence : VTMKGHAHSANLHWYKKI
+{593}
+Sequence : EVIGYHQLRVPHQRY
+{593}
+Sequence : FIGGTRWEKVS
+{593}
+Sequence : LWEAMP
+{593}
+Sequence : IAPTLRID
+{593}
+Sequence : VWKFAGLKPDIRWGE
+{593}
+Sequence : VTMKGHAHSANLHWYKKI
+{593}
+Sequence : EVIGYHQLRVPHQRY
+{593}
+Sequence : LRT
+{593, 517}
+Sequence : LWEAMP
+{593}
+Sequence : IAPTLRID
+{593}
+Sequence : VWKFAGLKPDIRWGE
+{593}
+Sequence : VTMKGHAHSANLHWYKKI
+{593}
+Sequence : EVIGYHQLRVPHQRY
+{593}
+Sequence : FIGGTRWEKVS
+{593}
+Sequence : LWEAMP
+{593}
+Sequence : IAPTLRID
+{593}
+Sequence : VTMKGHAHSANLHWYKKI
+{593}
+Sequence : EVIGYHQLRVPHQRY
+{593}
+Sequence : LRT
+{593, 517}
+Sequence : LWEAMP
+{593}
+Sequence : IAPTLRID
+{593}
+Sequence : VTMKGHAHSANLHWYKKI
+{593}
+Sequence : EVIGYHQLRVPHQRY
+{593}
+Sequence : FIGGTRWEKVS
+{593}

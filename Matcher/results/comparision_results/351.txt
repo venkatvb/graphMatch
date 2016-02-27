@@ -1,0 +1,44 @@
+Sequence : LSS
+{94, 351}
+Sequence : REC
+{351}
+Sequence : KKRALEIISELAAKQL
+{351}
+Sequence : PQVVFEAILTRE
+{351}
+Sequence : EDT
+{351}
+Sequence : ADQ
+{351}
+Sequence : THLHTLSLVAKRLA
+{351}
+Sequence : KTICRRLRA
+{351}
+Sequence : DEELYQIIT
+{351}
+Sequence : DTTLQLSSV
+{351}
+Sequence : REC
+{351}
+Sequence : KKRALEIISELAAKQL
+{351}
+Sequence : PQVVFEAILTREKM
+{351}
+Sequence : ADQTKTHLHTLSLVAKRL
+{351}
+Sequence : KTICRRLRA
+{351}
+Sequence : DEELYQII
+{351}
+Sequence : HGKL
+{351}
+Sequence : LLFALLVP
+{351}
+Sequence : VGVFVQ
+{351}
+Sequence : HGKL
+{351}
+Sequence : LLFALLVP
+{351}
+Sequence : VGVFVQ
+{351}

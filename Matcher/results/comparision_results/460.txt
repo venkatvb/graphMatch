@@ -1,0 +1,56 @@
+Sequence : CLSAL
+{464, 453, 460}
+Sequence : PPEATDTLNLIASD
+{458, 460, 462}
+Sequence : CLSAL
+{464, 453, 460}
+Sequence : PPEATDTLNLIASD
+{458, 460, 462}
+Sequence : VVF
+{460}
+Sequence : YHEYTV
+{460}
+Sequence : RRIITG
+{460}
+Sequence : EDYYT
+{464, 453, 460}
+Sequence : FSLID
+{460}
+Sequence : SGTVCL
+{460}
+Sequence : VVF
+{460}
+Sequence : YHEYTV
+{460}
+Sequence : RRIITG
+{460}
+Sequence : EDYYT
+{464, 453, 460}
+Sequence : FSLID
+{460}
+Sequence : SGTVCL
+{460}
+Sequence : YSQD
+{460}
+Sequence : QDGV
+{460}
+Sequence : NRES
+{464, 453, 460}
+Sequence : SYGY
+{464, 453, 460}
+Sequence : TPGA
+{464, 453, 460}
+Sequence : ATQE
+{464, 453, 460}
+Sequence : YSQD
+{460}
+Sequence : QDGV
+{460}
+Sequence : NRES
+{464, 453, 460}
+Sequence : SYGY
+{464, 453, 460}
+Sequence : TPGA
+{464, 453, 460}
+Sequence : ATQE
+{464, 453, 460}

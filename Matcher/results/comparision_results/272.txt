@@ -1,0 +1,88 @@
+Sequence : DQMKHWKEQRA
+{272}
+Sequence : DVVFTDEMAHFDRER
+{272}
+Sequence : DALLFPSFIHSQK
+{272}
+Sequence : DPDMVWDFWSLR
+{272}
+Sequence : PESLHQVSFLFS
+{272}
+Sequence : SVEDAARLAHED
+{272}
+Sequence : DYGLRDLFNAIATGN
+{272}
+Sequence : NYFAEVE
+{272}
+Sequence : DKMLQGRLFAYPDTHRHRLG
+{272}
+Sequence : DNVTQVRTFYL
+{272}
+Sequence : NEEQRKRLCENIAGHLK
+{272}
+Sequence : QLFIQKKAVKNFSD
+{272}
+Sequence : HPEYGSRIQALLDKYN
+{272}
+Sequence : DQMKHWKEQRA
+{272}
+Sequence : DVVFTDEMAHFDRER
+{272}
+Sequence : DALLFPSFIHSQK
+{272}
+Sequence : DPDMVWDFWSLR
+{272}
+Sequence : PESLHQVSFLFS
+{272}
+Sequence : SVEDAARLAHED
+{272}
+Sequence : DYGLRDLFNAIATGN
+{272}
+Sequence : NYFAEVE
+{272}
+Sequence : DKMLQGRLFAYPDTHRHRLG
+{272}
+Sequence : DNVTQVRTFYL
+{272}
+Sequence : NEEQRKRLCENIAGHLK
+{272}
+Sequence : QLFIQKKAVKNFSD
+{272}
+Sequence : HPEYGSRIQALLDKYN
+{272}
+Sequence : KGAGAFGYFEV
+{272}
+Sequence : KRTPIAVRFST
+{272}
+Sequence : RGFAVKF
+{272}
+Sequence : WDLVGNN
+{272}
+Sequence : GYGSHTFKLVN
+{272}
+Sequence : GEAVYCKFHYKTDQ
+{272}
+Sequence : PSWTLYIQVM
+{272}
+Sequence : GKLVL
+{272}
+Sequence : KGAGAFGYFEV
+{272}
+Sequence : KGAGAFGYFEV
+{272}
+Sequence : KRTPIAVRFST
+{272}
+Sequence : RGFAVKF
+{272}
+Sequence : WDLVGNN
+{272}
+Sequence : GYGSHTFKLVN
+{272}
+Sequence : GEAVYCKFHYKTDQ
+{272}
+Sequence : PSWTLYIQVM
+{272}
+Sequence : GKLVL
+{272}
+Sequence : KGAGAFGYFEV
+{272}

@@ -1,0 +1,42 @@
+Sequence : GAQAERELIKLLEKH
+{425}
+Sequence : GKRDMGRLIEFSRRFG
+{425}
+Sequence : SLEVLLG
+{425}
+Sequence : GAQAERELIKLLEKH
+{425}
+Sequence : GKRDMGRLIEFSRRFG
+{425}
+Sequence : TPSSG
+{425}
+Sequence : EVLLG
+{425}
+Sequence : AVVR
+{425}
+Sequence : LVAG
+{425}
+Sequence : YLCIEVKVT
+{425}
+Sequence : IPVLAVKF
+{425}
+Sequence : GWRFIE
+{425}
+Sequence : LYV
+{425}
+Sequence : FVF
+{425}
+Sequence : AVVR
+{425}
+Sequence : LVAG
+{425}
+Sequence : YLCIEVKVT
+{425}
+Sequence : IPVLAVKF
+{425}
+Sequence : GWRFIE
+{425}
+Sequence : LYV
+{425}
+Sequence : FVF
+{425}

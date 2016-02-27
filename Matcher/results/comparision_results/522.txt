@@ -1,0 +1,74 @@
+Sequence : DATFWRNARHHL
+{521, 522}
+Sequence : TSGQMS
+{519, 520, 521, 522}
+Sequence : HPEIVSVIGEYAGKL
+{521, 522}
+Sequence : SRPVVDLATRLANIT
+{519, 520, 521, 522}
+Sequence : TGAESNEAAIRMAKLVTG
+{519, 520, 521, 522}
+Sequence : TGAAASA
+{519, 520, 521, 522}
+Sequence : DYLAELDYAFDLIDRQS
+{519, 520, 521, 522}
+Sequence : GYMAALKRKCEAR
+{519, 520, 522}
+Sequence : FACQRDG
+{519, 520, 521, 522}
+Sequence : SKTLGA
+{519, 520, 521, 522}
+Sequence : SAAIEERAHEL
+{519, 520, 521, 522}
+Sequence : DPLPAAVGLRVLDVVQRD
+{519, 520, 521, 522}
+Sequence : GLVARANVMGDRLRRGLLDLMERF
+{519, 520, 521, 522}
+Sequence : GLGAKITRECMNL
+{521, 522}
+Sequence : SEDEIDLGLSLLGQAIERAL
+{519, 520, 521, 522}
+Sequence : IERAK
+{519, 520, 521, 522}
+Sequence : FVYD
+{519, 520, 521, 522}
+Sequence : AILD
+{519, 520, 521, 522}
+Sequence : LS
+{241, 519, 520, 521, 282, 522}
+Sequence : RALLL
+{519, 520, 521, 522}
+Sequence : AAIVT
+{519, 520, 521, 522}
+Sequence : ILTL
+{519, 520, 521, 522}
+Sequence : LLILD
+{519, 520, 521, 522}
+Sequence : LAAFIA
+{519, 520, 521, 522}
+Sequence : EIVGF
+{519, 520, 521, 522}
+Sequence : SFAI
+{519, 520, 521, 522}
+Sequence : ER
+{71, 519, 522}
+Sequence : AY
+{519, 522}
+Sequence : IL
+{519, 520, 521, 522}
+Sequence : IE
+{519, 520, 521, 522}
+Sequence : IGDVRGR
+{519, 520, 521, 522}
+Sequence : LLGVEIVKD
+{521, 522}
+Sequence : EP
+{48, 49, 487, 521, 522, 333}
+Sequence : IGDVRGR
+{519, 520, 521, 522}
+Sequence : LLGVEIVKD
+{521, 522}
+Sequence : VFRI
+{521, 522}
+Sequence : IV
+{485, 295, 519, 296, 520, 281, 297, 521, 522, 479}

@@ -1,0 +1,24 @@
+Sequence : KKD
+{119}
+Sequence : PRTCNNFLMLCT
+{119}
+Sequence : PHL
+{6, 119}
+Sequence : QEVVTKIE
+{119}
+Sequence : VVILNCGEL
+{119, 123}
+Sequence : RRVFLDVTI
+{119, 123}
+Sequence : NLAGRIVMEL
+{119, 123}
+Sequence : VFGKVVS
+{119, 123}
+Sequence : VVSM
+{119, 123}
+Sequence : FFIT
+{119, 137, 138, 123}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FHRVI
+{163, 119, 123}

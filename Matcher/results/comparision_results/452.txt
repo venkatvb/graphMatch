@@ -1,0 +1,68 @@
+Sequence : SAAAKFERQHM
+{482, 452}
+Sequence : SSNYCNLMMCCRK
+{452}
+Sequence : SLADVKAVCSQ
+{452}
+Sequence : SAAAKFERQHM
+{482, 452}
+Sequence : SSNYCNLMMCCRK
+{452}
+Sequence : SLADVKAVCSQ
+{452}
+Sequence : PVNTFVH
+{452}
+Sequence : MRITDCRET
+{452}
+Sequence : NCAYKTTQVEK
+{452}
+Sequence : PVNTFVH
+{452}
+Sequence : SK
+{242, 243, 452, 469, 335}
+Sequence : NCAYKTTQVEK
+{452}
+Sequence : KKVT
+{481, 452}
+Sequence : NCYQS
+{452, 469}
+Sequence : HIIVACGGK
+{452}
+Sequence : PSVPVH
+{452}
+Sequence : KKVT
+{481, 452}
+Sequence : NCYQS
+{452, 469}
+Sequence : HIIVACGGK
+{452}
+Sequence : DASV
+{452, 469}
+Sequence : PVNTFVH
+{452}
+Sequence : MRITDCRET
+{452}
+Sequence : NCAYKTTQVEK
+{452}
+Sequence : PVNTFVH
+{452}
+Sequence : SK
+{242, 243, 452, 469, 335}
+Sequence : NCAYKTTQVEK
+{452}
+Sequence : KKVT
+{481, 452}
+Sequence : NCYQS
+{452, 469}
+Sequence : HIIVACGGK
+{452}
+Sequence : PSVPVH
+{452}
+Sequence : KKVT
+{481, 452}
+Sequence : NCYQS
+{452, 469}
+Sequence : HIIVACGGK
+{452}
+Sequence : DASV
+{452, 469}

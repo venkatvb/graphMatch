@@ -1,0 +1,76 @@
+Sequence : GKGSICAETTAILXKYLSEK
+{68}
+Sequence : AGSFVRRYG
+{68}
+Sequence : DDERH
+{68}
+Sequence : CVDHLEIL
+{68}
+Sequence : TKKQAEKXKEAAVKITLALKEFFER
+{68}
+Sequence : DKDVYRRD
+{68}
+Sequence : LGDP
+{68}
+Sequence : LKKYREVLELCRSLN
+{68}
+Sequence : GKGSICAETTAILXKYLSE
+{68}
+Sequence : GSFVRRYG
+{68}
+Sequence : CVDHLEIL
+{68}
+Sequence : TKKQAEKXKEAAVKITLALKEFFER
+{68}
+Sequence : FDKDVYRRDLGD
+{68}
+Sequence : PLKKYREVLELCRSLNSQ
+{68}
+Sequence : KIVKVT
+{68}
+Sequence : YALLEF
+{68}
+Sequence : TLKV
+{68}
+Sequence : LVEYI
+{68}
+Sequence : KX
+{68}
+Sequence : FGL
+{68}
+Sequence : VVL
+{563, 68}
+Sequence : DLPVPLVEFFI
+{68}
+Sequence : LEVVVRLK
+{68}
+Sequence : FELWDIKY
+{68}
+Sequence : FRLRK
+{68}
+Sequence : YE
+{68}
+Sequence : KIVKVT
+{68}
+Sequence : YALLEF
+{68}
+Sequence : TLKV
+{68}
+Sequence : LVEYI
+{68}
+Sequence : KX
+{68}
+Sequence : FGL
+{68}
+Sequence : VVL
+{563, 68}
+Sequence : XV
+{68}
+Sequence : DLPVPLVEFFI
+{68}
+Sequence : LEVVVRLK
+{68}
+Sequence : FELWDIKY
+{68}
+Sequence : FRLRK
+{68}

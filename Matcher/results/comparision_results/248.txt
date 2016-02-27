@@ -1,0 +1,56 @@
+Sequence : SGGLEAGWNAASLH
+{248}
+Sequence : GTCVNVGCVPKKLMVTGANYMDTIRESAGF
+{248}
+Sequence : WKALIAAKNKAVSGINDSYEGMFA
+{248}
+Sequence : SNEA
+{248}
+Sequence : YISIEFAGIFNAY
+{248}
+Sequence : SELRKQLTEQLRA
+{248}
+Sequence : LDKA
+{248}
+Sequence : GDVT
+{248}
+Sequence : TPVAINEGAAFVDTVFA
+{248}
+Sequence : EEDA
+{248}
+Sequence : MHNIS
+{248}
+Sequence : SPEIIQSVAICLKM
+{248}
+Sequence : ISDFY
+{248}
+Sequence : AEELCS
+{248}
+Sequence : GGLEAGWNAASLHK
+{248}
+Sequence : TCVNVGCVPKKLMVTGANYMDTIRESAGFG
+{248}
+Sequence : KALIAAKNKAVSGINDSYEGMFAD
+{248}
+Sequence : NEAF
+{248}
+Sequence : ISIEFAGIFNAYK
+{248}
+Sequence : ELRKQLTEQLRAN
+{248}
+Sequence : DKAG
+{248}
+Sequence : DVTD
+{248}
+Sequence : PVAINEGAAFVDTVFAN
+{248}
+Sequence : EDAA
+{248}
+Sequence : HNISG
+{248}
+Sequence : PEIIQSVAICLKMG
+{248}
+Sequence : SDFYN
+{248}
+Sequence : EELCSM
+{248}

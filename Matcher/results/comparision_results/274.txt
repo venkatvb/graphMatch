@@ -1,0 +1,80 @@
+Sequence : PNVSNIVRDTIVNELRS
+{274}
+Sequence : PRIAASILRLHFHDC
+{274}
+Sequence : DASIL
+{274}
+Sequence : RTEKD
+{274}
+Sequence : RGFPVIDRMKAAVESA
+{274}
+Sequence : VSCADLLTIAAQQSVTL
+{274}
+Sequence : AFLDLANAN
+{274}
+Sequence : FTLPQLKDSFRN
+{274}
+Sequence : NRSSDLVAL
+{274}
+Sequence : SGGHT
+{274}
+Sequence : SIMDRLY
+{274}
+Sequence : NFSN
+{274}
+Sequence : LNTTYLQTLRGL
+{274}
+Sequence : DNKYYVNLE
+{274, 277}
+Sequence : LIQSDQELFS
+{274}
+Sequence : PNAT
+{274}
+Sequence : DTIPLVRSFAN
+{274}
+Sequence : NSTQTFFNAFVEAMDRM
+{274}
+Sequence : PNVSNIVRDTIVNELRS
+{274}
+Sequence : PRIAASILRLHFHDC
+{274}
+Sequence : DASIL
+{274}
+Sequence : RTEKD
+{274}
+Sequence : RGFPVIDRMKAAVESA
+{274}
+Sequence : VSCADLLTIAAQQSVTL
+{274}
+Sequence : AFLDLANAN
+{274}
+Sequence : FTLPQLKDSFRN
+{274}
+Sequence : NRSSDLVAL
+{274}
+Sequence : SGGHT
+{274}
+Sequence : SIMDRLY
+{274}
+Sequence : NFSN
+{274}
+Sequence : LNTTYLQTLRGL
+{274}
+Sequence : DNKYYVNLE
+{274, 277}
+Sequence : LIQSDQELFS
+{274}
+Sequence : PNAT
+{274}
+Sequence : DTIPLVRSFAN
+{274}
+Sequence : NSTQTFFNAFVEAMDRM
+{274}
+Sequence : GKN
+{274, 277}
+Sequence : ALV
+{496, 274, 277, 103, 492}
+Sequence : GKN
+{274, 277}
+Sequence : ALV
+{496, 274, 277, 103, 492}

@@ -1,0 +1,30 @@
+Sequence : EASAFTKKMVENA
+{487}
+Sequence : VNEALVRQ
+{487}
+Sequence : HEQLLRKSEAQAKKEK
+{487}
+Sequence : LNIWS
+{487}
+Sequence : TLIKA
+{487}
+Sequence : TVKLMY
+{487}
+Sequence : QPMTFRL
+{487}
+Sequence : GLAYIYA
+{487}
+Sequence : IEVEF
+{487}
+Sequence : EP
+{48, 49, 487, 521, 522, 333}
+Sequence : TLIKA
+{487}
+Sequence : TVKLMY
+{487}
+Sequence : QPMTFRL
+{487}
+Sequence : GLAYIYA
+{487}
+Sequence : KM
+{487}

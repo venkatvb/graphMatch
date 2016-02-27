@@ -1,0 +1,26 @@
+Sequence : PNLNML
+{568}
+Sequence : DQIHEIMQTFVKQG
+{568}
+Sequence : FEGEIIDKIQES
+{568}
+Sequence : PGAFSHT
+{568}
+Sequence : SIAIADAIMLA
+{568}
+Sequence : NIQAR
+{568}
+Sequence : EEFRK
+{568}
+Sequence : PLGYNMALMAMVNILAEMKAFQE
+{568}
+Sequence : ELEFFQ
+{568}
+Sequence : KILVIQ
+{568}
+Sequence : YEGIIIN
+{568}
+Sequence : VIEVH
+{568}
+Sequence : GVIM
+{568}

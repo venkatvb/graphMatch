@@ -1,0 +1,64 @@
+Sequence : QQTFEELIG
+{104, 105}
+Sequence : GENA
+{104, 105}
+Sequence : SAKDAA
+{104, 105}
+Sequence : LLDQA
+{104, 105}
+Sequence : QQTFEELIG
+{104, 105}
+Sequence : GENA
+{104, 105}
+Sequence : SPS
+{103, 104, 105}
+Sequence : SAKDAA
+{104, 105}
+Sequence : LLDQAL
+{104, 105}
+Sequence : IVIK
+{104, 105}
+Sequence : LILE
+{104, 105}
+Sequence : RQLWI
+{104, 105}
+Sequence : KLVRCAV
+{104, 105}
+Sequence : YAEFLYKA
+{104, 105}
+Sequence : QDNHSKSK
+{104, 105}
+Sequence : VFGD
+{104}
+Sequence : GFFF
+{104}
+Sequence : WVGVNLS
+{104, 105}
+Sequence : EVFDVAVD
+{104, 105}
+Sequence : FAHGFVT
+{104, 105}
+Sequence : LRGLH
+{104}
+Sequence : MIVIK
+{104, 105}
+Sequence : LILEP
+{104, 105}
+Sequence : RQLWI
+{104, 105}
+Sequence : KLVRCAV
+{104, 105}
+Sequence : YAEFLYKA
+{104, 105}
+Sequence : QDNHSKSK
+{104, 105}
+Sequence : EGS
+{104, 105}
+Sequence : LRGLHFQ
+{104, 105, 106}
+Sequence : FAHGFVT
+{104, 105}
+Sequence : EVFDVAVD
+{104, 105}
+Sequence : WVGVNLS
+{104, 105}

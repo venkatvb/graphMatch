@@ -1,0 +1,82 @@
+Sequence : TPEQKKELSDIAHRI
+{524}
+Sequence : STGSIAKRLQS
+{524}
+Sequence : TEENRRFYRQLLLT
+{524}
+Sequence : DDRVNP
+{524}
+Sequence : ETLYQ
+{524}
+Sequence : PFPQVIKSK
+{524}
+Sequence : GLSERCAQYKKD
+{524}
+Sequence : ALAIMENANVLARYASICQ
+{524}
+Sequence : CQYVTEKVLAAVYKALSDH
+{524}
+Sequence : YLEG
+{524}
+Sequence : SHEEIAMATVTALRRTV
+{524}
+Sequence : SEEEASINLNAINKC
+{524}
+Sequence : QASALKAW
+{524}
+Sequence : NLKAAQEEYVKRALANSLAC
+{524}
+Sequence : GILAA
+{523, 524}
+Sequence : IGGVIL
+{524}
+Sequence : VVGIKV
+{524}
+Sequence : DFAKWRCVL
+{524}
+Sequence : VPIVEPEIL
+{523, 524}
+Sequence : TLLK
+{524}
+Sequence : GITFL
+{524}
+Sequence : ALTFSYG
+{524}
+Sequence : GILAA
+{523, 524}
+Sequence : GVVPL
+{524}
+Sequence : ETTTQ
+{524}
+Sequence : PALT
+{216, 524}
+Sequence : APGK
+{67, 451, 443, 444, 524}
+Sequence : FHET
+{524}
+Sequence : ADDG
+{256, 524}
+Sequence : LAGT
+{524}
+Sequence : TNGE
+{524}
+Sequence : LDGL
+{524}
+Sequence : GEHT
+{524}
+Sequence : HTPS
+{524}
+Sequence : GHAC
+{524}
+Sequence : RRTV
+{524}
+Sequence : PPAV
+{524}
+Sequence : SGGQ
+{524}
+Sequence : WGGK
+{524}
+Sequence : QAGA
+{524}
+Sequence : SNHA
+{524}

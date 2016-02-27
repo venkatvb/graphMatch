@@ -1,0 +1,100 @@
+Sequence : NGKTVGDASCCAWFDV
+{282}
+Sequence : FHGGQCGAEAHESI
+{282}
+Sequence : HDSIAI
+{282}
+Sequence : GGGG
+{282}
+Sequence : DGSIMI
+{282}
+Sequence : DDI
+{282}
+Sequence : AFHPNIGLDEIVKLQ
+{282}
+Sequence : VQKHGVTPGDFIAFA
+{282}
+Sequence : VPEPFHTVDQII
+{282}
+Sequence : NDAGEFDELELV
+{282}
+Sequence : TPGIFDS
+{282}
+Sequence : LPGEIR
+{282}
+Sequence : IARDSRT
+{282}
+Sequence : WQSFVNNQSKLVDDFQF
+{282}
+Sequence : LTQ
+{282}
+Sequence : PNA
+{282}
+Sequence : FFP
+{282}
+Sequence : NGKTVGDASCCAWFDV
+{282}
+Sequence : FHGGQCGAEAHESI
+{282}
+Sequence : HDSIAI
+{282}
+Sequence : GGGG
+{282}
+Sequence : DGSIMI
+{282}
+Sequence : DDI
+{282}
+Sequence : AFHPNIGLDEIVKLQ
+{282}
+Sequence : VQKHGVTPGDFIAFA
+{282}
+Sequence : VPEPFHTVDQII
+{282}
+Sequence : NDAGEFDELELV
+{282}
+Sequence : TPGIFDS
+{282}
+Sequence : LPGEIR
+{282}
+Sequence : IARDSRT
+{282}
+Sequence : WQSFVNNQSKLVDDFQF
+{282}
+Sequence : LTQ
+{282}
+Sequence : PNA
+{282}
+Sequence : FFP
+{282}
+Sequence : AA
+{282, 586, 558}
+Sequence : AT
+{273, 282}
+Sequence : GA
+{192, 193, 281, 282, 287}
+Sequence : GQ
+{282}
+Sequence : LS
+{241, 519, 520, 521, 282, 522}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : GS
+{432, 8, 282, 586, 12}
+Sequence : SP
+{273, 282}
+Sequence : AA
+{282, 586, 558}
+Sequence : AT
+{273, 282}
+Sequence : GA
+{192, 193, 281, 282, 287}
+Sequence : GQ
+{282}
+Sequence : LS
+{241, 519, 520, 521, 282, 522}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : GS
+{432, 8, 282, 586, 12}
+Sequence : SP
+{273, 282}

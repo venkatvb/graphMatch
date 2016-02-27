@@ -1,0 +1,76 @@
+Sequence : EISSV
+{576, 577, 579, 580}
+Sequence : LAGGY
+{576, 577, 579, 580}
+Sequence : PLLRQ
+{580}
+Sequence : TKN
+{576, 577, 579, 580}
+Sequence : RLKDYLKPLVAK
+{580}
+Sequence : GIKFIREYF
+{580}
+Sequence : NRERSVSRLAAVAVNYAKAG
+{576, 577, 579, 580}
+Sequence : GRIRDIKRGLINA
+{576, 577, 579, 580}
+Sequence : GLARRALERDMSE
+{580}
+Sequence : STF
+{576, 577, 579, 580}
+Sequence : YLDIMRDASEIC
+{576, 577, 579, 580}
+Sequence : VSGEYAMLHAAAEK
+{576, 577, 579, 580}
+Sequence : DLKTIAFESHQGFLRAG
+{576, 580}
+Sequence : LAPEFLDWL
+{576, 579, 580}
+Sequence : FTE
+{580}
+Sequence : NRI
+{580}
+Sequence : LIFPLFIS
+{576, 577, 579, 580}
+Sequence : LII
+{577, 580, 486, 41, 569}
+Sequence : ICAY
+{577, 580}
+Sequence : GIIVK
+{576, 577, 580}
+Sequence : FVLSYAAK
+{576, 577, 580}
+Sequence : CVAP
+{576, 577, 579, 580}
+Sequence : YIICDV
+{576, 577, 579, 580}
+Sequence : SVILFGV
+{576, 577, 579, 580}
+Sequence : LIFPLFIS
+{576, 577, 579, 580}
+Sequence : FTE
+{580}
+Sequence : NRI
+{580}
+Sequence : LIFPLFIS
+{576, 577, 579, 580}
+Sequence : SVILFGV
+{576, 577, 579, 580}
+Sequence : YIICDV
+{576, 577, 579, 580}
+Sequence : CVAP
+{576, 577, 579, 580}
+Sequence : FVLSYAAK
+{576, 577, 580}
+Sequence : GIIVK
+{576, 577, 580}
+Sequence : ICAY
+{577, 580}
+Sequence : LII
+{577, 580, 486, 41, 569}
+Sequence : LIFPLFIS
+{576, 577, 579, 580}
+Sequence : LY
+{580}
+Sequence : GTI
+{580, 357}

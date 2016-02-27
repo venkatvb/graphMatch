@@ -1,0 +1,86 @@
+Sequence : WPPAVCSF
+{434}
+Sequence : CPGSG
+{434}
+Sequence : DITKISH
+{434}
+Sequence : LQSQLNTLW
+{434}
+Sequence : NNQQFWSHEWTKH
+{434}
+Sequence : GTCSE
+{434}
+Sequence : NQAAYFKLAVDMRNNY
+{434}
+Sequence : DIIGALR
+{434}
+Sequence : PHA
+{434}
+Sequence : RQAIKGFLKAKFG
+{434}
+Sequence : WPPAVCSF
+{434}
+Sequence : DITKISH
+{434}
+Sequence : LQSQLNTLW
+{434}
+Sequence : NNQQFWSHEWTKH
+{434}
+Sequence : GTCSE
+{434}
+Sequence : NQAAYFKLAVDMRNN
+{434}
+Sequence : DIIGALR
+{434}
+Sequence : PHA
+{434}
+Sequence : RQAIKGFLKAKFG
+{434}
+Sequence : TS
+{434, 250, 431}
+Sequence : TIHGLWPQQ
+{434, 431}
+Sequence : SFWFVQQ
+{434, 431}
+Sequence : SYLVQVVACFA
+{434, 431}
+Sequence : GLRCRT
+{434, 431}
+Sequence : TS
+{434, 250, 431}
+Sequence : TIHGLWPQQ
+{434, 431}
+Sequence : SFWFVQQ
+{434, 431}
+Sequence : SYLVQVVACFA
+{434, 431}
+Sequence : LI
+{321, 434, 339, 342, 327, 328, 319, 431}
+Sequence : RTKS
+{434}
+Sequence : NFIF
+{434}
+Sequence : TS
+{434, 250, 431}
+Sequence : TIHGLWPQQ
+{434, 431}
+Sequence : SFWFVQQ
+{434, 431}
+Sequence : SYLVQVVACFA
+{434, 431}
+Sequence : GLRCRT
+{434, 431}
+Sequence : TS
+{434, 250, 431}
+Sequence : TIHGLWPQQ
+{434, 431}
+Sequence : SFWFVQQ
+{434, 431}
+Sequence : SYLVQVVACFA
+{434, 431}
+Sequence : LI
+{321, 434, 339, 342, 327, 328, 319, 431}
+Sequence : RTKS
+{434}
+Sequence : NFIF
+{434}

@@ -1,0 +1,58 @@
+Sequence : SLFGQEVYCQLRKE
+{219}
+Sequence : DPDGLEAEKDG
+{219}
+Sequence : LPEVVAKYQA
+{219}
+Sequence : PMEVIN
+{219}
+Sequence : SAINWTLIH
+{219}
+Sequence : TVSTLYNRF
+{219}
+Sequence : FLFPEGIKGMVQAVRLIAEG
+{219}
+Sequence : KKETAK
+{219}
+Sequence : PAEAIHNWIRG
+{219}
+Sequence : SQF
+{219}
+Sequence : VF
+{194, 195, 152, 202, 219, 207}
+Sequence : EVVGVF
+{219}
+Sequence : KIAVIG
+{219}
+Sequence : LNVLPF
+{219}
+Sequence : SIIYH
+{219}
+Sequence : KGGFTIFW
+{219}
+Sequence : LLLQKECE
+{219}
+Sequence : RA
+{544, 545, 546, 553, 219}
+Sequence : QA
+{80, 219}
+Sequence : AWTEA
+{219}
+Sequence : QKLTFFNST
+{219}
+Sequence : MLLVKNIQL
+{219}
+Sequence : GLILF
+{219}
+Sequence : VVT
+{48, 49, 219}
+Sequence : EA
+{219}
+Sequence : AWTEA
+{219}
+Sequence : QKLTFFNST
+{219}
+Sequence : MLLVKNIQL
+{219}
+Sequence : MMP
+{219}

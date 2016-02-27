@@ -1,0 +1,34 @@
+Sequence : AEKIS
+{255}
+Sequence : GLVF
+{255}
+Sequence : AEVKLGS
+{255}
+Sequence : EKITFKNN
+{255}
+Sequence : TYEVTLTE
+{255}
+Sequence : SSFTV
+{255}
+Sequence : GEVTVN
+{255}
+Sequence : YKFYCEPH
+{255}
+Sequence : PHNIVF
+{255}
+Sequence : SDDG
+{255}
+Sequence : FSPS
+{255}
+Sequence : AAGE
+{255}
+Sequence : DEDE
+{255}
+Sequence : PAGV
+{255}
+Sequence : GETY
+{255}
+Sequence : PHAG
+{255}
+Sequence : AGMK
+{255}

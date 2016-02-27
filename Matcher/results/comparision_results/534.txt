@@ -1,0 +1,88 @@
+Sequence : MTDLKASSLRALK
+{533, 534}
+Sequence : TDEKVIALCHQA
+{534}
+Sequence : YPR
+{534}
+Sequence : FIPIARKTLKEQ
+{534}
+Sequence : DIDIALAETRAAIAYG
+{534}
+Sequence : PYRALMA
+{534}
+Sequence : EQVGFDLVKACKEACAAA
+{534}
+Sequence : ETGELK
+{534}
+Sequence : DEALIRKASEISIKA
+{534}
+Sequence : TPESARIMMEVIRDMG
+{534}
+Sequence : TAEDAQKYLAIADELFG
+{534}
+Sequence : SLLASLLKAL
+{533, 534}
+Sequence : TDLKASSLRALK
+{534}
+Sequence : TDEKVIALCHQA
+{534}
+Sequence : YPR
+{534}
+Sequence : FIPIARKTLKEQ
+{534}
+Sequence : DIDIALAETRAAIAYG
+{534}
+Sequence : PYRALMA
+{534}
+Sequence : EQVGFDLVKACKEACAAA
+{534}
+Sequence : ETGELK
+{534}
+Sequence : DEALIRKASEISIKA
+{534}
+Sequence : TPESARIMMEVIRDMG
+{534}
+Sequence : TAEDAQKYLAIADELFG
+{534}
+Sequence : SLLASLLKAL
+{533, 534}
+Sequence : GFK
+{534}
+Sequence : FIK
+{534}
+Sequence : LLKVI
+{534}
+Sequence : EVDVV
+{534}
+Sequence : RIATVT
+{534}
+Sequence : AICI
+{534}
+Sequence : MDLT
+{534}
+Sequence : FGA
+{534}
+Sequence : KT
+{534, 263, 265, 158}
+Sequence : GN
+{534}
+Sequence : GFK
+{534}
+Sequence : FIK
+{534}
+Sequence : LLKVI
+{534}
+Sequence : EVDVV
+{534}
+Sequence : RIATVT
+{534}
+Sequence : AICI
+{534}
+Sequence : MDLT
+{534}
+Sequence : FGA
+{534}
+Sequence : KT
+{534, 263, 265, 158}
+Sequence : GN
+{534}

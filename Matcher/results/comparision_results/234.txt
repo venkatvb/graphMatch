@@ -1,0 +1,68 @@
+Sequence : FNGSLKNVAVDELSR
+{234}
+Sequence : LYAM
+{233, 234}
+Sequence : DKD
+{234}
+Sequence : YGVETHEAYK
+{234}
+Sequence : SDITDEQKKVRE
+{234}
+Sequence : AILKGWMDRV
+{234}
+Sequence : YDS
+{231, 232, 234}
+Sequence : EMY
+{234}
+Sequence : SRYFLWPLQ
+{234}
+Sequence : LHFC
+{234}
+Sequence : EEERKGMVAAWSQRLQTIWK
+{234}
+Sequence : AHWH
+{234}
+Sequence : FNGSLKNVAVDELSR
+{234}
+Sequence : LYAM
+{233, 234}
+Sequence : DKD
+{234}
+Sequence : YGVETHEAYK
+{234}
+Sequence : SDITDEQKKVRE
+{234}
+Sequence : AILKGWMDRV
+{234}
+Sequence : YDS
+{231, 232, 234}
+Sequence : EMY
+{234}
+Sequence : SRYFLWPLQ
+{234}
+Sequence : HFC
+{234}
+Sequence : EEERKGMVAAWSQRLQTIWK
+{234}
+Sequence : AHWHF
+{234}
+Sequence : TVTVSD
+{234}
+Sequence : KVLIVYA
+{234}
+Sequence : LVIFQFP
+{233, 234}
+Sequence : LALLSVT
+{234}
+Sequence : QIS
+{234, 557}
+Sequence : TVTVSD
+{234}
+Sequence : KVLIVYA
+{234}
+Sequence : LVIFQFP
+{233, 234}
+Sequence : LALLSVT
+{234}
+Sequence : QIS
+{234, 557}

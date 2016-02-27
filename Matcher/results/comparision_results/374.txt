@@ -1,0 +1,36 @@
+Sequence : IIER
+{374}
+Sequence : ELRKRWIHQLKNVIR
+{374, 375}
+Sequence : IIER
+{374}
+Sequence : ELRKRWIHQLKNVIR
+{374, 375}
+Sequence : ESIFLKRS
+{374, 375}
+Sequence : KKCLFLLT
+{374}
+Sequence : LSYYE
+{374}
+Sequence : KGSIDV
+{374, 375}
+Sequence : YVFSP
+{374}
+Sequence : PFQVVYD
+{374, 375}
+Sequence : TCVETV
+{374, 375}
+Sequence : ESIFLKRS
+{374, 375}
+Sequence : KKCLFLLT
+{374}
+Sequence : LSYYE
+{374}
+Sequence : KGSIDV
+{374, 375}
+Sequence : VETV
+{374}
+Sequence : PFQVVYD
+{374, 375}
+Sequence : PLYVFSP
+{374, 375}

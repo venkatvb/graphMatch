@@ -1,0 +1,50 @@
+Sequence : GTTASIEKLVQVFNE
+{172, 175}
+Sequence : PTF
+{172, 381, 175}
+Sequence : VHIPLVQAK
+{172, 175}
+Sequence : VSMPILKDI
+{172}
+Sequence : GHSERRTY
+{172, 175}
+Sequence : ETDEIVAQKVSEACK
+{172, 175}
+Sequence : ETLQQRE
+{172, 175}
+Sequence : NQTAKVVLSQTSAIA
+{172, 175}
+Sequence : AK
+{533, 172, 13, 175}
+Sequence : LTKDAW
+{172, 175}
+Sequence : EPVWA
+{172, 175}
+Sequence : ATPEQAQEVHLLLRKWVSEN
+{172, 175}
+Sequence : IGTDVAAK
+{172, 175}
+Sequence : ANAATLY
+{172, 175}
+Sequence : VGGASLK
+{172, 175}
+Sequence : PEFRDIID
+{172, 175}
+Sequence : PIAAA
+{172, 175}
+Sequence : VQCVV
+{172, 175}
+Sequence : KYVIS
+{172, 175}
+Sequence : HWVI
+{166, 172, 175}
+Sequence : FMVIAC
+{166, 172, 175}
+Sequence : QVVLA
+{166, 172, 175}
+Sequence : LRILY
+{172}
+Sequence : NGFL
+{166, 172, 175}
+Sequence : PIAAA
+{172, 175}

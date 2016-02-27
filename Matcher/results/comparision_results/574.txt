@@ -1,0 +1,84 @@
+Sequence : DKQSTLNFLLALD
+{574}
+Sequence : GKTIQESHYRALKN
+{574}
+Sequence : KLREAFWIVKEFRR
+{574}
+Sequence : YYNPIYRAG
+{574}
+Sequence : GVRNFLAEAKASG
+{574}
+Sequence : PVF
+{190, 574, 191}
+Sequence : HAKEFTEIAREEG
+{574}
+Sequence : PDERLKVIDDMT
+{574}
+Sequence : PKTAYDLLRRAKRIC
+{574}
+Sequence : KREHVVSLLKE
+{574}
+Sequence : GSALVKIIGEKG
+{574}
+Sequence : ATEFLKKKVEELLG
+{574}
+Sequence : DKQSTLNFLLALD
+{574}
+Sequence : GKTIQESHYRALKN
+{574}
+Sequence : KLREAFWIVKEFRR
+{574}
+Sequence : YYNPIYRAG
+{574}
+Sequence : GVRNFLAEAKASG
+{574}
+Sequence : PVF
+{190, 574, 191}
+Sequence : HAKEFTEIAREE
+{574}
+Sequence : PDERLKVIDDMT
+{574}
+Sequence : PKTAYDLLRRAKRIC
+{574}
+Sequence : KREHVVSLLKE
+{574}
+Sequence : GSALVKIIGEKG
+{574}
+Sequence : ATEFLKKKVEELLG
+{574}
+Sequence : SLIPYLT
+{574}
+Sequence : IELG
+{574}
+Sequence : IVLMT
+{574}
+Sequence : GILV
+{574}
+Sequence : KTVFLA
+{574}
+Sequence : FVYLV
+{574}
+Sequence : VAVG
+{116, 574}
+Sequence : GVVV
+{574}
+Sequence : SLIPYLT
+{574}
+Sequence : SLIPYLT
+{574}
+Sequence : IELG
+{574}
+Sequence : IVLMT
+{574}
+Sequence : GILV
+{574}
+Sequence : KTVFLA
+{574}
+Sequence : FVYLV
+{574}
+Sequence : VAVG
+{116, 574}
+Sequence : GVVV
+{574}
+Sequence : SLIPYLT
+{574}

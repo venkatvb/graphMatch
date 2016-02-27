@@ -1,0 +1,48 @@
+Sequence : REVSLNSGAAVLAGLRE
+{65}
+Sequence : VTQ
+{65}
+Sequence : TLQGMLELM
+{65, 66}
+Sequence : VMASALSM
+{65}
+Sequence : KLRSKLLWQG
+{65}
+Sequence : RAEFEK
+{65}
+Sequence : KQLAEISAL
+{65}
+Sequence : ENALQDALRLAFQ
+{65}
+Sequence : YEAKF
+{65}
+Sequence : ASQEANLQALVLKAWTTL
+{65}
+Sequence : LVPMAARQ
+{65, 66}
+Sequence : FSQLVVRILE
+{65, 66}
+Sequence : DAYPVD
+{65, 66}
+Sequence : KIAVLL
+{65}
+Sequence : FQKVFI
+{65}
+Sequence : WVALT
+{65}
+Sequence : EVLIEK
+{65, 66}
+Sequence : VIVKP
+{65, 66}
+Sequence : SKV
+{65, 187}
+Sequence : FYLLEAN
+{65}
+Sequence : WGRIDVML
+{65, 66}
+Sequence : EFTVAIL
+{65}
+Sequence : IRIQ
+{65}
+Sequence : QYF
+{65}

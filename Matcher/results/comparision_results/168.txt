@@ -1,0 +1,84 @@
+Sequence : LAEAVQFVEDV
+{168}
+Sequence : FLFLDRLVQAA
+{168}
+Sequence : PVMLKDL
+{168}
+Sequence : SERRQMF
+{168}
+Sequence : DETVNKKVLAAFTR
+{168}
+Sequence : LEEREA
+{168}
+Sequence : TNAVVASQVEKAL
+{168}
+Sequence : PEQVKQ
+{168}
+Sequence : IWA
+{168}
+Sequence : PEDANSVCGHIRSVVSRLFGPEAAEA
+{168}
+Sequence : IRDFLA
+{168}
+Sequence : GAS
+{167, 168}
+Sequence : PASFLQLVEAGR
+{168}
+Sequence : LAEAVQFVEDVK
+{168}
+Sequence : FLFLDRLVQA
+{168}
+Sequence : PVMLKDL
+{168}
+Sequence : SERRQM
+{168}
+Sequence : DETVNKKVLAAFTR
+{168}
+Sequence : LEEREA
+{168}
+Sequence : TNAVVASQVEKA
+{168}
+Sequence : PEQVKQ
+{168}
+Sequence : IWA
+{168}
+Sequence : PEDANSVCGHIRSVVSRL
+{168}
+Sequence : PEAAEA
+{168}
+Sequence : IRDFLA
+{168}
+Sequence : GAS
+{167, 168}
+Sequence : PASFLQLVEA
+{168}
+Sequence : GPLV
+{168}
+Sequence : IIAGN
+{168}
+Sequence : ISVVCA
+{168}
+Sequence : LKIGA
+{168}
+Sequence : YVIL
+{168, 169}
+Sequence : IPIICC
+{168}
+Sequence : VIAYE
+{167, 168}
+Sequence : RIQYG
+{168}
+Sequence : PIIAGN
+{168}
+Sequence : VISVVCA
+{168}
+Sequence : LKIGA
+{168}
+Sequence : YVIL
+{168, 169}
+Sequence : IPIICC
+{168}
+Sequence : VIAY
+{168}
+Sequence : RIQY
+{168}

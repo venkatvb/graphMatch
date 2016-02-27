@@ -1,0 +1,66 @@
+Sequence : EFAKLRATNP
+{242, 243}
+Sequence : HKDVCFVATSE
+{242, 243}
+Sequence : ASGKQAAK
+{242, 243}
+Sequence : FVDMD
+{242, 243}
+Sequence : EHMHQRSM
+{243}
+Sequence : VEPTFT
+{243}
+Sequence : PEAVKNLQPYIQRTVDDLLEQMKQKGC
+{242, 243}
+Sequence : VKEFA
+{242, 243}
+Sequence : PVPSYIIYTLLGV
+{242, 243}
+Sequence : FND
+{242, 243}
+Sequence : LEYLTQQNAIRTNG
+{242, 243}
+Sequence : AREASAANQELLDYLAILVEQRLVEP
+{242, 243}
+Sequence : IISKLCTEQV
+{242, 243}
+Sequence : KSDAVQIAFLLLVAG
+{243}
+Sequence : NAVMVNMIALGVATLAQHP
+{243}
+Sequence : PDQLAQLKANP
+{242, 243}
+Sequence : APQFVEELCRYHT
+{242, 243}
+Sequence : NQSANR
+{242, 243}
+Sequence : GDHRC
+{242, 243}
+Sequence : EHLAKAELTTVFSTLYQKFP
+{242, 243}
+Sequence : LGKIN
+{242, 243}
+Sequence : SQVKL
+{242, 243}
+Sequence : AWLVT
+{242, 243}
+Sequence : IIAS
+{242, 243}
+Sequence : RTAK
+{242, 243}
+Sequence : SK
+{242, 243, 452, 469, 335}
+Sequence : DL
+{192, 193, 242, 243, 564}
+Sequence : VIF
+{242, 243}
+Sequence : VA
+{242, 243, 283, 284, 285}
+Sequence : MIG
+{242, 243}
+Sequence : LVR
+{242, 243}
+Sequence : YT
+{242, 243}
+Sequence : VDL
+{242, 243, 182}

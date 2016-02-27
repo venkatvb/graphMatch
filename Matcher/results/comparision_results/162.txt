@@ -1,0 +1,36 @@
+Sequence : FADKV
+{162, 131}
+Sequence : PKTAENFRALST
+{161, 162, 131, 121, 122, 124, 125}
+Sequence : TEWLD
+{146, 162, 131, 147, 148, 149, 151, 127}
+Sequence : GMNIVEAM
+{162, 131}
+Sequence : ERFG
+{162, 131}
+Sequence : PTVFFDIA
+{162, 131}
+Sequence : PLGRVSFEL
+{162, 131}
+Sequence : VVFGKVKE
+{162, 131}
+Sequence : GILSMA
+{162, 131}
+Sequence : QFFICT
+{162, 131}
+Sequence : MCQG
+{161, 146, 162, 131, 147, 148, 149, 151, 121}
+Sequence : GSCFHRI
+{162, 131}
+Sequence : KITIADCGQL
+{162, 131}
+Sequence : PTVFFDIA
+{162, 131}
+Sequence : VDGE
+{162, 131, 122, 124, 125, 62}
+Sequence : GEKG
+{162, 131, 139}
+Sequence : IPGF
+{162, 131, 122, 124, 125}
+Sequence : SRNG
+{162, 131}

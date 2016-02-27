@@ -1,0 +1,30 @@
+Sequence : LSA
+{436}
+Sequence : PEATDTLNLIA
+{436}
+Sequence : GEQ
+{436, 438, 439, 442}
+Sequence : ISDLHQTLKKE
+{436, 438, 439, 442}
+Sequence : LDALWDCLTG
+{436, 442}
+Sequence : FEQSKQLT
+{436, 438}
+Sequence : GAESVLQVFREAKAE
+{436, 438, 439, 442}
+Sequence : TVC
+{436, 458, 462}
+Sequence : LID
+{436}
+Sequence : HEYT
+{436, 458, 462}
+Sequence : RIIT
+{436, 458, 462}
+Sequence : DYYT
+{436, 462}
+Sequence : KAVIN
+{436, 438, 439, 442}
+Sequence : LVLEWR
+{436, 438, 439, 442}
+Sequence : ITIIL
+{436, 438, 439, 442}

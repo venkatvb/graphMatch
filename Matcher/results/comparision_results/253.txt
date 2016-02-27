@@ -1,0 +1,70 @@
+Sequence : ISK
+{253}
+Sequence : AHT
+{253}
+Sequence : KDAIAKFAKAVELMKA
+{253}
+Sequence : QQALVHCAYC
+{253}
+Sequence : FFPFHRWYLYFYERILGKLI
+{253}
+Sequence : DFL
+{163, 253}
+Sequence : DQQRITDNLALMYKQM
+{253}
+Sequence : TNA
+{253}
+Sequence : AELFL
+{253}
+Sequence : SIETS
+{253}
+Sequence : HIPIHRWV
+{253}
+Sequence : AGR
+{253}
+Sequence : IAFYCHHSNVDRMWTIWQQ
+{253}
+Sequence : SDWL
+{253}
+Sequence : IGDSL
+{253}
+Sequence : ISK
+{253}
+Sequence : AHT
+{253}
+Sequence : KDAIAKFAKAVELMKA
+{253}
+Sequence : QQALVHCAYC
+{253}
+Sequence : FFPFHRWYLYFYERILGKLI
+{253}
+Sequence : DFLN
+{253}
+Sequence : DQQRITDNLALMYKQM
+{253}
+Sequence : AELFL
+{253}
+Sequence : SIETS
+{253}
+Sequence : HIPIHRWV
+{253}
+Sequence : AGR
+{253}
+Sequence : IAFYCHHSNVDRMWTIWQQ
+{253}
+Sequence : SDWL
+{253}
+Sequence : IGD
+{253}
+Sequence : IVD
+{241, 253}
+Sequence : AVKVR
+{253}
+Sequence : TFLFY
+{253}
+Sequence : IVD
+{241, 253}
+Sequence : AVKVR
+{253}
+Sequence : TFLFY
+{253}

@@ -1,0 +1,46 @@
+Sequence : PADKKQYRSR
+{214}
+Sequence : RTTFESM
+{214}
+Sequence : VEEAVDIAAS
+{214}
+Sequence : AAIYALFQPH
+{214}
+Sequence : PADKKQYRSR
+{214}
+Sequence : RTTFESM
+{214}
+Sequence : VEEAVDIAAS
+{214}
+Sequence : AAIYALFQPH
+{214}
+Sequence : WELDAETD
+{214}
+Sequence : FTLQEWVR
+{214}
+Sequence : RMVLSRV
+{214}
+Sequence : LVSVAAL
+{214}
+Sequence : AYVIG
+{214}
+Sequence : VVLG
+{214}
+Sequence : QIVM
+{214}
+Sequence : WELDAETD
+{214}
+Sequence : FTLQEWVR
+{214}
+Sequence : RMVLSRV
+{214}
+Sequence : LVSVAALA
+{214}
+Sequence : AYVIG
+{214}
+Sequence : PVVLG
+{214}
+Sequence : QIVM
+{214}
+Sequence : AHRA
+{214}

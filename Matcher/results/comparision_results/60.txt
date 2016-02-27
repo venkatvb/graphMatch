@@ -1,0 +1,20 @@
+Sequence : SSLLLKKQLADMRRV
+{60}
+Sequence : DYPQK
+{60}
+Sequence : ISILH
+{60}
+Sequence : TVETILLSVISMLTD
+{60}
+Sequence : NVDAAKMQRE
+{60}
+Sequence : NYAEFKKKVAQCVRRSQ
+{60}
+Sequence : FSAGL
+{60}
+Sequence : KWEVLVI
+{60}
+Sequence : FFKAILD
+{60}
+Sequence : KMKF
+{60}

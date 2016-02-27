@@ -1,0 +1,34 @@
+Sequence : TAAAKFERQHM
+{480, 469, 471, 472, 475}
+Sequence : NYCNQMMKSRN
+{469}
+Sequence : SLADVQAVCSQ
+{469}
+Sequence : KPVNTFVH
+{469}
+Sequence : MSITDCRET
+{469}
+Sequence : NCAYKTTQANK
+{469}
+Sequence : KPVNTFVH
+{469}
+Sequence : SK
+{242, 243, 452, 469, 335}
+Sequence : NCAYKTTQANK
+{469}
+Sequence : KNVA
+{469}
+Sequence : NCYQS
+{452, 469}
+Sequence : HIIVACEGN
+{469}
+Sequence : PYVPVH
+{469}
+Sequence : KNVA
+{469}
+Sequence : NCYQS
+{452, 469}
+Sequence : HIIVACEGN
+{469}
+Sequence : DASV
+{452, 469}

@@ -1,0 +1,32 @@
+Sequence : QKVHSAALAIAELER
+{385}
+Sequence : QKVHSAALAIAELER
+{385}
+Sequence : LSALRR
+{385}
+Sequence : VQNPRV
+{385}
+Sequence : ITYEYIC
+{385}
+Sequence : XPSPNL
+{385}
+Sequence : TRDGEA
+{385}
+Sequence : GRXCET
+{385}
+Sequence : DTTWFT
+{385}
+Sequence : LSALRR
+{385}
+Sequence : VQNPR
+{385}
+Sequence : ITYEYIC
+{385}
+Sequence : PSPNL
+{385}
+Sequence : TRDGEA
+{385}
+Sequence : GRXCET
+{385}
+Sequence : DTTWFT
+{385}

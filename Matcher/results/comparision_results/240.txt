@@ -1,0 +1,36 @@
+Sequence : ILDAAEE
+{240, 239}
+Sequence : DDQIE
+{240, 239}
+Sequence : TCV
+{240, 239}
+Sequence : EED
+{240, 528, 547, 558, 239}
+Sequence : ILDAAEE
+{240, 239}
+Sequence : DDQIE
+{240, 239}
+Sequence : TCV
+{240, 239}
+Sequence : EED
+{240, 528, 547, 558, 239}
+Sequence : TKHEIEVP
+{240, 239}
+Sequence : TFKVTLIN
+{240, 239}
+Sequence : VVIQ
+{240, 239}
+Sequence : AGKLVS
+{240, 239}
+Sequence : YVL
+{240, 239}
+Sequence : TKHEIEVP
+{240, 239}
+Sequence : TFKVTLIN
+{240, 239}
+Sequence : VVIQ
+{240, 239}
+Sequence : AGKLVS
+{240, 239}
+Sequence : YVL
+{240, 239}

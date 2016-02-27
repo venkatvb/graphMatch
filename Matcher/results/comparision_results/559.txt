@@ -1,0 +1,76 @@
+Sequence : SPE
+{560, 559}
+Sequence : WGNLSEE
+{560, 559}
+Sequence : RLCSTGKN
+{560, 559}
+Sequence : WNVM
+{559}
+Sequence : LLPK
+{559}
+Sequence : AEKFTRAVGSE
+{559}
+Sequence : SPE
+{560, 559}
+Sequence : WGNLSE
+{560, 559}
+Sequence : RLCSTGKN
+{560, 559}
+Sequence : WNVMPM
+{559}
+Sequence : LLPK
+{559}
+Sequence : AEKFTRAVGSE
+{559}
+Sequence : NYKP
+{560, 559}
+Sequence : VNGR
+{560, 559}
+Sequence : TLKQFHFHVPS
+{559}
+Sequence : HFVHLDEN
+{559}
+Sequence : LAVLYEAG
+{559}
+Sequence : SWLVLKTY
+{559}
+Sequence : FAGSLTT
+{559}
+Sequence : KLNQ
+{559}
+Sequence : ENNGH
+{560, 559}
+Sequence : NYPEG
+{560, 559}
+Sequence : FHV
+{559}
+Sequence : GKT
+{559}
+Sequence : DQA
+{559}
+Sequence : NYKP
+{560, 559}
+Sequence : VNGR
+{560, 559}
+Sequence : TLKQFHFHVPS
+{559}
+Sequence : HFVHLDEN
+{559}
+Sequence : LAVLYEAG
+{559}
+Sequence : SWLVLKTY
+{559}
+Sequence : FAGSLTT
+{559}
+Sequence : KLNQ
+{559}
+Sequence : NNGH
+{560, 559}
+Sequence : NYPE
+{560, 559}
+Sequence : FHV
+{559}
+Sequence : GKT
+{559}
+Sequence : DQA
+{559}

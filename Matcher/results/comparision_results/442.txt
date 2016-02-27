@@ -1,0 +1,88 @@
+Sequence : FDGVADYLQTY
+{450, 435, 438, 439, 440, 441, 442, 446, 447}
+Sequence : KSEAQAL
+{449, 450, 435, 440, 441, 442, 446, 447}
+Sequence : LADV
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447}
+Sequence : FDGVADYLQTY
+{450, 435, 438, 439, 440, 441, 442, 446, 447}
+Sequence : KSEAQA
+{449, 450, 440, 441, 442, 446}
+Sequence : ASK
+{449, 450, 435, 438, 439, 440, 441, 442, 445, 446, 447}
+Sequence : LADV
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447}
+Sequence : FDGVADYLQTY
+{450, 435, 438, 439, 440, 441, 442, 446, 447}
+Sequence : KSEAQA
+{449, 450, 440, 441, 442, 446}
+Sequence : LADV
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447}
+Sequence : GEQ
+{436, 438, 439, 442}
+Sequence : ISDLHQTLKKE
+{436, 438, 439, 442}
+Sequence : LDALWDCL
+{442}
+Sequence : FEQSKQL
+{442}
+Sequence : GAESVLQVFREAKAE
+{436, 438, 439, 442}
+Sequence : ISDLHQTLKKE
+{436, 438, 439, 442}
+Sequence : LDALWDCLTG
+{436, 442}
+Sequence : AESVLQVFREAKAE
+{439, 442}
+Sequence : GEQ
+{436, 438, 439, 442}
+Sequence : ISDLHQTLKKE
+{436, 438, 439, 442}
+Sequence : LDALWDCLTG
+{436, 442}
+Sequence : FEQSKQ
+{438, 439, 442}
+Sequence : GAESVLQVFREAKA
+{438, 439, 442}
+Sequence : WREAD
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447, 463}
+Sequence : RILYS
+{449, 435, 438, 439, 440, 441, 442, 446, 447}
+Sequence : IYKT
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447, 463}
+Sequence : TKIR
+{449, 450, 439, 440, 441, 442, 446, 447}
+Sequence : WREAD
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447, 463}
+Sequence : RILYS
+{449, 435, 438, 439, 440, 441, 442, 446, 447}
+Sequence : IYKT
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447, 463}
+Sequence : TKIR
+{449, 450, 439, 440, 441, 442, 446, 447}
+Sequence : IYKT
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447, 463}
+Sequence : RILYS
+{449, 435, 438, 439, 440, 441, 442, 446, 447}
+Sequence : WREAD
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447, 463}
+Sequence : GGDIF
+{449, 450, 435, 438, 439, 440, 441, 442, 446, 447}
+Sequence : KKAVIN
+{438, 439, 442}
+Sequence : LVLEWR
+{436, 438, 439, 442}
+Sequence : ITIIL
+{436, 438, 439, 442}
+Sequence : AVIN
+{438, 439, 442}
+Sequence : LVLEWR
+{436, 438, 439, 442}
+Sequence : ITIIL
+{436, 438, 439, 442}
+Sequence : KAVIN
+{436, 438, 439, 442}
+Sequence : LVLEWR
+{436, 438, 439, 442}
+Sequence : ITIIL
+{436, 438, 439, 442}

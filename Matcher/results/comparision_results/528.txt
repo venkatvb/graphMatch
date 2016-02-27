@@ -1,0 +1,42 @@
+Sequence : MADKAARIDAICEKARI
+{528}
+Sequence : EED
+{240, 528, 547, 558, 239}
+Sequence : ILPLADALAAGG
+{528}
+Sequence : GLKAIQVLREQRP
+{528}
+Sequence : RSMFAAVEAAGA
+{528}
+Sequence : EDILEAGVDSE
+{528}
+Sequence : PSEIMMGYAL
+{528}
+Sequence : AEISGG
+{528}
+Sequence : GVAAIKAFGGP
+{528}
+Sequence : VRNYMALP
+{528}
+Sequence : SSWIKNG
+{528}
+Sequence : WARIEACSAEAIALL
+{528}
+Sequence : VGAGT
+{528}
+Sequence : LEVTL
+{528}
+Sequence : LPVIT
+{528}
+Sequence : GTT
+{528}
+Sequence : VT
+{336, 528, 273, 341, 251, 492}
+Sequence : LP
+{528, 261, 230, 262, 87, 589}
+Sequence : IS
+{528, 271}
+Sequence : FKLF
+{528}
+Sequence : FCPT
+{528}

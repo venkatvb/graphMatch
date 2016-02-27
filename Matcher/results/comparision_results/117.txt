@@ -1,0 +1,92 @@
+Sequence : YIGSHTCVQLLQ
+{117}
+Sequence : RSVLPVIERLG
+{117}
+Sequence : EALMTEILHD
+{117}
+Sequence : VGESVQ
+{116, 117}
+Sequence : PLEYYDNNVNGTLRLISAMRAA
+{117}
+Sequence : ATVY
+{116, 117}
+Sequence : PYGKSKLMVEQILTDLQKA
+{116, 117}
+Sequence : LMPYIAQVA
+{117}
+Sequence : VMDLADGHVVAMEKL
+{117}
+Sequence : VLDVVNAFSKAC
+{117}
+Sequence : SKADREL
+{117}
+Sequence : LDEMAQDTWHWQSR
+{116, 117}
+Sequence : YIGSHTCVQLLQ
+{117}
+Sequence : RSVLPVIERLG
+{117}
+Sequence : EALMTEILHD
+{117}
+Sequence : VGESVQ
+{116, 117}
+Sequence : PLEYYDNNVNGTLRLISAMRA
+{117}
+Sequence : ATVY
+{116, 117}
+Sequence : PYGKSKLMVEQILTDLQKA
+{116, 117}
+Sequence : LMPYIAQVA
+{117}
+Sequence : VMDLADGHVVAMEKL
+{117}
+Sequence : VLDVVNAFSKAC
+{117}
+Sequence : SKADREL
+{117}
+Sequence : LDEMAQDTWHWQSR
+{116, 117}
+Sequence : GVHIYNL
+{114, 116, 117}
+Sequence : SIALLRY
+{114, 116, 117}
+Sequence : NFIFSSS
+{116, 117}
+Sequence : TVIH
+{114, 115, 116, 117}
+Sequence : RVLVT
+{114, 115, 116, 117}
+Sequence : DVIILD
+{114, 115, 116, 117}
+Sequence : TFVE
+{114, 115, 116, 117}
+Sequence : NPV
+{114, 115, 116, 117}
+Sequence : YIH
+{112, 113, 114, 115, 116, 117, 111}
+Sequence : LAIF
+{114, 115, 116, 117}
+Sequence : YHFA
+{114, 115, 116, 117}
+Sequence : GVHIYNL
+{114, 116, 117}
+Sequence : SIALLRY
+{114, 116, 117}
+Sequence : NFIFSSS
+{116, 117}
+Sequence : TVIH
+{114, 115, 116, 117}
+Sequence : RVLVT
+{114, 115, 116, 117}
+Sequence : DVIILD
+{114, 115, 116, 117}
+Sequence : TFVE
+{114, 115, 116, 117}
+Sequence : NPV
+{114, 115, 116, 117}
+Sequence : YIH
+{112, 113, 114, 115, 116, 117, 111}
+Sequence : LAIF
+{114, 115, 116, 117}
+Sequence : YHFA
+{114, 115, 116, 117}

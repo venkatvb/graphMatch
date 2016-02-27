@@ -1,0 +1,58 @@
+Sequence : NLF
+{231, 232}
+Sequence : AVEYYTQR
+{232}
+Sequence : EEQMVEWTKIFNAIHEK
+{232}
+Sequence : GWA
+{231, 232}
+Sequence : PDNLAR
+{231, 232}
+Sequence : AEQEAKAKK
+{231, 232}
+Sequence : KDEIKQYIKEYVQAAKNSIA
+{231, 232}
+Sequence : LLNQFL
+{231, 232}
+Sequence : IENRARFTLEVVDALVEAI
+{232}
+Sequence : HEK
+{231, 232}
+Sequence : GGA
+{231, 232}
+Sequence : IVAQYAYVAGELEKRAK
+{232}
+Sequence : DFVYSI
+{232}
+Sequence : PEVVREEVK
+{231, 232}
+Sequence : RFFIS
+{231, 232}
+Sequence : LVDRLEK
+{232}
+Sequence : RDT
+{231, 232}
+Sequence : YEEALKL
+{232}
+Sequence : IKI
+{231, 232}
+Sequence : NEL
+{403, 406, 231, 599, 232, 409}
+Sequence : MII
+{231, 232}
+Sequence : FVWVQL
+{231, 232}
+Sequence : GVEIN
+{231, 232}
+Sequence : VGLRL
+{231, 232}
+Sequence : FVHLV
+{231, 232}
+Sequence : VIRA
+{231, 232}
+Sequence : TLIG
+{231, 232}
+Sequence : YDS
+{231, 232, 234}
+Sequence : QHS
+{322, 231, 232}

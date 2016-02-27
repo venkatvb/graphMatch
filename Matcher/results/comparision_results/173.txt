@@ -1,0 +1,92 @@
+Sequence : KQSIKEIVERLNTAS
+{183, 173}
+Sequence : ATY
+{173}
+Sequence : LDYSVSLVK
+{183, 173}
+Sequence : VDQIKDVG
+{173}
+Sequence : SERRSYF
+{173}
+Sequence : DKFIADKTKFALGQG
+{173}
+Sequence : LEEKKAG
+{173}
+Sequence : TLDVVERQLNAVLEEVK
+{183, 173}
+Sequence : VXAIG
+{173}
+Sequence : PEDAQDIHASIRKFLASKLGD
+{173}
+Sequence : DKAASELR
+{183, 173}
+Sequence : AVTFKD
+{173}
+Sequence : GASLKP
+{183, 173}
+Sequence : EFVDIINS
+{173}
+Sequence : KQSIKEIVERLNTAS
+{183, 173}
+Sequence : ATY
+{173}
+Sequence : LDYSVSLVK
+{183, 173}
+Sequence : VDQIKDVG
+{173}
+Sequence : SERRSY
+{173}
+Sequence : DKFIADKTKFALGQG
+{173}
+Sequence : LEEKKAG
+{173}
+Sequence : TLDVVERQLNAVLEEVK
+{183, 173}
+Sequence : VXAIG
+{173}
+Sequence : PEDAQDIHASIRKFLASKLGD
+{173}
+Sequence : DKAASELR
+{183, 173}
+Sequence : AVTFKD
+{173}
+Sequence : GASLKP
+{183, 173}
+Sequence : EFVDIINS
+{173}
+Sequence : FVGGNF
+{173}
+Sequence : EVVICP
+{173}
+Sequence : TVGAQ
+{173}
+Sequence : VILG
+{179, 180, 181, 187, 173}
+Sequence : VILCIG
+{183, 173}
+Sequence : VVAYE
+{173}
+Sequence : LYGG
+{177, 173}
+Sequence : FLVG
+{187, 173}
+Sequence : FVGGNF
+{173}
+Sequence : FVGGNF
+{173}
+Sequence : EVVICP
+{173}
+Sequence : TVGAQ
+{173}
+Sequence : VILG
+{179, 180, 181, 187, 173}
+Sequence : VILCIG
+{183, 173}
+Sequence : VVAYE
+{173}
+Sequence : LYGG
+{177, 173}
+Sequence : FLVG
+{187, 173}
+Sequence : FVGGNF
+{173}

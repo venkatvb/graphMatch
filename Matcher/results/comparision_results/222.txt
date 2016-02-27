@@ -1,0 +1,60 @@
+Sequence : PIIHDLEN
+{222}
+Sequence : QEDLAVLLEALR
+{222}
+Sequence : SIN
+{222}
+Sequence : DAAKQRMHDSF
+{222}
+Sequence : QFNQPHIKA
+{222}
+Sequence : RDDYDVVLSKAVA
+{222}
+Sequence : EEQKEAAFASFKFVELN
+{222}
+Sequence : KAWTKPQAYLALGNALHTLARL
+{222}
+Sequence : PELLSEI
+{222}
+Sequence : YNAS
+{222}
+Sequence : FEDV
+{222}
+Sequence : PIIHDLEN
+{222}
+Sequence : QEDLAVLLEALR
+{222}
+Sequence : SIN
+{222}
+Sequence : DAAKQRMHDSF
+{222}
+Sequence : QPHIKA
+{222}
+Sequence : RDDYDVVLSKAVA
+{222}
+Sequence : EEQKEAAFASFKFVELN
+{222}
+Sequence : KAWTKPQAYLALGNALHTLARL
+{222}
+Sequence : PELLSEI
+{222}
+Sequence : YNAS
+{222}
+Sequence : FEDV
+{222}
+Sequence : WKFIVI
+{222}
+Sequence : HVILFANK
+{222}
+Sequence : YECHVALAIG
+{222}
+Sequence : DSTTM
+{222}
+Sequence : WKFIVI
+{222}
+Sequence : HVILFANK
+{222}
+Sequence : YECHVALAIG
+{222}
+Sequence : DSTTM
+{222}

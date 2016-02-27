@@ -1,0 +1,84 @@
+Sequence : GLTGLSCVDFFLA
+{74}
+Sequence : PPGLDKL
+{74}
+Sequence : NDEWLMAA
+{74}
+Sequence : HPSLSAAADA
+{74}
+Sequence : GDIELFCR
+{74}
+Sequence : GKSTVTTLVGEMAKAA
+{74}
+Sequence : PALMLL
+{74}
+Sequence : SSFQLET
+{74}
+Sequence : HMDRY
+{74}
+Sequence : FGLQQYRAA
+{74}
+Sequence : LRIYE
+{74}
+Sequence : DALTM
+{74}
+Sequence : KEM
+{74}
+Sequence : GQHNYTNALAALALADAA
+{74}
+Sequence : PRASSLKALTTF
+{74}
+Sequence : NVGSTEAALN
+{74}
+Sequence : FSPLARYL
+{74}
+Sequence : DGAQLAA
+{74}
+Sequence : LRPE
+{74}
+Sequence : TMEQAMRLLA
+{74}
+Sequence : PRV
+{74}
+Sequence : NFEQRGNEFARLAKELG
+{74}
+Sequence : RHT
+{72, 73, 74}
+Sequence : RVMD
+{72, 73, 74}
+Sequence : VVII
+{72, 73, 74}
+Sequence : LIVA
+{72, 73, 74}
+Sequence : EIV
+{1, 2, 72, 73, 74}
+Sequence : VGVGG
+{72, 73, 74}
+Sequence : LYVLE
+{72, 73, 74}
+Sequence : IVAIT
+{74}
+Sequence : AATI
+{72, 73, 74}
+Sequence : VCVVN
+{72, 73, 74}
+Sequence : VSF
+{72, 74}
+Sequence : YHLN
+{72, 73, 74}
+Sequence : WLRV
+{72, 73, 74}
+Sequence : EKVLN
+{72, 73, 74}
+Sequence : EVVLEH
+{72, 73, 74}
+Sequence : VRWIN
+{72, 73, 74}
+Sequence : MVLL
+{72, 73, 74}
+Sequence : LHLLLG
+{72, 73, 74}
+Sequence : VRLYCF
+{72, 73, 74}
+Sequence : AEQ
+{72, 73, 585, 74}

@@ -1,0 +1,252 @@
+Sequence : TGPSSG
+{295, 296, 297}
+Sequence : EDLFYYLG
+{295, 296, 297}
+Sequence : DSSTIS
+{296}
+Sequence : TLQSFD
+{296}
+Sequence : TATQAQ
+{295, 296, 297}
+Sequence : GLDQNLVNG
+{295, 296, 297}
+Sequence : TGPSSG
+{295, 296, 297}
+Sequence : EDLFYYLG
+{295, 296, 297}
+Sequence : DSSTIS
+{296}
+Sequence : TLQSFD
+{296}
+Sequence : TATQAQ
+{295, 296, 297}
+Sequence : GLDQNLVNG
+{295, 296, 297}
+Sequence : TGPSSG
+{295, 296, 297}
+Sequence : EDLFYYLG
+{295, 296, 297}
+Sequence : DSSTIS
+{296}
+Sequence : TLQSFD
+{296}
+Sequence : TATQAQ
+{295, 296, 297}
+Sequence : GLDQNLVNG
+{295, 296, 297}
+Sequence : TGPSSG
+{295, 296, 297}
+Sequence : EDLFYYLG
+{295, 296, 297}
+Sequence : DSSTIS
+{296}
+Sequence : TLQSFD
+{296}
+Sequence : TATQAQ
+{295, 296, 297}
+Sequence : GLDQNLVNG
+{295, 296, 297}
+Sequence : YVI
+{295, 296, 297}
+Sequence : VAFI
+{295, 296, 297}
+Sequence : CAFQVQE
+{295, 296, 297}
+Sequence : SKVLFVSS
+{295, 296, 297}
+Sequence : YTLSTISM
+{295, 296, 297}
+Sequence : QIVAPFV
+{295, 296, 297}
+Sequence : KYLN
+{295, 296, 297}
+Sequence : EEW
+{295, 296, 297}
+Sequence : TN
+{295, 296, 297}
+Sequence : VTV
+{295, 296, 297, 569, 13, 14}
+Sequence : QLYRFYV
+{295, 296, 297}
+Sequence : TLMGTNA
+{295, 296, 297}
+Sequence : TEMTGVIV
+{295, 296, 297}
+Sequence : YENFYCNK
+{295, 296, 297}
+Sequence : YGSV
+{295, 296, 297}
+Sequence : YFI
+{295, 296, 297}
+Sequence : HI
+{295, 296, 297}
+Sequence : YA
+{295, 296, 297, 58}
+Sequence : THTFQI
+{295, 296, 297}
+Sequence : FQLWAQ
+{296}
+Sequence : QTRVL
+{295, 296}
+Sequence : TA
+{295, 296, 297}
+Sequence : TEL
+{295, 296, 297}
+Sequence : VVVQI
+{295, 296, 297}
+Sequence : FKYYS
+{295, 296, 297}
+Sequence : IV
+{485, 295, 519, 296, 520, 281, 297, 521, 522, 479}
+Sequence : YVI
+{295, 296, 297}
+Sequence : VAFI
+{295, 296, 297}
+Sequence : CAFQVQE
+{295, 296, 297}
+Sequence : SKVLFVSS
+{295, 296, 297}
+Sequence : YTLSTISM
+{295, 296, 297}
+Sequence : QIVAPFV
+{295, 296, 297}
+Sequence : KYLN
+{295, 296, 297}
+Sequence : EEW
+{295, 296, 297}
+Sequence : TN
+{295, 296, 297}
+Sequence : VTV
+{295, 296, 297, 569, 13, 14}
+Sequence : QLYRFYV
+{295, 296, 297}
+Sequence : TLMGTNA
+{295, 296, 297}
+Sequence : TEMTGVIV
+{295, 296, 297}
+Sequence : YENFYCNK
+{295, 296, 297}
+Sequence : YGSV
+{295, 296, 297}
+Sequence : YFI
+{295, 296, 297}
+Sequence : HI
+{295, 296, 297}
+Sequence : YA
+{295, 296, 297, 58}
+Sequence : THTFQI
+{295, 296, 297}
+Sequence : FQLWAQ
+{296}
+Sequence : QTRVL
+{295, 296}
+Sequence : TA
+{295, 296, 297}
+Sequence : TEL
+{295, 296, 297}
+Sequence : VVVQI
+{295, 296, 297}
+Sequence : FKYYS
+{295, 296, 297}
+Sequence : YVI
+{295, 296, 297}
+Sequence : VAFI
+{295, 296, 297}
+Sequence : CAFQVQE
+{295, 296, 297}
+Sequence : SKVLFVSS
+{295, 296, 297}
+Sequence : YTLSTISM
+{295, 296, 297}
+Sequence : QIVAPFV
+{295, 296, 297}
+Sequence : KYLN
+{295, 296, 297}
+Sequence : EEW
+{295, 296, 297}
+Sequence : TN
+{295, 296, 297}
+Sequence : VTV
+{295, 296, 297, 569, 13, 14}
+Sequence : QLYRFYV
+{295, 296, 297}
+Sequence : TLMGTNA
+{295, 296, 297}
+Sequence : TEMTGVIV
+{295, 296, 297}
+Sequence : YENFYCNK
+{295, 296, 297}
+Sequence : YGSV
+{295, 296, 297}
+Sequence : YFI
+{295, 296, 297}
+Sequence : HI
+{295, 296, 297}
+Sequence : YA
+{295, 296, 297, 58}
+Sequence : VTHTFQI
+{295, 296}
+Sequence : FQLWAQS
+{295, 296}
+Sequence : QTRVL
+{295, 296}
+Sequence : TA
+{295, 296, 297}
+Sequence : TEL
+{295, 296, 297}
+Sequence : VVVQI
+{295, 296, 297}
+Sequence : FKYYS
+{295, 296, 297}
+Sequence : IV
+{485, 295, 519, 296, 520, 281, 297, 521, 522, 479}
+Sequence : YVI
+{295, 296, 297}
+Sequence : VAFI
+{295, 296, 297}
+Sequence : CAFQVQE
+{295, 296, 297}
+Sequence : SKVLFVSS
+{295, 296, 297}
+Sequence : YTLSTISM
+{295, 296, 297}
+Sequence : QIVAPFV
+{295, 296, 297}
+Sequence : KYLN
+{295, 296, 297}
+Sequence : EEW
+{295, 296, 297}
+Sequence : TN
+{295, 296, 297}
+Sequence : VTV
+{295, 296, 297, 569, 13, 14}
+Sequence : QLYRFYV
+{295, 296, 297}
+Sequence : TLMGTNA
+{295, 296, 297}
+Sequence : TEMTGVIV
+{295, 296, 297}
+Sequence : YENFYCNK
+{295, 296, 297}
+Sequence : YGSV
+{295, 296, 297}
+Sequence : YFI
+{295, 296, 297}
+Sequence : HI
+{295, 296, 297}
+Sequence : YA
+{295, 296, 297, 58}
+Sequence : THTFQI
+{295, 296, 297}
+Sequence : FQLWAQ
+{296}
+Sequence : QTRVL
+{295, 296}
+Sequence : TA
+{295, 296, 297}
+Sequence : TEL
+{295, 296, 297}
+Sequence : VVVQI
+{295, 296, 297}
+Sequence : FKYYS
+{295, 296, 297}

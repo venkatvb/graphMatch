@@ -1,0 +1,30 @@
+Sequence : KKEISYFKRVTS
+{217}
+Sequence : FDS
+{217}
+Sequence : RKTWES
+{209, 217, 202, 203, 204}
+Sequence : LDHALELLYRT
+{217}
+Sequence : AQLYKAAM
+{217}
+Sequence : KEW
+{217}
+Sequence : HSDLESWV
+{217}
+Sequence : INE
+{217}
+Sequence : FDYEFEMWT
+{217}
+Sequence : LDRIMATII
+{217, 202, 207}
+Sequence : LTLIVALT
+{217, 202, 207}
+Sequence : IFVIG
+{217}
+Sequence : VVLMG
+{217}
+Sequence : INVVI
+{217, 202}
+Sequence : HSA
+{217, 202, 207}

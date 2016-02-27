@@ -1,0 +1,120 @@
+Sequence : RPRRLRK
+{578}
+Sequence : SPALRAMF
+{578}
+Sequence : SLN
+{578}
+Sequence : HLAREIERIANA
+{578}
+Sequence : GSDAWR
+{578}
+Sequence : GLVARMSRICKQTV
+{578}
+Sequence : DNDATLENLGKQAVVAAAAG
+{578}
+Sequence : GQVQAIRQALDAA
+{578}
+Sequence : YGPFREAAG
+{578}
+Sequence : NRREAIRESLLDEAQ
+{578}
+Sequence : YLDIVRELRE
+{578}
+Sequence : VSGEYAMIKFAALA
+{578}
+Sequence : DEEKVVLESLGSIKRA
+{578}
+Sequence : FALDLAEK
+{578}
+Sequence : RPRRLRK
+{578}
+Sequence : SPALRAMF
+{578}
+Sequence : SLN
+{578}
+Sequence : HLAREIERIANA
+{578}
+Sequence : GSDAWR
+{578}
+Sequence : GLVARMSRICKQTV
+{578}
+Sequence : DNDATLENLGKQAVVAAAA
+{578}
+Sequence : GQVQAIRQALDAA
+{578}
+Sequence : YGPFREAAG
+{578}
+Sequence : NRREAIRESLLDEAQ
+{578}
+Sequence : YLDIVRELRE
+{578}
+Sequence : VSGEYAMIKFAALA
+{578}
+Sequence : DEEKVVLESLGSIKRA
+{578}
+Sequence : FALDLAEK
+{578}
+Sequence : AI
+{512, 578, 250, 511}
+Sequence : FIAP
+{578}
+Sequence : IVMSDT
+{578}
+Sequence : SVMTFGI
+{578}
+Sequence : LVLPIFVE
+{578}
+Sequence : MRIP
+{578}
+Sequence : KA
+{578}
+Sequence : AI
+{512, 578, 250, 511}
+Sequence : FIAP
+{578}
+Sequence : IVMSDT
+{578}
+Sequence : SVMTFGI
+{578}
+Sequence : LVLPIFVE
+{578}
+Sequence : LIF
+{578}
+Sequence : IGAY
+{578}
+Sequence : LMVK
+{578}
+Sequence : TK
+{416, 417, 578, 421}
+Sequence : AI
+{512, 578, 250, 511}
+Sequence : FIAP
+{578}
+Sequence : IVMSDT
+{578}
+Sequence : SVMTFGI
+{578}
+Sequence : LVLPIFVE
+{578}
+Sequence : MRIP
+{578}
+Sequence : KA
+{578}
+Sequence : AI
+{512, 578, 250, 511}
+Sequence : FIAP
+{578}
+Sequence : IVMSDT
+{578}
+Sequence : SVMTFGI
+{578}
+Sequence : LVLPIFVE
+{578}
+Sequence : LIF
+{578}
+Sequence : IGAY
+{578}
+Sequence : LMVK
+{578}
+Sequence : TK
+{416, 417, 578, 421}

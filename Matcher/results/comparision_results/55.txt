@@ -1,0 +1,14 @@
+Sequence : VDSDTSIFQLKEV
+{55}
+Sequence : RNDWTV
+{55}
+Sequence : RFNSS
+{55}
+Sequence : PLGSMI
+{55}
+Sequence : CDLDQQS
+{55}
+Sequence : PADQ
+{55}
+Sequence : VI
+{496, 273, 69, 70, 55, 87, 89}

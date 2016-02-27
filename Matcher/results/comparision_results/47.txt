@@ -1,0 +1,60 @@
+Sequence : YTETVAYI
+{47}
+Sequence : RRILTLLHA
+{47}
+Sequence : PQQ
+{47}
+Sequence : KGSAANAIAHVLEA
+{47}
+Sequence : FNER
+{47}
+Sequence : DAALVNAVAFVRAALERLQQQ
+{47}
+Sequence : EFEFITALAYWYFRQ
+{47}
+Sequence : ITAIAKHKAGI
+{47}
+Sequence : PDAAAVVAAKVATT
+{47}
+Sequence : DYQQRNMAIAIQTAKVYAKQ
+{47}
+Sequence : PQNIRQGLA
+{47}
+Sequence : PDGINGLITALKQL
+{47}
+Sequence : MADRLTAA
+{47}
+Sequence : WQEALAASLND
+{47}
+Sequence : LYLASAVRQTL
+{47}
+Sequence : WLR
+{48, 49, 47}
+Sequence : PVVT
+{47}
+Sequence : VSVL
+{48, 49, 47}
+Sequence : YIHVT
+{48, 49, 47}
+Sequence : VAVIE
+{48, 49, 47}
+Sequence : VGLY
+{48, 49, 47}
+Sequence : IMI
+{48, 49, 47}
+Sequence : KAKL
+{47}
+Sequence : QRFT
+{47}
+Sequence : LEV
+{246, 47}
+Sequence : TVYL
+{48, 49, 47}
+Sequence : ITVIA
+{47}
+Sequence : PIVIT
+{47}
+Sequence : IVI
+{48, 47}
+Sequence : EKIS
+{48, 49, 47}

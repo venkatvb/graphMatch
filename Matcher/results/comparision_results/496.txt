@@ -1,0 +1,84 @@
+Sequence : RWVDIALECERY
+{496, 492}
+Sequence : PWWERYQ
+{496, 492}
+Sequence : NEDEFRNMVTRCNN
+{496}
+Sequence : NPGSR
+{496}
+Sequence : SGWDF
+{496}
+Sequence : DATQVRDC
+{496, 492}
+Sequence : KDYVRSKIAEYMNHLIDIG
+{496, 492}
+Sequence : ASKHM
+{496, 492}
+Sequence : WPGDIKAILD
+{496, 492}
+Sequence : KSSDYF
+{496, 492}
+Sequence : EFKYGAKLGTVIR
+{496, 492}
+Sequence : KWNGE
+{496}
+Sequence : KMSYLKNW
+{496, 492}
+Sequence : GEGWG
+{496, 492, 495}
+Sequence : PSD
+{496}
+Sequence : DNQRG
+{496, 492, 495}
+Sequence : TFW
+{496, 492}
+Sequence : DARLYKMAVGFMLAH
+{496, 492}
+Sequence : CEHR
+{496, 492, 495}
+Sequence : WRQIRNMVIFRNVV
+{496}
+Sequence : ESK
+{496}
+Sequence : SIVHL
+{496, 492}
+Sequence : GVQV
+{496, 492}
+Sequence : RIYVDA
+{496, 499, 491, 492, 493}
+Sequence : GFQL
+{496}
+Sequence : FIYQ
+{496, 499, 492}
+Sequence : RVT
+{496, 492}
+Sequence : ALV
+{496, 274, 277, 103, 492}
+Sequence : FTRVMS
+{496, 492}
+Sequence : SIVHL
+{496, 492}
+Sequence : HMCG
+{496, 492}
+Sequence : LLD
+{496, 492}
+Sequence : NN
+{496}
+Sequence : VI
+{496, 273, 69, 70, 55, 87, 89}
+Sequence : FTNWYD
+{496, 492}
+Sequence : QVAFGR
+{496, 491, 492}
+Sequence : GFIVFN
+{496, 491, 492}
+Sequence : FIAIH
+{496, 491, 492}
+Sequence : FSLTLQ
+{496, 492}
+Sequence : KAHFSI
+{496, 492}
+Sequence : GTYC
+{496, 499, 491, 492, 493}
+Sequence : KIYV
+{496, 492}

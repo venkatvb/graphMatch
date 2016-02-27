@@ -1,0 +1,66 @@
+Sequence : NYTETVAYIH
+{49}
+Sequence : HRRILTLLHAL
+{48, 49}
+Sequence : G
+{49, 263, 264}
+Sequence : NPQQQ
+{48, 49}
+Sequence : GKGSAANAIAHVLEAS
+{48, 49}
+Sequence : RFNE
+{48, 49}
+Sequence : PDAALVNAVAFVRAALERLQQQQ
+{48, 49}
+Sequence : TEFEFITALAYWYFRQR
+{48, 49}
+Sequence : HQKLLG
+{48, 49}
+Sequence : TITAIAKH
+{48, 49}
+Sequence : VPDAAAVVAAKVATTG
+{48, 49}
+Sequence : DYQQRNMAIAIQTAKVYAKQT
+{48, 49}
+Sequence : TPQNIRQGLAA
+{49}
+Sequence : NPDGINGLITALKQLF
+{48, 49}
+Sequence : DYAAMADRLTAAF
+{49}
+Sequence : SWQEALAASLNDV
+{48, 49}
+Sequence : SLYLASAVRQTLL
+{49}
+Sequence : EP
+{48, 49, 487, 521, 522, 333}
+Sequence : IMI
+{48, 49, 47}
+Sequence : VGLY
+{48, 49, 47}
+Sequence : VAVIE
+{48, 49, 47}
+Sequence : YIHVT
+{48, 49, 47}
+Sequence : VSVL
+{48, 49, 47}
+Sequence : VVT
+{48, 49, 219}
+Sequence : WLR
+{48, 49, 47}
+Sequence : FSVPKAKL
+{48, 49}
+Sequence : QRFTYED
+{48, 49}
+Sequence : GRISDLEV
+{48, 49}
+Sequence : EKIS
+{48, 49, 47}
+Sequence : IVID
+{49, 218}
+Sequence : IVITG
+{49}
+Sequence : TVIAG
+{49}
+Sequence : TVYL
+{48, 49, 47}

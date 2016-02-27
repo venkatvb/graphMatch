@@ -1,0 +1,8 @@
+Sequence : KGT
+{11}
+Sequence : CPKC
+{11}
+Sequence : QYGD
+{11}
+Sequence : CEVC
+{11}

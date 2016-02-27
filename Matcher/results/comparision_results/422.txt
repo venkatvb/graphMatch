@@ -1,0 +1,54 @@
+Sequence : DEAKELLSK
+{422}
+Sequence : KLIQQAYNEVKTSICS
+{422}
+Sequence : VPIKELCYTLLED
+{422, 407}
+Sequence : DILK
+{422}
+Sequence : ISSAHRSMNKLLLGLK
+{422, 407}
+Sequence : KQLAYY
+{422}
+Sequence : FEELEPYFELT
+{422, 407}
+Sequence : DEAKELLSK
+{422}
+Sequence : KLIQQAYNEVKTSICS
+{422}
+Sequence : VPIKELCYTLLED
+{422, 407}
+Sequence : DILK
+{422}
+Sequence : ISSAHRSMNKLLLGLK
+{422, 407}
+Sequence : KQLAYY
+{422}
+Sequence : FEELEPYFELT
+{422, 407}
+Sequence : GSDG
+{422}
+Sequence : TIN
+{422, 407, 489, 415, 495}
+Sequence : AYN
+{422, 407, 415}
+Sequence : VYKEFIE
+{422, 407}
+Sequence : ELKRVGMEFE
+{422}
+Sequence : LAIILMP
+{422, 415}
+Sequence : FIFIGFN
+{422, 407, 415}
+Sequence : EVEKEFI
+{422, 407, 415}
+Sequence : VYKEFIE
+{422, 407}
+Sequence : ELKRVGMEFE
+{422}
+Sequence : LAIILMP
+{422, 415}
+Sequence : FIFIGFN
+{422, 407, 415}
+Sequence : EVEKEFI
+{422, 407, 415}

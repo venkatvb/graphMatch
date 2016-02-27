@@ -1,0 +1,84 @@
+Sequence : SPELKKLI
+{366}
+Sequence : DSRYK
+{365, 366}
+Sequence : DVEREKDMMLWL
+{365, 366}
+Sequence : CSEEY
+{365, 366}
+Sequence : SPEKIIELYAECIRLFH
+{366}
+Sequence : SLDSRLAELDYLLNN
+{365, 366}
+Sequence : DCENWE
+{365, 366}
+Sequence : DPRELYDFLKTE
+{365, 366}
+Sequence : KWYDIAFCVRSIREDI
+{365, 366}
+Sequence : EQYVELFFDLLG
+{365, 366}
+Sequence : DWEKIKYYILLD
+{366}
+Sequence : ELF
+{366}
+Sequence : SPELKKLIE
+{365, 366}
+Sequence : DSRYK
+{365, 366}
+Sequence : DVEREKDMMLWL
+{365, 366}
+Sequence : CSEEYE
+{366}
+Sequence : SPEKIIELYAECIRLFHSI
+{365, 366}
+Sequence : SLDSRLAELDYLLNN
+{365, 366}
+Sequence : DPRELYDFLKTE
+{365, 366}
+Sequence : KWYDIAFCVRSIREDI
+{365, 366}
+Sequence : EQYVELFFDLLG
+{365, 366}
+Sequence : DWEKIKYYILLD
+{366}
+Sequence : RCVK
+{365, 366}
+Sequence : KVYKLV
+{365, 366}
+Sequence : NLYLKMT
+{365, 366}
+Sequence : WSNLLMS
+{365, 366}
+Sequence : VLHFERH
+{365, 366}
+Sequence : VL
+{419, 420, 365, 366}
+Sequence : IFV
+{366}
+Sequence : VSGF
+{366}
+Sequence : LVFS
+{365, 366}
+Sequence : GRAD
+{365, 366}
+Sequence : RCVK
+{365, 366}
+Sequence : KVYKLV
+{365, 366}
+Sequence : NLYLKMT
+{365, 366}
+Sequence : WSNLLMS
+{365, 366}
+Sequence : VLHFERH
+{365, 366}
+Sequence : VL
+{419, 420, 365, 366}
+Sequence : IFVK
+{365, 366}
+Sequence : KVSGF
+{365, 366}
+Sequence : LVFS
+{365, 366}
+Sequence : GRAD
+{365, 366}

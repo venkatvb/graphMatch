@@ -1,0 +1,42 @@
+Sequence : KEDLLASGR
+{584}
+Sequence : WFFGC
+{584}
+Sequence : GCLGLDAMWQLVGFYLGW
+{584}
+Sequence : TSA
+{584}
+Sequence : KEDLLASGR
+{584}
+Sequence : WFFGC
+{584}
+Sequence : GCLGLDAMWQLVGFYLGW
+{584}
+Sequence : ESYTK
+{584}
+Sequence : DRVVKMT
+{584}
+Sequence : GYVEAELDI
+{584}
+Sequence : KKVTYRIHFKRIVNR
+{584}
+Sequence : LIMGLADGEVLVD
+{584}
+Sequence : RLIYTASDLKVGLF
+{584}
+Sequence : KGRALGVGEVKFT
+{584}
+Sequence : KGRALGVGEVKFT
+{584}
+Sequence : RLIYTASDLKVGLF
+{584}
+Sequence : LIMGLADGEVLVD
+{584}
+Sequence : KKVTYRIHFKRIVNR
+{584}
+Sequence : GYVEAELDI
+{584}
+Sequence : DRVVKMT
+{584}
+Sequence : ESYTK
+{584}

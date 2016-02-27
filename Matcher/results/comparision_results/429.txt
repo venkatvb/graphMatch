@@ -1,0 +1,56 @@
+Sequence : REEELKK
+{429}
+Sequence : TKNKRAYLKKLLENLG
+{429}
+Sequence : EAEEINQLX
+{429}
+Sequence : NLNDIEINAFSKVAKNLIEKL
+{429}
+Sequence : NTKKFEDSFKDKIEDIIK
+{429}
+Sequence : KADAK
+{429}
+Sequence : YPVVSAASIIAKAERDEIIDYYKKIY
+{429}
+Sequence : DPKTIKFLEDYFKKHK
+{429}
+Sequence : WKTCKRILDKS
+{429}
+Sequence : REEELKKL
+{429}
+Sequence : TKNKRAYLKKLLENLG
+{429}
+Sequence : EAEEINQLX
+{429}
+Sequence : NLNDIEINAFSKVAKNLIEKL
+{429}
+Sequence : NTKKFEDSFKDKIEDIIKER
+{429}
+Sequence : KADAK
+{429}
+Sequence : YPVVSAASIIAKAERDEIIDYYKKIYG
+{429}
+Sequence : DPKTIKFLEDYFKKHK
+{429}
+Sequence : WKTCKRILDKSK
+{429}
+Sequence : YVEKRIL
+{429}
+Sequence : XVVCAFAIE
+{429}
+Sequence : IIIGIDEA
+{429}
+Sequence : EIEIYID
+{429}
+Sequence : NIKIIAE
+{429}
+Sequence : YVEKRIL
+{429}
+Sequence : XVVCAFAIE
+{429}
+Sequence : IIIGIDEA
+{429}
+Sequence : DEIEIYID
+{429}
+Sequence : LNIKIIAE
+{429}

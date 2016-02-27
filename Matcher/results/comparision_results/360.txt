@@ -1,0 +1,52 @@
+Sequence : KTTVGRELARAL
+{360}
+Sequence : TDIFMQHTS
+{360}
+Sequence : VADVVAAEGWPGFRRRESEALQAV
+{360}
+Sequence : MVL
+{360}
+Sequence : EQNRQFMRAH
+{360}
+Sequence : AEELAL
+{360}
+Sequence : AEEMEAVLREREALYQDV
+{360}
+Sequence : PAAIVCELMQT
+{360}
+Sequence : KTTVGRELARAL
+{360}
+Sequence : TDIFMQHTS
+{360}
+Sequence : VADVVAAEGWPGFRRRESEALQAV
+{360}
+Sequence : GGMVL
+{360}
+Sequence : EQNRQFMRAH
+{360}
+Sequence : AEELAL
+{360}
+Sequence : IAEEMEAVLREREALYQDV
+{360}
+Sequence : PAAIVCELMQTM
+{360}
+Sequence : EFVD
+{358, 360}
+Sequence : RVVA
+{358, 360}
+Sequence : PIFMV
+{358, 360}
+Sequence : GTVVYLF
+{358, 360}
+Sequence : YVVD
+{358, 360}
+Sequence : EFVD
+{358, 360}
+Sequence : RVVA
+{358, 360}
+Sequence : PIFMV
+{358, 360}
+Sequence : GTVVYLF
+{358, 360}
+Sequence : YVVD
+{358, 360}

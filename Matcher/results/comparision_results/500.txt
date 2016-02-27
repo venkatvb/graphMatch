@@ -1,0 +1,86 @@
+Sequence : QHWNRLHDDAAALSDAG
+{500}
+Sequence : TKAQLERAIGSLKSN
+{500}
+Sequence : FSGRN
+{500}
+Sequence : RWF
+{500}
+Sequence : HPEVQDELKDWGSWFTDELD
+{500}
+Sequence : AIKHI
+{500}
+Sequence : PFWYTSDWVRHQRNEA
+{500}
+Sequence : DVGALEFYLDEM
+{500}
+Sequence : DVPLNYNFYRASQQG
+{500}
+Sequence : DMRNI
+{500}
+Sequence : SLVEAH
+{500}
+Sequence : FKPLAYATILT
+{500}
+Sequence : YGDYYG
+{500}
+Sequence : IPNDN
+{500}
+Sequence : KKDMIDELLDARQNY
+{500}
+Sequence : GRQNA
+{500, 494}
+Sequence : AV
+{416, 417, 500}
+Sequence : SLF
+{500}
+Sequence : FVVG
+{500}
+Sequence : GYRL
+{500}
+Sequence : NVYGDV
+{500, 490}
+Sequence : AIWI
+{500}
+Sequence : MMQ
+{500}
+Sequence : NVF
+{500}
+Sequence : KG
+{401, 497, 498, 500}
+Sequence : AYD
+{500}
+Sequence : YTIDAWTG
+{500}
+Sequence : FTEAVQAVQVN
+{500}
+Sequence : NRWQD
+{500}
+Sequence : YTIDAWTG
+{500}
+Sequence : FTEAVQAVQVN
+{500}
+Sequence : ENHIFRF
+{500}
+Sequence : FNGVDWD
+{500}
+Sequence : SNI
+{500}
+Sequence : HK
+{500}
+Sequence : QHDY
+{500, 494}
+Sequence : VVGWTR
+{500}
+Sequence : LATIMS
+{500}
+Sequence : SVSVYV
+{500}
+Sequence : TWTD
+{500}
+Sequence : SVT
+{500}
+Sequence : GSKWMY
+{500}
+Sequence : WGEFFT
+{500}

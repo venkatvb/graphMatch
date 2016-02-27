@@ -1,0 +1,74 @@
+Sequence : TPEEALALLKR
+{1, 2}
+Sequence : PEEELLAKLKE
+{1, 2}
+Sequence : HLGHAVVLRKMRQFQE
+{1, 2}
+Sequence : FTGMIG
+{1, 2}
+Sequence : TLEETRENAKTYVAQAG
+{1, 2}
+Sequence : NSEWLE
+{1, 2}
+Sequence : TFKEVVRLT
+{1, 2}
+Sequence : SLM
+{1, 2}
+Sequence : TVAQML
+{1, 2}
+Sequence : REDFKKRYEA
+{1, 2}
+Sequence : SLHEL
+{1, 2}
+Sequence : LYPFAQAYDSVAI
+{1, 2}
+Sequence : QRFNLLVGREVQRAY
+{1, 2}
+Sequence : PPEAMFKKLM
+{1, 2}
+Sequence : PDP
+{1, 2}
+Sequence : LLPSYFRLLT
+{1, 2}
+Sequence : EEEEIEALLKAG
+{1, 2}
+Sequence : GPVPAHRVLARLLTAAY
+{1, 2}
+Sequence : DRAFYESL
+{1, 2}
+Sequence : AWEAF
+{1, 2}
+Sequence : EVRRAEARYDEVAKG
+{1, 2}
+Sequence : PASEL
+{1, 2}
+Sequence : VARLFTLA
+{1, 2}
+Sequence : SNAEARRLIQN
+{1, 2}
+Sequence : EIV
+{1, 2, 72, 73, 74}
+Sequence : VCFLM
+{1, 2}
+Sequence : VEMGG
+{1, 2}
+Sequence : TVKLGA
+{1, 2}
+Sequence : KVVLII
+{1, 2}
+Sequence : FELRY
+{1, 2}
+Sequence : EVTI
+{1, 2}
+Sequence : RFVRVRL
+{1, 2}
+Sequence : RILQR
+{1, 2}
+Sequence : LRL
+{1, 2}
+Sequence : EV
+{1, 2, 35}
+Sequence : IW
+{1, 2, 502}
+Sequence : QV
+{1, 2, 94}

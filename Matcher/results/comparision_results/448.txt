@@ -1,0 +1,78 @@
+Sequence : DGVADYLQTYHKL
+{448}
+Sequence : SEAQALGWV
+{448}
+Sequence : ADVAPG
+{448}
+Sequence : DGVADYLQTYHKL
+{448}
+Sequence : SEAQALGWV
+{448}
+Sequence : ADVAPG
+{448}
+Sequence : DGVADYLQTYHKL
+{448}
+Sequence : SEAQALGWV
+{448}
+Sequence : ADVAPG
+{448}
+Sequence : GGDIFS
+{448}
+Sequence : READINY
+{448}
+Sequence : RILYSSD
+{448}
+Sequence : IYKTTD
+{448}
+Sequence : KIR
+{448}
+Sequence : GGDIFS
+{448}
+Sequence : READINY
+{448}
+Sequence : RILYSSD
+{448}
+Sequence : IYKTTD
+{448}
+Sequence : KIR
+{448}
+Sequence : GGDIFS
+{448}
+Sequence : READINY
+{448}
+Sequence : RILYSSD
+{448}
+Sequence : IYKTTD
+{448}
+Sequence : KIR
+{448}
+Sequence : NYIT
+{448}
+Sequence : GKSI
+{448}
+Sequence : EGKL
+{448}
+Sequence : GRTW
+{448}
+Sequence : DWLI
+{448}
+Sequence : NYIT
+{448}
+Sequence : GKSI
+{448}
+Sequence : EGKL
+{448}
+Sequence : GRTW
+{448}
+Sequence : DWLI
+{448}
+Sequence : NYIT
+{448}
+Sequence : GKSI
+{448}
+Sequence : EGKL
+{448}
+Sequence : GRTW
+{448}
+Sequence : DWLI
+{448}

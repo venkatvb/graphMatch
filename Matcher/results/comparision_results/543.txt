@@ -1,0 +1,84 @@
+Sequence : PEHWHK
+{543}
+Sequence : PIAK
+{543}
+Sequence : TKYG
+{543}
+Sequence : GKAV
+{543}
+Sequence : GLQ
+{543}
+Sequence : KVVDVL
+{543}
+Sequence : DSIK
+{543}
+Sequence : RGLL
+{543}
+Sequence : EQVLKFR
+{543}
+Sequence : KY
+{561, 548, 549, 550, 551, 552, 543}
+Sequence : AS
+{289, 561, 562, 548, 549, 550, 551, 552, 510, 543}
+Sequence : WTYPGS
+{561, 562, 548, 549, 550, 551, 543}
+Sequence : TWIVLK
+{561, 562, 548, 549, 550, 551, 543}
+Sequence : AVLGIFLKVGS
+{552, 543}
+Sequence : AELHLVHWN
+{561, 548, 549, 550, 551, 552, 543}
+Sequence : YRLIQFHFHW
+{561, 552, 543}
+Sequence : FNVEF
+{561, 548, 549, 550, 551, 552, 543}
+Sequence : SLRILN
+{561, 548, 549, 550, 551, 552, 543}
+Sequence : ADF
+{561, 562, 548, 549, 550, 543}
+Sequence : SVSS
+{552, 543}
+Sequence : AVLGIFLKVGS
+{552, 543}
+Sequence : AELHLVHWN
+{561, 548, 549, 550, 551, 552, 543}
+Sequence : YRLIQFHFHW
+{561, 552, 543}
+Sequence : FNVEF
+{561, 548, 549, 550, 551, 552, 543}
+Sequence : SLRILN
+{561, 548, 549, 550, 551, 552, 543}
+Sequence : ADF
+{561, 562, 548, 549, 550, 543}
+Sequence : LSVS
+{561, 548, 549, 550, 552, 543}
+Sequence : VLKG
+{544, 545, 561, 546, 548, 549, 550, 552, 553, 543}
+Sequence : DI
+{192, 193, 561, 548, 549, 550, 551, 552, 543}
+Sequence : TV
+{417, 548, 69, 421, 549, 70, 550, 551, 552, 394, 236, 561, 315, 316, 543}
+Sequence : GKHN
+{543}
+Sequence : DTHT
+{543}
+Sequence : DPSL
+{543}
+Sequence : YDQA
+{543}
+Sequence : GGPL
+{543}
+Sequence : LDGQ
+{543}
+Sequence : VDKK
+{543}
+Sequence : PDGL
+{543}
+Sequence : KGK
+{543}
+Sequence : PPLL
+{543}
+Sequence : EGEP
+{543}
+Sequence : KNRQ
+{543}

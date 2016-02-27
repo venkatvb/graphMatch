@@ -1,0 +1,78 @@
+Sequence : NFQQAIQ
+{247}
+Sequence : CGPCRMMAPVLEEFAEAH
+{247}
+Sequence : NPETTSQF
+{247}
+Sequence : PKEQLEAQL
+{247}
+Sequence : NFQQAI
+{247}
+Sequence : CGPCRMMAPVLEEFAEAHA
+{247}
+Sequence : NPETTSQF
+{247}
+Sequence : PKEQLEAQL
+{247}
+Sequence : LADVLQ
+{247}
+Sequence : NFQQAIQ
+{247}
+Sequence : CGPCRMMAPVLEEFAEA
+{247}
+Sequence : NPETTSQF
+{247}
+Sequence : PKEQLEAQLA
+{247}
+Sequence : DVL
+{247}
+Sequence : NFQQAI
+{247}
+Sequence : CGPCRMMAPVLEEFAEAH
+{247}
+Sequence : NPETTSQF
+{247}
+Sequence : PKEQLEAQL
+{247}
+Sequence : LADVLQ
+{247}
+Sequence : MT
+{247}
+Sequence : TVAKLN
+{247}
+Sequence : VLVDFW
+{247}
+Sequence : TLILFK
+{247}
+Sequence : RPVKQLI
+{247}
+Sequence : MTL
+{247}
+Sequence : TVAKLN
+{247}
+Sequence : VLVDFW
+{247}
+Sequence : TLILFK
+{247}
+Sequence : RPVKQLI
+{247}
+Sequence : MTL
+{247}
+Sequence : TVAKLN
+{247}
+Sequence : VLVDFW
+{247}
+Sequence : TLILFK
+{247}
+Sequence : RPVKQLI
+{247}
+Sequence : MTL
+{247}
+Sequence : TVAKLN
+{247}
+Sequence : VLVDFW
+{247}
+Sequence : TLILFK
+{247}
+Sequence : RPVKQLI
+{247}

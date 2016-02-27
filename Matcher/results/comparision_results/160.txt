@@ -1,0 +1,44 @@
+Sequence : PRTCENFRALCTGE
+{160}
+Sequence : PWLDG
+{160}
+Sequence : MNVVREMEKE
+{160}
+Sequence : PRTCENFRALCTGE
+{160}
+Sequence : PWLDG
+{160}
+Sequence : MNVVREMEKE
+{160}
+Sequence : IIP
+{160}
+Sequence : CQGG
+{160, 164}
+Sequence : LITL
+{160}
+Sequence : LSMA
+{160, 164}
+Sequence : FGKVIEG
+{160}
+Sequence : NAGRIIFELF
+{160}
+Sequence : KVFFDISID
+{160}
+Sequence : VITDCGEW
+{160}
+Sequence : VITDCGEW
+{160}
+Sequence : KVFFDISID
+{160}
+Sequence : NAGRIIFELF
+{160}
+Sequence : FGKVIEG
+{160}
+Sequence : LSMA
+{160, 164}
+Sequence : LITL
+{160}
+Sequence : CQGG
+{160, 164}
+Sequence : HRIIP
+{160, 164}

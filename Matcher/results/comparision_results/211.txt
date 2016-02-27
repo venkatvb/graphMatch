@@ -1,0 +1,48 @@
+Sequence : PLRNEFRYFQRMTT
+{210, 211}
+Sequence : GKKTWFS
+{211, 201}
+Sequence : IPEKN
+{210, 211}
+Sequence : RSLDDALKL
+{211}
+Sequence : EQPELA
+{211}
+Sequence : GGSSVYKEAM
+{211}
+Sequence : HFL
+{210, 211}
+Sequence : GRINLV
+{211}
+Sequence : KQNLVIM
+{210, 211}
+Sequence : KVDMVW
+{210, 211}
+Sequence : SLNCIVAV
+{211}
+Sequence : HLKLFVTR
+{211}
+Sequence : GIKYKFEVY
+{211}
+Sequence : YK
+{210, 211, 454, 455, 456}
+Sequence : HFL
+{210, 211}
+Sequence : GRINLV
+{211}
+Sequence : KQNLVIM
+{210, 211}
+Sequence : KVDMVW
+{210, 211}
+Sequence : SLNCIVAV
+{211}
+Sequence : HLKLFVTR
+{211}
+Sequence : GIKYKFEVY
+{211}
+Sequence : VQE
+{210, 211}
+Sequence : MGI
+{210, 211}
+Sequence : DT
+{210, 211, 135}

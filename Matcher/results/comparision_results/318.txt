@@ -1,0 +1,54 @@
+Sequence : GEHAVV
+{318}
+Sequence : LNEIK
+{318}
+Sequence : NINPNNF
+{318}
+Sequence : GDFKYCLCAIKNTLDY
+{318}
+Sequence : GLGSSASITIGTIKAVSG
+{318}
+Sequence : ELKDDEIAKLGYMVEKEI
+{318}
+Sequence : ASITDTSTIT
+{318}
+Sequence : KIKGEFEEFL
+{318}
+Sequence : KKKTAELVNEV
+{318}
+Sequence : IENKDEIFKEIDKVIDEA
+{318}
+Sequence : IKNKEDFGKLMTKNHEL
+{318}
+Sequence : LKK
+{318}
+Sequence : ISTPKLDRIVDIGNR
+{318}
+Sequence : EEKEKELLKEL
+{318}
+Sequence : MSLIIETPSKVI
+{318}
+Sequence : GYRAISMAIDLTSTIEI
+{318}
+Sequence : TGFKINI
+{318}
+Sequence : EDEIIL
+{318}
+Sequence : LNKSLG
+{318}
+Sequence : MSLIIETPSKVI
+{318}
+Sequence : GYRAISMAIDLTSTIEI
+{318}
+Sequence : KGILE
+{318}
+Sequence : NNKF
+{318}
+Sequence : GFGAK
+{318}
+Sequence : GGGCVI
+{318}
+Sequence : CKFLIVY
+{318}
+Sequence : DVRIF
+{318}

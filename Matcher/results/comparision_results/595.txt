@@ -1,0 +1,88 @@
+Sequence : TCVYEWADSYDSKDWDRLRK
+{595, 596, 597, 598}
+Sequence : APTLR
+{595, 596, 597, 598}
+Sequence : SSKQVLGD
+{595, 596, 597, 598}
+Sequence : DK
+{595, 596, 597, 598}
+Sequence : TCVYEWADSYDSKDWDRLRK
+{595, 596, 597, 598}
+Sequence : APTLR
+{595, 596, 597, 598}
+Sequence : SSKQVLGD
+{595, 596, 597, 598}
+Sequence : RETF
+{595, 596, 597, 598}
+Sequence : DK
+{595, 596, 597, 598}
+Sequence : TCVYEWADSYDSKDWDRLRK
+{595, 596, 597, 598}
+Sequence : APTLR
+{595, 596, 597, 598}
+Sequence : SSKQVLGD
+{595, 596, 597, 598}
+Sequence : RETF
+{595, 596, 597, 598}
+Sequence : DK
+{595, 596, 597, 598}
+Sequence : EEF
+{595, 596, 597, 598}
+Sequence : DKLW
+{595, 596, 597, 598}
+Sequence : GEFDFDRIFED
+{595, 596, 597}
+Sequence : SANLHWYKKIDGVWKF
+{595, 596}
+Sequence : RVPHQRYKDTTMKEV
+{595, 596, 597}
+Sequence : GTRWEKV
+{595, 596, 597, 598}
+Sequence : DEVIG
+{595, 597}
+Sequence : VPHQR
+{595, 597}
+Sequence : KFA
+{595}
+Sequence : DIR
+{595}
+Sequence : GTRWEKV
+{595, 596, 597, 598}
+Sequence : RVPHQRYKDTTMKE
+{595, 597, 598}
+Sequence : YKKIDGVWKFAG
+{595, 597, 598}
+Sequence : PDIR
+{595, 596, 597, 598}
+Sequence : DEVIG
+{595, 597}
+Sequence : VPHQR
+{595, 597}
+Sequence : KEV
+{595, 597, 598}
+Sequence : SANL
+{595, 597, 598}
+Sequence : HWYKKIDGV
+{595, 597, 598}
+Sequence : EFDFDRIFED
+{595, 597, 598}
+Sequence : EEF
+{595, 596, 597, 598}
+Sequence : DKLW
+{595, 596, 597, 598}
+Sequence : GEFDFDRIFED
+{595, 596, 597}
+Sequence : SANLHWYKKIDGVWKF
+{595, 596}
+Sequence : RVPHQRYKDTTMKEV
+{595, 596, 597}
+Sequence : GTRWEKV
+{595, 596, 597, 598}
+Sequence : DEVIG
+{595, 597}
+Sequence : VPHQR
+{595, 597}
+Sequence : KFA
+{595}
+Sequence : DIR
+{595}

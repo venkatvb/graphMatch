@@ -1,0 +1,50 @@
+Sequence : LKKEISYFKRVTSF
+{202, 207}
+Sequence : TFDSF
+{202}
+Sequence : RKTWES
+{209, 217, 202, 203, 204}
+Sequence : SLDHALELLYRTY
+{202, 207}
+Sequence : GAQLYKAAMDH
+{202, 207}
+Sequence : DKEWS
+{202, 207}
+Sequence : KHSDLESWVG
+{202, 207}
+Sequence : HSA
+{217, 202, 207}
+Sequence : INVVI
+{217, 202}
+Sequence : SMNVVLMG
+{202}
+Sequence : QINRIFVIG
+{202}
+Sequence : LTLIVALT
+{217, 202, 207}
+Sequence : LDRIMATII
+{217, 202, 207}
+Sequence : DYEFEMWT
+{202}
+Sequence : KK
+{202, 12, 188}
+Sequence : HSA
+{217, 202, 207}
+Sequence : INVVI
+{217, 202}
+Sequence : SMNVVLMG
+{202}
+Sequence : QINRIFVIG
+{202}
+Sequence : LTLIVALT
+{217, 202, 207}
+Sequence : LDRIMATII
+{217, 202, 207}
+Sequence : DYEFEMWT
+{202}
+Sequence : IN
+{202, 207}
+Sequence : GIG
+{208, 209, 212, 202, 203, 204, 207}
+Sequence : VF
+{194, 195, 152, 202, 219, 207}

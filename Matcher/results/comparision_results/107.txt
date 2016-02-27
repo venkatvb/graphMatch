@@ -1,0 +1,78 @@
+Sequence : KEKML
+{107, 108}
+Sequence : PESFFA
+{107, 108}
+Sequence : ALELKPKY
+{107, 108}
+Sequence : SEADEN
+{107, 108}
+Sequence : FLKDV
+{107, 108}
+Sequence : RKEDL
+{107}
+Sequence : KEKML
+{107, 108}
+Sequence : PLG
+{107, 108}
+Sequence : PESFFA
+{107, 108}
+Sequence : ALELKPKY
+{107, 108}
+Sequence : NLEEA
+{107}
+Sequence : SEADEN
+{107, 108}
+Sequence : FLKDV
+{107, 108}
+Sequence : AARP
+{107, 108}
+Sequence : LEFD
+{107, 108}
+Sequence : KSIFV
+{107, 108}
+Sequence : KYISV
+{107, 108}
+Sequence : FVAYSYLV
+{107, 108}
+Sequence : QNNVSFSR
+{107, 108}
+Sequence : GWFKENFQ
+{107, 108}
+Sequence : VHGD
+{107, 108}
+Sequence : VHGD
+{107, 108}
+Sequence : GWFKENFQ
+{107, 108}
+Sequence : QNNVSFSR
+{107, 108}
+Sequence : FVAYSYLV
+{107, 108}
+Sequence : KYISV
+{107, 108}
+Sequence : KSIFV
+{107, 108}
+Sequence : LEFD
+{107, 108}
+Sequence : AARP
+{107, 108}
+Sequence : TYQTVI
+{107, 108}
+Sequence : VLGTWVD
+{107, 108}
+Sequence : VANGFQV
+{107, 108}
+Sequence : LRGLHA
+{107, 108}
+Sequence : AF
+{289, 107, 108}
+Sequence : TYQTVI
+{107, 108}
+Sequence : VLGTWVD
+{107, 108}
+Sequence : VANGFQV
+{107, 108}
+Sequence : LRGLHA
+{107, 108}
+Sequence : AF
+{289, 107, 108}

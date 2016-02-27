@@ -1,0 +1,124 @@
+Sequence : DLAKSREFYV
+{291, 292}
+Sequence : SPAEVDAAEAYYKEL
+{291, 292}
+Sequence : DVPRGRAYLEDL
+{291, 292}
+Sequence : EKHNIIQICDKMGAL
+{291, 292, 293, 294}
+Sequence : ISD
+{291, 292, 293, 294}
+Sequence : DNQRR
+{291, 293}
+Sequence : VPSWYTE
+{291, 292, 293, 294}
+Sequence : DLAKSREFYV
+{291, 292}
+Sequence : PAEVDAAEAYYKEL
+{291}
+Sequence : DVPRGRAYLEDL
+{291, 292}
+Sequence : EKHNIIQICDKMGAL
+{291, 292, 293, 294}
+Sequence : ISD
+{291, 292, 293, 294}
+Sequence : DNQRR
+{291, 293}
+Sequence : PSWYTE
+{291, 293}
+Sequence : HVTEE
+{291, 292}
+Sequence : TIYLR
+{291, 292}
+Sequence : LVLRQ
+{291, 292}
+Sequence : IVRCAYMEIVV
+{291, 292}
+Sequence : AVAAFAYRV
+{291, 292}
+Sequence : PYEFF
+{291, 292, 293, 294}
+Sequence : SVRVE
+{291, 292}
+Sequence : TERR
+{291, 292, 293, 294}
+Sequence : ITWD
+{291, 292}
+Sequence : RVSEDIK
+{291, 292}
+Sequence : TYAAWMH
+{291, 292, 293, 294}
+Sequence : TALTG
+{291, 292, 293, 294}
+Sequence : RLDHFNQVT
+{291, 292, 293, 294}
+Sequence : RMHHVAFA
+{291, 292}
+Sequence : RIEIYT
+{291, 292, 293, 294}
+Sequence : FYLYIL
+{291, 292, 293, 294}
+Sequence : IERGPGR
+{291, 292, 293, 294}
+Sequence : ITWD
+{291, 292}
+Sequence : RVSEDIK
+{291, 292}
+Sequence : TYAAWMH
+{291, 292, 293, 294}
+Sequence : TALTG
+{291, 292, 293, 294}
+Sequence : RLDHFNQVT
+{291, 292, 293, 294}
+Sequence : RMHHVAFA
+{291, 292}
+Sequence : SL
+{291, 292}
+Sequence : HVTEE
+{291, 292}
+Sequence : TIYLR
+{291, 292}
+Sequence : LVLRQ
+{291, 292}
+Sequence : IVRCAYMEIVV
+{291, 292}
+Sequence : AVAAFAYRV
+{291, 292}
+Sequence : PYEFF
+{291, 292, 293, 294}
+Sequence : SVRVE
+{291, 292}
+Sequence : TERR
+{291, 292, 293, 294}
+Sequence : ITWD
+{291, 292}
+Sequence : RVSEDIK
+{291, 292}
+Sequence : TYAAWMH
+{291, 292, 293, 294}
+Sequence : TALTG
+{291, 292, 293, 294}
+Sequence : RLDHFNQVT
+{291, 292, 293, 294}
+Sequence : RMHHVAFA
+{291, 292}
+Sequence : RIEIYT
+{291, 292, 293, 294}
+Sequence : FYLYIL
+{291, 292, 293, 294}
+Sequence : IERGPGR
+{291, 292, 293, 294}
+Sequence : ITWD
+{291, 292}
+Sequence : RVSEDIK
+{291, 292}
+Sequence : TYAAWMH
+{291, 292, 293, 294}
+Sequence : TALTG
+{291, 292, 293, 294}
+Sequence : RLDHFNQVT
+{291, 292, 293, 294}
+Sequence : RMHHVAFA
+{291, 292}
+Sequence : SL
+{291, 292}

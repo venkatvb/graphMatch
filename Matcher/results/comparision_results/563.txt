@@ -1,0 +1,96 @@
+Sequence : IED
+{563, 357, 280}
+Sequence : SQAEAD
+{563}
+Sequence : YAYSHTNEAVVYVNVHLAEGYK
+{563}
+Sequence : IED
+{563, 357, 280}
+Sequence : SQAEAD
+{563}
+Sequence : YAYSHTNEAVVYVNVHLAEGYK
+{563}
+Sequence : IED
+{563, 357, 280}
+Sequence : SQAEAD
+{563}
+Sequence : YAYSHTNEAVVYVNVHLAEGY
+{563}
+Sequence : ASVI
+{563}
+Sequence : ASIR
+{563}
+Sequence : EVT
+{563}
+Sequence : PIF
+{563}
+Sequence : AVY
+{563}
+Sequence : PAA
+{563}
+Sequence : KSK
+{563}
+Sequence : VVL
+{563, 68}
+Sequence : SQV
+{563}
+Sequence : AFV
+{256, 563}
+Sequence : SAA
+{563}
+Sequence : IVE
+{563, 411, 412, 413, 414}
+Sequence : GKE
+{563, 518}
+Sequence : ASVI
+{563}
+Sequence : ASIR
+{563}
+Sequence : EVT
+{563}
+Sequence : PIF
+{563}
+Sequence : AVY
+{563}
+Sequence : PAA
+{563}
+Sequence : KSK
+{563}
+Sequence : VVL
+{563, 68}
+Sequence : SQV
+{563}
+Sequence : AFV
+{256, 563}
+Sequence : SAA
+{563}
+Sequence : IVE
+{563, 411, 412, 413, 414}
+Sequence : GKE
+{563, 518}
+Sequence : ASVI
+{563}
+Sequence : ASIR
+{563}
+Sequence : EVT
+{563}
+Sequence : PIF
+{563}
+Sequence : AVY
+{563}
+Sequence : PAA
+{563}
+Sequence : KSK
+{563}
+Sequence : VVL
+{563, 68}
+Sequence : SQV
+{563}
+Sequence : AFV
+{256, 563}
+Sequence : SAA
+{563}
+Sequence : IVE
+{563, 411, 412, 413, 414}
+Sequence : GKE
+{563, 518}

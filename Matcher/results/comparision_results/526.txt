@@ -1,0 +1,116 @@
+Sequence : SAESILT
+{526}
+Sequence : KLE
+{526, 527}
+Sequence : HAVPMAKALVAG
+{526, 527}
+Sequence : CAVDAIRAIAKEV
+{526, 527}
+Sequence : NPQQLAEVTEAG
+{526}
+Sequence : TEPLLKAATEG
+{526, 527}
+Sequence : TVSELMLGMDY
+{526, 527}
+Sequence : PAEANG
+{526}
+Sequence : GGVKALQAIAG
+{526, 527}
+Sequence : NYRDYLA
+{526, 527}
+Sequence : PADALE
+{526}
+Sequence : DYDRITKLAREAVEG
+{526, 527}
+Sequence : SAESILTT
+{526, 527}
+Sequence : KLE
+{526, 527}
+Sequence : HAVPMAKALVAG
+{526, 527}
+Sequence : CAVDAIRAIAKEV
+{526, 527}
+Sequence : NPQQLAEVTEA
+{526, 527}
+Sequence : TEPLLKAATEG
+{526, 527}
+Sequence : TVSELMLGMDY
+{526, 527}
+Sequence : GGVKALQAIAG
+{526, 527}
+Sequence : NYRDYLA
+{526, 527}
+Sequence : PADALEA
+{526, 527}
+Sequence : DYDRITKLAREAVEGA
+{526}
+Sequence : SAESILTT
+{526, 527}
+Sequence : HAVPMAKALVAG
+{526, 527}
+Sequence : CAVDAIRAIAKEV
+{526, 527}
+Sequence : NPQQLAEVTEA
+{526, 527}
+Sequence : TEPLLKAATEG
+{526, 527}
+Sequence : TVSELMLGMDY
+{526, 527}
+Sequence : PAEANGG
+{526}
+Sequence : GGVKALQAIAG
+{526, 527}
+Sequence : NYRDYLA
+{526, 527}
+Sequence : PADALEA
+{526, 527}
+Sequence : DYDRITKLAREAVEGAK
+{526}
+Sequence : IVGAG
+{526, 527}
+Sequence : VLEVT
+{526, 527}
+Sequence : VVPVI
+{526, 527}
+Sequence : IGG
+{526, 527}
+Sequence : AIS
+{502, 503, 504, 526, 527}
+Sequence : LIPGI
+{526, 527}
+Sequence : EFKF
+{526}
+Sequence : RFCP
+{526, 527}
+Sequence : IVGAG
+{526, 527}
+Sequence : VLEVT
+{526, 527}
+Sequence : VVPVI
+{526, 527}
+Sequence : IGG
+{526, 527}
+Sequence : AIS
+{502, 503, 504, 526, 527}
+Sequence : LIPGI
+{526, 527}
+Sequence : EFKF
+{526}
+Sequence : RFCP
+{526, 527}
+Sequence : IVGAG
+{526, 527}
+Sequence : VLEVT
+{526, 527}
+Sequence : VVPVI
+{526, 527}
+Sequence : IGG
+{526, 527}
+Sequence : AIS
+{502, 503, 504, 526, 527}
+Sequence : LIPGI
+{526, 527}
+Sequence : EFKF
+{526}
+Sequence : RFCP
+{526, 527}

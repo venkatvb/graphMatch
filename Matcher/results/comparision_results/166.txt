@@ -1,0 +1,44 @@
+Sequence : TTASIEKLVQVF
+{166}
+Sequence : HIPLVQA
+{166}
+Sequence : SMPILK
+{166}
+Sequence : HSERRT
+{166}
+Sequence : TDEIVAQKVSEAC
+{166}
+Sequence : TLQQR
+{166}
+Sequence : QTAKVVLSQTSAIAA
+{166}
+Sequence : TKDAWN
+{166}
+Sequence : PVW
+{166}
+Sequence : TPEQAQEVHLLLRKWVSE
+{166}
+Sequence : GTDVAA
+{166}
+Sequence : NAATL
+{166}
+Sequence : GGAS
+{166}
+Sequence : KPEFRDIID
+{166}
+Sequence : NGFL
+{166, 172, 175}
+Sequence : QPIAAA
+{166}
+Sequence : DVQCVV
+{166}
+Sequence : KYVI
+{166}
+Sequence : HWVI
+{166, 172, 175}
+Sequence : FMVIAC
+{166, 172, 175}
+Sequence : QVVLA
+{166, 172, 175}
+Sequence : RIL
+{166}

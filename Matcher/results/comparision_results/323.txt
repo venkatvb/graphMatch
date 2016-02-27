@@ -1,0 +1,40 @@
+Sequence : PSTAIREISLLKE
+{323}
+Sequence : LKKFMDA
+{323}
+Sequence : PLPLIKSYLFQLLQGLAFCHS
+{323}
+Sequence : KPQ
+{323, 324}
+Sequence : APEILL
+{323, 324}
+Sequence : TAVDIWSLGCIFAEMVTR
+{323, 324}
+Sequence : SEIDQLFRIFRTLG
+{323, 324}
+Sequence : GVTSM
+{323, 324}
+Sequence : DFSKVV
+{323, 324}
+Sequence : DEDGRSLLSQML
+{323, 324}
+Sequence : SAKAALA
+{323, 324}
+Sequence : HPFFQ
+{323, 324}
+Sequence : FQKVEKIG
+{323}
+Sequence : VYKARN
+{323}
+Sequence : VVALKK
+{323}
+Sequence : KLYLVFE
+{323, 324}
+Sequence : LLDVIHT
+{323, 324}
+Sequence : QD
+{145, 323, 324}
+Sequence : LLI
+{321, 323, 339, 324, 342, 327, 343, 328, 344, 319}
+Sequence : IKL
+{323, 324}

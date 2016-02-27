@@ -1,0 +1,64 @@
+Sequence : NFADHLMRL
+{230}
+Sequence : GAL
+{230}
+Sequence : SPEEAA
+{230}
+Sequence : FPVSFLTAYLALKRA
+{230}
+Sequence : GALGTAAVQVARAM
+{230}
+Sequence : RPEK
+{230}
+Sequence : LALPLALG
+{230}
+Sequence : EVPERAKAWG
+{230}
+Sequence : EVEESLG
+{230}
+Sequence : LRLMRR
+{230}
+Sequence : WLTPLLR
+{230}
+Sequence : EGALVEEALGFLL
+{230}
+Sequence : EAEAAFRALLD
+{230}
+Sequence : KAWVL
+{230}
+Sequence : LELVD
+{230}
+Sequence : LP
+{528, 261, 230, 262, 87, 589}
+Sequence : RRYAAL
+{230}
+Sequence : EVVGVV
+{230}
+Sequence : EVVLRVEAVG
+{230}
+Sequence : RVAVP
+{230}
+Sequence : LP
+{528, 261, 230, 262, 87, 589}
+Sequence : RRYAAL
+{230}
+Sequence : EVVGVV
+{230}
+Sequence : EVVLRVEAVG
+{230}
+Sequence : KVVVR
+{230}
+Sequence : VGPVFP
+{230}
+Sequence : EAAT
+{230}
+Sequence : RVLAAA
+{230}
+Sequence : KVLV
+{230}
+Sequence : LDLVLE
+{230}
+Sequence : LAHGGRLVY
+{230}
+Sequence : AVLG
+{230}

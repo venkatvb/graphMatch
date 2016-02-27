@@ -1,0 +1,104 @@
+Sequence : ENS
+{557}
+Sequence : WSKKYP
+{557}
+Sequence : SCGGL
+{557}
+Sequence : SDI
+{557}
+Sequence : STASNK
+{557}
+Sequence : KIFSHL
+{557}
+Sequence : QHVKY
+{557}
+Sequence : ELLPE
+{557}
+Sequence : QEQLLALETAL
+{557}
+Sequence : ENS
+{557}
+Sequence : WSKKYP
+{557}
+Sequence : SCGGL
+{557}
+Sequence : SDI
+{557}
+Sequence : STASNK
+{557}
+Sequence : SYDKIFSHL
+{557}
+Sequence : QHVKYK
+{557}
+Sequence : ELLPE
+{557}
+Sequence : QEQLLALETALY
+{557}
+Sequence : LH
+{557}
+Sequence : SG
+{557}
+Sequence : FVPGF
+{557}
+Sequence : NKQFLL
+{557}
+Sequence : HSVK
+{557}
+Sequence : TQLHLHWGNP
+{557}
+Sequence : LHIVHYNSD
+{557}
+Sequence : VLAVLIEMGS
+{557}
+Sequence : LWTVFR
+{557}
+Sequence : YRYRGS
+{557}
+Sequence : LVY
+{557}
+Sequence : QYD
+{557}
+Sequence : LVY
+{557}
+Sequence : YRYRGS
+{557}
+Sequence : LWTVFR
+{557}
+Sequence : VLAVLIEMGS
+{557}
+Sequence : QIS
+{234, 557}
+Sequence : LH
+{557}
+Sequence : SG
+{557}
+Sequence : FVPGF
+{557}
+Sequence : NKQFLL
+{557}
+Sequence : HSVK
+{557}
+Sequence : TQLHLHWGNP
+{557}
+Sequence : LHIVHYNSD
+{557}
+Sequence : VLAVLIEMGS
+{557}
+Sequence : LWTVFR
+{557}
+Sequence : YRYRGS
+{557}
+Sequence : LVY
+{557}
+Sequence : QYD
+{557}
+Sequence : LVY
+{557}
+Sequence : YRYRGS
+{557}
+Sequence : LWTVFR
+{557}
+Sequence : VLAVLIEMGS
+{557}
+Sequence : QIS
+{234, 557}

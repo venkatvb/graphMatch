@@ -1,0 +1,76 @@
+Sequence : KGKIVDLLTER
+{85, 90, 91, 92, 93}
+Sequence : PAALMKEMKELED
+{85, 90}
+Sequence : VRER
+{84, 85, 90, 91, 92, 93}
+Sequence : DYHVALDNAREKA
+{84, 90}
+Sequence : GAK
+{84, 90}
+Sequence : IGPAYEDKVA
+{90}
+Sequence : VGDL
+{90}
+Sequence : KETFAEKLKEVMEYHNFQLVN
+{84, 85, 90, 91, 93}
+Sequence : YQKVLDDTMAVADILTSM
+{84, 85, 90, 91}
+Sequence : VSDLLDQARQR
+{84, 85, 90, 91, 92, 93}
+Sequence : TLL
+{84, 85, 90, 91, 92, 93}
+Sequence : AGGVATGS
+{84, 85, 90, 91, 93}
+Sequence : PRY
+{84, 85, 90, 91, 92, 93}
+Sequence : ETGEFLCKQ
+{84, 90, 91}
+Sequence : TVAVRRAVQLN
+{84, 85, 90, 91, 92, 93}
+Sequence : LDVL
+{84, 90, 91, 92, 93}
+Sequence : ADDW
+{84, 85, 90, 91, 93}
+Sequence : RSG
+{84, 85, 90, 91, 92, 93}
+Sequence : QAALNYIKRIEELT
+{84, 85, 90, 91, 92, 93}
+Sequence : TMI
+{84, 85, 90, 91, 92, 93}
+Sequence : IDIIS
+{84, 85, 90, 91, 92, 93}
+Sequence : GFCL
+{84, 85, 90}
+Sequence : YVLGIL
+{84, 85, 90}
+Sequence : NVVVLG
+{84, 85, 90, 91, 92, 93}
+Sequence : VMFE
+{84, 85, 90, 91, 92, 93}
+Sequence : YVVR
+{84, 85, 90, 91, 92, 93}
+Sequence : TSII
+{84, 85, 90, 91, 92, 93}
+Sequence : LLL
+{84, 85, 90, 91, 92, 93}
+Sequence : LVI
+{90, 238}
+Sequence : EKT
+{90, 76}
+Sequence : VLS
+{90, 91}
+Sequence : PLI
+{90, 91}
+Sequence : STR
+{84, 90, 91, 92, 93}
+Sequence : RTG
+{84, 90, 91, 92, 93}
+Sequence : EVK
+{90, 91, 92}
+Sequence : TMP
+{90, 91, 92}
+Sequence : AYR
+{311, 90, 91, 92}
+Sequence : EPI
+{90, 91, 92}

@@ -1,0 +1,24 @@
+Sequence : PETVKNFLDYCR
+{163}
+Sequence : ANN
+{163}
+Sequence : DFL
+{163, 253}
+Sequence : MDVVDKIKG
+{163}
+Sequence : IESVTV
+{163}
+Sequence : VTFHT
+{163}
+Sequence : GDIVIKT
+{163}
+Sequence : VFAEVVD
+{163}
+Sequence : TLAM
+{163}
+Sequence : FFIN
+{163, 140}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FHRVI
+{163, 119, 123}

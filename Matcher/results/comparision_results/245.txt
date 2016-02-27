@@ -1,0 +1,80 @@
+Sequence : SGGLASARRAAE
+{245}
+Sequence : GTCVN
+{245}
+Sequence : CVPKKVMWNTAVHSEFMH
+{245}
+Sequence : ADY
+{245}
+Sequence : WRVIKEKRDAYVSRLNAIYQNNLTK
+{245}
+Sequence : ASL
+{245, 187}
+Sequence : SDGFFQ
+{245}
+Sequence : YIAVEMAGILSAL
+{245}
+Sequence : SMISTNCTEELEN
+{245}
+Sequence : LNK
+{245}
+Sequence : GDVC
+{245}
+Sequence : TPVAIAAGRKLAHRLF
+{245}
+Sequence : EDEAIHKY
+{245}
+Sequence : IEN
+{245, 278}
+Sequence : MYHAV
+{245}
+Sequence : CDEMLQGFAVAVK
+{245}
+Sequence : KADFD
+{245}
+Sequence : SEELV
+{245}
+Sequence : ASY
+{245}
+Sequence : KKYTA
+{245}
+Sequence : TIEV
+{245}
+Sequence : IYA
+{245}
+Sequence : ILI
+{245}
+Sequence : YLVI
+{245}
+Sequence : AAVVE
+{245}
+Sequence : EIIR
+{245}
+Sequence : GMP
+{245}
+Sequence : RVP
+{245}
+Sequence : CLLW
+{245}
+Sequence : RSVIV
+{245}
+Sequence : KTSLM
+{245}
+Sequence : EVL
+{245, 7, 381}
+Sequence : VMTMI
+{245}
+Sequence : GLEVSMVT
+{245}
+Sequence : SQVKEVKKT
+{245}
+Sequence : TVV
+{245}
+Sequence : IGTVG
+{245}
+Sequence : KVVGIHMQ
+{245}
+Sequence : CVMKMVCA
+{245}
+Sequence : VKTYSTSF
+{245}

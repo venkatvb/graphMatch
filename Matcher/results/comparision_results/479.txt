@@ -1,0 +1,56 @@
+Sequence : NWATFQQKH
+{479}
+Sequence : NCNTIM
+{479}
+Sequence : NNI
+{479}
+Sequence : SATTVKA
+{479}
+Sequence : ICT
+{479}
+Sequence : NWATFQQKH
+{479}
+Sequence : NCNTIM
+{479}
+Sequence : NNI
+{479}
+Sequence : SATTVKA
+{479}
+Sequence : ICT
+{479}
+Sequence : II
+{315, 316, 479}
+Sequence : VNTFII
+{479}
+Sequence : FQLNTCTR
+{479}
+Sequence : YSSRTETN
+{479}
+Sequence : IV
+{485, 295, 519, 296, 520, 281, 297, 521, 522, 479}
+Sequence : QC
+{479}
+Sequence : NMNVL
+{479}
+Sequence : ICVKCE
+{479}
+Sequence : YPVHFAGI
+{479}
+Sequence : II
+{315, 316, 479}
+Sequence : VNTFII
+{479}
+Sequence : FQLNTCTR
+{479}
+Sequence : YSSRTETN
+{479}
+Sequence : IV
+{485, 295, 519, 296, 520, 281, 297, 521, 522, 479}
+Sequence : QC
+{479}
+Sequence : NMNVL
+{479}
+Sequence : ICVKCE
+{479}
+Sequence : YPVHFAGI
+{479}

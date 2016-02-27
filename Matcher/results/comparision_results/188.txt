@@ -1,0 +1,40 @@
+Sequence : NLEDALFSVES
+{188}
+Sequence : SPEDARRISVEL
+{188}
+Sequence : EPEKILDVASYV
+{188}
+Sequence : PIELCRKIAERI
+{188}
+Sequence : NERDMERAL
+{188}
+Sequence : NYR
+{188}
+Sequence : DWSLILPYRDRF
+{188}
+Sequence : NVRSAIDVVR
+{188}
+Sequence : DHDSIKMFIKNAKG
+{188}
+Sequence : RVKI
+{188, 189}
+Sequence : AVGFV
+{188}
+Sequence : FRVGVF
+{188}
+Sequence : AVQL
+{188}
+Sequence : LVIKAVG
+{188}
+Sequence : ILLD
+{188}
+Sequence : LVLS
+{188}
+Sequence : AVDV
+{188}
+Sequence : RVKI
+{188, 189}
+Sequence : EAF
+{188}
+Sequence : KK
+{202, 12, 188}

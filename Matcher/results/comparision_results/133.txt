@@ -1,0 +1,34 @@
+Sequence : RGWEEGV
+{132, 133, 134, 120, 126}
+Sequence : VQVETIS
+{128, 130, 132, 133, 165, 134, 120, 154, 141, 126, 142, 143}
+Sequence : GQRAKLTI
+{133}
+Sequence : LVFDVELLKLE
+{128, 130, 133, 165, 154, 141, 142, 143}
+Sequence : TCVVHYTGM
+{133, 141, 142, 143}
+Sequence : KFDS
+{130, 132, 133, 165, 134, 150, 120, 154, 141, 126, 142, 143}
+Sequence : VQVETIS
+{128, 130, 132, 133, 165, 134, 120, 154, 141, 126, 142, 143}
+Sequence : GQRAKLTI
+{133}
+Sequence : LVFDVELLKLE
+{128, 130, 133, 165, 154, 141, 142, 143}
+Sequence : TCVVHYTGM
+{133, 141, 142, 143}
+Sequence : FKF
+{133, 494}
+Sequence : KRGQ
+{132, 133, 134, 120, 126}
+Sequence : LEDG
+{132, 133, 134, 120, 126}
+Sequence : RDRN
+{133, 165, 142}
+Sequence : GVAQ
+{133}
+Sequence : VAQM
+{132, 133, 134, 120, 126}
+Sequence : SVGQ
+{132, 133, 134, 120, 126}

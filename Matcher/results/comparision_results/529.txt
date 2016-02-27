@@ -1,0 +1,36 @@
+Sequence : ERNKLARQIIDTCLEMTRL
+{529}
+Sequence : PYEKL
+{529}
+Sequence : TESHI
+{529}
+Sequence : QWRFHMAAYQSR
+{529}
+Sequence : AVHCTAVSILN
+{529}
+Sequence : HYMIAAAG
+{529}
+Sequence : TRELSEHVALAL
+{529}
+Sequence : NLEKALWLAHEVEVLAQLYLTTLA
+{529}
+Sequence : SDEEIAVVLEKF
+{529}
+Sequence : VFI
+{529}
+Sequence : GMLI
+{529}
+Sequence : NVSVRY
+{529}
+Sequence : AVVHN
+{529}
+Sequence : GLIACE
+{529}
+Sequence : ATLL
+{529}
+Sequence : CA
+{529}
+Sequence : IP
+{416, 417, 529, 421}
+Sequence : SI
+{529}

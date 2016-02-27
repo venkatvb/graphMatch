@@ -1,0 +1,52 @@
+Sequence : GKSTIGRQLAQQL
+{359}
+Sequence : SDQEIEKRTG
+{359}
+Sequence : DVGWVFDLEGEEGFRDREEKVINELTE
+{359}
+Sequence : GSVK
+{359}
+Sequence : SRETRNRLSARG
+{359}
+Sequence : TIEKQLA
+{359}
+Sequence : PREVLEALANERNPLYEEIA
+{359}
+Sequence : SAKVVANQIIHMLE
+{359}
+Sequence : GKSTIGRQLAQQLN
+{359}
+Sequence : SDQEIEKRTG
+{359}
+Sequence : DVGWVFDLEGEEGFRDREEKVINELTE
+{359}
+Sequence : GSVK
+{359}
+Sequence : SRETRNRLSARG
+{359}
+Sequence : TIEKQLA
+{359}
+Sequence : PREVLEALANERNPLYEEIA
+{359}
+Sequence : SAKVVANQIIHML
+{359}
+Sequence : EFYD
+{359}
+Sequence : IVLA
+{359}
+Sequence : IFLV
+{359}
+Sequence : VVVYL
+{359}
+Sequence : VTI
+{359}
+Sequence : EFYD
+{359}
+Sequence : IVLA
+{359}
+Sequence : IFLV
+{359}
+Sequence : VVVYL
+{359}
+Sequence : VTI
+{359}

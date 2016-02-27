@@ -1,0 +1,36 @@
+Sequence : ASKI
+{256}
+Sequence : AFV
+{256, 563}
+Sequence : IDVLLG
+{256}
+Sequence : KIVFKNNA
+{256}
+Sequence : GETFEVAL
+{256}
+Sequence : SEFSI
+{256}
+Sequence : MVGKVTVN
+{256}
+Sequence : GEYSFYC
+{256}
+Sequence : VFD
+{256}
+Sequence : ADDG
+{256, 524}
+Sequence : FVPS
+{256}
+Sequence : SPGE
+{256}
+Sequence : DEDS
+{256}
+Sequence : PSGV
+{256}
+Sequence : SEED
+{256}
+Sequence : AKGE
+{256}
+Sequence : CSPH
+{256}
+Sequence : QGAG
+{256}

@@ -1,0 +1,118 @@
+Sequence : RVDK
+{103}
+Sequence : ILS
+{103}
+Sequence : FSKLGEQVKAIEQ
+{103}
+Sequence : PLVVDSLRPI
+{103}
+Sequence : PDQRVPDFIK
+{103}
+Sequence : LHRTINQIKS
+{103}
+Sequence : LTAI
+{103}
+Sequence : ESQVKKISDLRKICAER
+{103}
+Sequence : AYKVIEA
+{103}
+Sequence : SAVF
+{103}
+Sequence : YAEAIKGIK
+{103}
+Sequence : RVDK
+{103}
+Sequence : ILS
+{103}
+Sequence : FSKLGEQVKAIEQ
+{103}
+Sequence : PLVVDSLRPI
+{103}
+Sequence : PDQRVPDFIK
+{103}
+Sequence : LHRTINQIKS
+{103}
+Sequence : LTAI
+{103}
+Sequence : ESQVKKISDLRKICAER
+{103}
+Sequence : AYKVIEA
+{103}
+Sequence : SAVF
+{103}
+Sequence : YAEAIKGIK
+{103}
+Sequence : RVDK
+{103}
+Sequence : ILS
+{103}
+Sequence : FSKLGEQVKAIEQ
+{103}
+Sequence : PLVVDSLRPI
+{103}
+Sequence : PDQRVPDFIK
+{103}
+Sequence : LHRTINQIKS
+{103}
+Sequence : LTAI
+{103}
+Sequence : ESQVKKISDLRKICAER
+{103}
+Sequence : AYKVIEA
+{103}
+Sequence : SAVF
+{103}
+Sequence : YAEAIKGIK
+{103}
+Sequence : ALVA
+{103}
+Sequence : IVSPS
+{103}
+Sequence : WIHVDVM
+{103}
+Sequence : PLDVHLM
+{103}
+Sequence : IVSVH
+{103}
+Sequence : KAGVVL
+{103}
+Sequence : LVLIM
+{103}
+Sequence : WIEVD
+{103}
+Sequence : ALV
+{496, 274, 277, 103, 492}
+Sequence : ALVA
+{103}
+Sequence : IVSPS
+{103}
+Sequence : WIHVDVM
+{103}
+Sequence : PLDVHLM
+{103}
+Sequence : IVSVH
+{103}
+Sequence : KAGVVL
+{103}
+Sequence : LVLIM
+{103}
+Sequence : WIEVD
+{103}
+Sequence : ALV
+{496, 274, 277, 103, 492}
+Sequence : SPS
+{103, 104, 105}
+Sequence : WIHVDVM
+{103}
+Sequence : PLDVHLM
+{103}
+Sequence : IVSVH
+{103}
+Sequence : KAGVVL
+{103}
+Sequence : LVLIM
+{103}
+Sequence : WIEVD
+{103}
+Sequence : ALV
+{496, 274, 277, 103, 492}

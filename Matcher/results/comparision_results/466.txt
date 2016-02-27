@@ -1,0 +1,40 @@
+Sequence : AAAKFERQH
+{481, 466, 467, 468, 478}
+Sequence : SSNYCNLMMCC
+{466}
+Sequence : LADVKAVCS
+{466}
+Sequence : AAAKFERQH
+{481, 466, 467, 468, 478}
+Sequence : SSNYCNLMMCC
+{466}
+Sequence : LADVKAVCS
+{466}
+Sequence : VNTFV
+{480, 481, 466, 482, 467, 468, 470, 471, 472, 478}
+Sequence : MRITDCRE
+{466, 482}
+Sequence : YKTTQVEK
+{466}
+Sequence : KKV
+{466, 482}
+Sequence : CYQ
+{480, 466, 482, 467, 468, 470, 471, 472, 475, 478}
+Sequence : HIIVA
+{466, 467, 468}
+Sequence : HFDASV
+{466, 467, 468}
+Sequence : VNTFV
+{480, 481, 466, 482, 467, 468, 470, 471, 472, 478}
+Sequence : MRITDCRE
+{466, 482}
+Sequence : YKTTQVEK
+{466}
+Sequence : KKV
+{466, 482}
+Sequence : CYQ
+{480, 466, 482, 467, 468, 470, 471, 472, 475, 478}
+Sequence : HIIVA
+{466, 467, 468}
+Sequence : HFDASV
+{466, 467, 468}

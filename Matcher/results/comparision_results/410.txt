@@ -1,0 +1,56 @@
+Sequence : HREKIFMSYNQNKQYLEDN
+{410}
+Sequence : NPEIQEKIELYGLNLLNEVISDN
+{410}
+Sequence : NEEEIRADYNEANFL
+{410}
+Sequence : LHPFWM
+{410}
+Sequence : WIEVGEKAV
+{410}
+Sequence : VGSKLTRLVSQ
+{410}
+Sequence : SPTIYSLT
+{410}
+Sequence : SPNQV
+{410}
+Sequence : SLT
+{410}
+Sequence : NGLGLFC
+{410}
+Sequence : GYAFD
+{410}
+Sequence : DSAYK
+{410}
+Sequence : LRVLD
+{410}
+Sequence : VMTID
+{410}
+Sequence : QSLYKIKLASV
+{410}
+Sequence : IAPVVHLFIKPIYAM
+{410}
+Sequence : SIMMFVDI
+{410}
+Sequence : ERYLLT
+{410}
+Sequence : TVR
+{410}
+Sequence : VMTID
+{410}
+Sequence : QSLYKIKLASV
+{410}
+Sequence : IAPVVHLFIKPIYAM
+{410}
+Sequence : LYI
+{410}
+Sequence : DLVL
+{410}
+Sequence : VRVD
+{410}
+Sequence : FRP
+{410}
+Sequence : QTIQ
+{410}
+Sequence : SQIF
+{410}

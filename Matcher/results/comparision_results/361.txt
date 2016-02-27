@@ -1,0 +1,56 @@
+Sequence : GKSTLARALAKDLD
+{361}
+Sequence : SDFLIEQKFN
+{361}
+Sequence : KVSEIFEQKR
+{361}
+Sequence : RENFFREQEQKXADFFS
+{361}
+Sequence : GFVNV
+{361}
+Sequence : NLEKAG
+{361}
+Sequence : DFEYLK
+{361}
+Sequence : DKDEI
+{361}
+Sequence : DEIKAKKLYNERLSKYEQKA
+{361}
+Sequence : NIDELLSEIKKVIK
+{361}
+Sequence : GKSTLARALAKDLD
+{361}
+Sequence : SDFLIEQKFN
+{361}
+Sequence : KVSEIFEQKRENFFREQEQKXADFFSSC
+{361}
+Sequence : GGGFVNV
+{361}
+Sequence : NLEKAG
+{361}
+Sequence : DFEYLK
+{361}
+Sequence : DEIKAKKLYNERLSKYEQKA
+{361}
+Sequence : NIDELLSEIKKVIK
+{361}
+Sequence : VFLD
+{361}
+Sequence : ACIA
+{361}
+Sequence : IVFI
+{361}
+Sequence : FCIYLK
+{361}
+Sequence : FILN
+{361}
+Sequence : VFLD
+{361}
+Sequence : ACIA
+{361}
+Sequence : IVFI
+{361}
+Sequence : FCIYLK
+{361}
+Sequence : FILN
+{361}

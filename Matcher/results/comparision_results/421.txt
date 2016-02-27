@@ -1,0 +1,50 @@
+Sequence : PDLNKLLELWPHIQEYQDLALKH
+{417, 421}
+Sequence : GGKLLQVLLIT
+{421}
+Sequence : PVIIAKAR
+{421}
+Sequence : PKDLEFYYDKWERKWY
+{421}
+Sequence : VKYVMEH
+{421}
+Sequence : PDLNKLLELWPHIQEYQDLALKH
+{417, 421}
+Sequence : GGKLLQVLLIT
+{421}
+Sequence : PVIIAK
+{421}
+Sequence : PKDLEFYYDKWERKWYSD
+{421}
+Sequence : VKYVM
+{421}
+Sequence : DAV
+{416, 421}
+Sequence : EYELKSIN
+{416, 417, 421}
+Sequence : WIFAIYR
+{416, 417, 421}
+Sequence : AIEAIYRL
+{416, 417, 421}
+Sequence : TK
+{416, 417, 578, 421}
+Sequence : GF
+{416, 17, 417, 18, 421, 271}
+Sequence : IP
+{416, 417, 529, 421}
+Sequence : TV
+{417, 548, 69, 421, 549, 70, 550, 551, 552, 394, 236, 561, 315, 316, 543}
+Sequence : DAV
+{416, 421}
+Sequence : EYELKSIN
+{416, 417, 421}
+Sequence : WIFAIYR
+{416, 417, 421}
+Sequence : AIEAIYRL
+{416, 417, 421}
+Sequence : TK
+{416, 417, 578, 421}
+Sequence : GF
+{416, 17, 417, 18, 421, 271}
+Sequence : IP
+{416, 417, 529, 421}

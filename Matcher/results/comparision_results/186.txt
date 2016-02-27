@@ -1,0 +1,48 @@
+Sequence : QSIKEIVERLNTA
+{186}
+Sequence : TYLDYSVSLV
+{186}
+Sequence : DQIKDVG
+{186}
+Sequence : ERRSYF
+{186}
+Sequence : KFIADKTKFALGQ
+{186}
+Sequence : EEKKA
+{186}
+Sequence : LDVVERQLNAVL
+{186}
+Sequence : EDAQDIHASIRKFLASKL
+{186}
+Sequence : KAASEL
+{186}
+Sequence : SNAVTF
+{186}
+Sequence : GASLK
+{178, 186}
+Sequence : EFVDIIN
+{169, 186, 187}
+Sequence : QSIKEIVERLNTA
+{186}
+Sequence : TYLDYSVSLV
+{186}
+Sequence : DQIKDVG
+{186}
+Sequence : ERRSYF
+{186}
+Sequence : KFIADKTKFALGQ
+{186}
+Sequence : EEKKA
+{186}
+Sequence : LDVVERQLNAVL
+{186}
+Sequence : EDAQDIHASIRKFLASKL
+{186}
+Sequence : KAASEL
+{186}
+Sequence : SNAVTF
+{186}
+Sequence : GASLK
+{178, 186}
+Sequence : EFVDIIN
+{169, 186, 187}

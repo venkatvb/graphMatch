@@ -1,0 +1,96 @@
+Sequence : LPADLAWFKRNT
+{215}
+Sequence : GRHTWESI
+{215}
+Sequence : SVDEAIAACG
+{215}
+Sequence : GGRVYEQFL
+{215}
+Sequence : LPADLAWFKRNT
+{215}
+Sequence : GRHTWESI
+{215}
+Sequence : SVDEAIAACG
+{215}
+Sequence : GGRVYEQFL
+{215}
+Sequence : TWV
+{213, 215, 205}
+Sequence : KNIILS
+{215}
+Sequence : PVIMG
+{215, 205}
+Sequence : IMVIG
+{213, 215, 205}
+Sequence : MISLIAAL
+{215}
+Sequence : QKLYLTHID
+{215}
+Sequence : SYCFEILERR
+{215}
+Sequence : DWESVFSEFH
+{215}
+Sequence : TWV
+{213, 215, 205}
+Sequence : KNIILS
+{215}
+Sequence : PVIMG
+{215, 205}
+Sequence : PEIMVIG
+{215}
+Sequence : MISLIAAL
+{215}
+Sequence : QKLYLTHID
+{215}
+Sequence : SYCFEILERR
+{215}
+Sequence : DWESVFSEFH
+{215}
+Sequence : AVDR
+{215}
+Sequence : MENA
+{215}
+Sequence : TLDK
+{215}
+Sequence : LPGR
+{215}
+Sequence : DDRV
+{215}
+Sequence : CGDV
+{215}
+Sequence : VPEI
+{215}
+Sequence : FLPK
+{215}
+Sequence : LPKA
+{215}
+Sequence : EPDD
+{215}
+Sequence : PDDW
+{215}
+Sequence : DAQN
+{215}
+Sequence : AVDR
+{215}
+Sequence : MENA
+{215}
+Sequence : TLDK
+{215}
+Sequence : LPGR
+{215}
+Sequence : DDRV
+{215}
+Sequence : CGDV
+{215}
+Sequence : VPEI
+{215}
+Sequence : FLPK
+{215}
+Sequence : LPKA
+{215}
+Sequence : EPDD
+{215}
+Sequence : PDDW
+{215}
+Sequence : DAQN
+{215}

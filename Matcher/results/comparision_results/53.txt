@@ -1,0 +1,32 @@
+Sequence : RAKRIMKEIQAVKDD
+{53}
+Sequence : PAAH
+{53}
+Sequence : LKSALISLQALLQSP
+{53}
+Sequence : AEVAQHYLRDR
+{53}
+Sequence : RESFNKTAALWTRLYAS
+{53}
+Sequence : RAKRIMKEIQAVKDD
+{53}
+Sequence : PAAHI
+{53}
+Sequence : LKSALISLQALLQSP
+{53}
+Sequence : AEVAQHYLRDR
+{53}
+Sequence : RESFNKTAALWTRLYAS
+{53}
+Sequence : TLEFV
+{53}
+Sequence : LKGTFLG
+{53}
+Sequence : FVVDIEV
+{53}
+Sequence : LEFV
+{53}
+Sequence : LKGTFLG
+{53}
+Sequence : MQFD
+{53}

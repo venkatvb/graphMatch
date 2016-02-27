@@ -1,0 +1,58 @@
+Sequence : LLTQL
+{525}
+Sequence : LPAYN
+{525}
+Sequence : YEAELIETAKKMT
+{525}
+Sequence : STGSCSKRFAG
+{525}
+Sequence : TAEHRRQYRALMLE
+{525}
+Sequence : GFEQ
+{525}
+Sequence : HDETVYQ
+{525}
+Sequence : TFPQYLRRR
+{525}
+Sequence : GYIKRAKKYYAM
+{525}
+Sequence : SEAVVRFNAETLARYAILSQLC
+{525}
+Sequence : DIETCQRVSQHVWSEVVSALHRHG
+{525}
+Sequence : VWEGC
+{525}
+Sequence : HAEQVAEYTVKTLARVI
+{525}
+Sequence : SEVMASEYLNAMN
+{525}
+Sequence : ARALQSSAIKRWG
+{525}
+Sequence : KES
+{525}
+Sequence : GVEAGRRAFMHRAKMNSLAQL
+{525}
+Sequence : NRADD
+{525}
+Sequence : GLLAA
+{525}
+Sequence : ISGVIL
+{525}
+Sequence : VPGIK
+{525}
+Sequence : FCKWRNVY
+{525}
+Sequence : VPIVEPEV
+{525}
+Sequence : LL
+{525}
+Sequence : GVTF
+{525}
+Sequence : KLTFSY
+{525}
+Sequence : GLLAA
+{525}
+Sequence : LEP
+{525}
+Sequence : QMT
+{525}

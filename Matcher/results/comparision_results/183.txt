@@ -1,0 +1,84 @@
+Sequence : KQSIKEIVERLNTAS
+{183, 173}
+Sequence : LDYSVSLVK
+{183, 173}
+Sequence : VDQIKDVGA
+{183}
+Sequence : SERRSYFH
+{183}
+Sequence : DKFIADKTKFALGQGV
+{183}
+Sequence : LEEKKAGK
+{183}
+Sequence : TLDVVERQLNAVLEEVK
+{183, 173}
+Sequence : PEDAQDIHASIRKFLASKLG
+{183}
+Sequence : DKAASELR
+{183, 173}
+Sequence : GSNAVTFKD
+{183}
+Sequence : GASLKP
+{183, 173}
+Sequence : FVDIINSR
+{183}
+Sequence : KQSIKEIVERLNTAS
+{183, 173}
+Sequence : LDYSVSLVK
+{183, 173}
+Sequence : VDQIKDVGA
+{183}
+Sequence : SERRSYFH
+{183}
+Sequence : DKFIADKTKFALGQGV
+{183}
+Sequence : LEEKKAGK
+{183}
+Sequence : TLDVVERQLNAVLEEVK
+{183, 173}
+Sequence : PEDAQDIHASIRKFLASKLG
+{183}
+Sequence : DKAASELR
+{183, 173}
+Sequence : GSNAVTFKD
+{183}
+Sequence : GASLKP
+{183, 173}
+Sequence : FVDIINSR
+{183}
+Sequence : FVGGNFK
+{183}
+Sequence : VVICP
+{183}
+Sequence : VTVGAQ
+{183}
+Sequence : WVILG
+{178, 183}
+Sequence : VILCIG
+{183, 173}
+Sequence : VVVAYEP
+{183}
+Sequence : ILYGG
+{183}
+Sequence : GFLVG
+{178, 183}
+Sequence : FVGGNFK
+{183}
+Sequence : FVGGNFK
+{183}
+Sequence : VVICP
+{183}
+Sequence : VTVGAQ
+{183}
+Sequence : WVILG
+{178, 183}
+Sequence : VILCIG
+{183, 173}
+Sequence : VVVAYEP
+{183}
+Sequence : ILYGG
+{183}
+Sequence : GFLVG
+{178, 183}
+Sequence : FVGGNFK
+{183}

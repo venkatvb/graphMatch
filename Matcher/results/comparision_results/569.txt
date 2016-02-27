@@ -1,0 +1,88 @@
+Sequence : INSVKAEALAYRE
+{569}
+Sequence : VDH
+{569}
+Sequence : TQSVLTAARVIRDA
+{569}
+Sequence : AKE
+{569}
+Sequence : TQHYLTLNRAAIDS
+{569}
+Sequence : LFT
+{569}
+Sequence : DADVKATVDYAHAH
+{569}
+Sequence : AEEMVSRLRKMQA
+{569}
+Sequence : KHDVLTLLTATLEMQQH
+{569}
+Sequence : VISRL
+{569}
+Sequence : GEVF
+{569}
+Sequence : VNDLRSVLMILH
+{569}
+Sequence : INSVKAEALAYRE
+{569}
+Sequence : VDH
+{569}
+Sequence : TQSVLTAARVIRDA
+{569}
+Sequence : AKE
+{569}
+Sequence : TQHYLTLNRAAIDS
+{569}
+Sequence : LFT
+{569}
+Sequence : DADVKATVDYAHAH
+{569}
+Sequence : AEEMVSRLRKMQA
+{569}
+Sequence : KHDVLTLLTATLEMQQH
+{569}
+Sequence : VISRL
+{569}
+Sequence : GEVF
+{569}
+Sequence : VNDLRSVLMILH
+{569}
+Sequence : VTV
+{295, 296, 297, 569, 13, 14}
+Sequence : LII
+{577, 580, 486, 41, 569}
+Sequence : ATFG
+{569}
+Sequence : KIIVSL
+{569}
+Sequence : ILEWR
+{569}
+Sequence : PLLFT
+{569}
+Sequence : MIDLE
+{569}
+Sequence : YVVMSNHD
+{569}
+Sequence : IPKIAVM
+{569}
+Sequence : VITMSM
+{569}
+Sequence : VTV
+{295, 296, 297, 569, 13, 14}
+Sequence : LII
+{577, 580, 486, 41, 569}
+Sequence : ATFG
+{569}
+Sequence : KIIVSL
+{569}
+Sequence : ILEWR
+{569}
+Sequence : PLLFT
+{569}
+Sequence : MIDLE
+{569}
+Sequence : YVVMSNHD
+{569}
+Sequence : IPKIAVM
+{569}
+Sequence : VITMSM
+{569}

@@ -1,0 +1,60 @@
+Sequence : MQEKIMREL
+{99}
+Sequence : PKQEIEDRVNFLKQYVKKT
+{99}
+Sequence : QDSTLAGRLAQLAVESIREE
+{99}
+Sequence : EDDAQLALKFI
+{99}
+Sequence : KSTVSAFSDQYQQET
+{99}
+Sequence : DFNKGNVKARTRMIAQYAIGGQE
+{99}
+Sequence : AAEA
+{99}
+Sequence : KRQGRTLLKEL
+{99}
+Sequence : ERLYL
+{99}
+Sequence : DETEL
+{99}
+Sequence : YDEIDDYL
+{99}
+Sequence : AKVSEALEKRYSMTEHKR
+{99}
+Sequence : MQEKIMRE
+{99}
+Sequence : PKQEIEDRVNFLKQYVKKT
+{99}
+Sequence : QDSTLAGRLAQLAVESIRE
+{99}
+Sequence : EDDAQLALKFI
+{99}
+Sequence : KSTVSAFSDQYQQET
+{99}
+Sequence : DFNKGNVKARTRMIAQYAIGGQE
+{99}
+Sequence : AAEA
+{99}
+Sequence : KRQGRTLLKE
+{99}
+Sequence : ERLY
+{99}
+Sequence : DETEL
+{99}
+Sequence : YDEIDDYL
+{99}
+Sequence : AKVSEALEKRYSMTEHKR
+{99}
+Sequence : GFVLG
+{97, 98, 99}
+Sequence : QFIAVR
+{97, 98, 99}
+Sequence : KSWK
+{97, 98, 99}
+Sequence : GFVLG
+{97, 98, 99}
+Sequence : QFIAVR
+{97, 98, 99}
+Sequence : KSWK
+{97, 98, 99}

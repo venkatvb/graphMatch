@@ -1,0 +1,52 @@
+Sequence : PEHWHKDF
+{556}
+Sequence : PIAKGE
+{562, 556}
+Sequence : GDF
+{555, 556}
+Sequence : GKAVQQ
+{555, 556}
+Sequence : GLQKVVDVLD
+{556}
+Sequence : SIKTK
+{556}
+Sequence : RGLLPE
+{555, 556}
+Sequence : EQVLKFRKL
+{555, 556}
+Sequence : ID
+{562, 555, 236, 556}
+Sequence : VD
+{16, 241, 562, 419, 420, 150, 282, 586, 555, 556}
+Sequence : YD
+{290, 562, 331, 555, 332, 556}
+Sequence : SF
+{555, 556, 287, 495}
+Sequence : TYPGSL
+{565, 555, 556}
+Sequence : WIVLKE
+{565, 555, 556}
+Sequence : VLGIFLKVGS
+{555, 556}
+Sequence : VSS
+{555, 556}
+Sequence : VLGIFLKVGS
+{555, 556}
+Sequence : ELHLVHWNT
+{562, 555, 556}
+Sequence : RLIQFHFHWG
+{562, 565, 555, 556}
+Sequence : LKGG
+{565, 555, 556}
+Sequence : SVSY
+{565, 555, 556}
+Sequence : LKGG
+{565, 555, 556}
+Sequence : RLIQFHFHWG
+{562, 565, 555, 556}
+Sequence : NVEFD
+{562, 565, 555, 556}
+Sequence : LRILNN
+{562, 565, 555, 556}
+Sequence : DFT
+{565, 555, 556}

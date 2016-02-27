@@ -1,0 +1,46 @@
+Sequence : LRNEFRYFQRMTTT
+{208, 212}
+Sequence : KKTWFSI
+{208}
+Sequence : PEKNR
+{208, 212}
+Sequence : SLDDALKLTE
+{208}
+Sequence : GSSVYKEAMN
+{208}
+Sequence : FLS
+{208, 212}
+Sequence : INLVL
+{208, 212}
+Sequence : QNLVIMG
+{208, 212}
+Sequence : VDMVWI
+{208}
+Sequence : LNCIVAV
+{208, 212}
+Sequence : LKLFVTRI
+{208}
+Sequence : IKYKFEVYEK
+{208}
+Sequence : YKL
+{208}
+Sequence : FLS
+{208, 212}
+Sequence : INLVL
+{208, 212}
+Sequence : QNLVIMG
+{208, 212}
+Sequence : VDMVWI
+{208}
+Sequence : LNCIVAV
+{208, 212}
+Sequence : LKLFVTRI
+{208}
+Sequence : IKYKFEVYEK
+{208}
+Sequence : QEE
+{208, 212}
+Sequence : GIG
+{208, 209, 212, 202, 203, 204, 207}
+Sequence : TF
+{208, 209, 212, 203, 204}

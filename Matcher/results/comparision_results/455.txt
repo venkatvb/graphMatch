@@ -1,0 +1,38 @@
+Sequence : TKAAVINTFDGVA
+{454, 455, 456}
+Sequence : RLPNDYITK
+{455}
+Sequence : GWVASK
+{454, 455, 456}
+Sequence : TKAAVINTFDGVA
+{454, 455, 456}
+Sequence : RLPNDYITK
+{455}
+Sequence : QASAL
+{454, 455}
+Sequence : GWVASK
+{454, 455, 456}
+Sequence : YK
+{210, 211, 454, 455, 456}
+Sequence : AEVAPGK
+{454, 455, 456}
+Sequence : PSAGS
+{454, 455, 456}
+Sequence : SGFRN
+{454, 455, 456}
+Sequence : VYSS
+{454, 455, 456}
+Sequence : TDHY
+{454, 455, 456}
+Sequence : YK
+{210, 211, 454, 455, 456}
+Sequence : AEVAPGK
+{454, 455, 456}
+Sequence : PSAGS
+{454, 455, 456}
+Sequence : SGFRN
+{454, 455, 456}
+Sequence : VYSS
+{454, 455, 456}
+Sequence : TD
+{273, 454, 455, 456}

@@ -1,0 +1,180 @@
+Sequence : SKKDR
+{123}
+Sequence : APRTCNNFLMLCTG
+{123}
+Sequence : APHLN
+{123}
+Sequence : GQEVVTKIEY
+{123}
+Sequence : SKKDR
+{123}
+Sequence : APRTCNNFLMLCTG
+{123}
+Sequence : APHLN
+{123}
+Sequence : GQEVVTKIEY
+{123}
+Sequence : APRTCNNFLMLCTG
+{123}
+Sequence : APHLN
+{123}
+Sequence : GQEVVTKIEY
+{123}
+Sequence : APRTCNNFLMLCTG
+{123}
+Sequence : APHLN
+{123}
+Sequence : GQEVVTKIEY
+{123}
+Sequence : APRTCNNFLMLCTG
+{123}
+Sequence : APHLN
+{123}
+Sequence : GQEVVTKIEY
+{123}
+Sequence : APRTCNNFLMLCTG
+{123}
+Sequence : APHLN
+{123}
+Sequence : GQEVVTKIEY
+{123}
+Sequence : APRTCNNFLMLCTG
+{123}
+Sequence : APHLN
+{123}
+Sequence : GQEVVTKIEY
+{123}
+Sequence : APRTCNNFLMLCTG
+{123}
+Sequence : APHLN
+{123}
+Sequence : GQEVVTKIEY
+{123}
+Sequence : RVI
+{123, 140}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FFIT
+{119, 137, 138, 123}
+Sequence : VVSM
+{119, 123}
+Sequence : VFGKVVS
+{119, 123}
+Sequence : NLAGRIVMEL
+{119, 123}
+Sequence : RVFLDVTI
+{123}
+Sequence : VVILNCGE
+{123}
+Sequence : FHRVI
+{163, 119, 123}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FFIT
+{119, 137, 138, 123}
+Sequence : VVSM
+{119, 123}
+Sequence : VFGKVVS
+{119, 123}
+Sequence : NLAGRIVMEL
+{119, 123}
+Sequence : RVFLDVTI
+{123}
+Sequence : VVILNCGE
+{123}
+Sequence : RVI
+{123, 140}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FFIT
+{119, 137, 138, 123}
+Sequence : VVSM
+{119, 123}
+Sequence : VFGKVVS
+{119, 123}
+Sequence : NLAGRIVMEL
+{119, 123}
+Sequence : RRVFLDVTI
+{119, 123}
+Sequence : VVILNCGE
+{123}
+Sequence : RVI
+{123, 140}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FFIT
+{119, 137, 138, 123}
+Sequence : VVSM
+{119, 123}
+Sequence : VFGKVVS
+{119, 123}
+Sequence : NLAGRIVMEL
+{119, 123}
+Sequence : RRVFLDVTI
+{119, 123}
+Sequence : VVILNCGEL
+{119, 123}
+Sequence : RVI
+{123, 140}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FFIT
+{119, 137, 138, 123}
+Sequence : VVSM
+{119, 123}
+Sequence : VFGKVVS
+{119, 123}
+Sequence : NLAGRIVMEL
+{119, 123}
+Sequence : RVFLDVTI
+{123}
+Sequence : VVILNCGE
+{123}
+Sequence : RVI
+{123, 140}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FFIT
+{119, 137, 138, 123}
+Sequence : VVSM
+{119, 123}
+Sequence : VFGKVVS
+{119, 123}
+Sequence : NLAGRIVMEL
+{119, 123}
+Sequence : RRVFLDVTI
+{119, 123}
+Sequence : VVILNCGE
+{123}
+Sequence : FHRVI
+{163, 119, 123}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FFIT
+{119, 137, 138, 123}
+Sequence : VVSM
+{119, 123}
+Sequence : VFGKVVS
+{119, 123}
+Sequence : NLAGRIVMEL
+{119, 123}
+Sequence : RVFLDVTI
+{123}
+Sequence : VVILNCGE
+{123}
+Sequence : RVI
+{123, 140}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : FFIT
+{119, 137, 138, 123}
+Sequence : VVSM
+{119, 123}
+Sequence : VFGKVVS
+{119, 123}
+Sequence : NLAGRIVMEL
+{119, 123}
+Sequence : RRVFLDVTI
+{119, 123}
+Sequence : VVILNCGE
+{123}

@@ -1,0 +1,22 @@
+Sequence : SIQAE
+{394}
+Sequence : TRRESERLLL
+{394}
+Sequence : SLQQLVAYYS
+{394}
+Sequence : YFG
+{394}
+Sequence : TFLVRE
+{394}
+Sequence : YCLSVSDFD
+{394}
+Sequence : GLNVKHYKIRK
+{394}
+Sequence : FY
+{394}
+Sequence : YFG
+{394}
+Sequence : TFLVRE
+{394}
+Sequence : TV
+{417, 548, 69, 421, 549, 70, 550, 551, 552, 394, 236, 561, 315, 316, 543}

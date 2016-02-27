@@ -1,0 +1,40 @@
+Sequence : FDDKA
+{145}
+Sequence : PETVKNFLDYCRE
+{145}
+Sequence : NDFL
+{145}
+Sequence : GMDEVDKIK
+{145}
+Sequence : MVTFH
+{145}
+Sequence : DIVIKT
+{145}
+Sequence : CVFAEVVD
+{145}
+Sequence : GTLAMA
+{145}
+Sequence : QFFINV
+{145}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : NTIFHRV
+{145}
+Sequence : VIIESVTVS
+{145}
+Sequence : MVTFH
+{145}
+Sequence : GR
+{145}
+Sequence : QD
+{145, 323, 324}
+Sequence : TNHG
+{145}
+Sequence : GFYN
+{145}
+Sequence : INGF
+{145}
+Sequence : TRGT
+{145}
+Sequence : SGMH
+{145}

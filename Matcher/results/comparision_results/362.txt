@@ -1,0 +1,38 @@
+Sequence : IAAGKST
+{362}
+Sequence : FVNILK
+{362}
+Sequence : VPEPVA
+{362}
+Sequence : NGGNVLQMM
+{362}
+Sequence : MYEKPERWSFTFQTYACLSRIRAQLA
+{362}
+Sequence : SLNGKL
+{362}
+Sequence : FERSVYSD
+{362}
+Sequence : DRYIFASNL
+{362}
+Sequence : ECMNETEWTIYQDWHDWMNNQFGQ
+{362}
+Sequence : LQATPETCLHRIY
+{362}
+Sequence : LRGRN
+{362}
+Sequence : QGIPLEYLEKLHYKHES
+{362}
+Sequence : KTNFDYL
+{362}
+Sequence : VNEDFKDKYESLVEKVKEF
+{362}
+Sequence : CEDW
+{362}
+Sequence : EKPVL
+{362}
+Sequence : TRIKKI
+{362}
+Sequence : ELDGII
+{362}
+Sequence : EVPIL
+{362}

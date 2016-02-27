@@ -1,0 +1,148 @@
+Sequence : HERVAG
+{532}
+Sequence : LAEAANSD
+{532}
+Sequence : DLADT
+{532}
+Sequence : DYVRLASRAAEIVAG
+{532}
+Sequence : LIETVGAEIADHVMD
+{532}
+Sequence : YAHERVAG
+{532}
+Sequence : LAEAANSD
+{532}
+Sequence : DLADT
+{532}
+Sequence : DYVRLASRAAEIVA
+{532}
+Sequence : LIETVGAEIADHVMD
+{532}
+Sequence : AHERVAG
+{532}
+Sequence : LAEAANSD
+{532}
+Sequence : DLADT
+{532}
+Sequence : DYVRLASRAAEIVA
+{532}
+Sequence : LIETVGAEIADHVMD
+{532}
+Sequence : AHERVA
+{532}
+Sequence : LAEAANSD
+{532}
+Sequence : DLADT
+{532}
+Sequence : DYVRLASRAAEIVA
+{532}
+Sequence : LIETVGAEIADHVMD
+{532}
+Sequence : DHERVAG
+{532}
+Sequence : LAEAANSD
+{532}
+Sequence : DLADT
+{532}
+Sequence : DYVRLASRAAEIVAG
+{532}
+Sequence : LIETVGAEIADHVMD
+{532}
+Sequence : YDHERV
+{532}
+Sequence : LAEAANSD
+{532}
+Sequence : DLADT
+{532}
+Sequence : DYVRLASRAAEIVAG
+{532}
+Sequence : LIETVGAEIADHVMD
+{532}
+Sequence : DHERVAG
+{532}
+Sequence : LAEAANSD
+{532}
+Sequence : DLADT
+{532}
+Sequence : DYVRLASRAAEIVAG
+{532}
+Sequence : LIETVGAEIADHVMD
+{532}
+Sequence : YDHERV
+{532}
+Sequence : LAEAANSD
+{532}
+Sequence : DLADT
+{532}
+Sequence : DYVRLASRAAEIVAG
+{532}
+Sequence : LIETVGAEIADHVMD
+{532}
+Sequence : RIELRGLTVHG
+{532}
+Sequence : QRFVIDVTVW
+{532}
+Sequence : AVEVAVH
+{532}
+Sequence : DVAVVIRRS
+{532}
+Sequence : RIELRGLTVHG
+{532}
+Sequence : QRFVIDVTVW
+{532}
+Sequence : AVEVAVH
+{532}
+Sequence : DVAVVIRRS
+{532}
+Sequence : RIELRGLTVHG
+{532}
+Sequence : QRFVIDVTVW
+{532}
+Sequence : AVEVAVH
+{532}
+Sequence : DVAVVIRRS
+{532}
+Sequence : RIELRGLTVHG
+{532}
+Sequence : QRFVIDVTVW
+{532}
+Sequence : AVEVAVH
+{532}
+Sequence : DVAVVIRRS
+{532}
+Sequence : RIELRGLTVHG
+{532}
+Sequence : RIELRGLTVHG
+{532}
+Sequence : QRFVIDVTVWI
+{532}
+Sequence : VHAVEVAVH
+{532}
+Sequence : DVAVVIRRS
+{532}
+Sequence : RIELRGLTVHG
+{532}
+Sequence : QRFVIDVTVW
+{532}
+Sequence : AVEVAVH
+{532}
+Sequence : DVAVVIRRS
+{532}
+Sequence : RIELRGLTVHG
+{532}
+Sequence : QRFVIDVTVW
+{532}
+Sequence : AVEVAVH
+{532}
+Sequence : DVAVVIRRS
+{532}
+Sequence : RIELRGLTVHG
+{532}
+Sequence : QRFVIDVTVWI
+{532}
+Sequence : VHAVEVAVH
+{532}
+Sequence : DVAVVIRRS
+{532}
+Sequence : RIELRGLTVHG
+{532}

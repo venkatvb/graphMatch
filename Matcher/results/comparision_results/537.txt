@@ -1,0 +1,84 @@
+Sequence : RYGG
+{537}
+Sequence : EFYEFKPV
+{537}
+Sequence : SAIEHTNLKPFATPDD
+{537}
+Sequence : ENRFHGVCVN
+{537}
+Sequence : VVTVVGFPLGANETRT
+{537}
+Sequence : VESGADE
+{537}
+Sequence : DMVINVGMLKAKEWEY
+{537}
+Sequence : ESVKG
+{537}
+Sequence : KVVKVIIETCYLDTE
+{537}
+Sequence : VKTSTGFGTGGAT
+{537}
+Sequence : DEMGVKASGGI
+{537}
+Sequence : MIMYGADRIGTSS
+{537}
+Sequence : RYGG
+{537}
+Sequence : EFYEFKPV
+{537}
+Sequence : SAIEHTNLKPFATPDD
+{537}
+Sequence : ENRFHGVCV
+{537}
+Sequence : VVTVVGFPLGANETRT
+{537}
+Sequence : VESGADE
+{537}
+Sequence : DMVINVGMLKAKEWEY
+{537}
+Sequence : ESVKG
+{537}
+Sequence : KVVKVIIETCYLDTE
+{537}
+Sequence : VKTSTGFGTGGAT
+{537}
+Sequence : DEMGVKASGGI
+{537}
+Sequence : MIMYGADRIGTSS
+{537}
+Sequence : RESAG
+{537}
+Sequence : KLCL
+{537}
+Sequence : KLAREE
+{537}
+Sequence : HEAIF
+{537}
+Sequence : DIRSV
+{537}
+Sequence : AAC
+{537}
+Sequence : VHLMK
+{537}
+Sequence : EDAV
+{537}
+Sequence : RESAG
+{537}
+Sequence : RESAG
+{537}
+Sequence : KLCL
+{537}
+Sequence : KLAREE
+{537}
+Sequence : HEAIF
+{537}
+Sequence : DIRSV
+{537}
+Sequence : AAC
+{537}
+Sequence : VHLMK
+{537}
+Sequence : EDAV
+{537}
+Sequence : RESAG
+{537}

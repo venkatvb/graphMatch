@@ -1,0 +1,80 @@
+Sequence : SVSRAAITAA
+{223}
+Sequence : PETEAVSMLLEQAR
+{223}
+Sequence : PQPVAEQAHKLAYQLADKLRN
+{223}
+Sequence : NASGRAGMVQGLLQE
+{223}
+Sequence : QEGVALMCLAEALLR
+{223}
+Sequence : DKATRDALIRDK
+{223}
+Sequence : ATWGLLF
+{223}
+Sequence : NEASLSRSLNRII
+{223}
+Sequence : GEPLIRKGVDMAMRLMGE
+{223}
+Sequence : QFV
+{223}
+Sequence : TIAEALANARKLEE
+{223}
+Sequence : TAADAQAYMVSYQQAIHAIGKASN
+{223}
+Sequence : RGIYEG
+{223}
+Sequence : KLSAL
+{223}
+Sequence : RYSRA
+{223}
+Sequence : QYDRVMEELYPRLKSLTLLARQYD
+{223}
+Sequence : EAD
+{223}
+Sequence : RLEISLDLLEKLC
+{223}
+Sequence : FEPELA
+{223}
+Sequence : RCPLVIDYLIDLATRS
+{223}
+Sequence : YWDSEIKRAQMDG
+{223}
+Sequence : RKVYTDVSYLACAKKLLA
+{223}
+Sequence : NAHTLAAIYQLA
+{223}
+Sequence : YPGQY
+{223}
+Sequence : GEPLYE
+{223}
+Sequence : KVADG
+{223}
+Sequence : THET
+{223}
+Sequence : LLAYLVRRLLENGA
+{223}
+Sequence : SFVNRI
+{223}
+Sequence : PLDELV
+{223}
+Sequence : DPVTAVEKLAQQEG
+{223}
+Sequence : RYSYDM
+{223}
+Sequence : GISI
+{223}
+Sequence : INI
+{223}
+Sequence : IGFVIQ
+{223}
+Sequence : LMIRLV
+{223}
+Sequence : IYPQFA
+{223}
+Sequence : EFQCL
+{223}
+Sequence : CRIYAPV
+{223}
+Sequence : RYSYDM
+{223}

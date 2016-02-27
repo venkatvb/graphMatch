@@ -1,0 +1,128 @@
+Sequence : RGSHHHHHHGSMDAQS
+{349}
+Sequence : HSPLVHSITNNVV
+{349}
+Sequence : LGASPVMA
+{349}
+Sequence : IAGALVLNIGTLSKESV
+{349}
+Sequence : VPVILDPVGAGATPF
+{349}
+Sequence : IIREVRLAAI
+{349}
+Sequence : IKGVDAGEGGGDI
+{349}
+Sequence : ADTSHVY
+{349}
+Sequence : LHNGHKLLTKVTGAGSL
+{349}
+Sequence : TSVVGAFCAVEENPLFAAIAAISSY
+{349}
+Sequence : AAQLAAQQTADKGPGS
+{349}
+Sequence : FQIELLNKL
+{349}
+Sequence : RGSHHHHHHGSMDAQS
+{349}
+Sequence : HSPLVHSITNNVV
+{349}
+Sequence : LGASPVMA
+{349}
+Sequence : IAGALVLNIGTLSKESVE
+{349}
+Sequence : VPVILDPVGAGATPF
+{349}
+Sequence : IIREVRLAAI
+{349}
+Sequence : LIKGVDAGEGGGDI
+{349}
+Sequence : ADTSHVY
+{349}
+Sequence : LHNGHKLLTKVTGAG
+{349}
+Sequence : TSVVGAFCAVEENPLFAAIAAISSY
+{349}
+Sequence : AAQLAAQQTADKGPGS
+{349}
+Sequence : FQIELLNKL
+{349}
+Sequence : ERVTV
+{349}
+Sequence : RGSHHHHHHGSMDAQS
+{349}
+Sequence : HSPLVHSITNNVV
+{349}
+Sequence : LGASPVMA
+{349}
+Sequence : IAGALVLNIGTLSKESVE
+{349}
+Sequence : VPVILDPVGAGATPF
+{349}
+Sequence : IIREVRLAAI
+{349}
+Sequence : KGVDAGEGGGDI
+{349}
+Sequence : ADTSHVY
+{349}
+Sequence : LHNGHKLLTKVTGAGSL
+{349}
+Sequence : TSVVGAFCAVEENPLFAAIAAISS
+{349}
+Sequence : AAQLAAQQTADKGPGS
+{349}
+Sequence : FQIELLNKL
+{349}
+Sequence : NFTA
+{349}
+Sequence : AKCLT
+{349}
+Sequence : KEEVA
+{349}
+Sequence : IAGK
+{349}
+Sequence : SARD
+{349}
+Sequence : RLAQ
+{349}
+Sequence : KLNT
+{349}
+Sequence : TGEV
+{349}
+Sequence : TVT
+{279, 349}
+Sequence : NFTA
+{349}
+Sequence : AKCLT
+{349}
+Sequence : KEEVA
+{349}
+Sequence : IAGK
+{349}
+Sequence : SARD
+{349}
+Sequence : RLAQ
+{349}
+Sequence : KLNTV
+{349}
+Sequence : ITGEV
+{349}
+Sequence : TVT
+{279, 349}
+Sequence : NFT
+{349}
+Sequence : AKCLT
+{349}
+Sequence : KEEVA
+{349}
+Sequence : IAGK
+{349}
+Sequence : SARD
+{349}
+Sequence : RLAQ
+{349}
+Sequence : KLNTV
+{349}
+Sequence : ITGEV
+{349}
+Sequence : TVT
+{279, 349}

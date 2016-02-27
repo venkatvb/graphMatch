@@ -1,0 +1,28 @@
+Sequence : KFDDFAK
+{12}
+Sequence : KPEELL
+{12}
+Sequence : VRTLVA
+{12}
+Sequence : YVVKVD
+{12}
+Sequence : LRVGKIIEVKD
+{12}
+Sequence : YVVVV
+{12}
+Sequence : VRTLVA
+{12}
+Sequence : YVVKVD
+{12}
+Sequence : LRVGKIIEVKD
+{12}
+Sequence : KV
+{241, 12}
+Sequence : KK
+{202, 12, 188}
+Sequence : GS
+{432, 8, 282, 586, 12}
+Sequence : AAD
+{12}
+Sequence : VAL
+{12}

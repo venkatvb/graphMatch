@@ -1,0 +1,54 @@
+Sequence : SSNDALQKVKRIY
+{590}
+Sequence : EATKF
+{590}
+Sequence : SQYLLD
+{590}
+Sequence : SAEQLAAALDT
+{590}
+Sequence : YIRTIIDDLGEKL
+{590}
+Sequence : PVERM
+{590}
+Sequence : TLEHLRELVEQAEQQD
+{590}
+Sequence : PAAELLD
+{590}
+Sequence : PLL
+{17, 18, 590}
+Sequence : DSPAS
+{590}
+Sequence : PLTSSVYFKN
+{590}
+Sequence : GVLLLDK
+{590}
+Sequence : TGMLPICL
+{590}
+Sequence : AGH
+{590}
+Sequence : GVLLLDK
+{590}
+Sequence : TGMLPICL
+{590}
+Sequence : AHVIYLRRLAV
+{590}
+Sequence : KRYRVIARL
+{590}
+Sequence : ELELEIHC
+{590}
+Sequence : TVYELLFIRHE
+{590}
+Sequence : GD
+{585, 590, 591}
+Sequence : QRT
+{590}
+Sequence : IVEE
+{402, 403, 590}
+Sequence : VVNL
+{590}
+Sequence : LVRVTE
+{590}
+Sequence : KFIGMGEI
+{590}
+Sequence : VAPRRL
+{590}

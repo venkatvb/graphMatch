@@ -1,0 +1,64 @@
+Sequence : LGHAYTTVVADFLARWHRL
+{10}
+Sequence : ETVYRAAQA
+{10}
+Sequence : PKAFVDRVSGRFKRAWDL
+{10}
+Sequence : ERHKKVVQLVLKKVYE
+{10}
+Sequence : EKYRPWLQEYIQE
+{10}
+Sequence : EGYRNEVLAM
+{10}
+Sequence : WFDALLNYVSAL
+{10}
+Sequence : EAYRTFWPH
+{10}
+Sequence : KDILKPHA
+{10}
+Sequence : FWPTMLKAA
+{10}
+Sequence : PFALLEKY
+{10}
+Sequence : RDALRYYLLRE
+{10}
+Sequence : EEALRTRYEA
+{10}
+Sequence : GNLVQRTRAMLFRF
+{10}
+Sequence : EELAEGTGLAGRLRPLVR
+{10}
+Sequence : FHVALEEAMAYVKALNRYINEK
+{10}
+Sequence : PWELFKK
+{10}
+Sequence : PEEARAVLYRVVEGLRIASILLT
+{10}
+Sequence : PDKMAELRRA
+{10}
+Sequence : LEEAE
+{10}
+Sequence : HLNVG
+{10}
+Sequence : AWHLIG
+{10}
+Sequence : VFYVT
+{10}
+Sequence : RTFFLTGT
+{10}
+Sequence : DFIR
+{10}
+Sequence : IYY
+{10}
+Sequence : GTD
+{10}
+Sequence : ERRKEGNYFF
+{10}
+Sequence : IYYGEYEGLYC
+{10}
+Sequence : RFY
+{10}
+Sequence : SRP
+{10}
+Sequence : HVT
+{10}

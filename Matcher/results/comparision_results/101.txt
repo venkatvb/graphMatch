@@ -1,0 +1,90 @@
+Sequence : SMLS
+{101, 102}
+Sequence : SDF
+{101, 102, 200}
+Sequence : ANLAAEADRMVR
+{101, 102}
+Sequence : IGAPVIQSLR
+{101, 102}
+Sequence : TNPS
+{101}
+Sequence : DYVEPLAKA
+{101}
+Sequence : IEV
+{101, 252}
+Sequence : DNWQELIQSIKA
+{101}
+Sequence : TPVE
+{101, 102}
+Sequence : EVFPLVE
+{101, 102}
+Sequence : FMP
+{101, 102}
+Sequence : EMMEKVRALRKK
+{101, 102}
+Sequence : STIDVAASA
+{101}
+Sequence : AGSSIF
+{101, 102}
+Sequence : AEPGEVISALRKSVEG
+{101}
+Sequence : SMLS
+{101, 102}
+Sequence : SDF
+{101, 102, 200}
+Sequence : ANLAAEADRMVR
+{101, 102}
+Sequence : IGAPVIQSLR
+{101, 102}
+Sequence : TNPS
+{101}
+Sequence : DYVEPLAKA
+{101}
+Sequence : DNWQELIQSIKA
+{101}
+Sequence : TPVE
+{101, 102}
+Sequence : EVFPLVE
+{101, 102}
+Sequence : FMP
+{101, 102}
+Sequence : EMMEKVRALRKK
+{101, 102}
+Sequence : STIDVAASA
+{101}
+Sequence : AGSSIF
+{101, 102}
+Sequence : AEPGEVISALRKSVEG
+{101}
+Sequence : AKIA
+{101, 102}
+Sequence : NCIV
+{101, 102}
+Sequence : LDIEV
+{101, 102}
+Sequence : ELVLV
+{101, 102}
+Sequence : MRPGVS
+{101, 102}
+Sequence : SGFTF
+{101, 102}
+Sequence : AYLDCHL
+{101, 102}
+Sequence : DWLHMDI
+{101, 102}
+Sequence : AKIA
+{101, 102}
+Sequence : NCIV
+{101, 102}
+Sequence : LDIEV
+{101, 102}
+Sequence : ELVLV
+{101, 102}
+Sequence : MRPGVS
+{101, 102}
+Sequence : SGFTF
+{101, 102}
+Sequence : AYLDCHL
+{101, 102}
+Sequence : DWLHMDI
+{101, 102}

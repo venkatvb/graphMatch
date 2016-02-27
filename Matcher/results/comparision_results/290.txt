@@ -1,0 +1,76 @@
+Sequence : KNVL
+{290}
+Sequence : APLVKYREEELHNLR
+{290}
+Sequence : LTYGLKSVSQNVLPLLQSAF
+{290}
+Sequence : FDEVH
+{290}
+Sequence : TDII
+{290}
+Sequence : DEEFAREMLA
+{290}
+Sequence : VDEAIQ
+{290}
+Sequence : IMPYLRRI
+{290}
+Sequence : VESSIWLLAKAYVVVNDSCYHQLVSHWLNTHAVVEPFIIATNRH
+{290}
+Sequence : PIYKLLHPHY
+{290}
+Sequence : TMNINGLARLS
+{290}
+Sequence : VIEQT
+{290}
+Sequence : SVEMSAVVY
+{290}
+Sequence : FTDQALPADLIK
+{290}
+Sequence : PYTVDGLEIWDAIKTWVHEYVFLY
+{290}
+Sequence : DDTLRE
+{290}
+Sequence : PELQACWKELVE
+{290}
+Sequence : REELVEACAIIIWTASALHAAVNFGQYPYG
+{290}
+Sequence : EYEELRKNPQKAYL
+{290}
+Sequence : KFQTLIDLSVIEIL
+{290}
+Sequence : TRALEAFKRFGNKLAQIENKLSERN
+{290}
+Sequence : HKIKGTVVLMR
+{290}
+Sequence : QSAFKINFE
+{290}
+Sequence : GKLGKATF
+{290}
+Sequence : VSLQLISATKA
+{290}
+Sequence : PGAFYIKN
+{290}
+Sequence : RIFF
+{290}
+Sequence : IHFVCNSWI
+{290}
+Sequence : FFLVSLTLE
+{290}
+Sequence : YD
+{290, 562, 331, 555, 332, 556}
+Sequence : RG
+{290}
+Sequence : RC
+{290}
+Sequence : LFLLDH
+{290}
+Sequence : ATRTILFL
+{290}
+Sequence : LRPLAIELSL
+{290}
+Sequence : FSQVF
+{290}
+Sequence : AIE
+{290, 196}
+Sequence : IRL
+{290}

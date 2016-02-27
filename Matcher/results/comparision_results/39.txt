@@ -1,0 +1,48 @@
+Sequence : SAEHVLTMLNE
+{39, 40}
+Sequence : DPRSIAKRAEDYLRA
+{39, 40}
+Sequence : AQDIRSEMCLVMEQ
+{39, 40}
+Sequence : TMTKKADEIQIYKYVVHNVAHRF
+{39, 40}
+Sequence : SEQALYYIGGVIKHAKAINALA
+{39, 40}
+Sequence : NSYKR
+{39, 40}
+Sequence : NPYLCFAALLMAGLDGIK
+{39, 40}
+Sequence : SLEEALNALDLDREFLK
+{39, 40}
+Sequence : TDEAIDAYIALRREEDDRVRM
+{39, 40}
+Sequence : HPVEFELY
+{39, 40}
+Sequence : KFVDLRF
+{39, 40}
+Sequence : KEQHVTI
+{39, 40}
+Sequence : GKMF
+{39, 40}
+Sequence : DMVLM
+{39, 40}
+Sequence : STLIIRCDI
+{39, 40}
+Sequence : DTVLFGPEPEFFL
+{39, 40}
+Sequence : DDIRFGASI
+{39, 40}
+Sequence : SGSHVAI
+{39, 40}
+Sequence : VVEAHH
+{39, 40}
+Sequence : GQNEVA
+{39, 40}
+Sequence : GMHCHMSLA
+{39, 40}
+Sequence : VMLAY
+{39, 40}
+Sequence : SASIR
+{39, 40}
+Sequence : RIEV
+{39, 40}

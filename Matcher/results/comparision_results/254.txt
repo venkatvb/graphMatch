@@ -1,0 +1,48 @@
+Sequence : PGA
+{21, 22, 24, 25, 26, 254}
+Sequence : KELADKL
+{254}
+Sequence : PGA
+{21, 22, 24, 25, 26, 254}
+Sequence : KELADKL
+{254}
+Sequence : PGA
+{21, 22, 24, 25, 26, 254}
+Sequence : KELADKL
+{254}
+Sequence : TFTVKM
+{254}
+Sequence : TVKWVN
+{254}
+Sequence : SYEIT
+{254}
+Sequence : NVTVH
+{254}
+Sequence : VGKITVE
+{254}
+Sequence : GTYTYY
+{254}
+Sequence : TFTVKM
+{254}
+Sequence : TVKWVN
+{254}
+Sequence : SYEIT
+{254}
+Sequence : NVTVH
+{254}
+Sequence : VGKITVE
+{254}
+Sequence : GTYTYY
+{254}
+Sequence : TFTVKM
+{254}
+Sequence : TVKWVN
+{254}
+Sequence : SYEIT
+{254}
+Sequence : NVTVH
+{254}
+Sequence : VGKITVE
+{254}
+Sequence : GTYTYY
+{254}

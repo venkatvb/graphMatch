@@ -1,0 +1,192 @@
+Sequence : LEDLKRQVLEANLALPKH
+{118}
+Sequence : TADDM
+{118}
+Sequence : DTPTHRLLYQAF
+{118}
+Sequence : SRHATIWAQAG
+{118}
+Sequence : GTTHAD
+{118}
+Sequence : TDAEING
+{118}
+Sequence : EYEWETGNVIVETFEKQ
+{118}
+Sequence : NAEDAVHNAIVLEEVAYMGIFCRQLA
+{118}
+Sequence : QQTLLNKHYLRK
+{118}
+Sequence : LEDLKRQVLEANLALPKH
+{118}
+Sequence : TADDM
+{118}
+Sequence : DTPTHRLLYQAF
+{118}
+Sequence : SRHATIWAQA
+{118}
+Sequence : GTTHAD
+{118}
+Sequence : TDAEING
+{118}
+Sequence : EYEWETGNVIVETFEKQ
+{118}
+Sequence : NAEDAVHNAIVLEEVAYMGIFCRQLA
+{118}
+Sequence : QQTLLNKHYLRK
+{118}
+Sequence : LEDLKRQVLEANLALPKH
+{118}
+Sequence : TADDM
+{118}
+Sequence : DTPTHRLLYQAF
+{118}
+Sequence : SRHATIWAQA
+{118}
+Sequence : GTTHAD
+{118}
+Sequence : TDAEING
+{118}
+Sequence : EYEWETGNVIVETFEKQ
+{118}
+Sequence : NAEDAVHNAIVLEEVAYMGIFCRQLA
+{118}
+Sequence : QQTLLNKHYLRK
+{118}
+Sequence : LEDLKRQVLEANLALPKH
+{118}
+Sequence : TADDM
+{118}
+Sequence : DTPTHRLLYQAF
+{118}
+Sequence : SRHATIWAQAG
+{118}
+Sequence : GTTHAD
+{118}
+Sequence : TDAEING
+{118}
+Sequence : EYEWETGNVIVETFEKQ
+{118}
+Sequence : NAEDAVHNAIVLEEVAYMGIFCRQLA
+{118}
+Sequence : QQTLLNKHYLRK
+{118}
+Sequence : LEDLKRQVLEANLALPKH
+{118}
+Sequence : TADDM
+{118}
+Sequence : DTPTHRLLYQAF
+{118}
+Sequence : SRHATIWAQAG
+{118}
+Sequence : GTTHAD
+{118}
+Sequence : TDAEING
+{118}
+Sequence : EYEWETGNVIVETFEKQ
+{118}
+Sequence : NAEDAVHNAIVLEEVAYMGIFCRQLA
+{118}
+Sequence : QQTLLNKHYLRK
+{118}
+Sequence : LEDLKRQVLEANLALPKH
+{118}
+Sequence : TADDM
+{118}
+Sequence : DTPTHRLLYQAF
+{118}
+Sequence : SRHATIWAQA
+{118}
+Sequence : GTTHAD
+{118}
+Sequence : TDAEING
+{118}
+Sequence : EYEWETGNVIVETFEKQ
+{118}
+Sequence : NAEDAVHNAIVLEEVAYMGIFCRQLA
+{118}
+Sequence : QQTLLNKHYLRK
+{118}
+Sequence : VVE
+{118}
+Sequence : VVVS
+{118}
+Sequence : VFVI
+{118}
+Sequence : NVSAVD
+{118}
+Sequence : GIVH
+{118}
+Sequence : GPFAWG
+{118}
+Sequence : GVLV
+{118}
+Sequence : VVE
+{118}
+Sequence : VVVS
+{118}
+Sequence : VFVI
+{118}
+Sequence : NVSAVD
+{118}
+Sequence : GIVH
+{118}
+Sequence : GPFAWG
+{118}
+Sequence : GVLV
+{118}
+Sequence : VVE
+{118}
+Sequence : VVVS
+{118}
+Sequence : VFVI
+{118}
+Sequence : NVSAVD
+{118}
+Sequence : GIVH
+{118}
+Sequence : GPFAWG
+{118}
+Sequence : GVLV
+{118}
+Sequence : VVE
+{118}
+Sequence : VVVS
+{118}
+Sequence : VFVI
+{118}
+Sequence : NVSAVD
+{118}
+Sequence : GIVH
+{118}
+Sequence : GPFAWG
+{118}
+Sequence : GVLV
+{118}
+Sequence : VVE
+{118}
+Sequence : VVVS
+{118}
+Sequence : VFVI
+{118}
+Sequence : NVSAVD
+{118}
+Sequence : GIVH
+{118}
+Sequence : GPFAWG
+{118}
+Sequence : GVLV
+{118}
+Sequence : VVE
+{118}
+Sequence : VVVS
+{118}
+Sequence : VFVI
+{118}
+Sequence : NVSAVD
+{118}
+Sequence : GIVH
+{118}
+Sequence : GPFAWG
+{118}
+Sequence : GVLV
+{118}

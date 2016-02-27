@@ -1,0 +1,70 @@
+Sequence : INGVLLLDKPQGM
+{585}
+Sequence : DPLAT
+{585}
+Sequence : GMLPIC
+{585}
+Sequence : ADGQIVEERPV
+{585}
+Sequence : PSMYSAL
+{585}
+Sequence : NELELEIHCSKGT
+{585}
+Sequence : HVIYL
+{585}
+Sequence : LAVSKYPVERMVTL
+{585}
+Sequence : RELVEQ
+{585}
+Sequence : AEQ
+{72, 73, 585, 74}
+Sequence : PAAEL
+{585}
+Sequence : MDSPASDYP
+{585}
+Sequence : SAEQL
+{585}
+Sequence : EYARQGIEVPREAR
+{585}
+Sequence : TVYELLFI
+{585}
+Sequence : EATKFSQYL
+{585}
+Sequence : TIIDDLGEKLG
+{585}
+Sequence : NRAGHTGA
+{585}
+Sequence : SSGHIEG
+{585}
+Sequence : RR
+{585}
+Sequence : SAEQL
+{585}
+Sequence : EYARQGIEVPREAR
+{585}
+Sequence : TVYELLFI
+{585}
+Sequence : EATKFSQYL
+{585}
+Sequence : TIIDDLGEKLG
+{585}
+Sequence : NRAGHTGA
+{585}
+Sequence : ALQ
+{585}
+Sequence : DSD
+{585}
+Sequence : LGQR
+{585}
+Sequence : GD
+{585, 590, 591}
+Sequence : QI
+{585, 94, 95}
+Sequence : LLMP
+{585}
+Sequence : GNPVRT
+{585}
+Sequence : LEGLVRVT
+{585}
+Sequence : KFIGMG
+{585}

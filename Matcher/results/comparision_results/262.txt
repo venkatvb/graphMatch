@@ -1,0 +1,50 @@
+Sequence : EDFQKVYNAIALKLREDDE
+{261, 262}
+Sequence : DNYIGY
+{261, 262}
+Sequence : PVLVRLAWHISGTW
+{261, 262}
+Sequence : YRFK
+{262}
+Sequence : KEFNDP
+{262}
+Sequence : SNAGL
+{262}
+Sequence : Q
+{262}
+Sequence : NGFKFLEPIHKEFPW
+{261, 262}
+Sequence : GDLFSLGGVTAVQEMQG
+{261, 262}
+Sequence : DTTPD
+{262}
+Sequence : GYVRTFFQRLN
+{261, 262}
+Sequence : REVVALMGAGA
+{261, 262}
+Sequence : LGK
+{261, 262, 523}
+Sequence : KNSGYE
+{261, 262}
+Sequence : FYLNLLNEDW
+{261, 262}
+Sequence : TDYSLI
+{261, 262}
+Sequence : QDP
+{262}
+Sequence : KYLSIVKEYANDQ
+{261, 262}
+Sequence : DKFFKDFSKAFEKLLENGI
+{261, 262}
+Sequence : EEQGL
+{261, 262}
+Sequence : HL
+{261, 262, 87, 89}
+Sequence : WG
+{261, 262}
+Sequence : LEKND
+{262}
+Sequence : WDSKS
+{262}
+Sequence : LP
+{528, 261, 230, 262, 87, 589}

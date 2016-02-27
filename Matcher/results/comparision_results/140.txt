@@ -1,0 +1,26 @@
+Sequence : APVSVQNFVDYVNS
+{140}
+Sequence : EADNG
+{140}
+Sequence : NAFLD
+{140}
+Sequence : GMDVADKISQ
+{140}
+Sequence : TT
+{140, 94, 95}
+Sequence : VILSATV
+{140}
+Sequence : HVLLTT
+{140}
+Sequence : GNIELEL
+{140}
+Sequence : VFGKVVK
+{140}
+Sequence : TIAM
+{140}
+Sequence : FFIN
+{163, 140}
+Sequence : MIQG
+{145, 163, 119, 137, 138, 123, 140, 127}
+Sequence : RVI
+{123, 140}

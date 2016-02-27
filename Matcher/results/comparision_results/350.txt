@@ -1,0 +1,76 @@
+Sequence : AEN
+{75, 350}
+Sequence : KEEAIRFAGEQLVK
+{350}
+Sequence : PEYVQAMLDREKL
+{350}
+Sequence : VEAKDR
+{350}
+Sequence : HIQVITSLTNA
+{350}
+Sequence : ESVIERLAH
+{350}
+Sequence : VDEVLEL
+{350}
+Sequence : AEN
+{75, 350}
+Sequence : KEEAIRFAGEQLVK
+{350}
+Sequence : PEYVQAMLDREKL
+{350}
+Sequence : VEAKDR
+{350}
+Sequence : HIQVITSLTNA
+{350}
+Sequence : ESVIERLAH
+{350}
+Sequence : VDEVLEL
+{350}
+Sequence : AEN
+{75, 350}
+Sequence : KEEAIRFAGEQLVK
+{350}
+Sequence : PEYVQAMLDREKL
+{350}
+Sequence : VEAKDR
+{350}
+Sequence : RNN
+{350}
+Sequence : HIQVITSLTNA
+{350}
+Sequence : ESVIERLAH
+{350}
+Sequence : VDEVLEL
+{350}
+Sequence : AEN
+{75, 350}
+Sequence : KEEAIRFAGEQLVK
+{350}
+Sequence : PEYVQAMLDREKL
+{350}
+Sequence : VEAKDR
+{350}
+Sequence : RNN
+{350}
+Sequence : HIQVITSLTNA
+{350}
+Sequence : ESVIERLAH
+{350}
+Sequence : VDEVLELL
+{350}
+Sequence : GVVFCQ
+{350}
+Sequence : LVIGIA
+{350}
+Sequence : GVVFCQ
+{350}
+Sequence : LVIGIA
+{350}
+Sequence : GVVFCQ
+{350}
+Sequence : LVIGIA
+{350}
+Sequence : GVVFCQ
+{350}
+Sequence : LVIGIA
+{350}

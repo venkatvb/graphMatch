@@ -1,0 +1,96 @@
+Sequence : RKKNLGELITTLNAA
+{176}
+Sequence : PTA
+{176}
+Sequence : YIDFARQKL
+{176}
+Sequence : SPGMIKDC
+{176}
+Sequence : HSERRHV
+{176}
+Sequence : SDELIGQKVAHALSE
+{176}
+Sequence : KLDEREA
+{176}
+Sequence : ITEKVVFEQTKVIADN
+{176}
+Sequence : DWS
+{176}
+Sequence : PVWAI
+{176}
+Sequence : TPQQAQEVHEKLRGWLKSNV
+{176}
+Sequence : SDAVAQST
+{176}
+Sequence : TCKELAS
+{176}
+Sequence : GGASLK
+{176, 169}
+Sequence : PEFVDIIN
+{176, 169}
+Sequence : RKKNLGELITTLNAA
+{176}
+Sequence : PTA
+{176}
+Sequence : YIDFARQKL
+{176}
+Sequence : SPGMIKDC
+{176}
+Sequence : HSERRHV
+{176}
+Sequence : SDELIGQKVAHALSE
+{176}
+Sequence : KLDEREA
+{176}
+Sequence : ITEKVVFEQTKVIADN
+{176}
+Sequence : DWS
+{176}
+Sequence : PVWAI
+{176}
+Sequence : TPQQAQEVHEKLRGWLKSNV
+{176}
+Sequence : SDAVAQST
+{176}
+Sequence : TCKELAS
+{176}
+Sequence : GGASLK
+{176, 169}
+Sequence : PEFVDIIN
+{176, 169}
+Sequence : FFVGGN
+{176, 169}
+Sequence : TEVVCA
+{176}
+Sequence : IAVAA
+{176}
+Sequence : WVVL
+{176}
+Sequence : GVIACI
+{176}
+Sequence : VVLAY
+{176}
+Sequence : IIY
+{176}
+Sequence : GFLV
+{176, 182, 184, 169, 185, 170, 218, 171, 174}
+Sequence : FFVGGN
+{176, 169}
+Sequence : FFVGGN
+{176, 169}
+Sequence : TEVVCA
+{176}
+Sequence : AVAA
+{176}
+Sequence : WVVL
+{176}
+Sequence : GVIACI
+{176}
+Sequence : VVLAY
+{176}
+Sequence : IIY
+{176}
+Sequence : GFLV
+{176, 182, 184, 169, 185, 170, 218, 171, 174}
+Sequence : FFVGGN
+{176, 169}

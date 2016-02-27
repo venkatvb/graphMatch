@@ -1,0 +1,90 @@
+Sequence : PEQWSK
+{553}
+Sequence : PIAN
+{544, 545, 546, 553, 62}
+Sequence : PAT
+{544, 545, 546, 169, 553}
+Sequence : LAEA
+{544, 545, 546, 553}
+Sequence : PKL
+{544, 545, 546, 553}
+Sequence : QKVLD
+{553}
+Sequence : ALQAI
+{553}
+Sequence : PSTL
+{544, 545, 546, 553}
+Sequence : SSEQLAQFR
+{553}
+Sequence : KH
+{544, 545, 546, 553}
+Sequence : RA
+{544, 545, 546, 553, 219}
+Sequence : FWTYPG
+{544, 545, 546, 553}
+Sequence : VTWIIC
+{544, 545, 546, 553}
+Sequence : LAVIGVLMKV
+{544, 545, 546, 553}
+Sequence : AELHVAHW
+{553}
+Sequence : YRLFQFHFHW
+{544, 545, 546, 553}
+Sequence : FHVNF
+{544, 545, 546, 553}
+Sequence : AKEIIN
+{544, 545, 546, 553}
+Sequence : RAP
+{307, 553}
+Sequence : KH
+{544, 545, 546, 553}
+Sequence : RA
+{544, 545, 546, 553, 219}
+Sequence : FWTYPG
+{544, 545, 546, 553}
+Sequence : ISV
+{544, 545, 546, 553}
+Sequence : LAVIGVLMKV
+{544, 545, 546, 553}
+Sequence : AELHVAHW
+{553}
+Sequence : YRLFQFHFHW
+{544, 545, 546, 553}
+Sequence : FHVNF
+{544, 545, 546, 553}
+Sequence : AKEIIN
+{544, 545, 546, 553}
+Sequence : RAP
+{307, 553}
+Sequence : ISVS
+{544, 545, 546, 553}
+Sequence : VLKG
+{544, 545, 561, 546, 548, 549, 550, 552, 553, 543}
+Sequence : YRLFQFHFHW
+{544, 545, 546, 553}
+Sequence : QSPV
+{553}
+Sequence : KTSE
+{553}
+Sequence : GGPF
+{544, 545, 546, 553}
+Sequence : TNEH
+{553}
+Sequence : VDGV
+{544, 545, 546, 553}
+Sequence : NSAK
+{553}
+Sequence : AASK
+{544, 545, 546, 553}
+Sequence : KADG
+{544, 545, 546, 553}
+Sequence : TKGK
+{544, 545, 546, 553}
+Sequence : HPPL
+{544, 545, 546, 553}
+Sequence : FRSL
+{544, 545, 546, 553}
+Sequence : VEGD
+{544, 545, 546, 553}
+Sequence : LKGR
+{544, 545, 546, 553}

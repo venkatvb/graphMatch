@@ -1,0 +1,64 @@
+Sequence : DVWFLEKLAHFD
+{268, 271}
+Sequence : AKIFS
+{268, 271}
+Sequence : DPL
+{268, 271}
+Sequence : KFPDLNHIVK
+{268, 271}
+Sequence : NMAYKWDFFSH
+{268, 271}
+Sequence : LPE
+{268, 271}
+Sequence : SLHQLTIDMS
+{268, 271}
+Sequence : DRGL
+{268, 271}
+Sequence : SYRFV
+{268, 271}
+Sequence : MDDEAEALVGKD
+{268, 271}
+Sequence : ESSQRDLFEAIER
+{271}
+Sequence : KEAST
+{268, 271}
+Sequence : NYFSDV
+{268, 271}
+Sequence : DKMLQGRLFSYGDAHRYRLG
+{268, 271}
+Sequence : NHHQI
+{268, 271}
+Sequence : QPDFK
+{268, 271}
+Sequence : NHRED
+{268, 271}
+Sequence : FSQPRALYELL
+{268, 271}
+Sequence : SDDEHQRMFARIAGELS
+{268, 271}
+Sequence : SKETQQRQIDLFTKVH
+{268, 271}
+Sequence : HPEYGAGVEKAIKVLE
+{268, 271}
+Sequence : IS
+{528, 271}
+Sequence : YSFI
+{271}
+Sequence : RFWVKFHFRC
+{268, 271}
+Sequence : GF
+{416, 17, 417, 18, 421, 271}
+Sequence : GNWDMVGN
+{268, 271}
+Sequence : GFALKFYT
+{268, 271}
+Sequence : KTEMFARFS
+{268, 271}
+Sequence : GSGAFGTFTV
+{268, 271}
+Sequence : MDVGYFELNR
+{268, 271}
+Sequence : RWKLQIQIMP
+{268, 271}
+Sequence : RFWVKFHFRC
+{268, 271}

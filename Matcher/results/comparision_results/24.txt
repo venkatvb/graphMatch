@@ -1,0 +1,84 @@
+Sequence : FIRQIIDEDLA
+{24, 25}
+Sequence : IGHAKSICLNFGIAQD
+{21, 22, 24, 25, 26}
+Sequence : PVK
+{21, 22, 24, 26}
+Sequence : IEYVESIKNDVEW
+{21, 22, 24, 25, 26}
+Sequence : SSDYFDQLHAYAIELIN
+{21, 22, 24, 25, 26}
+Sequence : PEQIREYR
+{21, 22, 24, 26}
+Sequence : VEENLALFEKMR
+{22, 24, 25, 26}
+Sequence : IVM
+{21, 22, 24, 25, 26}
+Sequence : YDFTHCISDALE
+{21, 22, 24, 25}
+Sequence : LEF
+{21, 22, 24, 25, 26, 251}
+Sequence : NRRLYDWVLDN
+{21, 24, 25, 26}
+Sequence : KRKLNLLVT
+{21, 22, 24, 25, 26}
+Sequence : ISGLRRR
+{21, 22, 24, 25, 26}
+Sequence : AASIREFCKRI
+{21, 22, 24, 25, 26}
+Sequence : MASLESCIREDLNEN
+{21, 22, 24, 25, 26}
+Sequence : PEM
+{21, 22, 24, 25, 26}
+Sequence : RAD
+{21, 22, 24, 25}
+Sequence : AAH
+{22, 24, 25}
+Sequence : PGA
+{21, 22, 24, 25, 26, 254}
+Sequence : LSV
+{21, 24}
+Sequence : PSLKD
+{21, 22, 24, 25, 26}
+Sequence : HTRF
+{21, 22, 24, 25, 26}
+Sequence : QCNL
+{21, 22, 24, 25, 26}
+Sequence : AYVD
+{21, 22, 24, 25, 26}
+Sequence : CLRA
+{21, 22, 24, 25, 26}
+Sequence : YRI
+{22, 24, 25}
+Sequence : IYP
+{21, 533, 22, 406, 24, 25, 409, 26, 411, 412, 413, 414}
+Sequence : HSLCT
+{21, 22, 24, 25, 26}
+Sequence : RQYEF
+{21, 22, 24, 25, 26}
+Sequence : PRA
+{21, 24, 25}
+Sequence : FQF
+{24, 25}
+Sequence : GYFCL
+{21, 22, 24, 25}
+Sequence : PVFNRTVG
+{21, 22, 24, 25, 26}
+Sequence : ALPVEIRLY
+{22, 24, 25, 26}
+Sequence : LVIKQGFAE
+{22, 24, 25, 26}
+Sequence : EIWID
+{21, 22, 24, 25, 26}
+Sequence : PVKLVI
+{21, 22, 24, 25}
+Sequence : TIFCTY
+{22, 24, 25}
+Sequence : VIKAERVE
+{22, 24, 25}
+Sequence : EVR
+{21, 22, 24, 25, 26}
+Sequence : EMVTMP
+{21, 24, 26}
+Sequence : SRQVPF
+{21, 24, 26}

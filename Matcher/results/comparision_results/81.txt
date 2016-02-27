@@ -1,0 +1,66 @@
+Sequence : NGGREHALAWKA
+{81}
+Sequence : GNAGT
+{81}
+Sequence : TDIPALLDFA
+{81}
+Sequence : GPEAP
+{81}
+Sequence : KGVVDTF
+{81}
+Sequence : AGAAQL
+{81}
+Sequence : GSKAFTKDFL
+{81}
+Sequence : VEPALAYLR
+{81}
+Sequence : MTLEEAEAA
+{81}
+Sequence : VTDDVHQRTM
+{81}
+Sequence : RIIWPTVKGM
+{81}
+Sequence : DLETQPIM
+{81}
+Sequence : SDLVELCLAA
+{81}
+Sequence : SKL
+{81}
+Sequence : HTVAEAQKRAYA
+{81}
+Sequence : IGWRA
+{81}
+Sequence : IDLT
+{81}
+Sequence : EFMKVLV
+{81}
+Sequence : PLVETVFV
+{81}
+Sequence : PAL
+{81}
+Sequence : AEYQ
+{81}
+Sequence : HRIVI
+{81}
+Sequence : APIV
+{81}
+Sequence : KGVI
+{81}
+Sequence : EHVLPMA
+{81}
+Sequence : LDGEEASFIVM
+{81}
+Sequence : TYTGFLYAGLM
+{81}
+Sequence : GNPKVIE
+{81}
+Sequence : TSQ
+{81}
+Sequence : GMGA
+{81}
+Sequence : RASLGVV
+{81}
+Sequence : GGRVLC
+{81}
+Sequence : GGKV
+{81}

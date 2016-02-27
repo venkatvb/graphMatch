@@ -1,0 +1,80 @@
+Sequence : VWFDVLDDLQTN
+{273}
+Sequence : SPVRKILRIVFHDAI
+{273}
+Sequence : SPALTAA
+{273}
+Sequence : HSNIEL
+{273}
+Sequence : LTDTIEALRAVGINH
+{273}
+Sequence : SFGDLIQFATAVGMS
+{273}
+Sequence : TVTAILDRMGDAG
+{273}
+Sequence : SPDEVVDLLAAHSL
+{273}
+Sequence : QFYIET
+{273}
+Sequence : MRSDALLARD
+{273}
+Sequence : TACRWQSM
+{273}
+Sequence : SNEVMGQRYRAAMAKMS
+{273}
+Sequence : VT
+{336, 528, 273, 341, 251, 492}
+Sequence : ST
+{273, 69, 70}
+Sequence : LT
+{273, 94, 95}
+Sequence : TD
+{273, 454, 455, 456}
+Sequence : SQ
+{129, 273}
+Sequence : SP
+{273, 282}
+Sequence : EE
+{273, 338, 514}
+Sequence : RM
+{273}
+Sequence : VI
+{496, 273, 69, 70, 55, 87, 89}
+Sequence : AT
+{273, 282}
+Sequence : CPGG
+{273}
+Sequence : NSQC
+{273}
+Sequence : TAAG
+{273}
+Sequence : FPAN
+{273}
+Sequence : MSNC
+{273}
+Sequence : CPGS
+{273}
+Sequence : GPGN
+{273}
+Sequence : NSAI
+{273}
+Sequence : TPQV
+{273}
+Sequence : GFAE
+{273}
+Sequence : FPGE
+{273}
+Sequence : QSMT
+{273}
+Sequence : VLGF
+{273}
+Sequence : DRNA
+{273}
+Sequence : CSDV
+{273}
+Sequence : PGGL
+{273}
+Sequence : TVDD
+{273}
+Sequence : VDDI
+{273}

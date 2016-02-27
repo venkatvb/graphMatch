@@ -1,0 +1,76 @@
+Sequence : YNDIV
+{139}
+Sequence : PKTAENFRALCT
+{139}
+Sequence : CPWLD
+{139}
+Sequence : GYDIVKKV
+{139}
+Sequence : ESLG
+{139}
+Sequence : YNDIV
+{139}
+Sequence : PKTAENFRALCT
+{139}
+Sequence : CPWLD
+{139}
+Sequence : GYDIVKKV
+{139}
+Sequence : ESLG
+{139}
+Sequence : SQVYFDVE
+{139}
+Sequence : PIGRVVFKL
+{139}
+Sequence : VVFGEVVD
+{139}
+Sequence : GLLSMA
+{139}
+Sequence : QFFITT
+{139}
+Sequence : MLQG
+{139}
+Sequence : GSPFHRV
+{139}
+Sequence : RIVVAKSGEL
+{139}
+Sequence : SQVYFDVE
+{139}
+Sequence : SQVYFDVE
+{139}
+Sequence : PIGRVVFKL
+{139}
+Sequence : VVFGEVVD
+{139}
+Sequence : GLLSMA
+{139}
+Sequence : QFFITT
+{139}
+Sequence : MLQG
+{139}
+Sequence : GSPFHRV
+{139}
+Sequence : RIVVAKSGEL
+{139}
+Sequence : SQVYFDVE
+{139}
+Sequence : ADGQ
+{139}
+Sequence : GEKG
+{162, 131, 139}
+Sequence : IPDF
+{139}
+Sequence : GPNT
+{139}
+Sequence : SPSG
+{139}
+Sequence : ADGQ
+{139}
+Sequence : GEKG
+{162, 131, 139}
+Sequence : IPDF
+{139}
+Sequence : GPNT
+{139}
+Sequence : SPSG
+{139}

@@ -1,0 +1,56 @@
+Sequence : NLSPV
+{337}
+Sequence : LSRPFQSIIHAKRTYREL
+{336, 337, 341}
+Sequence : THLMGAD
+{337}
+Sequence : VKCQKLTDDHVQFLIYQILRGL
+{337, 341}
+Sequence : IIH
+{336, 337, 341}
+Sequence : GLARH
+{336, 337, 341}
+Sequence : DEMTGY
+{336, 337, 341}
+Sequence : ATRWYR
+{336, 337, 341}
+Sequence : NWMHYNQTVDIWSVGCIM
+{337, 341}
+Sequence : TLFPGTDHIDQLKL
+{336, 337, 341}
+Sequence : RLVGTPGA
+{336, 337, 341}
+Sequence : LLKKISSESA
+{337}
+Sequence : TQMPK
+{336, 337, 341}
+Sequence : NVFIGANPLAVD
+{336, 337, 341}
+Sequence : EKMLV
+{337, 341}
+Sequence : DSDKRIT
+{336, 337, 341}
+Sequence : AAQAL
+{336, 337, 341}
+Sequence : VADPYD
+{336, 337, 341}
+Sequence : FESRDLLIDEWKSLT
+{336, 337, 341}
+Sequence : SQERPT
+{336, 337, 341}
+Sequence : RQELNK
+{336, 337, 341}
+Sequence : WEVPER
+{336, 337}
+Sequence : SGAYGS
+{337}
+Sequence : FDTKTGLRV
+{337}
+Sequence : SLEEFND
+{337}
+Sequence : NVI
+{336, 337, 341}
+Sequence : DLK
+{336, 337, 341}
+Sequence : VNE
+{336, 337, 341}
