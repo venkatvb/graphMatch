@@ -1,0 +1,104 @@
+
+package hadoop; 
+
+import java.io.IOException;
+import java.util.Iterator;
+import java.util.StringTokenizer;
+
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapred.FileInputFormat;
+import org.apache.hadoop.mapred.FileOutputFormat;
+import org.apache.hadoop.mapred.JobClient;
+import org.apache.hadoop.mapred.JobConf;
+import org.apache.hadoop.mapred.MapReduceBase;
+import org.apache.hadoop.mapred.Mapper;
+import org.apache.hadoop.mapred.OutputCollector;
+import org.apache.hadoop.mapred.Reducer;
+import org.apache.hadoop.mapred.Reporter;
+import org.apache.hadoop.mapred.TextInputFormat;
+import org.apache.hadoop.mapred.TextOutputFormat;
+
+import configuration.BuildConfig;
+import core.Comparator;
+
+public class EnzymeMapReducer 
+{ 
+   //Mapper class 
+   public static class EnzymeMapper extends MapReduceBase implements 
+   Mapper<LongWritable ,/*Input key Type */ 
+   Text,                /*Input value Type*/ 
+   Text,                /*Output key Type*/ 
+   IntWritable>        /*Output value Type*/ 
+   { 
+      
+      //Map function 
+      public void map(LongWritable key, Text value, 
+      OutputCollector<Text, IntWritable> output,   
+      Reporter reporter) throws IOException 
+      { 
+         String line = value.toString(); 
+         System.out.println("Current line : " + line );
+         String lasttoken = null; 
+         StringTokenizer s = new StringTokenizer(line," "); 
+         String fileName = s.nextToken(); 
+         
+         while(s.hasMoreTokens())
+            {
+               lasttoken=s.nextToken();
+            } 
+            
+         int fileId = Integer.parseInt(lasttoken); 
+         output.collect(new Text(fileName), new IntWritable(fileId)); 
+      } 
+   } 
+   
+   
+   //Reducer class 
+   public static class EnzymeReducer extends MapReduceBase implements 
+   Reducer< Text, IntWritable, Text, IntWritable > 
+   {  
+   
+      //Reduce function 
+      public void reduce( Text key, Iterator <IntWritable> values, 
+         OutputCollector<Text, IntWritable> output, Reporter reporter) throws IOException 
+         { 
+    	  	int treshold = -1;
+            int val=Integer.MIN_VALUE; 
+            Comparator comp = new Comparator();
+            
+            while (values.hasNext()) 
+            { 
+            	int fileId = values.next().get();
+            	int currentTreshold = comp.compareGraphsUsingId(BuildConfig.getQueryEnzymeId(), fileId); 
+               if(currentTreshold > treshold ) 
+               { 
+                  output.collect(key, new IntWritable(currentTreshold)); 
+               } 
+            } 
+ 
+         } 
+   }  
+   
+   
+   public static void doit(String inputPath, String outputPath) throws Exception
+   { 
+      JobConf conf = new JobConf(ProcessUnits.class); 
+      
+      conf.setJobName("EnzymeMapperJob"); 
+      conf.setOutputKeyClass(Text.class);
+      conf.setOutputValueClass(IntWritable.class); 
+      conf.setMapperClass(EnzymeMapper.class); 
+      conf.setCombinerClass(EnzymeReducer.class); 
+      conf.setReducerClass(EnzymeReducer.class); 
+      conf.setInputFormat(TextInputFormat.class); 
+      conf.setOutputFormat(TextOutputFormat.class); 
+      
+      FileInputFormat.setInputPaths(conf, new Path(inputPath)); 
+      FileOutputFormat.setOutputPath(conf, new Path(outputPath)); 
+      
+      JobClient.runJob(conf); 
+   } 
+} 

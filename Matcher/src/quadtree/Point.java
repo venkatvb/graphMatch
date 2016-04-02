@@ -42,7 +42,6 @@ public class Point implements Comparable {
         return "(" + this.x + ", " + this.y + ")";
     }
 
-    @Override
     public int compareTo(Object o) {
         Point tmp = (Point) o;
         if (this.x < tmp.x) {

@@ -10,6 +10,7 @@ import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
 import logger.Log;
+import parser.GxlParser;
 
 public class DrawGraph {
 	public static final int WIDTH = 2000;
@@ -86,5 +87,12 @@ public class DrawGraph {
 		ImageHelper.setImagePath(path);
 		ImageHelper.storeImageAs(image, "PNG");
 		return true;
+	}
+	
+	public void drawImageOfGXL(Integer nodeId) throws Exception {
+		GxlParser parser = new GxlParser("/home/venkatvb/project/Graph Databases/gxl/enzyme_" + nodeId.toString() + ".gxl");
+		Graph graph = parser.parse();
+		DrawGraph drawer = new DrawGraph();
+		drawer.serializeImage(drawer.draw(graph), "/home/venkatvb/project/Graph Databases/Images/graphImage" + nodeId.toString() + ".png");
 	}
 }

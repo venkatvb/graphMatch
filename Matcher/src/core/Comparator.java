@@ -6,6 +6,8 @@ import graph.Node;
 import java.util.ArrayList;
 import java.util.Collections;
 
+import parser.GxlParser;
+
 import logger.LogHelper;
 
 public class Comparator {
@@ -44,5 +46,23 @@ public class Comparator {
 		LogHelper.logNodeHashArray(nodeHashes1);
 		LogHelper.logNodeHashArray(nodeHashes2);
 		return matches;
+	}
+	
+	public int compareGraphsUsingId(Integer queryNode, Integer fileId) {
+		GxlParser parser = new GxlParser("F:\\Graph Databases\\gxl\\enzyme_" + queryNode.toString() +  ".gxl");
+		GxlParser parser2 = new GxlParser("F:\\Graph Databases\\gxl\\enzyme_" + fileId.toString() + ".gxl");
+		try {
+			Graph graph = parser.parse();
+			Graph graph1 = parser2.parse();
+			boolean result = compareGraphs(graph, graph1);
+			if(result == true) {
+				return 1;
+			} else {
+				return 0;
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return 0;
 	}
 }

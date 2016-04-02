@@ -27,7 +27,6 @@ public class NodeHash implements Comparable<NodeHash>, Loggable {
 		return this.edgeHash;
 	}
 	
-	@Override
 	public int compareTo(NodeHash obj) {
 		if(this.getNodeHash().equals(obj.getNodeHash()) && this.getEdgeHash().equals(obj.getEdgeHash())) {
 			return 0;
@@ -42,7 +41,6 @@ public class NodeHash implements Comparable<NodeHash>, Loggable {
 		return (this.getNodeHash().equals(obj.getNodeHash()) && this.getEdgeHash().equals(obj.getEdgeHash()));
 	}
 	
-	@Override
 	public String getLogContent() {
 		return this.getNodeHash().toString() + " " + this.getEdgeHash().toString();
 	}

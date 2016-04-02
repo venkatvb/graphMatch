@@ -15,9 +15,9 @@ import java.util.Set;
 import serialize.Serializable;
 
 public class QuadInit implements Serializable{
-	public static final String LOCATION = "F:\\Graph Databases\\nodevalues\\mapped.txt";
-	public static final String GXL_BASE_LOCATION = "F:\\Graph Databases\\gxl\\";
-	public static final String COMPARISION_RESULT_LOCATION = "F:\\Graph Databases\\comparision_results\\";
+	public static final String LOCATION = "/home/venkatvb/project/Graph Databases/nodevalues/mapped.txt";
+	public static final String GXL_BASE_LOCATION = "/home/venkatvb/project/Graph Databases/gxl/";
+	public static final String COMPARISION_RESULT_LOCATION = "/home/venkatvb/project/Graph Databases/comparision_results/";
 	String serailizeString;
 	
 	Map<String, String> mp;
@@ -42,7 +42,7 @@ public class QuadInit implements Serializable{
 		serailizeContent(FileHelper.createFile(COMPARISION_RESULT_LOCATION + node.toString() + ".txt"), serailizeString);
 	}
 	
-	public Set<Integer> getIndexesOfSequence(String sequence) {
+	public Set<Integer> querySequence(String sequence) {
 		Set<Integer> result = new HashSet<Integer>();
 		String s = mp.get(sequence);
 		if(s == null) {
@@ -57,9 +57,8 @@ public class QuadInit implements Serializable{
 		return result;
 	}
 	
-	public void printIndexesOfSequence(String sequence, Integer node) throws Exception {
+	public void printIndexesOfSequence(String sequence) throws Exception {
 		Set<Integer> result = new HashSet<Integer>();
-		File file = FileHelper.createFile(COMPARISION_RESULT_LOCATION + node.toString() + ".txt");
 		String s = mp.get(sequence);
 		System.out.println("Sequence : " + sequence );
 		serailizeString += "Sequence : " + sequence + "\n";
@@ -85,7 +84,6 @@ public class QuadInit implements Serializable{
 		serailizeString += res + "\n";
 	}
 
-	@Override
 	public boolean serailizeContent(File file, String content) throws Exception {
 		PrintWriter pw = new PrintWriter(new FileOutputStream(file), true);
 		pw.write(content);

@@ -1,0 +1,37 @@
+package runner;
+
+import analyze.AnalyzeNodeCount;
+import graph.Graph;
+import helper.FileHelper;
+import image.DrawGraph;
+import logger.Log;
+import parser.GxlParser;
+import serialize.ToGiraph;
+import core.Comparator;
+
+public class Runner {
+	
+	static void analyzeNodePoints() throws Exception {
+		AnalyzeNodeCount analyzeNodeCount = new AnalyzeNodeCount(false);
+		String address = "F:\\Graph Databases\\nodevalues\\mapped.txt";
+		analyzeNodeCount.serailizeContent(FileHelper.createFile(address));
+	}
+	
+	public static void main(String args[]) throws Exception {
+		analyzeNodePoints();
+		/*GxlParser parser = new GxlParser("F:\\Graph Databases\\gxl\\test1");
+		GxlParser parser2 = new GxlParser("F:\\Graph Databases\\gxl\\enzyme_3.gxl");
+		Graph graph = parser.parse();
+		Graph graph1 = parser2.parse();
+		Comparator compare = new Comparator();
+		DrawGraph drawer = new DrawGraph();
+		drawer.serializeImage(drawer.draw(graph), "F:\\Graph Databases\\Images\\graphimage1.png");
+		drawer.serializeImage(drawer.draw(graph1), "F:\\Graph Databases\\Images\\graphimage3.png");
+		// System.out.println(MathHelper.getLargePrime());
+		boolean result = compare.compareGraphs(graph, graph1);
+		System.out.println("Comparision result : " + result);
+		new ToGiraph().serializeGraphToGiraphFormat(graph);
+		Log.closeConnection();
+		*/
+	}
+}

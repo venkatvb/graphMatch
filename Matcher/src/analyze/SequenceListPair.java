@@ -32,7 +32,6 @@ public class SequenceListPair implements Comparable<SequenceListPair>{
 		return list;
 	}
 
-	@Override
 	public int compareTo(SequenceListPair o) {
 		if(this.getCount() == o.getCount()) {
 			if ( this.getSequence().compareTo(o.getSequence()) > 0 ) {

@@ -73,7 +73,6 @@ public class QuadTree {
     public Point[] getKeys() {
         final List<Point> arr = new ArrayList<Point>();
         this.traverse(this.root_, new Func() {
-            @Override
             public void call(QuadTree quadTree, Node node) {
                 arr.add(node.getPoint());
             }
@@ -84,7 +83,6 @@ public class QuadTree {
     public Object[] getValues() {
         final List<Object> arr = new ArrayList<Object>();
         this.traverse(this.root_, new Func() {
-            @Override
             public void call(QuadTree quadTree, Node node) {
                 arr.add(node.getPoint().getValue());
             }
@@ -95,7 +93,6 @@ public class QuadTree {
     public Point[] searchIntersect(final double xmin, final double ymin, final double xmax, final double ymax) {
         final List<Point> arr = new ArrayList<Point>();
         this.navigate(this.root_, new Func() {
-            @Override
             public void call(QuadTree quadTree, Node node) {
                 Point pt = node.getPoint();
                 if (pt.getX() < xmin || pt.getX() > xmax || pt.getY() < ymin || pt.getY() > ymax) {
@@ -112,7 +109,6 @@ public class QuadTree {
     public Point[] searchWithin(final double xmin, final double ymin, final double xmax, final double ymax) {
         final List<Point> arr = new ArrayList<Point>();
         this.navigate(this.root_, new Func() {
-            @Override
             public void call(QuadTree quadTree, Node node) {
                 Point pt = node.getPoint();
                 if (pt.getX() > xmin && pt.getX() < xmax && pt.getY() > ymin && pt.getY() < ymax) {
@@ -157,7 +153,6 @@ public class QuadTree {
         double y2 = y1 + this.root_.getH();
         final QuadTree clone = new QuadTree(x1, y1, x2, y2);
         this.traverse(this.root_, new Func() {
-            @Override
             public void call(QuadTree quadTree, Node node) {
                 clone.set(node.getPoint().getX(), node.getPoint().getY(), node.getPoint().getValue());
             }

@@ -1,0 +1,26 @@
+package analyze;
+
+public class ComplexityAnalyzer {
+	
+	private double log(double d, double n) {
+		return Math.log(d) / Math.log(n);
+	}
+	
+	public void calculate(int n, int m, int start, int end, int diff) {
+		// Here N is the average number of nodes in a single graph
+		// Here m denotes the number of gaphs in the database
+		// start, end and diff denotes the query to be counted from the start location to end location
+		// with the given difference. 
+		for(int i=start; i<=end; i += diff ) {
+			// here I gives the query value
+			Integer Query = i;
+			Integer staticCost = (int) (n*m*log(n*m, 2)+ Query * log(n*m, 4));
+			System.out.println("For the static cost : " + staticCost + ", with query times Q : " + Query );
+			for(int j=m; j>=0; j-- ) {
+				Integer dynamicCost = (int) (Query * (n*j*log(n*j,2) + Query*log(n*j, 4)));
+				System.out.println("\tDynamic Cost : " + dynamicCost);
+			}
+		}
+	}
+	
+}
