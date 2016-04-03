@@ -1,20 +1,15 @@
 package runner;
 
-import graph.Graph;
 import helper.FileHelper;
 import helper.FileNotFoundException;
-import image.DrawGraph;
 
 import java.util.Scanner;
 
-import configuration.BuildConfig;
-
 import logger.Log;
 import optimalSubsetSelect.SelectSubSet;
-import parser.GxlParser;
 import analyze.AnalyzeNodeCount;
 import analyze.ComplexityAnalyzer;
-import core.Comparator;
+import configuration.BuildConfig;
 
 public class Runner {
 	
@@ -78,12 +73,12 @@ public class Runner {
 //		}
 		// System.out.println("Comparing the input files");
 		// Actual processing
-		GxlParser parser = new GxlParser("F:\\Graph Databases\\gxl\\enzyme_3.gxl");
-		GxlParser parser2 = new GxlParser("F:\\Graph Databases\\gxl\\enzyme_3.gxl");
-		Graph graph = parser.parse();
-		Graph graph1 = parser2.parse();
-		Comparator compare = new Comparator();
-		DrawGraph drawer = new DrawGraph();
+//		GxlParser parser = new GxlParser("F:\\Graph Databases\\gxl\\enzyme_3.gxl");
+//		GxlParser parser2 = new GxlParser("F:\\Graph Databases\\gxl\\enzyme_3.gxl");
+//		Graph graph = parser.parse();
+//		Graph graph1 = parser2.parse();
+//		Comparator compare = new Comparator();
+//		DrawGraph drawer = new DrawGraph();
 //		drawer.serializeImage(drawer.draw(graph), "F:\\Graph Databases\\Images\\graphimage1.png");
 //		drawer.serializeImage(drawer.draw(graph1), "F:\\Graph Databases\\Images\\graphimage3.png");
 //		// System.out.println(MathHelper.getLargePrime());

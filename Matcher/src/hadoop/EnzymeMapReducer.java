@@ -1,4 +1,3 @@
-
 package hadoop; 
 
 import java.io.IOException;
@@ -22,7 +21,7 @@ import org.apache.hadoop.mapred.TextInputFormat;
 import org.apache.hadoop.mapred.TextOutputFormat;
 
 import configuration.BuildConfig;
-import core.Comparator;
+import core.Comp;
 
 public class EnzymeMapReducer 
 { 
@@ -67,7 +66,7 @@ public class EnzymeMapReducer
          { 
     	  	int treshold = -1;
             int val=Integer.MIN_VALUE; 
-            Comparator comp = new Comparator();
+            Comp comp = new Comp();
             
             while (values.hasNext()) 
             { 
@@ -83,7 +82,7 @@ public class EnzymeMapReducer
    }  
    
    
-   public static void doit(String inputPath, String outputPath) throws Exception
+   public static void main(String args[]) throws Exception
    { 
       JobConf conf = new JobConf(ProcessUnits.class); 
       
@@ -96,8 +95,8 @@ public class EnzymeMapReducer
       conf.setInputFormat(TextInputFormat.class); 
       conf.setOutputFormat(TextOutputFormat.class); 
       
-      FileInputFormat.setInputPaths(conf, new Path(inputPath)); 
-      FileOutputFormat.setOutputPath(conf, new Path(outputPath)); 
+      FileInputFormat.setInputPaths(conf, new Path(args[0])); 
+      FileOutputFormat.setOutputPath(conf, new Path(args[1])); 
       
       JobClient.runJob(conf); 
    } 

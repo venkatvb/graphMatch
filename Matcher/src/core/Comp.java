@@ -6,11 +6,10 @@ import graph.Node;
 import java.util.ArrayList;
 import java.util.Collections;
 
+import logger.LogHelper;
 import parser.GxlParser;
 
-import logger.LogHelper;
-
-public class Comparator {
+public class Comp {
 	
 	public boolean compareGraphs(Graph graph1, Graph graph2) throws Exception {
 		ArrayList<NodeHash> nodeHashes1 = new ArrayList<NodeHash>();
@@ -49,8 +48,8 @@ public class Comparator {
 	}
 	
 	public int compareGraphsUsingId(Integer queryNode, Integer fileId) {
-		GxlParser parser = new GxlParser("F:\\Graph Databases\\gxl\\enzyme_" + queryNode.toString() +  ".gxl");
-		GxlParser parser2 = new GxlParser("F:\\Graph Databases\\gxl\\enzyme_" + fileId.toString() + ".gxl");
+		GxlParser parser = new GxlParser("/home/venkatvb/project/Graph Databases/gxl/enzyme_" + queryNode.toString() +  ".gxl");
+		GxlParser parser2 = new GxlParser("/home/venkatvb/project/Graph Databases/gxl/enzyme_" + fileId.toString() + ".gxl");
 		try {
 			Graph graph = parser.parse();
 			Graph graph1 = parser2.parse();
