@@ -48,8 +48,10 @@ public class Comp {
 	}
 	
 	public int compareGraphsUsingId(Integer queryNode, Integer fileId) {
-		GxlParser parser = new GxlParser("/home/venkatvb/project/Graph Databases/gxl/enzyme_" + queryNode.toString() +  ".gxl");
-		GxlParser parser2 = new GxlParser("/home/venkatvb/project/Graph Databases/gxl/enzyme_" + fileId.toString() + ".gxl");
+		String url1 = "/home/venkatvb/project/GraphDatabases/gxl/enzyme_" + queryNode.toString() +  ".gxl";
+		String url2 = "/home/venkatvb/project/GraphDatabases/gxl/enzyme_" + fileId.toString() + ".gxl";
+		GxlParser parser = new GxlParser(url1);
+		GxlParser parser2 = new GxlParser(url2);
 		try {
 			Graph graph = parser.parse();
 			Graph graph1 = parser2.parse();
@@ -60,7 +62,10 @@ public class Comp {
 				return 0;
 			}
 		} catch (Exception e) {
-			e.printStackTrace();
+			System.out.println("Failed to parse the enzymes " + queryNode + ", " + fileId);
+			System.out.println("URL 1 : " + url1);
+			System.out.println("URL 2 : " + url2);
+			System.out.println("Error : " + e.getMessage());
 		}
 		return 0;
 	}

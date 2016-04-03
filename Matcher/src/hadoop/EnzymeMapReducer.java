@@ -1,8 +1,12 @@
 package hadoop; 
 
 import java.io.IOException;
+import java.lang.reflect.Field;
 import java.util.Iterator;
+import java.util.Scanner;
 import java.util.StringTokenizer;
+
+import optimalSubsetSelect.SelectSubSet;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
@@ -25,6 +29,8 @@ import core.Comp;
 
 public class EnzymeMapReducer 
 { 
+	public static final String GXL_BASE_LOCATION = "/home/venkatvb/project/GraphDatabases/gxl/";
+	
    //Mapper class 
    public static class EnzymeMapper extends MapReduceBase implements 
    Mapper<LongWritable ,/*Input key Type */ 
@@ -50,6 +56,7 @@ public class EnzymeMapReducer
             } 
             
          int fileId = Integer.parseInt(lasttoken); 
+         System.out.println("FileName : " + fileName + ", FileId : " + fileId);
          output.collect(new Text(fileName), new IntWritable(fileId)); 
       } 
    } 
@@ -71,7 +78,10 @@ public class EnzymeMapReducer
             while (values.hasNext()) 
             { 
             	int fileId = values.next().get();
+            	System.out.println("Comparing the graphs => " + BuildConfig.getQueryEnzymeId() + ", " + fileId);
             	int currentTreshold = comp.compareGraphsUsingId(BuildConfig.getQueryEnzymeId(), fileId); 
+            	System.out.println("RES : " + currentTreshold);
+            	System.out.println("DONE");
                if(currentTreshold > treshold ) 
                { 
                   output.collect(key, new IntWritable(currentTreshold)); 
@@ -84,6 +94,10 @@ public class EnzymeMapReducer
    
    public static void main(String args[]) throws Exception
    { 
+		String queryLocation = GXL_BASE_LOCATION + "enzyme_" + args[0] + ".gxl";
+		SelectSubSet optimalSet = new SelectSubSet();
+		optimalSet.selectObtimalSubSet(queryLocation);
+		
       JobConf conf = new JobConf(ProcessUnits.class); 
       
       conf.setJobName("EnzymeMapperJob"); 
@@ -95,8 +109,8 @@ public class EnzymeMapReducer
       conf.setInputFormat(TextInputFormat.class); 
       conf.setOutputFormat(TextOutputFormat.class); 
       
-      FileInputFormat.setInputPaths(conf, new Path(args[0])); 
-      FileOutputFormat.setOutputPath(conf, new Path(args[1])); 
+      FileInputFormat.setInputPaths(conf, new Path(args[1])); 
+      FileOutputFormat.setOutputPath(conf, new Path(args[2])); 
       
       JobClient.runJob(conf); 
    } 

@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class Log {
-	public static final String PATH_TO_LOG_FILE = "F:\\Graph Databases\\log\\log.txt";
+	public static final String PATH_TO_LOG_FILE = "/home/venkatvb/project/GraphDatabases/log/log.txt";
 	public static final String ENCODING_FORMAT = "UTF-8";
 	static PrintWriter writer;
 	

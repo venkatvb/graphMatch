@@ -13,12 +13,12 @@ import configuration.BuildConfig;
 
 public class Runner {
 	
-	public static final String INPUT_FILE_LOCATION = "/home/venkatvb/project/Graph Databases/input/input.gxl";
-	public static final String GXL_BASE_LOCATION = "/home/venkatvb/project/Graph Databases/gxl/";
+	public static final String INPUT_FILE_LOCATION = "/home/venkatvb/project/GraphDatabases/input/input.gxl";
+	public static final String GXL_BASE_LOCATION = "/home/venkatvb/project/GraphDatabases/gxl/";
 	
 	static void analyzeNodePoints() throws Exception {
 		AnalyzeNodeCount analyzeNodeCount = new AnalyzeNodeCount(false);
-		String address = "/home/venkatvb/project/Graph Databases/mapped.txt";
+		String address = "/home/venkatvb/project/GraphDatabases/mapped.txt";
 		analyzeNodeCount.serailizeContent(FileHelper.createFile(address), new String(""));
 		analyzeNodeCount.printMappedContents();
 	}
@@ -31,13 +31,13 @@ public class Runner {
 		int start = 100;
 		int end = 1000;
 		int diff = 1;
-		String address = "/home/venkatvb/project/Graph Databases/dataPoints/complexity.txt";
+		String address = "/home/venkatvb/project/GraphDatabases/dataPoints/complexity.txt";
 		ComplexityAnalyzer a = new ComplexityAnalyzer(N, M, start, end, diff);
 		a.serailizeContent(FileHelper.createFile(address), new String(""));
 	}	
 		
 	public static void main(String args[]) throws Exception {
-		BuildConfig.setQueryEnzymeId(1);
+//		BuildConfig.setQueryEnzymeId(1);
 		// This module analyzes the time complexity
 		// analyzeComplexity();
 		// This module analyzed the locality of node points in the data set

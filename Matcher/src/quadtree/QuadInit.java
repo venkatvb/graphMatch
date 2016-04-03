@@ -15,9 +15,9 @@ import java.util.Set;
 import serialize.Serializable;
 
 public class QuadInit implements Serializable{
-	public static final String LOCATION = "/home/venkatvb/project/Graph Databases/nodevalues/mapped.txt";
-	public static final String GXL_BASE_LOCATION = "/home/venkatvb/project/Graph Databases/gxl/";
-	public static final String COMPARISION_RESULT_LOCATION = "/home/venkatvb/project/Graph Databases/comparision_results/";
+	public static final String LOCATION = "/home/venkatvb/project/GraphDatabases/nodevalues/mapped.txt";
+	public static final String GXL_BASE_LOCATION = "/home/venkatvb/project/GraphDatabases/gxl/";
+	public static final String COMPARISION_RESULT_LOCATION = "/home/venkatvb/project/GraphDatabases/comparision_results/";
 	String serailizeString;
 	
 	Map<String, String> mp;

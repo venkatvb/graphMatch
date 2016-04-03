@@ -10,6 +10,6 @@ public class BuildConfig {
 	}
 	
 	public static int getQueryEnzymeId() {
-		return QUERY_ENZYME_ID;
+		return 1;
 	}
 }
