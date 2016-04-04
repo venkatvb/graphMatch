@@ -42,13 +42,15 @@ public class SelectSubSet {
 		}
 		System.out.println("Total Number of Sequences : " + inputGraph.getNodeList().size());
 		Map<Integer, Integer> map = ma;
+		ArrayList<Integer> result = new ArrayList<Integer>();
 		for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
 		    System.out.println("Key = " + entry.getKey() + ", Value = " + entry.getValue() + ", file = enzyme_" + entry.getKey() + ".gxl");
 		    int currentCount = (int) entry.getValue();
 		    Double curCount = (double) currentCount;
 		    Double factor = curCount / numberOfSequences;
 		    System.out.println("Factor : " + factor * 100);
+		    result.add(entry.getKey());
 		}
-		return new ArrayList<Integer>();
+		return result;
 	}
 }

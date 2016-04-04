@@ -1,9 +1,14 @@
 package hadoop; 
 
+import helper.FileHelper;
+
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.FileWriter;
 import java.io.IOException;
-import java.lang.reflect.Field;
+import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
 import optimalSubsetSelect.SelectSubSet;
@@ -96,9 +101,16 @@ public class EnzymeMapReducer
    { 
 		String queryLocation = GXL_BASE_LOCATION + "enzyme_" + args[0] + ".gxl";
 		SelectSubSet optimalSet = new SelectSubSet();
-		optimalSet.selectObtimalSubSet(queryLocation);
-		
-      JobConf conf = new JobConf(ProcessUnits.class); 
+		ArrayList<Integer> res = optimalSet.selectObtimalSubSet(queryLocation);
+		PrintWriter pw = new PrintWriter(new FileOutputStream(new File("/home/venkatvb/Desktop/optimalSubSet.txt")));
+		for(int i : res) {
+			System.out.println("Writing " + "enzyme_" + i + ".gxl " + i);
+			pw.println("enzyme_" + i + ".gxl " + i);
+		}
+	   pw.close();
+	   Process p = Runtime.getRuntime().exec("/usr/local/hadoop/bin/hadoop fs -put /home/venkatvb/Desktop/optimalSubSet.txt input_dir");
+      
+	   JobConf conf = new JobConf(ProcessUnits.class); 
       
       conf.setJobName("EnzymeMapperJob"); 
       conf.setOutputKeyClass(Text.class);
