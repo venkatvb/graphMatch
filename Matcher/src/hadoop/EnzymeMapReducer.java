@@ -62,7 +62,9 @@ public class EnzymeMapReducer
             
          int fileId = Integer.parseInt(lasttoken); 
          System.out.println("FileName : " + fileName + ", FileId : " + fileId);
-         output.collect(new Text(fileName), new IntWritable(fileId)); 
+         IntWritable iw = new IntWritable(fileId);
+         System.out.println("File ID ... " + iw.get());
+         output.collect(new Text(fileName), iw); 
       } 
    } 
    
@@ -83,8 +85,8 @@ public class EnzymeMapReducer
             while (values.hasNext()) 
             { 
             	int fileId = values.next().get();
-            	System.out.println("Comparing the graphs => " + BuildConfig.getQueryEnzymeId() + ", " + fileId);
-            	int currentTreshold = comp.compareGraphsUsingId(BuildConfig.getQueryEnzymeId(), fileId); 
+            	System.out.println("Comparing the graphs => " + BuildConfig.QUERY_ENZYME_ID + ", " + fileId);
+            	int currentTreshold = comp.compareGraphsUsingId(BuildConfig.QUERY_ENZYME_ID, fileId); 
             	System.out.println("RES : " + currentTreshold);
             	System.out.println("DONE");
                if(currentTreshold > treshold ) 
@@ -110,7 +112,7 @@ public class EnzymeMapReducer
 	   pw.close();
 	   Process p = Runtime.getRuntime().exec("/usr/local/hadoop/bin/hadoop fs -put /home/venkatvb/Desktop/optimalSubSet.txt input_dir");
       
-	   JobConf conf = new JobConf(ProcessUnits.class); 
+	   JobConf conf = new JobConf(EnzymeMapReducer.class); 
       
       conf.setJobName("EnzymeMapperJob"); 
       conf.setOutputKeyClass(Text.class);
